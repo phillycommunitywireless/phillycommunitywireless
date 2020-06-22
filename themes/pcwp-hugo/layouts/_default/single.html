@@ -1,0 +1,15 @@
+{{ define "main" }}
+	<main>
+	</main>
+
+{{ partial "header-page.html" . }}
+
+<div class="mw7 center measure pa3">
+	<h1 class="f-subheadline tc">{{ .Params.Title }}<h1>
+</div>
+
+<div class="mw7 center measure pa3">
+	{{ .Content }}
+</div>
+
+{{ end }}
