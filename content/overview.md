@@ -7,6 +7,8 @@ During a time when every classroom and doctor’s office has moved online, when 
 
 Our members include community organizers, technologists, researchers, public school teachers, and Philadelphia City Hall staffers. With the help of [PhillyWisper](https://phillywisper.net/), a pro-net neutrality, wireless internet service provider, we are working toward installing two pilot sites in Kensington and Fairhill. From there, we will plan participatory design workshops and technical training for the community that will empower them to maintain and grow this free network connection.
 
+We invite members of the community to join us in planning these technical and cooperative frameworks. If you could build the Internet from scratch, where would you start? To learn more or get involved, click below.
+
 <!-- mailing list button -->
 
 <br/>
