@@ -5,7 +5,7 @@ title: Resources
 
 # Curricula
 
-[Teaching Community Technology Handbook](https://detroitcommunitytech.org/?q=teachcommtech) [pdf], Detroit Community Technology Project
+[Teaching Community Technology Handbook](https://detroitcommunitytech.org/teachcommtech) [pdf], Detroit Community Technology Project
 
 > designed using a "popular education method grounded in the history of Civil Rights-era Citizenship Schools and Paulo Freire’s *Pedagogy of the Oppressed.* . . . [a] people-guided approach to bring tech education to communities that have been harmed and oppressed by technology."
 
@@ -24,7 +24,7 @@ title: Resources
 
 <br/>
 
-# Programs
+# Organizing Models
 
 [Detroit Digital Stewards Program](https://www.alliedmedia.org/dctp/digitalstewards)
 
