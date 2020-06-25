@@ -1,5 +1,7 @@
 # phillycommunitywireless
 
+Philly Community Wireless Website: https://phillycommunitywireless.com/
+
 Philly Community Wireless is a working group of organizers, technologists, academics, public school teachers, and City Hall staffers in Philadelphia. During a time of social distancing and online teaching, roughly half of the city’s public school students lack a wifi connection at home. In certain neighborhoods, even more residents lack any connection to the Internet. We seek to address the city's digital divide with community-owned and -operated mesh network technologies.
 
 
