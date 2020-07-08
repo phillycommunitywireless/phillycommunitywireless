@@ -29,3 +29,5 @@ fields:
   name: date
   label: date
   default: now
+pages:
+- content/updates/test.md
