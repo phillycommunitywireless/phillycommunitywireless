@@ -5,18 +5,27 @@ fields:
 - type: text
   name: type
   label: type
+  hidden: true
+  default: article
+  config:
+    required: true
 - type: text
   name: layout
   label: layout
+  default: single
+  hidden: true
 - type: text
   name: title
   label: title
+  description: Title of the update
 - type: number
   name: article_number
   label: article_number
+  hidden: true
 - type: list
   name: authors
   label: authors
 - type: datetime
   name: date
   label: date
+  default: now
