@@ -2,7 +2,6 @@
 article_number = 3
 authors = ["Alex Brooke"]
 date = 2020-07-08T23:12:18Z
-draft = true
 layout = "single"
 title = "Test 2"
 type = "article"
