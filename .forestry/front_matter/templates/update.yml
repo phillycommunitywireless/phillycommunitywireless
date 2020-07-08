@@ -21,7 +21,7 @@ fields:
 - type: number
   name: article_number
   label: article_number
-  hidden: true
+  hidden: false
 - type: list
   name: authors
   label: authors
