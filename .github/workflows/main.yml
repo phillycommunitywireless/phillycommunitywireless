@@ -23,7 +23,7 @@ jobs:
     - name: checkout
       uses: actions/checkout@v2
     - name: build
-      uses: jakejarvis/hugo-build-action@0.73.0
+      uses: jakejarvis/hugo-build-action@v0.73.0
       with:
         args: -d docs
     - name: deploy
