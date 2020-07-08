@@ -1,0 +1,22 @@
+---
+label: update
+hide_body: false
+fields:
+- type: text
+  name: type
+  label: type
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: number
+  name: article_number
+  label: article_number
+- type: list
+  name: authors
+  label: authors
+- type: datetime
+  name: date
+  label: date
