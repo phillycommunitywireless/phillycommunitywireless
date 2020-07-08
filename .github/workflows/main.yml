@@ -25,11 +25,11 @@ jobs:
     - name: build
       uses: jakejarvis/hugo-build-action@v0.73.0
       with:
-        args: -d docs
+        args: -d build
     - name: deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: docs
+        FOLDER: build
     
