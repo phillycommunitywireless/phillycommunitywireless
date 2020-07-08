@@ -30,4 +30,5 @@ fields:
   label: date
   default: now
 pages:
+- content/updates/test-2.md
 - content/updates/test.md
