@@ -1,0 +1,7 @@
+/public
+/build
+/resources
+
+## OS files
+# MacOS
+.DS_Store
