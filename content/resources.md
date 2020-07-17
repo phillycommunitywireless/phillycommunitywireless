@@ -38,13 +38,17 @@ title: Resources
 
 <br/>
 
-# Bibliography
+# History of Community Technology in Philadelphia
 
 Breitbart, Joshua, Naveen Lakshmipathy, and Sascha D. Meinrath. “[The Philadelphia Story: Learning from a Municipal Wireless Pioneer](https://technical.ly/wp-content/uploads/2017/03/wireless-philadelphia-report-breitbart-et-al.pdf).” Washington D.C.: New America Foundation, December 2007.
 
-Byrum, Greta. “[Building the People’s Internet](https://urbanomnibus.net/2019/10/building-the-peoples-internet/).” *Urban Omnibus*, October 2, 2019.
-
 Dunbar-Hester, Christina. *Low Power to the People: Pirates, Protest, and Politics in FM Radio Activism.* MIT Press, 2014.
+
+<br/>
+
+# Bibliography
+
+Byrum, Greta. “[Building the People’s Internet](https://urbanomnibus.net/2019/10/building-the-peoples-internet/).” *Urban Omnibus*, October 2, 2019.
 
 Park, Claire. “[Community Broadband: The Fast, Affordable Internet Option That’s Flying Under the Radar](https://www.newamerica.org/oti/reports/community-broadband/).” Washington D.C.: New America Foundation, May 19, 2020.
 
