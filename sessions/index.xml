@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Session Notes on Philly Community Wireless Project</title>
+    <link>https://phillycommunitywireless.com/sessions/</link>
+    <description>Recent content in Session Notes on Philly Community Wireless Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://phillycommunitywireless.com/sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Session 2</title>
+      <link>https://phillycommunitywireless.com/sessions/may-13-2020/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.com/sessions/may-13-2020/</guid>
+      <description>In this meeting, we heard from 1) Meta Mesh in Pittsburg, 2) Community Tech NY, 3) Andrew Coy in Baltimore, and 4) we discussed some Philly specific planning.
+  Adam Longwill, part of Meta Mesh, tells the group about PittMesh, a community wireless network in Pittsburgh under the auspices of non-profit Meta Mesh Wireless Communities. Adam advises that the network installation and maintenance should be left to the non-profit due to the intense work of building the network and the high expenditure of resources needed to educate a community on network maintenance.</description>
+    </item>
+    
+    <item>
+      <title>Session 1</title>
+      <link>https://phillycommunitywireless.com/sessions/may-6-2020/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.com/sessions/may-6-2020/</guid>
+      <description>In our first official meeting, we overview 1) how mesh networks work, 2) Raul Enrequez from Community Tech NY and David Johnson with iNethi speak on their community network projects, and 3) Fraca Muller of the Baltimore Teachers Union and Andrew Coy of the Digital Harbor Foundation speak on their digital inclusion efforts in Baltimore, and 4) we begin conversations about Philly Wisper in Philadelphia.
+  In Community Tech NY, multiple communities around the city decide where a network goes and builds it jointly.</description>
+    </item>
+    
+  </channel>
+</rss>
