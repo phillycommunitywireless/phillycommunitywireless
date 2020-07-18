@@ -1,0 +1,38 @@
+{{ define "main" }}
+<main>
+</main>
+
+{{ partial "header-page.html" . }}
+
+<body>
+<div class="mw7 center measure pa3">
+    {{ with .Title }}<h1><b>
+            <center>{{ . }}</center>
+        </b></h1>{{ end }}
+    {{ with .Content }}<div>{{ . }}</div>{{ end }}
+
+    {{/* loop over session notes */}}
+		{{ range where (where .Site.AllPages "Type" "session") ".Params.layout" "single" }}
+
+    <div class="f2">
+			<h4>
+					<a href="{{ .Permalink }}">{{ .Title }} · {{ dateFormat "01/02/2006" .Date }}</a>
+			</h4>
+    </div>
+
+    <div class="">
+			<p>
+				{{ .Summary }}
+				{{ if .Truncated }}
+					<a href="{{ .Permalink }}">Continue reading...</a>
+				{{ end }}
+			</p>
+		</div>
+
+    {{ end }}
+
+</div>
+
+</body>
+
+{{ end }}

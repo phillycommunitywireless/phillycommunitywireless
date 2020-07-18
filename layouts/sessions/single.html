@@ -1,0 +1,20 @@
+{{ define "main" }}
+<main>
+</main>
+
+{{ partial "header-page.html" . }}
+
+<body>
+
+<div class="mw7 center measure pa3 tc">
+	<h1 class="f1-ns f2">{{ .Params.Title }}</h1>
+  <h1 class="f3-ns f4">{{ .Params.Date.Format "January 1, 2006" }}</h1>
+</div>
+
+<div class="mw7 center measure pa3">
+    {{ .Content }}
+</div>
+
+</body>
+
+{{ end }}
