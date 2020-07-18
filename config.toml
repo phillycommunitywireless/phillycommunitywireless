@@ -1,4 +1,4 @@
-baseURL = "https://hotelcalifornia.github.io/phillycommunitywireless/"
+baseURL = "https://phillycommunitywireless.com/"
 languageCode = "en-us"
 title = "Philly Community Wireless Project"
 theme = "pcwp-hugo"
