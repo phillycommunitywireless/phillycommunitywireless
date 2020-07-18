@@ -2,31 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Philly Community Wireless Project</title>
-    <link>https://hotelcalifornia.github.io/phillycommunitywireless/authors/</link>
+    <link>https://phillycommunitywireless.com/authors/</link>
     <description>Recent content in Authors on Philly Community Wireless Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 08 Jul 2020 23:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hotelcalifornia.github.io/phillycommunitywireless/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phillycommunitywireless.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Alex Brooke</title>
-      <link>https://hotelcalifornia.github.io/phillycommunitywireless/authors/alex-brooke/</link>
-      <pubDate>Wed, 08 Jul 2020 23:12:18 +0000</pubDate>
-      
-      <guid>https://hotelcalifornia.github.io/phillycommunitywireless/authors/alex-brooke/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Author Name</title>
-      <link>https://hotelcalifornia.github.io/phillycommunitywireless/authors/author-name/</link>
+      <link>https://phillycommunitywireless.com/authors/author-name/</link>
       <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hotelcalifornia.github.io/phillycommunitywireless/authors/author-name/</guid>
+      <guid>https://phillycommunitywireless.com/authors/author-name/</guid>
       <description></description>
     </item>
     
