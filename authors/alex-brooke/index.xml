@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Updates on Philly Community Wireless Project</title>
-    <link>https://hotelcalifornia.github.io/phillycommunitywireless/updates/</link>
-    <description>Recent content in Updates on Philly Community Wireless Project</description>
+    <title>Alex Brooke on Philly Community Wireless Project</title>
+    <link>https://hotelcalifornia.github.io/phillycommunitywireless/authors/alex-brooke/</link>
+    <description>Recent content in Alex Brooke on Philly Community Wireless Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 08 Jul 2020 23:12:18 +0000</lastBuildDate>
     
-	<atom:link href="https://hotelcalifornia.github.io/phillycommunitywireless/updates/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hotelcalifornia.github.io/phillycommunitywireless/authors/alex-brooke/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,15 +28,6 @@
       
       <guid>https://hotelcalifornia.github.io/phillycommunitywireless/updates/test/</guid>
       <description>Hello world this is a test, do not be alarmed</description>
-    </item>
-    
-    <item>
-      <title>Call for Participants</title>
-      <link>https://hotelcalifornia.github.io/phillycommunitywireless/updates/cfp/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hotelcalifornia.github.io/phillycommunitywireless/updates/cfp/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo. Enim lobortis scelerisque fermentum dui faucibus in ornare quam. Dictum fusce ut placerat orci nulla pellentesque. Euismod in pellentesque massa placerat. Vestibulum sed arcu non odio euismod lacinia.&lt;/p&gt;</description>
     </item>
     
   </channel>
