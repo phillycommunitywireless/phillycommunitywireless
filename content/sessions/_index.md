@@ -4,4 +4,4 @@ type: session
 layout: list
 ---
 
-Please check our weekly meeting notes to stay up-to-date with our progress!
+Stay up-to-date on our progress with weekly meeting notes. And check back soon: we are currently catching up with the back log.
