@@ -3,7 +3,32 @@ layout: single
 title: Resources
 ---
 
-# Curricula
+***********
+
+<div class="tc f3">
+
+[Context](#history)
+
+[Curricula](#curricula) ・ [Co-op Models](#organizing)
+
+[Bibliography](#biblio) ・ [Press](#press)
+
+</div>
+
+***********
+
+<br/>
+<br/>
+
+# History of Community Technology in Philadelphia {#history}
+
+Breitbart, Joshua, Naveen Lakshmipathy, and Sascha D. Meinrath. “[The Philadelphia Story: Learning from a Municipal Wireless Pioneer](https://technical.ly/wp-content/uploads/2017/03/wireless-philadelphia-report-breitbart-et-al.pdf).” Washington DC: New America Foundation, December 2007.
+
+Dunbar-Hester, Christina. *Low Power to the People: Pirates, Protest, and Politics in FM Radio Activism.* MIT Press, 2014.
+
+<br/>
+
+# Curricula {#curricula}
 
 [Teaching Community Technology Handbook](https://detroitcommunitytech.org/teachcommtech) [pdf], Detroit Community Technology Project
 
@@ -24,29 +49,13 @@ title: Resources
 
 <br/>
 
-# Organizing Models
+# Organizing Models {#organizing}
 
 [Detroit Digital Stewards Program](https://www.alliedmedia.org/dctp/digitalstewards)
 
 <br/>
 
-# Events
-
-[21st Allied Media Conference](https://amc.alliedmedia.org/), July 23-26, 2020
-
-[Growing Our Networks in Uncertain Times↔Places](https://ournetworks.ca/), Aug 7-9, 2020
-
-<br/>
-
-# History of Community Technology in Philadelphia
-
-Breitbart, Joshua, Naveen Lakshmipathy, and Sascha D. Meinrath. “[The Philadelphia Story: Learning from a Municipal Wireless Pioneer](https://technical.ly/wp-content/uploads/2017/03/wireless-philadelphia-report-breitbart-et-al.pdf).” Washington D.C.: New America Foundation, December 2007.
-
-Dunbar-Hester, Christina. *Low Power to the People: Pirates, Protest, and Politics in FM Radio Activism.* MIT Press, 2014.
-
-<br/>
-
-# Bibliography
+# Bibliography {#biblio}
 
 Byrum, Greta. “[Building the People’s Internet](https://urbanomnibus.net/2019/10/building-the-peoples-internet/).” *Urban Omnibus*, October 2, 2019.
 
@@ -64,7 +73,7 @@ Thakur, Dhanaraj, and Teddy Woodhouse. “[Meaningful Connectivity: A New Standa
 
 <br/>
 
-## Press
+## Press {#press}
 
 Graham, Kristen A. “[Philly Schools Chief Says Internet Providers Refuse to Open Their Networks so Students Can Access Education](https://www.inquirer.com/education/internet-access-philadelphia-coronavirus-comcast-budget-council-hite-school-district-20200520.html).” *The Philadelphia Inquirer,* May 20, 2020.
 
