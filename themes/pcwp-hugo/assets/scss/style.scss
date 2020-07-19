@@ -42,18 +42,19 @@ a.title:active {text-decoration: none;}
 // mailing list button
 
 .myButton {
-	box-shadow: 3px 4px 0px 0px #ffffff;
-	background-color:#9e9e9e;
+	box-shadow: 6px 6px 0px 0px #ffffff;
+	background-color:#000000;
 	border-radius:5px;
 	display:inline-block;
 	cursor:pointer;
-	color:#000000;
+	color:#cccccc;
 	font-weight:bold;
 	padding:12px 44px;
 	text-decoration:none;
 }
 .myButton:hover {
-	background-color:#bababa;
+	background-color:#9e9e9e;
+  color:#000000;
 }
 .myButton:active {
 	position:relative;
