@@ -31,9 +31,14 @@ publishDir = "docs"
     weight = 20
 
   [[menu.main]]
+    name = "Partners"
+    url = "partners/"
+    weight = 40
+
+  [[menu.main]]
     name = "People"
     url = "people/"
-    weight = 30
+    weight = 40
 
 [params]
   google_fonts = [
