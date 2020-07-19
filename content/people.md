@@ -3,26 +3,6 @@ layout: single
 title: People
 ---
 
-# Partner Orgs
-
-[Digital Harbor Foundation](https://www.digitalharbor.org/), Baltimore
-
-[Project WAVES](https://projectwaves.net/), Baltimore
-
-[iNethi](https://www.inethi.org.za/), Cape Town
-
-[KINBER](https://kinber.org/), Harrsiburg
-
-[Community Tech NY](http://communitytechny.org/), New York
-
-[Philly Tech Justice](https://phillytechjustice.org/), Philadelphia
-
-[MetaMesh](https://www.metamesh.org/), Pittsburgh
-
-[X-Lab](https://thexlab.org/), Washington, DC
-
-<br/>
-
 # Steering Committee
 
 {{< fa hands-helping >}} ・ Devren Washington ・ Movement Alliance Project
@@ -43,21 +23,31 @@ title: People
 
 {{< fa bell >}} ・ Erica Atwood ・ Chief of Staff, Councilperson Jaimie Gauthier
 
+{{< fa cogs >}} ・ Alex Brooke ・ Purdue University
+
 {{< fa vial >}} ・ Tithi Chattopadhyay ・ Princeton Center for IT Policy
 
 {{< fa cogs >}} ・ Mike Dank ・ Philly Mesh
 
+{{< fa cogs >}} ・ Will Dean ・ Temple University Libraries
+
 {{< fa vial >}} ・ Scott Enderle ・ Price Lab, University of Pennsylvania
 
-{{< fa bell >}} ・ Juliet Fink-Yates ・ Digital Inclusion Fellow in OIT
+{{< fa bell >}} ・ Juliet Fink-Yates ・ Digital Inclusion Fellow, City of Philadelphia OIT
+
+{{< fa cogs >}} ・ Tejas Guta ・ Princeton University
 
 {{< fa hands-helping >}} ・ Jeremy Keim-Shenk ・ Philly Tech Justice
 
 {{< fa hands-helping >}} ・ Helyx Chase Scearce Horwitz ・ Movement Alliance Project
 
+{{< fa cogs >}} ・ Jonathan Latko ・ Computer Recycling Center, Temple University
+
 {{< fa vial >}} ・ Jessa Lingel ・ Annenberg School for Communication, University of Pennsylvania
 
 {{< fa vial >}} ・ Alison Macrina ・ Library Freedom Institute
+
+{{< fa hands-helping >}} {{< fa cogs >}} ・ Rev. Michael A. Major ・ Called to Serve
 
 {{< fa bell >}} ・ Daniel Lodise ・ Legislative Director, Councilperson Isaiah Thomas
 
