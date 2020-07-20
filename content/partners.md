@@ -15,7 +15,7 @@ title: Partners
 
 # Funders
 
-[Princeton Humanities Council](https://humanities.princeton.edu/)
+Rapid Response Magic Project of the [Princeton Humanities Council](https://humanities.princeton.edu/)
 
 <br/>
 
