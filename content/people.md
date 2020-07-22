@@ -35,7 +35,7 @@ title: People
 
 {{< fa bell >}} ・ Juliet Fink-Yates ・ Digital Inclusion Fellow, City of Philadelphia OIT
 
-{{< fa cogs >}} ・ Tejas Guta ・ Princeton University
+{{< fa cogs >}} ・ Tejas Gupta ・ Princeton University
 
 {{< fa hands-helping >}} ・ Jeremy Keim-Shenk ・ Philly Tech Justice
 
