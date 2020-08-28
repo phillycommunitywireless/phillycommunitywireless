@@ -26,11 +26,6 @@ publishDir = "docs"
     weight = 10
 
   [[menu.main]]
-    name = "Session Notes"
-    url = "sessions/"
-    weight = 20
-
-  [[menu.main]]
     name = "Partners"
     url = "partners/"
     weight = 40
