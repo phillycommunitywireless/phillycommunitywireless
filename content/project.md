@@ -13,15 +13,15 @@ We believe that people matter more than profit and that the principles of cooper
 
 Finally, we believe in starting small, learning from our mistakes, and inviting the input and perspectives of teachers, organizers, users, and technologists alike in building this network.
 
-# Goal
+# Goals
 
-The City of Philadelphia has announced a [meaningful plan](https://www.inquirer.com/education/comcast-free-internet-access-students-philadelphia-school-district-20200806.html) to connect 35,000 low-income families to broadband Internet at the start of the 2020-21 school year through Comcast’s Internet Essentials program.
-
-We are here to fill in the gaps of that plan, and to build an alternative network model that is based in community input and education. We aim to transform how cities think about the Internet as a utility by involving our users in the construction of the network. The diversity of users we are targeting speaks to the array of digital inclusion needs we have identified: from students to business owners, from medical providers to people working from home.
+We are here to present an alternative model of Internet access, a network based in community input and education. We aim to transform how cities think about the Internet as a utility by involving our users in the construction of the network. The diversity of users we are targeting speaks to the array of digital inclusion needs we have identified: from students to business owners, from medical providers to people working from home.
 
 We plan for this project to be a vehicle of workforce development by training technicians and outreach coordinators. And we see the network itself as a means of connecting existing community organizations throughout the city. Our goal is to empower the people who have been most exposed to technology's harms through surveillance and algorithmic bias with critical digital literacies.
 
 This project is a product of the pandemic, but our vision extends beyond the current crisis. We seek a long term, sustainable, and affordable Internet for all in Philadelphia, rather than stopgap measures amid this emergency.
+
+Meanwhile, the City of Philadelphia has announced a [meaningful plan](https://www.inquirer.com/education/comcast-free-internet-access-students-philadelphia-school-district-20200806.html) to connect 35,000 low-income families to broadband Internet at the start of the 2020-21 school year through Comcast’s Internet Essentials program. We see our project filling in the gaps of this citywide plan, both by reaching those students who can't be served by Comcast and by providing the countless non-students throughout the city who still need Internet access.
 
 # The Process
 
@@ -29,7 +29,7 @@ The PCWP infrastructure will have three distinct layers that we liken to a tree 
 
 ## Trunk
 
-The trunk layer consists of anchor antennas that are donated and installed by our partner, PhillyWisper. Each anchor antenna receives a line-of-sight connection from the company’s primary tower, and propagates that signal within a roughly 2,000 foot radius. The PW team has already installed a public access point in Kensington’s Norris Square Park that went live on June 8. We are identifying further installation sites at buildings owned by community organizations, located in neighborhoods where 53% or residents have no broadband access.
+The trunk layer consists of anchor antennas that are donated and installed by our partner, PhillyWisper. Each anchor antenna receives a line-of-sight connection from one of the company’s towers, and propagates that signal within a roughly one-mile radius. The PW team has already installed a public access point in Norris Square Park that went live on June 8. We are identifying further installation sites at buildings owned by community organizations, located in neighborhoods where 53% of residents have no broadband access.
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Sq Park
 
@@ -65,8 +65,8 @@ In sharing these hardware kits and training materials with the community, we wil
   - *who train:*
 - **Group 3:** Community Technicians
   - frontline support, call center, etc
-  - property management staff (HACE)
-  - community connectors (Village)
+  - property management staff
+  - community connectors (Village of the Arts)
   - Philadelphia Youth Network
   - volunteers
   - job skill trainees
