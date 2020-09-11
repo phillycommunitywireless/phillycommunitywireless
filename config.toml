@@ -21,19 +21,19 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
-    name = "Resources"
-    url = "resources/"
+    name = "The Project"
+    url = "project/"
     weight = 10
-
-  [[menu.main]]
-    name = "Partners"
-    url = "partners/"
-    weight = 40
 
   [[menu.main]]
     name = "People"
     url = "people/"
-    weight = 40
+    weight = 20
+
+  [[menu.main]]
+    name = "Resources"
+    url = "resources/"
+    weight = 30
 
 [params]
   google_fonts = [

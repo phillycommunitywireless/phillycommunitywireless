@@ -17,8 +17,6 @@ title: People
 
 {{< fa cogs >}} ・ Jennifer Oxenford ・ Keystone Initiative for Network Based Education and Research (KINBER)
 
-<br/>
-
 # Members
 
 {{< fa bell >}} ・ Erica Atwood ・ Chief of Staff, Councilperson Jaimie Gauthier
@@ -57,8 +55,6 @@ title: People
 
 {{< fa bell >}} ・ Emily Yates ・ Smart City Director for the City of Philadelphia
 
-<br/>
-
 # Advisory Board
 
 {{< fa cogs >}} ・ Adam Bouhmad ・ Project WAVES (Baltimore)
@@ -80,7 +76,6 @@ title: People
 {{< fa cogs >}} ・ Houman Saberi ・ Community Tech NY (New York)
 
 <br/>
-<br/>
 
 ***********
 
@@ -93,3 +88,41 @@ title: People
 {{< fa bell >}} = City Hall
 
 {{< fa vial >}} = researchers
+
+<br/>
+
+# Community Partners
+
+[Called to Serve](https://calledtoservecdc.org/)
+
+[HACE](https://www.hacecdc.org/)
+
+[Village of the Arts and Humanities](http://spaces.villagearts.org/)
+
+[Philly Tech Justice](https://phillytechjustice.org/)
+
+[PhillyWisper](https://phillywisper.net/)
+
+# Allied Orgs
+
+[Digital Harbor Foundation](https://www.digitalharbor.org/), Baltimore
+
+[Project WAVES](https://projectwaves.net/), Baltimore
+
+[iNethi](https://www.inethi.org.za/), Cape Town
+
+[KINBER](https://kinber.org/), Harrsiburg
+
+[Community Tech NY](http://communitytechny.org/), New York
+
+[MetaMesh](https://www.metamesh.org/), Pittsburgh
+
+[X-Lab](https://thexlab.org/), Washington, DC
+
+# Funders
+
+Rapid Response Magic Project of the [Princeton Humanities Council](https://humanities.princeton.edu/)
+
+RISE (Recognizing Inequalities and Standing for Equality), [Pace Center for Civic Engagement](https://pace.princeton.edu/)
+
+<br/>
