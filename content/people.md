@@ -101,6 +101,8 @@ title: People
 
 # Funders
 
+[Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/), The Mayor's Fund for Philadelphia
+
 Rapid Response Magic Project of the [Princeton Humanities Council](https://humanities.princeton.edu/)
 
 RISE (Recognizing Inequalities and Standing for Equality), [Pace Center for Civic Engagement](https://pace.princeton.edu/)
