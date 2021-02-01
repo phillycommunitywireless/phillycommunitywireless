@@ -6,10 +6,6 @@
     <description>Recent content in Authors on Philly Community Wireless Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    
-	<atom:link href="https://phillycommunitywireless.com/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://phillycommunitywireless.com/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
