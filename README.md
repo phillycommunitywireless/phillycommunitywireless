@@ -4,4 +4,4 @@ Philly Community Wireless is a working group of organizers, technologists, acade
 
 Mesh networks allow a single Internet connection to be shared among a broader group of users with very little cost or infrastructure required. With the help of PhillyWisper, a pro-net neutrality, wireless internet service provider, we are working toward installing two pilot sites in Kensington and Fairhill. From there, we will plan participatory design workshops and technical training for the community that will empower them to maintain and grow this free network connection.   
 
-For further information, visit the Philly Community Wireless [website](https://phillycommunitywireless.com/).
+For further information, visit the [Philly Community Wireless website](https://phillycommunitywireless.com/).
