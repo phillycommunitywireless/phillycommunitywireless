@@ -1,6 +1,9 @@
-# Job Opening
+---
+layout: single
+title: job
+---
 
-## Community Engagement Liaison
+## Community Engagement Liaison Job Description
 
 The Philly Community Wireless (PCW) project seeks a part-time Community Engagement Liaison to assist coordination with the Norris Square neighborhood in North Philadelphia as we build a community wifi network through funding from the Digital Literacy Alliance at the Mayor’s Fund for Philadelphia. Learn more about the project on our [website](https://phillycommunitywireless.com/).
 
