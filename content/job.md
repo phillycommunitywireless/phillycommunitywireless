@@ -21,7 +21,7 @@ Basic technical know-how with digital technologies
 Willingness to learn
 Outgoing personality, customer service skills
 
-##Responsibilities
+## Responsibilities
 
 *Research*: gather tutorials, zines, and other educational materials developed by community technology organizations in other cities.\
 *Facilitation*: manage logistics for weekly meetings with community stakeholders, including scheduling, sending Zoom invitations, preparing agendas, and taking detailed notes.\
