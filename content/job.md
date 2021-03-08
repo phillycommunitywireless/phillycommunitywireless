@@ -1,6 +1,6 @@
 ---
 layout: single
-title: job
+title: Job Posting
 ---
 
 ## Community Engagement Liaison Job Description
