@@ -35,6 +35,11 @@ publishDir = "docs"
     url = "resources/"
     weight = 30
 
+  [[menu.main]]
+    name = "Job Description"
+    url = "job/"
+    weight = 30
+    
 [params]
   google_fonts = [
     ["Eczar"],
