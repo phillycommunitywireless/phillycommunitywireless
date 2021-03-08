@@ -15,11 +15,11 @@ Applicants should send a **cover letter** and **resume** to phillycommunitywirel
 
 ## Requirements
 
-Highschool degree or equivalent
-Fluent spoken and written communication in English and Spanish
-Basic technical know-how with digital technologies
-Willingness to learn
-Outgoing personality, customer service skills
+Highschool degree or equivalent/
+Fluent spoken and written communication in English and Spanish/
+Basic technical know-how with digital technologies/
+Willingness to learn/
+Outgoing personality, customer service skills/
 
 ## Responsibilities
 
