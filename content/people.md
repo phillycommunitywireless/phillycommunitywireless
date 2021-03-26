@@ -5,6 +5,8 @@ title: People
 
 # Steering Committee
 
+{{< fa cogs >}} ・ Addie Barron
+
 {{< fa cogs >}} ・ Will Dean ・ Research and Data Services Librarian, Temple University Libraries
 
 {{< fa hands-helping >}} ・ Kate Goodman ・ Community Initiatives Specialist, Free Library of Philadelphia

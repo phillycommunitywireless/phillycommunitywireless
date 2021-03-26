@@ -49,9 +49,13 @@ Dunbar-Hester, Christina. *Low Power to the People: Pirates, Protest, and Politi
 
 <br/>
 
-# Organizing Models {#organizing}
+# Policy & Organizing Models {#organizing}
 
 [Detroit Digital Stewards Program](https://www.alliedmedia.org/dctp/digitalstewards)
+
+National Urban League's [Lewis Latimer Plan for Digital Equity and Inclusion](https://nul.org/news/national-urban-league-unveils-new-framework-bridge-digital-divide)
+
+Nicol Turner Lee (Brookings) proposing a “[Tech New Deal](https://www.brookings.edu/blog/techtank/2021/01/12/why-america-needs-a-tech-new-deal-to-build-back-better/)"
 
 <br/>
 

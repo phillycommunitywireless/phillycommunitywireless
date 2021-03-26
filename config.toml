@@ -1,6 +1,6 @@
 baseURL = "https://phillycommunitywireless.com/"
 languageCode = "en-us"
-title = "Philly Community Wireless Project"
+title = "Philly Community Wireless"
 theme = "pcwp-hugo"
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 enableEmoji = true
@@ -39,7 +39,7 @@ publishDir = "docs"
     name = "Job Description"
     url = "job/"
     weight = 30
-    
+
 [params]
   google_fonts = [
     ["Eczar"],
