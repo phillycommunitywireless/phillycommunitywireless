@@ -11,7 +11,7 @@ The Community Engagement Liaison is expected to be a resident of the Kensington 
 
 The Philly Community Wireless team will provide any necessary technical training to ensure the Liaison can build a professional profile in the fields of network engineering and community technology. The part-time Community Engagement Liaison would be expected to work an average of 10 hours a week at $20/hr, $800/month over the 24 months of the grant for a total of $19,200. PCW is fiscally sponsored through the [Movement Alliance Project](https://movementalliance.org/about/), who will process the Community Engagement Liaison’s paychecks, as well as provide general liability insurance and workers compensation insurance.
 
-Applicants should send a **cover letter** and **resume** to phillycommunitywireless@gmail.com. For full consideration, please submit your application by April 15th, 2021.
+Applicants should send a **cover letter** and **resume** to phillycommunitywireless@gmail.com. Applications are being accepted until the position is filled.
 
 ## Requirements
 
