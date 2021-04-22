@@ -5,7 +5,7 @@ title: People
 
 # Steering Committee
 
-{{< fa cogs >}} ・ Addie Barron
+{{< fa cogs >}} ・ Addie Barron ・ Independent Technologist
 
 {{< fa cogs >}} ・ Will Dean ・ Research and Data Services Librarian, Temple University Libraries
 
