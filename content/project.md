@@ -55,7 +55,7 @@ The trunk layer consists of anchor antennas that are donated and installed by ou
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> West Kensington Ministries
 
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Norris Square Neighborhood Project
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Neighborhood Project
 
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Norris Square Community Alliance
 
