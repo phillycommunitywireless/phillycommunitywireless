@@ -51,13 +51,19 @@ The PCW infrastructure will have three distinct layers that we liken to a tree w
 
 The trunk layer consists of anchor antennas that are donated and installed by our partner, PhillyWisper. Each anchor antenna receives a line-of-sight connection from one of the company’s towers, and propagates that signal within a roughly one-mile radius. The PW team has already installed a public access point in Norris Square Park. We are identifying further installation sites at buildings owned by community organizations, located in neighborhoods where 53% of residents have no broadband access.
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Sq Park Public Wifi
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Park Public Wifi
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> West Kensington Ministries
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Neighborhood Project
 
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Las Parcelas Gardens
+
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Norris Square Community Alliance
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Open Kitchen Sculpture Garden
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> GALAEI
 
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Village of the Arts and Humanities
 
