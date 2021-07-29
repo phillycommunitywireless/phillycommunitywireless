@@ -29,6 +29,11 @@ publishDir = "docs"
     name = "People"
     url = "people/"
     weight = 20
+    
+  [[menu.main]]
+    name = "Documentation"
+    url = "https://docs.phillycommunitywireless.org/en/latest/"
+    weight = 20
 
   [[menu.main]]
     name = "Resources"
