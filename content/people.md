@@ -3,21 +3,23 @@ layout: single
 title: People
 ---
 
+ADMIN LEAD ・ **Alex Wermer-Colan** ・ Digital Scholarship Coordinator, Duckworth Scholars Studio, Temple University
+
+TECH LEAD ・ **Addie Baron** ・ Independent Technologist
+
+OUTREACH CO-LEAD ・ **Heather Lewis-Weber** ・ Sr. Coordinator of Community Engagement, Temple University College of Liberal Arts
+
+OUTEACH CO-LEAD ・ **Kate Goodman** ・ Community Initiatives Specialist, Free Library of Philadelphia
+
 # Steering Committee
 
-{{< fa cogs >}} ・ Addie Barron ・ Independent Technologist
-
 {{< fa cogs >}} ・ Will Dean ・ Research and Data Services Librarian, Temple University Libraries
-
-{{< fa hands-helping >}} ・ Kate Goodman ・ Community Initiatives Specialist, Free Library of Philadelphia
 
 {{< fa cogs >}} ・ Evan Guerra ・ LEAP Maker Mentor, Free Library of Philadelphia
 
 {{< fa hands-helping >}} {{< fa cogs >}} ・ Helyx Chase Scearce Horwitz ・ Information Systems and Technology Manager, Movement Alliance Project
 
 {{< fa cogs >}} ・ Jonathan Latko ・ Computer Recycling Center, Temple University
-
-{{< fa hands-helping >}} ・ Heather Lewis-Weber ・ Sr. Coordinator of Community Engagement, Temple University College of Liberal Arts
 
 {{< fa vial >}} ・ Jessa Lingel ・ Associate Professor, Annenberg School for Communication, University of Pennsylvania
 
@@ -32,8 +34,6 @@ title: People
 {{< fa cogs >}} ・ Mark Steckel ・ Founder, PhillyWisper
 
 {{< fa hands-helping >}} ・ Devren Washington ・ Senior Policy Organizer, Movement Alliance Project
-
-{{< fa vial >}} ・ Alex Wermer-Colan ・ CLIR/DH Postdoctoral Fellow, Loretta C. Duckworth Scholars Studio, Temple University
 
 {{< fa vial >}} ・ Grant Wythoff ・ Digital Humanities Strategist, Center for Digital Humanities at Princeton University
 
