@@ -21,8 +21,8 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
-    name = "The Project"
-    url = "project/"
+    name = "About"
+    url = "about/"
     weight = 10
 
   [[menu.main]]
@@ -31,18 +31,13 @@ publishDir = "docs"
     weight = 20
     
   [[menu.main]]
-    name = "Documentation"
+    name = "Docs"
     url = "https://docs.phillycommunitywireless.org/en/latest/"
     weight = 30
 
   [[menu.main]]
     name = "Resources"
     url = "resources/"
-    weight = 30
-
-  [[menu.main]]
-    name = "Job Description"
-    url = "job/"
     weight = 30
 
 [params]
