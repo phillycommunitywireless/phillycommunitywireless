@@ -2,18 +2,31 @@ baseURL: https://phillycommunitywireless/
 languageCode: en-us
 defaultContentLanguage: en
 title: Philly Community Wireless
-theme: cupper
+theme: ananke
+
+languages:
+  en:
+    contentDir: content/en
+    title: Philly Community Wireless
+    weight: 1
+  # add spanish TODO
 
 taxonomies:
   tag: tags
 
 params:
   description: Building community-owned and operated internet.
-  footer: Footer TODO
-  logoAlt: Logo alt text TODO
+  favicon: ""
+  site_logo: images/logo.svg
+  # theme
+  background_color_class: bg-gold
+  featured_image: /images/hero.jpg
+  body_classes: avenir black
+  custom_css:
+    - custom.css
 
 menu:
-  nav:
+  main:
     - name: Home
       url: /
       weight: 1

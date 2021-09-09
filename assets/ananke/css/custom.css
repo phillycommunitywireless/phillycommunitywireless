@@ -1,0 +1,9 @@
+nav > div > a > img {
+  width: 75px;
+  height: 75px;
+  filter: invert(100%);
+}
+
+nav > div > div > ul {
+  line-height: 2em;
+}
