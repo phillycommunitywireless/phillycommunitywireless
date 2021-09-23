@@ -9,6 +9,11 @@ html {
   min-height: 100vh;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+}
+
 nav {
   background-color: var(--orange);
 }
@@ -33,6 +38,7 @@ nav > div > a:after {
 }
 
 main {
+  flex: 1;
   padding-bottom: 5rem !important;
 }
 main a {
