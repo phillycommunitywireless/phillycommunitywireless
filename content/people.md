@@ -141,9 +141,9 @@ COMMUNITY ENGAGEMENT LIAISON ・ **Chris Mehretab**
 
 [Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/), The Mayor's Fund for Philadelphia
 
-Digital Equity Grant of the [Independent Public Media Foundation](https://independencemedia.org/2021-community-voices-and-digital-equity-grants/)
+[Digital Equity Grant](https://independencemedia.org/2021-community-voices-and-digital-equity-grants/), Independent Public Media Foundation
 
-Rapid Response Magic Project of the [Princeton Humanities Council](https://humanities.princeton.edu/)
+Rapid Response Magic Project, [Princeton Humanities Council](https://humanities.princeton.edu/)
 
 RISE (Recognizing Inequalities and Standing for Equality), [Pace Center for Civic Engagement](https://pace.princeton.edu/)
 
