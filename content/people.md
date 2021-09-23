@@ -32,7 +32,7 @@ COMMUNITY ENGAGEMENT LIAISON ・ **Chris Mehretab**
 
 {{< fa hands-helping >}} {{< fa cogs >}} ・ Rev. Michael A. Major ・ Board President, Called to Serve CDC
 
-{< fa cogs >}} ・ Jen Meagher ・ Product Manager
+{{< fa cogs >}} ・ Jen Meagher ・ Product Manager
 
 {{< fa vial >}} ・ Sascha Meinrath ・ Palmer Chair in Telecommunications, Bellisario College of Communications, Pennsylvania State University
 
