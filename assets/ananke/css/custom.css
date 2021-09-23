@@ -1,9 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap");
+
+:root {
+  --orange: rgb(255, 128, 0);
+}
+
+body,
+html {
+  min-height: 100vh;
+}
+
+nav {
+  background-color: var(--orange);
+}
+nav li > a.hover-white:hover {
+  color: black;
+}
+nav > div > div > ul {
+  line-height: 2em;
+}
 nav > div > a > img {
   width: 75px;
   height: 75px;
   filter: invert(100%);
 }
+nav > div > a:after {
+  content: "Philly Community Wireless";
+  font-family: "Nunito Sans", sans-serif;
+  display: block;
+  width: 100px;
+  float: right;
+  padding-left: 20px;
+}
 
-nav > div > div > ul {
-  line-height: 2em;
+main {
+  padding-bottom: 5rem !important;
+}
+main a {
+  color: var(--orange);
 }

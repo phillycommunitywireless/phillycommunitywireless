@@ -2,7 +2,7 @@ baseURL: https://phillycommunitywireless/
 languageCode: en-us
 defaultContentLanguage: en
 title: Philly Community Wireless
-theme: ananke
+theme: pcw-hugo-theme
 
 languages:
   en:
@@ -15,23 +15,24 @@ taxonomies:
   tag: tags
 
 params:
-  description: Building community-owned and operated internet.
+  # description: Building community-owned and operated internet.
   favicon: ""
-  site_logo: images/logo.svg
   # theme
-  background_color_class: bg-gold
+  site_logo: /images/logo.svg
+  cover_dimming_class: bg-black-10
+  background_color_class: bg-black-90
   featured_image: /images/hero.jpg
-  body_classes: avenir black
+  body_classes: helvetica black
   custom_css:
     - custom.css
 
 menu:
   main:
-    - name: Home
-      url: /
+    - name: About Us
+      url: /about
       weight: 1
     - name: Get Connected
-      url: https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform
+      url: /getconnected
       weight: 2
     - name: Volunteer
       url: /volunteer
@@ -39,12 +40,14 @@ menu:
     - name: FAQ
       url: /faq
       weight: 4
-    - name: About
-      url: /about
-      weight: 5
-    - name: Blog
-      url: /post/
-      weight: 6
+    # - name: Blog
+    #   url: /post/
+    #   weight: 5
     - name: Docs
       url: https://docs.phillycommunitywireless.org/en/latest/
-      weight: 7
+      weight: 6
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

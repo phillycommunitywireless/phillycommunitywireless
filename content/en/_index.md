@@ -1,12 +1,19 @@
 ---
-date: "2017-06-26T18:27:58+01:00"
-title: "Philly Community Wireless"
+date: 2017-06-26T18:27:58+01:00
+title: " "
+# description: "Internet access is a human right"
 ---
 
-We are a collective impact initiative consisting of allied community organizations based primarily in the neighborhoods of Fairhill and Kensington.
+Philly Community Wireless (PCW) is building community-owned and -operated internet infrastructures in order to democratize access, promote digital literacy, and fight digital inequity with free, net-neutral broadband service in North Philadelphia.
 
-Over the next two years, we are partnering with residents, nonprofits, and immigrant/LEP communities in Norris Square Park to incubate a new model of community-based network stewardship that can spread throughout the City of Philadelphia.
+### We believe that internet access is a human right.
 
-- **[Get Connected](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** to free wireless interent
-- **[Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)**
-- **[Learn More](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** in our FAQ
+We are currently partnering with residents and nonprofits organizations in **Norris Square Park** to develop a community-owned, free wifi network.
+
+We are currently seeking community organizations and building owners in the Norris Square Neighborhood interested in receiving a free install of a small network antenna on their rooftops to expand the public wifi signal into their neighborhood.
+
+### **[Get Connected](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** to free wireless internet
+
+### **[Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** to help build the network
+
+### **[Learn More](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** in our FAQ
