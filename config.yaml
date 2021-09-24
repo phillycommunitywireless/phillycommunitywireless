@@ -19,9 +19,9 @@ params:
   favicon: ""
   # theme
   site_logo: /images/logo.svg
+  featured_image: /images/hero.jpg
   cover_dimming_class: bg-black-10
   background_color_class: bg-black-90
-  featured_image: /images/hero.jpg
   body_classes: helvetica black
   custom_css:
     - custom.css

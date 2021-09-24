@@ -2,6 +2,9 @@
 
 :root {
   --orange: rgb(255, 128, 0);
+  --blue: rgb(93, 57, 255);
+
+  --primary: var(--blue);
 }
 
 body,
@@ -14,14 +17,18 @@ body {
   flex-direction: column;
 }
 
-nav {
-  background-color: var(--orange);
+header {
+  background-position: 0 60px !important;
+}
+header > div > div {
+  padding-top: 10rem !important;
+  padding-bottom: 10rem !important;
+}
+header nav {
+  background-color: var(--primary);
 }
 nav li > a.hover-white:hover {
   color: black;
-}
-nav > div > div > ul {
-  line-height: 2em;
 }
 nav > div > a > img {
   width: 75px;
@@ -30,17 +37,29 @@ nav > div > a > img {
 }
 nav > div > a:after {
   content: "Philly Community Wireless";
-  font-family: "Nunito Sans", sans-serif;
   display: block;
   width: 100px;
   float: right;
   padding-left: 20px;
+  font-family: "Nunito Sans", sans-serif;
+  color: white;
 }
 
 main {
   flex: 1;
-  padding-bottom: 5rem !important;
+  padding-bottom: 1rem !important;
 }
-main a {
-  color: var(--orange);
+main a,
+#TableOfContents a {
+  color: var(--primary) !important;
+}
+nav a {
+  text-decoration: none !important;
+}
+
+#TableOfContents {
+  padding-bottom: 30px;
+  margin-bottom: 60px;
+  border-bottom: solid 1px black;
+  font-size: 18px !important;
 }

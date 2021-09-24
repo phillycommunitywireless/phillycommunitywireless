@@ -10,7 +10,7 @@ Philly Community Wireless (PCW) is building community-owned and -operated intern
 
 We are currently partnering with residents and nonprofits organizations in **Norris Square Park** to develop a community-owned, free wifi network.
 
-We are currently seeking community organizations and building owners in the Norris Square Neighborhood interested in receiving a free install of a small network antenna on their rooftops to expand the public wifi signal into their neighborhood.
+We are seeking community organizations and building owners in Norris Square interested in receiving a free install of a small network antenna on their rooftops to expand the public wifi signal into their neighborhood.
 
 ### **[Get Connected](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** to free wireless internet
 
