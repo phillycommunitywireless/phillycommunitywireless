@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Philly Community Wireless</title>
-    <link>https://phillycommunitywireless/</link>
+    <link>https://phillycommunitywireless.org/</link>
     <description>Recent content in Home on Philly Community Wireless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://phillycommunitywireless/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get connected</title>
-      <link>https://phillycommunitywireless/getconnected/</link>
+      <link>https://phillycommunitywireless.org/getconnected/</link>
       <pubDate>Sun, 05 Sep 2021 14:11:48 +0000</pubDate>
       
-      <guid>https://phillycommunitywireless/getconnected/</guid>
+      <guid>https://phillycommunitywireless.org/getconnected/</guid>
       <description>Sign up via our Google Form here:
 https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform</description>
     </item>
     
     <item>
       <title>Volunteer</title>
-      <link>https://phillycommunitywireless/volunteer/</link>
+      <link>https://phillycommunitywireless.org/volunteer/</link>
       <pubDate>Sun, 05 Sep 2021 14:11:48 +0000</pubDate>
       
-      <guid>https://phillycommunitywireless/volunteer/</guid>
+      <guid>https://phillycommunitywireless.org/volunteer/</guid>
       <description>Our network is being built by and for our communities.
 To get involved, just reach out to one of our team leads based on your area(s) of interest. Get in contact if you have or are interested in developing the following skills:
 Outreach  Community engagement Grant writing Canvassing &amp;amp; flyering Spanish-language proficiency Merch and printing Graphic design  Email Heather at outreach@phillycommunitywireless.org
@@ -31,19 +31,19 @@ Tech  Networking (network design, security, protocols, hardware, mesh protocols)
     
     <item>
       <title>FAQ</title>
-      <link>https://phillycommunitywireless/faq/</link>
+      <link>https://phillycommunitywireless.org/faq/</link>
       <pubDate>Sun, 05 Sep 2021 14:08:25 +0000</pubDate>
       
-      <guid>https://phillycommunitywireless/faq/</guid>
+      <guid>https://phillycommunitywireless.org/faq/</guid>
       <description>What is Philly Community Wireless? Philly Community Wireless is a project to develop community-owned mesh networks in North Philly. We are a working group of organizers, technologists, academics, public school teachers, and City Hall staffers in Philadelphia. During a time of social distancing and online teaching, roughly half of the city’s public school students lack a wifi connection at home. In certain neighborhoods, even more residents lack any connection to the Internet.</description>
     </item>
     
     <item>
       <title>About us</title>
-      <link>https://phillycommunitywireless/about/</link>
+      <link>https://phillycommunitywireless.org/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://phillycommunitywireless/about/</guid>
+      <guid>https://phillycommunitywireless.org/about/</guid>
       <description>The Project Values We believe that access to the Internet is a fundamental human right and that independent, community-owned and -operated wireless is a sustainable and scaleable means of digital inclusion.
 We support net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior.
 We believe that people matter more than profit and that the principles of cooperation and mutual aid can grow a fundamentally different kind of digital network.</description>
