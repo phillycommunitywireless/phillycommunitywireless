@@ -1,0 +1,3 @@
+[submodule "pcw-hugo-theme"]
+	path = themes/pcw-hugo-theme
+	url = https://github.com/phillycommunitywireless/pcw-hugo-theme.git
