@@ -166,7 +166,7 @@ models:
       - type: boolean
         name: omit_header_text
         label: omit_header_text
-        description: The title of the page.
+        description: Omit the header text for this page
       - type: image
         name: featured_image
         label: Featured Image

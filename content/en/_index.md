@@ -1,7 +1,7 @@
 ---
 date: 2017-06-26T18:27:58+01:00
-title: " "
-# description: "Internet access is a human right"
+title: "Home"
+omit_header_text: true
 ---
 
 Philly Community Wireless (PCW) is building community-owned and -operated internet infrastructures in order to democratize access, promote digital literacy, and fight digital inequity with free, net-neutral broadband service in North Philadelphia.
