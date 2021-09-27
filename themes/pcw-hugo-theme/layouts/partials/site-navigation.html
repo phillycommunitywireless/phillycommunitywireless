@@ -10,11 +10,11 @@
     <div class="flex-l items-center">
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
-        <ul class="pl0 mr3">
+        <ul class="ph2 mb0-s lh-copy">
           {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib pr3">
+          <li class="list f5 f4-ns fw4 dib pr4">
             <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
-              {{ .Name }}
+              {{ .Name }} {{ if .Params.External }} {{ partial "svg/external.svg" (dict "size" "12px" "color" "lightgrey") }} {{ end }}
             </a>
           </li>
           {{ end }}

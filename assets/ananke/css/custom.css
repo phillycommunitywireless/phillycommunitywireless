@@ -19,14 +19,13 @@ body {
 }
 
 header {
-  background-position: 0 60px !important;
-}
-header > div > div {
-  padding-top: 10rem !important;
-  padding-bottom: 10rem !important;
+  background-position: fill; /* 60px !important; */
 }
 header nav {
   background-color: var(--primary);
+}
+nav ul {
+  line-height: 2.5rem !important;
 }
 nav li > a.hover-white:hover {
   color: black;

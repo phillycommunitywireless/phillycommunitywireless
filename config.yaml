@@ -1,4 +1,4 @@
-baseURL: https://phillycommunitywireless.org/
+baseURL: https://phillycommunitywireless.org
 languageCode: en-us
 defaultContentLanguage: en
 title: Philly Community Wireless
@@ -40,12 +40,11 @@ menu:
     - name: FAQ
       url: /faq
       weight: 4
-    # - name: Blog
-    #   url: /post/
-    #   weight: 5
     - name: Docs
       url: https://docs.phillycommunitywireless.org/en/latest/
-      weight: 6
+      params:
+        external: true
+      weight: 10
 
 markup:
   goldmark:

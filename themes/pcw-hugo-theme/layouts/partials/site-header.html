@@ -2,21 +2,22 @@
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
-  <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
-    <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
-      {{ partial "site-navigation.html" .}}
-      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+  
+  <header class="flex flex-column">
+    {{ partial "site-navigation.html" .}}
+    <div class="cover bg-center tc-l pv5 pv6-l ph3 ph4-ns" style="background-image: url('{{ $featured_image }}');">
+      <h1 class="f2 f-subheadline-l fw2 white-90 lh-title">
         {{ if not .Params.omit_header_text }}
-          <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
-            {{ .Title | default .Site.Title }}
-          </h1>
-          {{ with .Params.description }}
-            <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
-              {{ . }}
-            </h2>
-          {{ end }}
+          {{ .Title | default .Site.Title }}
+        {{ else }}
+          <span>&nbsp;</span>
         {{ end }}
-      </div>
+      </h1>
+      {{ with .Params.description }}
+        <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
+          {{ . }}
+        </h2>
+      {{ end }}
     </div>
   </header>
 {{ else }}
