@@ -24,7 +24,7 @@ header {
 header nav {
   background-color: var(--primary);
 }
-nav ul {
+header nav ul {
   line-height: 2.5rem !important;
 }
 nav li > a.hover-white:hover {
