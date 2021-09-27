@@ -16,4 +16,4 @@ We are seeking community organizations and building owners in Norris Square inte
 
 ### **[Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** to help build the network
 
-### **[Learn More](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** in our FAQ
+### **[Learn More](\faq)** in our FAQ
