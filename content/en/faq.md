@@ -32,18 +32,18 @@ By joining our network you agree to extend it to others. When connecting through
 
 ## What is your user data policy?
 
-Please see our terms of service.
+Please see our [Privacy page](https://phillycommunitywireless.org/privacy/).
 
 ## How do I sign up to get connected?
 
-A:If you would like to host a rooftop antenna or a mesh kit in your home, please fill out the join form and look for an email with next steps.
+A:If you would like to host a rooftop antenna or a mesh kit in your home, please fill out the [join form](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) and look for an email with next steps.
 If you have any questions, or would like to volunteer with Philly Community Wireless, reach out via email at phillycommunitywireless@gmail.com.
 
 ## Can I get hacked / is my personal information protected?
 
 Nothing you do on the internet should be considered fully “private.”
 
-## Will my activity on the internet be tracked by a third party?
+## Will my activity or data on the internet be tracked by a third party?
 
 No.
 
