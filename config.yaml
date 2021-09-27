@@ -40,9 +40,6 @@ menu:
     - name: FAQ
       url: /faq
       weight: 4
-    - name: People
-      url: /people
-      weight: 5
     - name: Docs
       url: https://docs.phillycommunitywireless.org/en/latest/
       params:
