@@ -16,4 +16,4 @@ We are seeking community organizations and building owners in Norris Square inte
 
 ### **[Volunteer](mailto:phillycommunitywireless@gmail.com)** to help build the network
 
-### **[Learn More](en/faq.md)** in our FAQ
+### **[Learn More](https://phillycommunitywireless.org/faq/)** in our FAQ
