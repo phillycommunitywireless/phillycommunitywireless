@@ -23,7 +23,7 @@ We are here to present an alternative model of Internet access, a network based 
 
 Our goal is to empower the people who have been most exposed to technology's harms through surveillance and algorithmic bias with critical digital literacies. We will train users in the basic principles of network engineering and digital literacy so that they can be stewards of the technology, rather than merely recipients. PCW will also work to build out the services and activities the network enables, through participatory design and input from the community.
 
-## The Process {#process}
+## The Process
 
 > <p class="f3"><i>"Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills."</i></p>
 
