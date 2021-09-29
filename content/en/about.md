@@ -39,6 +39,16 @@ The PCW infrastructure will have three distinct layers that we liken to a tree w
 
 The trunk layer consists of anchor antennas that are donated and installed by our partner, PhillyWisper. Each anchor antenna receives a line-of-sight connection from one of the company’s towers, and propagates that signal within a roughly one-mile radius. The PW team has already installed a public access point in Norris Square Park. We are identifying further installation sites at buildings owned by community organizations, located in neighborhoods where 53% of residents have no broadband access.
 
+### Branches
+
+Around three repeater nodes can be installed around the anchor antenna to boost the “trunk’s” signal. These repeater nodes will be placed as needed, according to any natural interference present at a site, including large buildings and trees. Because each installation will be unique depending on the landscape, we will build this network iteratively. Each installation will teach us more about the network. All that remains is the next infrastructure layer in order to bring that connection into people’s homes.
+
+### Leaves
+
+The “leaves” of the PCW consist of mesh kits donated to community members. Families and individuals living in the vicinity of the anchor antennas will apply to receive free home installation kits, purchased by PCW. The kits consist of an indoor mesh antenna, router, and ethernet cables. This phase of the project will involve community outreach and coordination.  PCW has drawn on educational materials, tutorials, and other resources that have been developed for similar hardware by community technology groups like Open Technology Institute, Detroit Community Technology Project, and Community Tech NY.
+
+## Network Status
+
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Park Public Wifi
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> West Kensington Ministries
@@ -59,23 +69,15 @@ The trunk layer consists of anchor antennas that are donated and installed by ou
 
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Temple University
 
-### Branches
-
-Around three repeater nodes can be installed around the anchor antenna to boost the “trunk’s” signal. These repeater nodes will be placed as needed, according to any natural interference present at a site, including large buildings and trees. Because each installation will be unique depending on the landscape, we will build this network iteratively. Each installation will teach us more about the network. All that remains is the next infrastructure layer in order to bring that connection into people’s homes.
-
-### Leaves
-
-The “leaves” of the PCW consist of mesh kits donated to community members. Families and individuals living in the vicinity of the anchor antennas will apply to receive free home installation kits, purchased by PCW. The kits consist of an indoor mesh antenna, router, and ethernet cables. This phase of the project will involve community outreach and coordination.  PCW has drawn on educational materials, tutorials, and other resources that have been developed for similar hardware by community technology groups like Open Technology Institute, Detroit Community Technology Project, and Community Tech NY.
-
 ## What We Need
 
-We are currently seeking community organizations and building owners in the Fairhill and Kensington neighborhoods who are willing to host network antennas on their rooftops, and to conduct community outreach about this free network connection.
+We are currently seeking community organizations and building owners in the Fairhill and Kensington neighborhoods who are willing to host network antennas on their rooftops, and to conduct community outreach about this free network connection. Please [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)!
 
-We seek technologists with experience in network engineering to help install and maintain the network connections.
+We seek technologists with experience in network engineering to help install and maintain the network connections. 
 
-And we need funding to purchase more hardware that will be donated to community members. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills.
+And we need funding to purchase more hardware that will be donated to community members. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills. 
 
-If you'd like to help, please email us at phillycommunitywireless@gmail.com.
+If you'd like to help in any way, please email us at phillycommunitywireless@gmail.com.
 
 ## The Future
 
