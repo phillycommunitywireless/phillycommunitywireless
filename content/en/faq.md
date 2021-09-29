@@ -18,11 +18,15 @@ Just before the COVID-19 pandemic hit, a detailed study published by the Federal
 
 ## What areas of Norris Square neighborhood currently have wifi?
 
-The free public wifi network should be accessible in most areas of Norris Square Park. A two-year grant from the Digital Literacy Alliance is enabling us, in the first year, to connect at least 100 homes within a one-mile radius around Norris Square to high-speed internet, at no cost to the users, for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper). Neighboring streets will soon receive wifi, as will many of the homes and buildings in the area. For updates on upcoming installs and service expansions, sign up for our newsletter.
+The free public wifi network should be accessible in most areas of Norris Square Park. A two-year grant from the Digital Literacy Alliance is enabling us, in the first year, to connect at least 100 homes within a one-mile radius around Norris Square to high-speed internet, at no cost to the users, for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper). Neighboring streets will soon receive wifi, as will many of the homes and buildings in the area. For updates on upcoming installs and service expansions, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
 ## What is the public wifi network name?
 
 Philly Community Wireless
+
+## How does it work?
+
+For technical information on the project, please see our [Docs page](https://docs.phillycommunitywireless.org/en/latest/).
 
 ## How secure is the network? Who can access our information? Can anyone log in to our wifi?
 
@@ -61,7 +65,7 @@ Please contact us via (215) 316-5761 or email at phillycommunitywireless@gmail.c
 
 ## If I host an antenna on my roof, how does this affect the structural integrity of my house? Will extra drilling be involved?
 
-Some homes will only need an indoor mesh antenna, plugged into a wall outlet. For homes that require a rooftop installation, an antenna will be attached to a chimney, or secured between cement blocks etc. Whenever possible we use non-penetrating roof mounts. Cables can be run into existing holes in your house. For more information, see our Docs page on rooftop installations.
+Some homes will only need an indoor mesh antenna, plugged into a wall outlet. For homes that require a rooftop installation, an antenna will be attached to a chimney, or secured between cement blocks etc. Whenever possible we use non-penetrating roof mounts. Cables can be run into existing holes in your house. For more information, see our [Docs page on rooftop installations](https://docs.phillycommunitywireless.org/en/latest/rooftop%20installation/).
 
 ## How long can I stay connected to the network?
 
