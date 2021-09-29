@@ -6,8 +6,6 @@
 
 {{< fa graduation-cap >}} = teachers
 
-{{< fa bell >}} = City Hall
-
 {{< fa vial >}} = researchers
 
 ## Organizational leads
@@ -28,15 +26,13 @@
 
 {{< fa cogs >}} ・ Will Dean ・ Research and Data Services Librarian, Temple University Libraries
 
-{{< fa cogs >}} ・ Evan Guerra ・ LEAP Maker Mentor, Free Library of Philadelphia
-
-{{< fa hands-helping >}} {{< fa cogs >}} ・ Helyx Chase Scearce Horwitz ・ Information Systems and Technology Manager, Movement Alliance Project
+{{< fa cogs >}} ・ Helyx Chase Scearce Horwitz ・ Information Systems and Technology Manager, Movement Alliance Project
 
 {{< fa cogs >}} ・ Jonathan Latko ・ Computer Recycling Center, Temple University
 
-{{< fa vial >}} ・ Jessa Lingel ・ Associate Professor, Annenberg School for Communication, University of Pennsylvania
+{{< fa vial >}}{{< fa graduation-cap >}} ・ Jessa Lingel ・ Associate Professor, Annenberg School for Communication, University of Pennsylvania
 
-{{< fa hands-helping >}} {{< fa cogs >}} ・ Rev. Michael A. Major ・ Board President, Called to Serve CDC
+{{< fa hands-helping >}} ・ Rev. Michael A. Major ・ Board President, Called to Serve CDC
 
 {{< fa cogs >}} ・ Jen Meagher ・ Product Manager
 
