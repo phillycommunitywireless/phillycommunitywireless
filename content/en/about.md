@@ -27,8 +27,6 @@ Our goal is to empower the people who have been most exposed to technology's har
 
 ## The Process
 
-> <p class="f3"><i>"Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills."</i></p>
-
 PCW’s efforts center on mesh networks, a distributed system of network routers which allow a single source of bandwidth to be shared among a broader group of users with very little cost or infrastructure required for connection. Traditional internet service providers rely on a one-way, centralized hub that transmits network traffic to all users on the receiving end. But with mesh networks, every router both receives and transmits network traffic simultaneously, enabling the network to remain operational even when individual nodes go out of service. The technical shape of mesh networks (interconnected, resilient) thus reflect the social connections that PCW seeks to amplify (democratic, participatory, decentralized).
 
 A two-year grant from the [Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/) of The Mayor's Fund for Philadelphia is enabling us, in the first two years, to connect at least 100 homes within a one-mile radius around Norris Square to high-speed internet, provided at no cost to the users for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper). Further funding from the Digital Equity Grant of the [Independent Public Media Foundation](https://independencemedia.org/2021-community-voices-and-digital-equity-grants/) is supporting the expansion, sustainability, and community-ownership of the PCW project.
@@ -70,6 +68,8 @@ The “leaves” of the PCW consist of mesh kits donated to community members. F
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Temple University
 
 ## What We Need
+
+> <p class="f3"><i>"Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills."</i></p>
 
 We are currently seeking community organizations and building owners in the Fairhill and Kensington neighborhoods who are willing to host network antennas on their rooftops, and to conduct community outreach about this free network connection. Please [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)!
 
