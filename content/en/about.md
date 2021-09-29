@@ -29,7 +29,7 @@ Our goal is to empower the people who have been most exposed to technology's har
 
 PCW’s efforts center on mesh networks, a distributed system of network routers which allow a single source of bandwidth to be shared among a broader group of users with very little cost or infrastructure required for connection. Traditional internet service providers rely on a one-way, centralized hub that transmits network traffic to all users on the receiving end. But with mesh networks, every router both receives and transmits network traffic simultaneously, enabling the network to remain operational even when individual nodes go out of service. The technical shape of mesh networks (interconnected, resilient) thus reflect the social connections that PCW seeks to amplify (democratic, participatory, decentralized).
 
-A two-year grant from the Digital Literacy Alliance is enabling us, in the first year, to connect at least 100 homes within a one-mile radius around Norris Square to high-speed internet, at no cost to the users, for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper).
+A two-year grant from the Digital Literacy Alliance is enabling us, in the first year, to connect at least 100 homes within a one-mile radius around Norris Square to high-speed internet, at no cost to the users, for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper). Further funding from the Independence Public Media Foundation is supporting the expansion, sustainability, and community-ownership of the PCW project.
 
 The PCW infrastructure will have three distinct layers that we liken to a tree with a trunk, branches, and leaves. Here's how it works.
 
@@ -61,13 +61,9 @@ Around three repeater nodes can be installed around the anchor antenna to boost 
 
 ### Leaves
 
-The “leaves” of the PCW consist of mesh kits donated to community members. Families and individuals living in the vicinity of the anchor antennas will apply to receive free home installation kits, purchased by PCW. The kits consist of an indoor mesh antenna, router, and ethernet cables. This phase of the project will involve community outreach and coordination. The PCW will draw on educational materials, tutorials, and other resources that have been developed for similar hardware by community technology groups like Open Technology Institute, Detroit Community Technology Project, and Community Tech NY.
+The “leaves” of the PCW consist of mesh kits donated to community members. Families and individuals living in the vicinity of the anchor antennas will apply to receive free home installation kits, purchased by PCW. The kits consist of an indoor mesh antenna, router, and ethernet cables. This phase of the project will involve community outreach and coordination.  PCW has drawn on educational materials, tutorials, and other resources that have been developed for similar hardware by community technology groups like Open Technology Institute, Detroit Community Technology Project, and Community Tech NY.
 
-PCW members have tested these hardware kits in their own homes and have been able to provide connections to several neighbors from one kit. Colleagues in Baltimore at Project WAVES and the Digital Harbor Foundation report that each mesh antenna in the home can provide reliable Internet access to at least the two neighboring row homes on each side of the initial house.
-
-Each kit costs roughly $200 and can connect three homes to the Internet at 25 MB/s speeds for as long as the hardware is plugged in.
-
-## What We Need {#involvement}
+## What We Need
 
 We are currently seeking community organizations and building owners in the Fairhill and Kensington neighborhoods who are willing to host network antennas on their rooftops, and to conduct community outreach about this free network connection.
 
@@ -75,7 +71,7 @@ We seek technologists with experience in network engineering to help install and
 
 And we need funding to purchase more hardware that will be donated to community members. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills.
 
-## The Future {#future}
+## The Future
 
 Eventually, we would like to foster a number of community-based arts partnerships that encourage people to envision a new internet. What kind of content and what forms of communication do we most desire in Philadelphia?
 
