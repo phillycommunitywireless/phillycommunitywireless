@@ -5,7 +5,7 @@ title: "About us"
 
 # The Project
 
-Our team includes volunteers and staff from a wide array of local and national organizations. For more information, visit our (People page](https://phillycommunitywireless.org/people/)
+Our team includes volunteers and staff from a wide array of local and national organizations. For more information, visit our [People page](https://phillycommunitywireless.org/people/)
 
 ## Values
 
