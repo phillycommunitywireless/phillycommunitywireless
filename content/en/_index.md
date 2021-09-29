@@ -17,3 +17,5 @@ We are currently partnering with residents and nonprofits organizations in the *
 ### **[Learn More](https://phillycommunitywireless.org/faq/)** in our FAQ
 
 ### **[Sign Up for our Newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631)** to receive updates
+
+### **[Donate](https://phillycommunitywireless.wedid.it/)!***
