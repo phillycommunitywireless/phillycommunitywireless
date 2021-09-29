@@ -5,6 +5,8 @@ title: "About us"
 
 # The Project
 
+Our team includes volunteers and staff from a wide array of local and national organizations. For more information, visit our (People page](https://phillycommunitywireless.org/people/)
+
 ## Values
 
 We believe that access to the Internet is a fundamental human right and that independent, community-owned and -operated wireless is a sustainable and scaleable means of digital inclusion.
