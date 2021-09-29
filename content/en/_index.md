@@ -4,13 +4,11 @@ title: "Home"
 omit_header_text: true
 ---
 
-**Philly Community Wireless** (PCW) is building community-owned and -operated internet infrastructures in order to democratize access, promote digital literacy, and fight digital inequity with free, net-neutral broadband service in North Philadelphia.
+**Philly Community Wireless** (PCW) is building community-owned and -operated internet infrastructures in order to democratize information access, promote digital literacy, and fight digital inequity with free, net-neutral broadband service in North Philadelphia.
 
 ### We believe that internet access is a human right.
 
-We are currently partnering with residents and nonprofits organizations in **Norris Square Park** to develop a community-owned, free wifi network.
-
-We are seeking community organizations and building owners in Norris Square interested in receiving a free install of a small network antenna on their rooftops to expand the public wifi signal into their neighborhood.
+We are currently partnering with residents and nonprofits organizations in the **Norris Square Park** neighborhood, offering free installations of network antenna on rooftops to expand the public wifi signal around the neighborhood.
 
 ### **[Get Connected](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** to free wireless internet
 
