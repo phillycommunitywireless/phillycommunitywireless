@@ -1,6 +1,6 @@
 ---
+date: 2021-09-30
 title: "FAQ"
-date: 2021-09-05T14:08:25Z
 toc: true
 ---
 
