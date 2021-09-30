@@ -66,6 +66,8 @@ title: "People"
 
 <br/>
 
+### Key
+
 {{< fa hands-helping >}} = organizers
 
 {{< fa cogs >}} = technologists
@@ -126,6 +128,7 @@ title: "People"
 [X-Lab](https://thexlab.org/), Washington, DC
 
 <br/>
+
 ## Funders
 
 [Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/), The Mayor's Fund for Philadelphia
