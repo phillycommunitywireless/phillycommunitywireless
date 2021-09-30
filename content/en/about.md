@@ -2,8 +2,6 @@
 date: 2021-09-30
 title: "About"
 ---
-For Spanish, visit [Acerca de nuestros](https://phillycommunitywireless.org/sp/acerca/)
-
 # The Project
 
 Our team includes volunteers and staff from a wide array of local and national organizations. For more information, visit our [People page](https://phillycommunitywireless.org/people/)
