@@ -9,7 +9,10 @@ languages:
     contentDir: content/en
     title: Philly Community Wireless
     weight: 1
-  # add spanish TODO
+  en:
+    contentDir: /content/sp
+    title: Philly Community Wireless
+    weight: 1
 
 taxonomies:
   tag: tags
