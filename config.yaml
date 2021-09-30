@@ -13,6 +13,26 @@ languages:
       - name: Home
         url: /
         weight: 0
+      - name: About Us
+        url: /about
+        weight: 3
+      - name: Get Connected
+        url: /getconnected
+        weight: 1
+      - name: Volunteer
+        url: /volunteer
+        weight: 2
+      - name: FAQ
+        url: /faq
+        weight: 5
+      - name: People
+        url: /people
+        weight: 4
+      - name: Docs
+        url: https://docs.phillycommunitywireless.org/en/latest/
+        params:
+          external: true
+        weight: 10
     weight: 1
   sp:
     languageName: Spanish
@@ -22,6 +42,26 @@ languages:
       - name: Pagina Principal
         url: /
         weight: 0
+      - name: Acerca de Nuestros
+        url: /about
+        weight: 3
+      - name: Get Connected
+        url: /getconnected
+        weight: 1
+      - name: Volunteer
+        url: /volunteer
+        weight: 2
+      - name: FAQ
+        url: /faq
+        weight: 5
+      - name: People
+        url: /people
+        weight: 4
+      - name: Docs
+        url: https://docs.phillycommunitywireless.org/en/latest/
+        params:
+          external: true
+        weight: 10
     weight: 2
 
 taxonomies:
@@ -41,26 +81,7 @@ params:
 
 menu:
   main:
-    - name: About Us
-      url: /about
-      weight: 3
-    - name: Get Connected
-      url: /getconnected
-      weight: 1
-    - name: Volunteer
-      url: /volunteer
-      weight: 2
-    - name: FAQ
-      url: /faq
-      weight: 5
-    - name: People
-      url: /people
-      weight: 4
-    - name: Docs
-      url: https://docs.phillycommunitywireless.org/en/latest/
-      params:
-        external: true
-      weight: 10
+
 
 markup:
   goldmark:
