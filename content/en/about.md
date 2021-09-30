@@ -2,8 +2,6 @@
 date: 2021-09-30
 title: "About"
 ---
-# The Project
-
 Our team includes volunteers and staff from a wide array of local and national organizations. For more information, visit our [People page](https://phillycommunitywireless.org/people/)
 
 ## Values
@@ -48,7 +46,7 @@ Eventually, we would like to foster a number of community-based arts partnership
 
 We are also planning research projects with neighboring Penn, Temple, and Princeton Universities on digital equity and Internet accessibility.
 
-# Local News Coverage
+## Local News Coverage
 
 The Progress, [Cities Struggle to End the Urban Digital Divide](https://progressive.org/latest/urban-digital-divide-rosen-210916/), 9/16/2021
 
