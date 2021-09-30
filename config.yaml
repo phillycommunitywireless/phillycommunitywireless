@@ -9,9 +9,6 @@ languages:
     contentDir: content/en
     title: Philly Community Wireless
     weight: 1
-  en:
-    contentDir: /content/sp
-    weight: 1
 
 taxonomies:
   tag: tags
