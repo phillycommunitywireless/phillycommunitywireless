@@ -10,66 +10,61 @@ languages:
     contentDir: content/en
     menu:
       main:
-      - name: Home
-        url: /
-        weight: 0
-      - name: About Us
-        url: /about
-        weight: 3
-      - name: Get Connected
-        url: /getconnected
-        weight: 1
-      - name: Volunteer
-        url: /volunteer
-        weight: 2
-      - name: FAQ
-        url: /faq
-        weight: 5
-      - name: People
-        url: /people
-        weight: 4
-      - name: Docs
-        url: https://docs.phillycommunitywireless.org/en/latest/
-        params:
-          external: true
-        weight: 10
+        # - name: Home
+        #   url: /
+        #   weight: 0
+        - name: Get Connected
+          url: /getconnected
+          weight: 1
+        - name: Volunteer
+          url: /volunteer
+          weight: 2
+        - name: About Us
+          url: /about
+          weight: 3
+        - name: People
+          url: /people
+          weight: 4
+        - name: FAQ
+          url: /faq
+          weight: 5
+        - name: Docs
+          url: https://docs.phillycommunitywireless.org/en/latest/
+          params:
+            external: true
+          weight: 10
     weight: 1
-  sp:
-    languageName: Spanish
-    contentDir: content/sp
+  es:
+    languageName: Español
+    contentDir: content/es
     menu:
       main:
-      - name: Pagina Principal
-        url: /sp/
-        weight: 0
-      - name: Acerca de Nuestros
-        url: /sp/about
-        weight: 3
-      - name: Conéctate
-        url: /sp/getconnected
-        weight: 1
-      - name: Voluntario
-        url: /sp/volunteer
-        weight: 2
-      - name: FAQ
-        url: /sp/faq
-        weight: 5
-      - name: Gente
-        url: /sp/people
-        weight: 4
-      - name: Docs
-        url: https://docs.phillycommunitywireless.org/en/latest/
-        params:
-          external: true
-        weight: 10
+        # - name: Pagina Principal
+        #   url: /
+        #   weight: 0
+        - name: Conéctate
+          url: /conectate
+          weight: 1
+        - name: Voluntario
+          url: /voluntario
+          weight: 2
+        - name: Acerca
+          url: /acerca
+          weight: 3
+        - name: Gente
+          url: /gente
+          weight: 4
+        - name: FAQ
+          url: /faq
+          weight: 5
+        - name: Docs
+          url: https://docs.phillycommunitywireless.org/en/latest/
+          params:
+            external: true
+          weight: 10
     weight: 2
 
-taxonomies:
-  tag: tags
-
 params:
-  # description: Building community-owned and operated internet.
-  favicon: ""
   # theme
   site_logo: /images/logo.svg
   featured_image: /images/hero.jpg
@@ -82,4 +77,5 @@ params:
 markup:
   goldmark:
     renderer:
+      # Allow HTML in markdown
       unsafe: true

@@ -38,7 +38,7 @@ nav > div > a > img {
 nav > div > a:after {
   content: "Philly Community Wireless";
   display: block;
-  width: 100px;
+  width: 0;
   float: right;
   padding-left: 20px;
   font-family: "Nunito Sans", sans-serif;
