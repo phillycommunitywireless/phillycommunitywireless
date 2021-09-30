@@ -9,6 +9,10 @@ languages:
     contentDir: content/en
     title: Philly Community Wireless
     weight: 1
+  sp:
+    contentDir: content/sp
+    title: Philly Community Wireless
+    weight: 2
 
 taxonomies:
   tag: tags
