@@ -2,14 +2,6 @@
 date: 2021-09-30
 title: "People"
 ---
-{{< fa hands-helping >}} = organizers
-
-{{< fa cogs >}} = technologists
-
-{{< fa graduation-cap >}} = teachers
-
-{{< fa vial >}} = researchers
-<br/>
 ## Organizational leads
 
 {{< fa cogs >}}{{< fa vial >}} ・ ADMIN LEAD ・ **Alex Wermer-Colan** ・ Digital Scholarship Coordinator, Temple University, Scholars Studio
@@ -73,6 +65,14 @@ title: "People"
 {{< fa cogs >}} ・ Houman Saberi ・ Community Tech NY (New York)
 
 <br/>
+
+{{< fa hands-helping >}} = organizers
+
+{{< fa cogs >}} = technologists
+
+{{< fa graduation-cap >}} = teachers
+
+{{< fa vial >}} = researchers
 
 ## Norris Square Community Partners
 
