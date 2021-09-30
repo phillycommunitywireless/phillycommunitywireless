@@ -2,8 +2,6 @@
 date: 2021-09-30
 title: "Acerca de Nosotros"
 ---
-# Acerca de nosotros
-
 ## El Proyecto 
 
 Nuestro equipo incluye voluntarios y personal de una amplia gama de organizaciones locales y nacionales. Para obtener más información, visite nuestra página Personas.
