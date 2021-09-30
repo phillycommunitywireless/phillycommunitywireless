@@ -10,7 +10,6 @@ languages:
     contentDir: content/en
     menu:
       main:
-<<<<<<< HEAD
         # - name: Home
         #   url: /
         #   weight: 0
@@ -64,61 +63,6 @@ languages:
             external: true
           weight: 10
     weight: 2
-=======
-      - name: Home
-        url: /
-        weight: 0
-      - name: About Us
-        url: /about
-        weight: 3
-      - name: Get Connected
-        url: /getconnected
-        weight: 1
-      - name: Volunteer
-        url: /volunteer
-        weight: 2
-      - name: FAQ
-        url: /faq
-        weight: 5
-      - name: People
-        url: /people
-        weight: 4
-      - name: Docs
-        url: https://docs.phillycommunitywireless.org/en/latest/
-        params:
-          external: true
-        weight: 6
-    weight: 10
-  sp:
-    languageName: Spanish
-    contentDir: content/sp
-    menu:
-      main:
-      - name: Pagina Principal
-        url: /sp/
-        weight: 0
-      - name: Acerca de Nuestros
-        url: /sp/about
-        weight: 3
-      - name: Conéctate
-        url: /sp/getconnected
-        weight: 1
-      - name: Voluntario
-        url: /sp/volunteer
-        weight: 2
-      - name: FAQ
-        url: /sp/faq
-        weight: 5
-      - name: Gente
-        url: /sp/people
-        weight: 4
-      - name: Docs
-        url: https://docs.phillycommunitywireless.org/en/latest/
-        params:
-          external: true
-        weight: 6
-    weight: 20
->>>>>>> 5ca056be4c1d0c3ae527dd1b01ff17b922e8d281
 
 params:
   # theme
