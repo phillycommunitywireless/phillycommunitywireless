@@ -11,7 +11,9 @@ title: "People"
 {{< fa hands-helping >}}{{< fa graduation-cap >}} ・ OUTREACH CO-LEAD ・ **Heather Lewis-Weber** ・ Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts
 
 {{< fa hands-helping >}} ・ OUTREACH CO-LEAD ・ **Kate Goodman** ・ Community Initiatives Specialist, Free Library of Philadelphia
+
 <br/>
+
 ## Staff
 
 {{< fa hands-helping >}} ・ COMMUNITY ENGAGEMENT LIAISON ・ **Chris Mehretab**
@@ -43,7 +45,9 @@ title: "People"
 {{< fa hands-helping >}} ・ Devren Washington ・ Senior Policy Organizer, Movement Alliance Project
 
 {{< fa vial >}} ・ Grant Wythoff ・ Digital Humanities Strategist, Center for Digital Humanities at Princeton University
+
 <br/>
+
 ## Technical Advisory Board
 
 {{< fa cogs >}} ・ Adam Bouhmad ・ Project WAVES (Baltimore)
@@ -66,7 +70,7 @@ title: "People"
 
 <br/>
 
-### Key
+#### Key
 
 {{< fa hands-helping >}} = organizers
 
@@ -98,7 +102,7 @@ title: "People"
 
 [Called to Serve](https://calledtoservecdc.org/)
 
-[Temple University's Computer Recycling Center's Digital Equity Center](https://news.temple.edu/news/2021-08-25/old-community-center-provides-new-workforce-services)
+[Temple University, Computer Recycling Center, Digital Equity Center](https://news.temple.edu/news/2021-08-25/old-community-center-provides-new-workforce-services)
 
 [HACE](https://www.hacecdc.org/)
 
@@ -111,6 +115,7 @@ title: "People"
 [PhillyWisper](https://phillywisper.net/)
 
 <br/>
+
 ## Allied Orgs
 
 [Digital Harbor Foundation](https://www.digitalharbor.org/), Baltimore
