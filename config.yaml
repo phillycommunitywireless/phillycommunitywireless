@@ -6,12 +6,22 @@ theme: pcw-hugo-theme
 
 languages:
   en:
+    languageName: English
     contentDir: content/en
-    title: Philly Community Wireless
+    menu:
+      main:
+      - name: Home
+        url: /
+        weight: 0
     weight: 1
   sp:
+    languageName: Spanish
     contentDir: content/sp
-    title: Philly Community Wireless
+    menu:
+      main:
+      - name: Pagina Principal
+        url: /
+        weight: 0
     weight: 2
 
 taxonomies:
