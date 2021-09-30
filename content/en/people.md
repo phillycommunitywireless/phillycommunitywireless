@@ -50,7 +50,7 @@
 
 {{< fa vial >}} ・ Grant Wythoff ・ Digital Humanities Strategist, Center for Digital Humanities at Princeton University
 
-## Advisory Board
+## Technical Advisory Board
 
 {{< fa cogs >}} ・ Adam Bouhmad ・ Project WAVES (Baltimore)
 
