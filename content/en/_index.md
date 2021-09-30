@@ -10,6 +10,10 @@ omit_header_text: true
 
 We are currently partnering with residents and nonprofits organizations in the **Norris Square Park** neighborhood, offering free installations of network antennas on rooftops to expand the public wifi signal around the neighborhood.
 
+Email: phillycommunitywireless@gmail.com
+Phone: 215-316-5761
+[Facebook](https://www.facebook.com/Philly-Community-Wireless-111328101173369/)
+
 ### **[Get Connected](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** to free wireless internet
 
 ### **[Volunteer](mailto:phillycommunitywireless@gmail.com)** to help build the network
