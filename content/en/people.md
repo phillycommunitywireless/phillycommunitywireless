@@ -9,7 +9,7 @@ title: "People"
 {{< fa graduation-cap >}} = teachers
 
 {{< fa vial >}} = researchers
-
+<br/>
 ## Organizational leads
 
 {{< fa cogs >}}{{< fa vial >}} ・ ADMIN LEAD ・ **Alex Wermer-Colan** ・ Digital Scholarship Coordinator, Temple University, Scholars Studio
@@ -19,7 +19,7 @@ title: "People"
 {{< fa hands-helping >}}{{< fa graduation-cap >}} ・ OUTREACH CO-LEAD ・ **Heather Lewis-Weber** ・ Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts
 
 {{< fa hands-helping >}} ・ OUTREACH CO-LEAD ・ **Kate Goodman** ・ Community Initiatives Specialist, Free Library of Philadelphia
-
+<br/>
 ## Staff
 
 {{< fa hands-helping >}} ・ COMMUNITY ENGAGEMENT LIAISON ・ **Chris Mehretab**
@@ -51,7 +51,7 @@ title: "People"
 {{< fa hands-helping >}} ・ Devren Washington ・ Senior Policy Organizer, Movement Alliance Project
 
 {{< fa vial >}} ・ Grant Wythoff ・ Digital Humanities Strategist, Center for Digital Humanities at Princeton University
-
+<br/>
 ## Technical Advisory Board
 
 {{< fa cogs >}} ・ Adam Bouhmad ・ Project WAVES (Baltimore)
@@ -90,6 +90,8 @@ title: "People"
 
 [West Kensington Ministries](https://westkensingtonministry.com/)
 
+<br/>
+
 ## Philly Community Partners
 
 [Called to Serve](https://calledtoservecdc.org/)
@@ -106,6 +108,7 @@ title: "People"
 
 [PhillyWisper](https://phillywisper.net/)
 
+<br/>
 ## Allied Orgs
 
 [Digital Harbor Foundation](https://www.digitalharbor.org/), Baltimore
@@ -122,6 +125,7 @@ title: "People"
 
 [X-Lab](https://thexlab.org/), Washington, DC
 
+<br/>
 ## Funders
 
 [Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/), The Mayor's Fund for Philadelphia
