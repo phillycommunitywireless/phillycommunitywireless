@@ -1,4 +1,8 @@
-# About/Acerca de nosotros
+---
+date: 2021-09-30
+title: "Acerca de Nosotros"
+---
+# Acerca de nosotros
 
 ## El Proyecto 
 
@@ -32,9 +36,9 @@ Una subvención de dos años de la Alianza de Alfabetización Digital del Fondo 
 
 ## Lo que necesitamos
 
-"Aproximadamente $200 pueden conectar permanentemente una casa a Internet de alta velocidad, sin facturas mensuales".
+> <p class="f3"><i>"Aproximadamente $200 pueden conectar permanentemente una casa a Internet de alta velocidad, sin facturas mensuales".</i></p>
 
-Actualmente estamos buscando organizaciones comunitarias y propietarios de edificios en los vecindarios de Fairhill y Kensington que estén dispuestos a alojar antenas de red en sus tejados, y a llevar a cabo actividades de alcance comunitario acerca de esta conexión de red gratuita. ¡Regístrate!
+Actualmente estamos buscando organizaciones comunitarias y propietarios de edificios en los vecindarios de Fairhill y Kensington que estén dispuestos a alojar antenas de red en sus tejados, y a llevar a cabo actividades de alcance comunitario acerca de esta conexión de red gratuita. [¡Regístrate!](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)
 
 Buscamos técnicos con experiencia en ingeniería de redes para ayudar a instalar y mantener las conexiones de red. 
 
@@ -54,13 +58,22 @@ El progreso, las ciudades luchan por poner fin a la brecha digital urbana, 9/16/
 
 ## Estado de la red
 
-Instalado Norris Square Park Public Wifi
-Instalado West Kensington Ministries
-Instalado Norris Square Neighborhood Project
-Instalado Las Parcelas Gardens
-Sitios identificados Norris Square Community Alliance
-Sitios identificados Open Kitchen Sculpture Garden
-Sitios identificados Kensington Library
-Sitios identificados GALAEI
-En conversación Village of the Arts and Humanities
-En conversación Temple University
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> Norris Square Park Public Wifi
+
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> West Kensington Ministries
+
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> Norris Square Neighborhood Project
+
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> Las Parcelas Gardens
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sitios identificados</span> Norris Square Community Alliance
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sitios identificados</span> Open Kitchen Sculpture Garden
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sitios identificados</span> Kensington Library
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sitios identificados</span> GALAEI
+
+<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">en conversación</span> Village of the Arts and Humanities
+
+<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">en conversación</span> Temple University
