@@ -2,6 +2,7 @@
 date: 2014-04-09
 title: "About"
 ---
+For Spanish, visit [Acerca de nuestros]((https://phillycommunitywireless.org/acerca/)
 
 # The Project
 
