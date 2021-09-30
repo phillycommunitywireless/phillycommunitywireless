@@ -2,9 +2,6 @@
 date: 2021-09-30
 title: "People"
 ---
-
-# People
-
 {{< fa hands-helping >}} = organizers
 
 {{< fa cogs >}} = technologists
