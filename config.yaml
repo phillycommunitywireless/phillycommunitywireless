@@ -40,22 +40,22 @@ languages:
     menu:
       main:
       - name: Pagina Principal
-        url: /
+        url: /sp/
         weight: 0
       - name: Acerca de Nuestros
-        url: /about
+        url: /sp/about
         weight: 3
-      - name: Get Connected
-        url: /getconnected
+      - name: Conéctate
+        url: /sp/getconnected
         weight: 1
-      - name: Volunteer
-        url: /volunteer
+      - name: Voluntario
+        url: /sp/volunteer
         weight: 2
       - name: FAQ
-        url: /faq
+        url: /sp/faq
         weight: 5
-      - name: People
-        url: /people
+      - name: Gente
+        url: /sp/people
         weight: 4
       - name: Docs
         url: https://docs.phillycommunitywireless.org/en/latest/
@@ -78,10 +78,6 @@ params:
   body_classes: helvetica black
   custom_css:
     - custom.css
-
-menu:
-  main:
-
 
 markup:
   goldmark:
