@@ -32,7 +32,7 @@ languages:
         url: https://docs.phillycommunitywireless.org/en/latest/
         params:
           external: true
-        weight: 10
+        weight: 6
     weight: 10
   sp:
     languageName: Spanish
@@ -61,8 +61,8 @@ languages:
         url: https://docs.phillycommunitywireless.org/en/latest/
         params:
           external: true
-        weight: 20
-    weight: 2
+        weight: 6
+    weight: 20
 
 taxonomies:
   tag: tags
