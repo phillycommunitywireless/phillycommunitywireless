@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://phillycommunitywireless.org/sp/acerca/</loc>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://phillycommunitywireless.org/sp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sp"
+                href="https://phillycommunitywireless.org/sp/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/sp/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sp"
+                href="https://phillycommunitywireless.org/sp/tags/"
+                />
+  </url>
+</urlset>
