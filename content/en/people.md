@@ -127,7 +127,6 @@ title: "People"
 
 [X-Lab](https://thexlab.org/), Washington, DC
 
-<br/>
 
 ## Funders
 
