@@ -41,8 +41,7 @@
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
     <a href="#main" class="absolute top--2 bg-white pa1 br2 f4" >Skip to content</a>
-    <style>[href="#main"]:focus { top: 0; }
-    </style>
+    <style>[href="#main"]:focus { top: 0; }</style>
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     <main class="pb7" role="main" id="main">
       {{ block "main" . }}{{ end }}
