@@ -3,7 +3,6 @@ date: 2021-09-30
 title: "FAQ"
 toc: true
 ---
-
 ## What is Philly Community Wireless?
 
 Philly Community Wireless is a project to develop community-owned mesh networks in North Philly. We are a working group of organizers, technologists, academics, public school teachers, and City Hall staffers in Philadelphia. During a time of social distancing and online teaching, roughly half of the city’s public school students lack a wifi connection at home. In certain neighborhoods, even more residents lack any connection to the Internet. We seek to address the city's digital divide with community-owned and -operated mesh network technologies.

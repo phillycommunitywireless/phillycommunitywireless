@@ -2,14 +2,6 @@
 date: 2021-09-30
 title: "People"
 ---
-{{< fa hands-helping >}} = organizers
-
-{{< fa cogs >}} = technologists
-
-{{< fa graduation-cap >}} = teachers
-
-{{< fa vial >}} = researchers
-
 ## Organizational leads
 
 {{< fa cogs >}}{{< fa vial >}} ・ ADMIN LEAD ・ **Alex Wermer-Colan** ・ Digital Scholarship Coordinator, Temple University, Scholars Studio
@@ -19,6 +11,8 @@ title: "People"
 {{< fa hands-helping >}}{{< fa graduation-cap >}} ・ OUTREACH CO-LEAD ・ **Heather Lewis-Weber** ・ Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts
 
 {{< fa hands-helping >}} ・ OUTREACH CO-LEAD ・ **Kate Goodman** ・ Community Initiatives Specialist, Free Library of Philadelphia
+
+<br/>
 
 ## Staff
 
@@ -52,6 +46,8 @@ title: "People"
 
 {{< fa vial >}} ・ Grant Wythoff ・ Digital Humanities Strategist, Center for Digital Humanities at Princeton University
 
+<br/>
+
 ## Technical Advisory Board
 
 {{< fa cogs >}} ・ Adam Bouhmad ・ Project WAVES (Baltimore)
@@ -74,6 +70,16 @@ title: "People"
 
 <br/>
 
+#### Key
+
+{{< fa hands-helping >}} = organizers
+
+{{< fa cogs >}} = technologists
+
+{{< fa graduation-cap >}} = teachers
+
+{{< fa vial >}} = researchers
+
 ## Norris Square Community Partners
 
 [Friends of Norris Square Park](https://www.facebook.com/friendsofnorrissquarepark/)
@@ -90,11 +96,13 @@ title: "People"
 
 [West Kensington Ministries](https://westkensingtonministry.com/)
 
+<br/>
+
 ## Philly Community Partners
 
 [Called to Serve](https://calledtoservecdc.org/)
 
-[Temple University's Computer Recycling Center's Digital Equity Center](https://news.temple.edu/news/2021-08-25/old-community-center-provides-new-workforce-services)
+[Temple University, Computer Recycling Center, Digital Equity Center](https://news.temple.edu/news/2021-08-25/old-community-center-provides-new-workforce-services)
 
 [HACE](https://www.hacecdc.org/)
 
@@ -105,6 +113,8 @@ title: "People"
 [Philly Tech Justice](https://phillytechjustice.org/)
 
 [PhillyWisper](https://phillywisper.net/)
+
+<br/>
 
 ## Allied Orgs
 
@@ -121,6 +131,7 @@ title: "People"
 [MetaMesh](https://www.metamesh.org/), Pittsburgh
 
 [X-Lab](https://thexlab.org/), Washington, DC
+
 
 ## Funders
 
