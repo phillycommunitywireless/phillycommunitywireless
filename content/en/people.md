@@ -18,6 +18,8 @@ title: "People"
 
 {{< fa hands-helping >}} ・ COMMUNITY ENGAGEMENT LIAISON ・ **Chris Mehretab**
 
+<br/>
+
 ## PCW Steering Committee
 
 {{< fa cogs >}} ・ Will Dean ・ Research and Data Services Librarian, Temple University Libraries
@@ -80,6 +82,8 @@ title: "People"
 
 {{< fa vial >}} = researchers
 
+<br/>
+
 ## Norris Square Community Partners
 
 [Friends of Norris Square Park](https://www.facebook.com/friendsofnorrissquarepark/)
@@ -132,6 +136,7 @@ title: "People"
 
 [X-Lab](https://thexlab.org/), Washington, DC
 
+<br/>
 
 ## Funders
 
