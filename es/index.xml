@@ -9,13 +9,67 @@
     <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acerca de Nosotros</title>
-      <link>https://phillycommunitywireless.org/es/acerca/</link>
+      <link>https://phillycommunitywireless.org/es/about/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://phillycommunitywireless.org/es/acerca/</guid>
+      <guid>https://phillycommunitywireless.org/es/about/</guid>
       <description>El Proyecto Nuestro equipo incluye voluntarios y personal de una amplia gama de organizaciones locales y nacionales. Para obtener más información, visite nuestra página Personas.
 Los Valores Creemos que el acceso a Internet es un derecho humano fundamental y que la tecnología inalámbrica independiente, de propiedad comunitaria y operada es un medio sostenible y escalable de inclusión digital.
 Somos compatibles con los principios de neutralidad de la red y creemos que Internet debe proporcionarse sin necesidad de limitación, calificación cero y seguimiento y monetización del comportamiento de los usuarios.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://phillycommunitywireless.org/es/faq/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/faq/</guid>
+      <description>What is Philly Community Wireless? Philly Community Wireless is a project to develop community-owned mesh networks in North Philly. We are a working group of organizers, technologists, academics, public school teachers, and City Hall staffers in Philadelphia. During a time of social distancing and online teaching, roughly half of the city’s public school students lack a wifi connection at home. In certain neighborhoods, even more residents lack any connection to the Internet.</description>
+    </item>
+    
+    <item>
+      <title>Get connected</title>
+      <link>https://phillycommunitywireless.org/es/getconnected/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/getconnected/</guid>
+      <description>If you live in the Norris Square Park neighborhood of North Philadelphia and would like to sign up to host a rooftop antenna or a mesh kit in your home, please fill out our Sign Up Form!</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://phillycommunitywireless.org/es/people/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/people/</guid>
+      <description>Organizational leads    ・ ADMIN LEAD ・ Alex Wermer-Colan ・ Digital Scholarship Coordinator, Temple University, Scholars Studio
+  ・ TECH LEAD ・ Addie Barron ・ Independent Technologist
+   ・ OUTREACH CO-LEAD ・ Heather Lewis-Weber ・ Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts
+  ・ OUTREACH CO-LEAD ・ Kate Goodman ・ Community Initiatives Specialist, Free Library of Philadelphia
+ Staff   ・ COMMUNITY ENGAGEMENT LIAISON ・ Chris Mehretab</description>
+    </item>
+    
+    <item>
+      <title>Volunteer</title>
+      <link>https://phillycommunitywireless.org/es/volunteer/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/volunteer/</guid>
+      <description>Our network is being built by and for our communities.
+To get involved, just reach out to one of our team leads based on your area(s) of interest. Get in contact if you have or are interested in developing the following skills:
+Outreach  Community engagement Grant writing Canvassing &amp;amp; flyering Spanish-language proficiency Merch and printing Graphic design  Email Heather at outreach@phillycommunitywireless.org
+Tech  Networking (network design, security, protocols, hardware, mesh protocols) Hardware and electronics Public infrastructure Software development Documentation Graphic design GIS and mapping  Email Addie at tech@phillycommunitywireless.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Notice</title>
+      <link>https://phillycommunitywireless.org/es/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/privacy/</guid>
+      <description>Effective Date: March 1, 2021
+Last Updated: May 21, 2021
+ We at Philadelphia Community Wireless Project, a fiscally sponsored project of the Movement Alliance Project (&amp;quot;PCWP&amp;quot;, &amp;ldquo;us&amp;rdquo;, &amp;ldquo;our&amp;rdquo;, or &amp;ldquo;we&amp;quot;) are strongly committed to transparency, and we want you (&amp;quot;you&amp;rdquo; or &amp;ldquo;your&amp;quot;) to understand how we collect, use, share and protect your personal information, as well as how you can manage the personal information we collect. This Privacy Notice applies to your interactions with us, including attending our events or participating in our programs, or your use of our website (www.</description>
     </item>
     
   </channel>

@@ -2,8 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://phillycommunitywireless.org/es/acerca/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/about/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/es/faq/</loc>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/faq/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/es/getconnected/</loc>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/getconnected/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/getconnected/"
+                />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
@@ -18,6 +54,32 @@
                 href="https://phillycommunitywireless.org/es/"
                 />
   </url><url>
+    <loc>https://phillycommunitywireless.org/es/people/</loc>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/people/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/people/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/es/volunteer/</loc>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/volunteer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/volunteer/"
+                />
+  </url><url>
     <loc>https://phillycommunitywireless.org/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,6 +90,18 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://phillycommunitywireless.org/es/categories/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/es/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/privacy/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/tags/</loc>
