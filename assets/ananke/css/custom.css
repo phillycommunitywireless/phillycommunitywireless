@@ -5,6 +5,7 @@
 :root {
   --orange: rgb(255, 128, 0);
   --blue: rgb(93, 57, 255);
+
   --primary: var(--blue);
 }
 

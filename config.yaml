@@ -43,16 +43,16 @@ languages:
         #   url: /
         #   weight: 0
         - name: Conéctate
-          url: /conectate
+          url: /getconnected
           weight: 1
         - name: Voluntario
-          url: /voluntario
+          url: /volunteer
           weight: 2
         - name: Acerca
-          url: /acerca
+          url: /about
           weight: 3
-        - name: Gente
-          url: /gente
+        - name: Equipo
+          url: /people
           weight: 4
         - name: FAQ
           url: /faq
