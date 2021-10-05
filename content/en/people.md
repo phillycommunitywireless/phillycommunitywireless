@@ -84,6 +84,20 @@ title: "People"
 
 <br/>
 
+## Interns
+
+Tejas Gupta, Princeton University, 2020
+
+Amber Whetstone, Temple University (now at Cornell University), 2021
+
+Chris Mehretab, Temple University, 2021
+
+Sarah Fingerhood, University of Pennsylvania, 2021
+
+Anika Prakash, University of Pennsylvania, 2021
+
+<br/>
+
 ## Norris Square Community Partners
 
 [Friends of Norris Square Park](https://www.facebook.com/friendsofnorrissquarepark/)
