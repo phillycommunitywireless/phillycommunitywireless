@@ -10,7 +10,7 @@ Just before the COVID-19 pandemic hit, a detailed study published by the Federal
 
 Our vision extends beyond the current crisis. We seek a long term, sustainable, and affordable Internet for all in Philadelphia, rather than stopgap measures amid this emergency. 
 
-The Philly Community Wireless project is currently seeking to connect homes within a one-mile radius around Norris Square to free, net-neutral for at least the next decade. We strive to offer an alternative model for Internet access and to help cities and communities rethink about the Internet as a public utility by involving our users in the construction of the network. 
+The Philly Community Wireless project is currently seeking to connect homes within a one-mile radius around Norris Square to free, net-neutral broadband for at least the next decade. We strive to offer an alternative model for Internet access and to help cities and communities rethink about the Internet as a public utility by involving our users in the construction of the network. 
 
 Our goal is to help communities reclaim power through critical digital literacies. As PCW builds towards community-oriented stewardship the basic principles of network engineering and digital literacy so that they can be stewards of the technology, rather than merely recipients.
 
