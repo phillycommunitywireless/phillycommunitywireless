@@ -29,7 +29,8 @@ For technical information on the project, please see our [Docs page](https://doc
 
 ## How do I sign up to get connected?
 
-A:If you would like to host a rooftop antenna or a mesh kit in your home, please fill out the [join form](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) and look for an email with next steps.
+If you would like to host a rooftop antenna or a mesh kit in your home, please fill out the [join form](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) and look for an email with next steps.
+
 If you have any questions, or would like to volunteer with Philly Community Wireless, reach out via email at phillycommunitywireless@gmail.com.
 
 ## Is this actually free? Will it always be free?
