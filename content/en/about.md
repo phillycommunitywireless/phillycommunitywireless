@@ -52,7 +52,9 @@ And we need funding to purchase more hardware that will be donated to community 
 
 If you'd like to help in any way, please email us at phillycommunitywireless@gmail.com.
 
-## Local News Coverage
+## In the Press
+
+Temple Now, [Philly Community Wireless offers internet for the community, by the community](https://news.temple.edu/news/2021-10-07/philly-community-wireless-offers-internet-community-community), 10/7/2021
 
 The Progress, [Cities Struggle to End the Urban Digital Divide](https://progressive.org/latest/urban-digital-divide-rosen-210916/), 9/16/2021
 
