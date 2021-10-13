@@ -2,85 +2,113 @@
 date: 2021-09-30
 title: "People"
 ---
+
+{{< fa hands-helping >}} = organizer \
+{{< fa cogs >}} = technologist \
+{{< fa graduation-cap >}} = teacher \
+{{< fa vial >}} = researcher
+
 ## Organizational leads
 
-{{< fa cogs >}}{{< fa vial >}} ・ ADMIN LEAD ・ **Alex Wermer-Colan** ・ Digital Scholarship Coordinator, Temple University, Scholars Studio
+**Admin Lead**
 
-{{< fa cogs >}} ・ TECH LEAD ・ **Addie Barron** ・ Independent Technologist
+Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
+_Digital Scholarship Coordinator, Temple University, Scholars Studio_
 
-{{< fa hands-helping >}}{{< fa graduation-cap >}} ・ OUTREACH CO-LEAD ・ **Heather Lewis-Weber** ・ Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts
+**Tech Lead**
 
-{{< fa hands-helping >}} ・ OUTREACH CO-LEAD ・ **Kate Goodman** ・ Community Initiatives Specialist, Free Library of Philadelphia
+Addie Barron {{< fa cogs >}} \
+_Independent Technologist_
 
-<br/>
+**Outreach Leads**
+
+Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
+_Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts_
+
+Kate Goodman {{< fa hands-helping >}} \
+_Community Initiatives Specialist, Free Library of Philadelphia_
+
+<br>
 
 ## Staff
 
-{{< fa hands-helping >}} ・ COMMUNITY ENGAGEMENT LIAISON ・ **Chris Mehretab**
+**Community Engagement Liaison**
 
-<br/>
+Chris Mehretab {{< fa hands-helping >}}
+
+<br>
 
 ## PCW Steering Committee
 
-{{< fa cogs >}} ・ Will Dean ・ Research and Data Services Librarian, Temple University Libraries
+Will Dean {{< fa cogs >}} \
+_Research and Data Services Librarian, Temple University Libraries_
 
-{{< fa cogs >}} ・ Helyx Chase Scearce Horwitz ・ Information Systems and Technology Manager, Movement Alliance Project
+Helyx Chase Scearce Horwitz {{< fa cogs >}} \
+_Information Systems and Technology Manager, Movement Alliance Project_
 
-{{< fa cogs >}} ・ Jonathan Latko ・ Computer Recycling Center, Temple University
+Jonathan Latko {{< fa cogs >}} \
+_Computer Recycling Center, Temple University_
 
-{{< fa vial >}}{{< fa graduation-cap >}} ・ Jessa Lingel ・ Associate Professor, Annenberg School for Communication, University of Pennsylvania
+Jessa Lingel {{< fa vial >}}{{< fa graduation-cap >}} \
+_Associate Professor, Annenberg School for Communication, University of Pennsylvania_
 
-{{< fa hands-helping >}} ・ Rev. Michael A. Major ・ Board President, Called to Serve CDC
+Rev. Michael A. Major {{< fa hands-helping >}} \
+_Board President, Called to Serve CDC_
 
-{{< fa cogs >}} ・ Jen Meagher ・ Product Manager
+Jen Meagher {{< fa cogs >}} \
+_Product Manager_
 
-{{< fa vial >}} ・ Sascha Meinrath ・ Palmer Chair in Telecommunications, Bellisario College of Communications, Pennsylvania State University
+Sascha Meinrath {{< fa vial >}} \
+_Palmer Chair in Telecommunications, Bellisario College of Communications, Pennsylvania State University_
 
-{{< fa hands-helping >}} ・ Stasia Monteiro ・ NAC Program Director, HACE
+Stasia Monteiro {{< fa hands-helping >}} \
+_NAC Program Director, HACE_
 
-{{< fa cogs >}} ・ Jennifer Oxenford ・ Director, Member Services and NYC Dark Fiber Program at NYSERNet
+Jennifer Oxenford {{< fa cogs >}} \
+_Director, Member Services and NYC Dark Fiber Program at NYSERNet_
 
-{{< fa cogs >}} ・ Mark Steckel ・ Founder, PhillyWisper
+Mark Steckel {{< fa cogs >}} \
+_Founder, PhillyWisper_
 
-{{< fa cogs >}} ・ Tim Traversy ・ Software Engineer
+Tim Traversy {{< fa cogs >}} \
+_Software Engineer_
 
-{{< fa hands-helping >}} ・ Devren Washington ・ Senior Policy Organizer, Movement Alliance Project
+Devren Washington {{< fa hands-helping >}} \
+_Senior Policy Organizer, Movement Alliance Project_
 
-{{< fa vial >}} ・ Grant Wythoff ・ Digital Humanities Strategist, Center for Digital Humanities at Princeton University
+Grant Wythoff {{< fa vial >}} \
+_Digital Humanities Strategist, Center for Digital Humanities at Princeton University_
 
 <br/>
 
 ## Technical Advisory Board
 
-{{< fa cogs >}} ・ Adam Bouhmad ・ Project WAVES (Baltimore)
+Adam Bouhmad {{< fa cogs >}} \
+_Project WAVES (Baltimore)_
 
-{{< fa cogs >}} ・ Greta Byrum ・ Community Tech NY (New York)
+Greta Byrum {{< fa cogs >}} \
+_Community Tech NY (New York)_
 
-{{< fa cogs >}} ・ Andrew Coy ・ Digital Harbor Foundation (Baltimore)
+Andrew Coy {{< fa cogs >}} \
+_Digital Harbor Foundation (Baltimore)_
 
-{{< fa cogs >}} ・ Raul Enriquez ・ Community Tech NY (New York)
+Raul Enriquez {{< fa cogs >}} \
+_Community Tech NY (New York)_
 
-{{< fa cogs >}} ・ David L. Johnson ・ iNethi (Cape Town, South Africa)
+David L. Johnson {{< fa cogs >}} \
+_iNethi (Cape Town, South Africa)_
 
-{{< fa cogs >}} ・ Adam Longwill ・ Meta Mesh (Pittsburgh)
+Adam Longwill {{< fa cogs >}} \
+_Meta Mesh (Pittsburgh)_
 
-{{< fa hands-helping >}} ・ Ani Martinez ・ Remake Learning (Pittsburgh)
+Ani Martinez {{< fa hands-helping >}} \
+_Remake Learning (Pittsburgh)_
 
-{{< fa graduation-cap >}} ・ Franca Muller Paz ・ Baltimore Teachers Union (Baltimore)
+Franca Muller Paz {{< fa graduation-cap >}} \
+_Baltimore Teachers Union (Baltimore)_
 
-{{< fa cogs >}} ・ Houman Saberi ・ Community Tech NY (New York)
-
-<br/>
-
-#### Key
-
-{{< fa hands-helping >}} = organizers
-
-{{< fa cogs >}} = technologists
-
-{{< fa graduation-cap >}} = teachers
-
-{{< fa vial >}} = researchers
+Houman Saberi {{< fa cogs >}} \
+_Community Tech NY (New York)_
 
 <br/>
 
