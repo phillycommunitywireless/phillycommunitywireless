@@ -1,9 +1,9 @@
 ---
 date: 2021-09-30
-title: "Pagina Principal"
+title: Pagina Principal
 omit_header_text: true
----
 
+---
 **_La versión en español de este sitio está en desarrollo._**
 
 **Philly Community Wireless** (PCW) está construyendo infraestructuras de Internet de propiedad y operadas por la comunidad para democratizar el acceso a la información, promover la alfabetización digital y luchar contra la inequidad digital con un servicio de banda ancha libre y neutral en el norte de Filadelfia.
@@ -14,12 +14,12 @@ Actualmente estamos colaborando con residentes y organizaciones sin fines de luc
 
 [Facebook](https://www.facebook.com/Philly-Community-Wireless-111328101173369/)<br/>
 
-### **[Conéctese](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** a Internet inalámbrico gratuito
+### [**Conéctese**](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) a Internet inalámbrico gratuito
 
-### **[Voluntario](mailto:phillycommunitywireless@gmail.com)** para ayudar a construir la red
+### [**Voluntario**](mailto:phillycommunitywireless@gmail.com) para ayudar a construir la red
 
-### **[Más información ](https://phillycommunitywireless.org/faq/)** en nuestras preguntas frecuentes
+### [**Más información**](https://phillycommunitywireless.org/faq/)  en nuestras preguntas frecuentes
 
-### **[Suscríbete](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631)** a nuestro boletín de noticias para recibir actualizaciones.
+### [**Suscríbete**](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) a nuestro boletín de noticias para recibir actualizaciones.
 
-### **[Doná](https://phillycommunitywireless.wedid.it/)!\***
+### [**Doná**](https://phillycommunitywireless.wedid.it/)**!**
