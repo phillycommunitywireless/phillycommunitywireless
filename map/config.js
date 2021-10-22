@@ -15,7 +15,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Display Title',
-            image: './path/to/image/source.png',
+            image: './images/rooftop_antenna.jpg',
             description: 'Philly Community Wireless is building a community-owned wireless network in the North Philadelphia neighborhood of Norris Square.',
             location: {
                 center: [-122.418398, 37.759483],
