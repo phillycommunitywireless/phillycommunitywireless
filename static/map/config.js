@@ -44,7 +44,7 @@ var config = {
             id: '2',
             alignment: 'right',
             hidden: false,
-            title: 'Norris Square',
+            title: 'Norris Square Neighborhood Project',
             image: './images/mounting_antenna.jpg',
             description: 'The first stage of our pilot in Norris Square involves installing anchor antennas on blocks around the neighborhood.',
             location: {
@@ -52,6 +52,25 @@ var config = {
                 zoom: 16.34,
                 pitch: 0.00,
                 bearing: 0.00,
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '3',
+            alignment: 'right',
+            hidden: false,
+            title: 'Norris Square Park',
+            image: './images/park_sign.jpg',
+            description: 'After installing antennas on West Kensington Ministry and Norris Square Neighborhood Project properties, we are able to project free wifi into Norris Square Park.',
+            location: {
+                center: { lon: -75.13381, lat: 39.98319 },
+                zoom: 17.00,
+                pitch: 4.50,
+                bearing: 0.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
