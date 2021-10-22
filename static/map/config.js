@@ -45,7 +45,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Norris Square',
-            image: '.images/mounting_antenna.jpg',
+            image: './images/mounting_antenna.jpg',
             description: 'Installing an antenna in Norris Square.',
             location: {
                 center: { lon: -75.13473, lat: 39.98269 },
