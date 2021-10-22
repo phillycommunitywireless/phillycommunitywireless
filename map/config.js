@@ -8,7 +8,7 @@ var config = {
     title: 'Philly Community Wireless',
     subtitle: 'Building a community wireless broadband network in Philadelphia',
     byline: 'Internet for the people by the people',
-    footer: 'Source: source citations, etc.',
+    footer: 'Philly Community Wireless',
     chapters: [
         {
             id: 'slug-style-id',
