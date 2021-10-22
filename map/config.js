@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/mapbox/streets-v11',
+    style: 'mapbox://styles/alwermercolan/ckv2tkazn42hr14mhv7fctvek',
     accessToken: 'pk.eyJ1IjoiYWx3ZXJtZXJjb2xhbiIsImEiOiJja3RwMzZ3amIwaWo1MnFwM2c4cnFlNmRiIn0.un65ev7gjiwE3NIMedmARA',
     showMarkers: true,
     markerColor: '#3FB1CE',
@@ -11,7 +11,7 @@ var config = {
     footer: 'Philly Community Wireless',
     chapters: [
         {
-            id: 'slug-style-id',
+            id: '1',
             alignment: 'left',
             hidden: false,
             title: 'North Philadelphia',
@@ -41,12 +41,12 @@ var config = {
             ]
         },
         {
-            id: 'other-identifier',
+            id: '2',
             alignment: 'right',
             hidden: false,
             title: 'Norris Square',
             image: './images/mounting_antenna.jpg',
-            description: 'Installing an antenna in Norris Square.',
+            description: 'The first stage of PCW's pilot in Norris Square involves installing anchor antennas on blocks around the neighborhood.',
             location: {
                 center: { lon: -75.13473, lat: 39.98269 },
                 zoom: 16.34,
