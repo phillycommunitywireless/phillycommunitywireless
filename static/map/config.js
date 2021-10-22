@@ -46,7 +46,7 @@ var config = {
             hidden: false,
             title: 'Norris Square',
             image: './images/mounting_antenna.jpg',
-            description: 'The first stage of PCW's pilot in Norris Square involves installing anchor antennas on blocks around the neighborhood.',
+            description: 'The first stage of our pilot in Norris Square involves installing anchor antennas on blocks around the neighborhood.',
             location: {
                 center: { lon: -75.13473, lat: 39.98269 },
                 zoom: 16.34,
