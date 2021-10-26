@@ -1,50 +1,53 @@
 ---
 date: 2021-09-30
-title: "People"
+title: People
+
 ---
-## Organizational leads
+## Líderes organizacionales
 
-{{< fa cogs >}}{{< fa vial >}} ・ ADMIN LEAD ・ **Alex Wermer-Colan** ・ Digital Scholarship Coordinator, Temple University, Scholars Studio
+{{< fa cogs >}}{{< fa vial >}} ・ Líder de Administración ・ **Alex Wermer-Colan** ・ Coordinador de Becas Digitales, Temple University, Scholars Studio
 
-{{< fa cogs >}} ・ TECH LEAD ・ **Addie Barron** ・ Independent Technologist
+{{< fa cogs >}} ・ Líder tecnológico・ **Addie Barron** ・ Tecnólogo Independiente
 
-{{< fa hands-helping >}}{{< fa graduation-cap >}} ・ OUTREACH CO-LEAD ・ **Heather Lewis-Weber** ・ Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts
+{{< fa hands-helping >}}{{< fa graduation-cap >}} ・ Co-líder de divulgación ・ **Heather Lewis-Weber** ・ Sr. Coordinador de Participación Comunitaria, Temple University, College of Liberal Arts
 
-{{< fa hands-helping >}} ・ OUTREACH CO-LEAD ・ **Kate Goodman** ・ Community Initiatives Specialist, Free Library of Philadelphia
+{{< fa hands-helping >}} ・ Co-líder de divulgación ・ **Kate Goodman** ・ Especialista en Iniciativas Comunitarias, Free Library of Philadelphia
 
 <br/>
 
-## Staff
+## Personal
 
-{{< fa hands-helping >}} ・ COMMUNITY ENGAGEMENT LIAISON ・ **Chris Mehretab**
+{{< fa hands-helping >}} ・ Enlace de participación comunitaria ・ **Chris Mehretab**・Senior de Ciencias Políticas/Especialización en Español, Temple University
 
-## PCW Steering Committee
+<br/>
 
-{{< fa cogs >}} ・ Will Dean ・ Research and Data Services Librarian, Temple University Libraries
+## Comité Directivo de PCW
 
-{{< fa cogs >}} ・ Helyx Chase Scearce Horwitz ・ Information Systems and Technology Manager, Movement Alliance Project
+{{< fa cogs >}} ・ Will Dean ・ Bibliotecario de Servicios de Investigación y Datos, Temple University Libraries
 
-{{< fa cogs >}} ・ Jonathan Latko ・ Computer Recycling Center, Temple University
+{{< fa cogs >}} ・ Helyx Chase Scearce Horwitz ・ Gerente de Sistemas de Información y Tecnología, Movement Alliance Project
 
-{{< fa vial >}}{{< fa graduation-cap >}} ・ Jessa Lingel ・ Associate Professor, Annenberg School for Communication, University of Pennsylvania
+{{< fa cogs >}} ・ Jonathan Latko ・ Centro de Reciclaje de Computadoras, Temple University
 
-{{< fa hands-helping >}} ・ Rev. Michael A. Major ・ Board President, Called to Serve CDC
+{{< fa vial >}}{{< fa graduation-cap >}} ・ Jessa Lingel ・ Profesora Titular, Annenberg School for Communication, University of Pennsylvania
 
-{{< fa cogs >}} ・ Jen Meagher ・ Product Manager
+{{< fa hands-helping >}} ・ Rev. Michael A. Major ・ Presidente de la Junta, Called to Serve CDC
 
-{{< fa vial >}} ・ Sascha Meinrath ・ Palmer Chair in Telecommunications, Bellisario College of Communications, Pennsylvania State University
+{{< fa cogs >}} ・ Jen Meagher ・ Gerente de Producto
 
-{{< fa hands-helping >}} ・ Stasia Monteiro ・ NAC Program Director, HACE
+{{< fa vial >}} ・ Sascha Meinrath ・ Cátedra Palmer en Telecomunicaciones, Bellisario College of Communications, Pennsylvania State University
+
+{{< fa hands-helping >}} ・ Stasia Monteiro ・ Director del Programa NAC, HACE
 
 {{< fa cogs >}} ・ Jennifer Oxenford ・ Director, Member Services and NYC Dark Fiber Program at NYSERNet
 
-{{< fa cogs >}} ・ Mark Steckel ・ Founder, PhillyWisper
+{{< fa cogs >}} ・ Mark Steckel ・ Fundador, PhillyWisper
 
-{{< fa cogs >}} ・ Tim Traversy ・ Software Engineer
+{{< fa cogs >}} ・ Tim Traversy ・ Ingeniero de software
 
-{{< fa hands-helping >}} ・ Devren Washington ・ Senior Policy Organizer, Movement Alliance Project
+{{< fa hands-helping >}} ・ Devren Washington ・ Organizador Senior de Políticas, Movement Alliance Project
 
-{{< fa vial >}} ・ Grant Wythoff ・ Digital Humanities Strategist, Center for Digital Humanities at Princeton University
+{{< fa vial >}} ・ Grant Wythoff ・ Estratega de Humanidades Digitales, Center for Digital Humanities at Princeton University
 
 <br/>
 
@@ -70,17 +73,19 @@ title: "People"
 
 <br/>
 
-#### Key
+#### Leyenda
 
-{{< fa hands-helping >}} = organizers
+{{< fa hands-helping >}} = organizadores
 
-{{< fa cogs >}} = technologists
+{{< fa cogs >}} = tecnólogos
 
-{{< fa graduation-cap >}} = teachers
+{{< fa graduation-cap >}} = maestros
 
-{{< fa vial >}} = researchers
+{{< fa vial >}} = investigadores
 
-## Norris Square Community Partners
+<br/>
+
+## Socios comunitarios de Norris Square
 
 [Friends of Norris Square Park](https://www.facebook.com/friendsofnorrissquarepark/)
 
@@ -98,7 +103,7 @@ title: "People"
 
 <br/>
 
-## Philly Community Partners
+## Socios de la comunidad de Philadelphia
 
 [Called to Serve](https://calledtoservecdc.org/)
 
@@ -116,7 +121,7 @@ title: "People"
 
 <br/>
 
-## Allied Orgs
+## Organizaciones aliadas
 
 [Digital Harbor Foundation](https://www.digitalharbor.org/), Baltimore
 
@@ -132,8 +137,7 @@ title: "People"
 
 [X-Lab](https://thexlab.org/), Washington, DC
 
-
-## Funders
+## Fundadores
 
 [Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/), The Mayor's Fund for Philadelphia
 
