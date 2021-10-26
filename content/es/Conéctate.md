@@ -1,6 +1,6 @@
 ---
 date: 2021-09-30
-title: Get connected
+title: Conéctate
 
 ---
 **Conéctate**
