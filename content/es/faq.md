@@ -1,71 +1,71 @@
 ---
 date: 2021-09-30
-title: "FAQ"
+title: FAQ
 toc: true
+
 ---
-## What is Philly Community Wireless?
+## ¿Qué es Philly Community Wireless?
 
-Philly Community Wireless is a project to develop community-owned mesh networks in North Philly. We are a working group of organizers, technologists, academics, public school teachers, and City Hall staffers in Philadelphia. During a time of social distancing and online teaching, roughly half of the city’s public school students lack a wifi connection at home. In certain neighborhoods, even more residents lack any connection to the Internet. We seek to address the city's digital divide with community-owned and -operated mesh network technologies.
+Philly Community Wireless es un proyecto para desarrollar redes de malla de propiedad comunitaria en North Philly. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros de escuelas públicas y personal del Ayuntamiento de Filadelfia. Durante una época de distanciamiento social y enseñanza en línea, aproximadamente la mitad de los estudiantes de las escuelas públicas de la ciudad carecen de conexión wifi en casa. En ciertos vecindarios, aún más residentes carecen de conexión a Internet. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla operadas y propiedad de la comunidad.
 
-Mesh networks allow a single Internet connection to be shared among a broader group of users with very little cost or infrastructure required. With the help of PhillyWisper, a pro-net neutrality, wireless internet service provider, we are working toward installing two pilot sites in Kensington and Fairhill. From there, we will plan participatory design workshops and technical training for the community that will empower them to maintain and grow this free network connection.
+Las redes de malla permiten compartir una única conexión a Internet entre un grupo más amplio de usuarios con muy poco coste o infraestructura necesaria. Con la ayuda de PhillyWisper, un proveedor de servicios de Internet inalámbrico, pro-neutral, estamos trabajando para instalar dos sitios piloto en Kensington y Fairhill. A partir de ahí, planearemos talleres de diseño participativo y capacitación técnica para la comunidad que los capacitará para mantener y hacer crecer esta conexión de red gratuita.
 
-## Why is Philly Community Wireless making a mesh network in Norris Square Park?
+## **¿**Por qué Philly Community Wireless está haciendo una red de malla en Norris Square Park?
 
-Building the project in Norris Square Park helps our organization build conversations between PCW and representatives from Latinx community organizations in Norris Square, which also stand to benefit from free internet. Not only will individuals gain access in their own homes, allowing them to do schoolwork, apply for jobs, and access online English classes, among other activities; community organizations can also expand programming, including live-streamed cooking and pottery classes or outdoor study spaces for students using computers.
+La construcción del proyecto en Norris Square Park ayuda a nuestra organización a entablar conversaciones entre PCW y representantes de las organizaciones comunitarias de Latinx en Norris Square, que también se beneficiarán de Internet gratuito. Los individuos no sólo tendrán acceso en sus propios hogares, permitiéndoles hacer trabajo escolar, solicitar empleo y acceder a clases de inglés en línea, entre otras actividades; las organizaciones comunitarias también pueden ampliar la programación, incluidas las clases de cocina y cerámica transmitidas en vivo o los espacios de estudio al aire libre para estudiantes que usan computadoras.
 
-Just before the COVID-19 pandemic hit, a detailed study published by the Federal Reserve Bank of Philadelphia found that a mere 53% of Black residents and 44% of Latinx residents in Philadelphia have broadband connections (Alvaro 2020). The pandemic has dramatically demonstrated the implications of this digital divide and exacerbated existing inequalities for students, business owners, job seekers, and many others.
+Justo antes del golpe de la pandemia COVID-19, un estudio detallado publicado por el Banco de la Reserva Federal de Filadelfia encontró que apenas el 53% de los residentes negros y el 44% de los residentes de Latinx en Filadelfia tienen conexiones de banda ancha (Álvaro 2020). La pandemia ha demostrado dramáticamente las implicaciones de esta brecha digital y ha exacerbado las desigualdades existentes para estudiantes, dueños de negocios, buscadores de empleo, y muchos otros.
 
-## What areas of the Norris Square Park neighborhood currently have wifi?
+## ¿Qué áreas del vecindario de Norris Square Park actualmente tienen wifi?
 
-The free public wifi network should be accessible in most areas of Norris Square Park. A two-year grant from the Digital Literacy Alliance is enabling us, in the first year, to connect at least 100 homes within a one-mile radius around Norris Square to high-speed internet, at no cost to the users, for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper). Neighboring streets are currently receiving wifi, as will many of the homes and buildings in the area. For updates on upcoming installs and service expansions, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
+La red wifi pública gratuita debe ser accesible en la mayoría de las zonas del parque Norris Square. Una subvención de dos años de la Digital Literacy Alliance nos permite, en el primer año, conectar al menos 100 hogares dentro de un radio de una milla alrededor de Norris Square a Internet de alta velocidad, sin costo para los usuarios, por lo menos durante la próxima década (La duración del acuerdo con nuestro proveedor de ancho de banda, PhillyWisper). Las calles vecinas están recibiendo wifi actualmente, al igual que muchas de las casas y edificios de la zona. Para obtener actualizaciones sobre las próximas instalaciones y expansiones de servicios, [suscríbase a nuestro boletín](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
-## What is the public wifi network name?
+## ¿Cuál es el nombre de la red wifi pública?
 
 Philly Community Wireless
 
-## How does it work?
+## ¿Cómo funciona?
 
-For technical information on the project, please see our [Docs page](https://docs.phillycommunitywireless.org/en/latest/).
+Para obtener información técnica sobre el proyecto, consulte nuestra [página de Documentos.](https://docs.phillycommunitywireless.org/en/latest/)
 
-## How do I sign up to get connected?
+## ¿Cómo me registro para conectarme?
 
-If you would like to host a rooftop antenna or a mesh kit in your home, please fill out the [join form](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) and look for an email with next steps.
-If you have any questions, or would like to volunteer with Philly Community Wireless, reach out via email at phillycommunitywireless@gmail.com.
+Si desea alojar una antena en la azotea o un kit de malla en su casa, rellene el formulario de inscripción y busque un correo electrónico con los siguientes pasos. Si tiene alguna pregunta, o desea ofrecerse como voluntario con Philly Community Wireless, puede ponerse en contacto por correo electrónico en phillycommunitywireless@gmail.com.
 
-## Is this actually free? Will it always be free?
+## ¿Es esto realmente gratis? ¿Será siempre gratis?
 
-Yes, as long as PCW exists. We will never ask for your payment information.
+Sí, siempre y cuando exista PCW. Nunca le pediremos su información de pago.
 
-## How fast/stable will the connection be?
+## ¿Qué tan rápida/estable será la conexión?
 
-We can’t promise consistent connection in any given area, but we aim to provide at least 25 mbps download speed in public and private spaces. Many areas of our network currently receive higher download speeds.
+No podemos prometer una conexión coherente en ninguna zona determinada, pero nuestro objetivo es proporcionar al menos 25 Mbps de velocidad de descarga en espacios públicos y privados. Muchas áreas de nuestra red reciben actualmente velocidades de descarga más altas.
 
-## Who do I contact if things go down?
+## ¿Con quién me comunico si el wifi se te va?
 
-Please contact us via (215) 316-5761 or email at phillycommunitywireless@gmail.com.
+Comuníquese con nosotros a través del (215) 316-5761 o envíe un correo electrónico a phillycommunitywireless@gmail.com.
 
-## How secure is the network? Who can access our information? Can anyone log in to our wifi?
+## ¿Qué tan segura es la red? ¿Quién puede acceder a nuestra información? ¿Cualquiera puede iniciar sesión en nuestro wifi?
 
-We don’t track user activity. We support net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior.
+No realizamos un seguimiento de la actividad de los usuarios. Apoyamos los principios de neutralidad de la red y creemos que Internet debe proporcionarse sin limitación, calificación cero y seguimiento y monetización del comportamiento de los usuarios.
 
-By joining our network you agree to extend it to others. When connecting through the mesh from the street you should use the same standard precautions as you would when connecting to WiFi at a coffee shop or airport: use https (lock icon) web sites for secure connections (most browsers do this by default nowadays), or use a VPN service.
+Al unirse a nuestra red, usted acepta extenderla a otros. Al conectarse a través de la malla desde la calle, debe utilizar las mismas precauciones estándar que al conectarse a WiFi en una cafetería o aeropuerto: Utilice los sitios Web https (icono de candado) para conexiones seguras (la mayoría de los navegadores lo hacen de forma predeterminada hoy en día) o utilice un servicio VPN.
 
-## Can I get hacked / is my personal information protected?
+## ¿Puedo ser hackeado / está protegida mi información personal?
 
-Nothing you do on the internet should be considered fully “private.”
+Nada de lo que hagas en Internet debe considerarse completamente "privado".
 
-## Will my activity or data on the internet be tracked by a third party?
+## ¿Mi actividad o datos en Internet serán rastreados por un tercero?
 
 No.
 
-## What is your user data policy?
+## ¿Cuál es su política de datos de usuario?
 
-Please see our [Privacy page](https://phillycommunitywireless.org/privacy/).
+Consulte nuestra [página de privacidad.](https://phillycommunitywireless.org/es/privacy/)
 
-## If I host an antenna on my roof, how does this affect the structural integrity of my house? Will extra drilling be involved?
+## Si alopón una antena en mi techo, ¿cómo afecta esto a la integridad estructural de mi casa? ¿Se involucraría una perforación adicional?
 
-Some homes will only need an indoor mesh antenna, plugged into a wall outlet. For homes that require a rooftop installation, an antenna will be attached to a chimney, or secured between cement blocks etc. Whenever possible we use non-penetrating roof mounts. Cables can be run into existing holes in your house. For more information, see our [Docs page on rooftop installations](https://docs.phillycommunitywireless.org/en/latest/rooftop%20installation/).
+Algunas casas sólo necesitan una antena de malla interior, enchufada a una toma de pared. Para las casas que requieren una instalación en la azotea, una antena será conectada a una chimenea, o asegurada entre bloques de cemento etc. Siempre que sea posible usamos montajes de techo no penetrantes. Los cables pueden entrar en los agujeros existentes de su casa. Para obtener más información, consulte nuestra [página Docs sobre instalaciones en tejados.](https://docs.phillycommunitywireless.org/en/latest/rooftop%20installation/)
 
-## How long can I stay connected to the network?
+## **¿Cuánto tiempo puedo permanecer conectado a la red?**
 
-Outside of 9-5 PM work hours, in order to avoid unintentional consumption of broadband, we will reset connections after 6 hours, requiring users to reconnect to the wifi.
+Fuera de las 9-5 PM horas de trabajo, para evitar el consumo involuntario de banda ancha, restableceremos las conexiones después de 6 horas, requiriendo que los usuarios se vuelvan a conectar al wifi.
