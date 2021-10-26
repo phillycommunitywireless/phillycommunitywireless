@@ -1,31 +1,31 @@
 ---
 date: 2021-09-30
-title: "Volunteer"
+title: Volunteer
+
 ---
+Nuestra red está siendo construida por y para nuestras comunidades. 
 
-Our network is being built by and for our communities.
+Para participar, solo tiene que ponerse en contacto con uno de nuestros jefes de equipo en función de sus áreas de interés. Póngase en contacto con usted si tiene o está interesado en desarrollar las siguientes habilidades:
 
-To get involved, just reach out to one of our team leads based on your area(s) of interest. Get in contact if you have or are interested in developing the following skills:
+### Equipo de divulgación
 
-### Outreach
+* Participación comunitaria
+* Escritura de la concesión
+* Prospección y volantes
+* Dominio del idioma español
+* Merchandising e impresión
+* Diseño gráfico
 
-- Community engagement
-- Grant writing
-- Canvassing & flyering
-- Spanish-language proficiency
-- Merch and printing
-- Graphic design
+Enviar un correo electrónico a Heather a outreach@phillycommunitywireless.org
 
-Email Heather at outreach@phillycommunitywireless.org
+### Tecnología
 
-### Tech
+* Redes (diseño de red, seguridad, protocolos, hardware, protocolos de malla)
+* Hardware y electrónica
+* Infraestructura pública
+* Desarrollo de software
+* Documentación
+* Diseño gráfico
+* SIG y cartografía
 
-- Networking (network design, security, protocols, hardware, mesh protocols)
-- Hardware and electronics
-- Public infrastructure
-- Software development
-- Documentation
-- Graphic design
-- GIS and mapping
-
-Email Addie at tech@phillycommunitywireless.org
+Enviar un correo electrónico a Addie a tech@phillycommunitywireless.org
