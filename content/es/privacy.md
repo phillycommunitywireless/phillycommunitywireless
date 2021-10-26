@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Privacy Notice
----
+title: Aviso de Privacidad
 
+---
 **Effective Date**: March 1, 2021
 
 **Last Updated**: May 21, 2021
