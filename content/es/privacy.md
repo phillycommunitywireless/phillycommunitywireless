@@ -3,9 +3,9 @@ layout: single
 title: Aviso de Privacidad
 
 ---
-Fecha de entrada en vigor: 1 de marzo de 2021
+**Fecha de entrada en vigor**: 1 de marzo de 2021
 
-**Last Updated**: May 21, 2021
+**Última actualización**: 21 de mayo de 2021
 
 ***
 
