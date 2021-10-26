@@ -9,32 +9,11 @@ title: Aviso de Privacidad
 
 ***
 
-We at Philadelphia Community Wireless Project, a fiscally sponsored
-project of the [Movement Alliance Project](https://movementalliance.org/) ("**PCWP**", "**us**",
-"**our**", or "**we**") are strongly committed to transparency, and we
-want you ("**you**" or "**your**") to understand how we collect, use,
-share and protect your personal information, as well as how you can
-manage the personal information we collect. This Privacy Notice applies
-to your interactions with us, including attending our events or
-participating in our programs, or your use of our website
-([www.phillycommunitywireless.com](http://www.phillycommunitywireless.com)),
-or using our wireless internet network (collectively, our
-"**Services**).
+Nosotros en Philadelphia Community Wireless Project, un proyecto patrocinado fiscalmente por el [Movement Alliance Project](https://movementalliance.org/) ("**PCWP**", "**nos**", "**nuestro**", o "**nosotros**") estamos fuertemente comprometidos con la transparencia, y le queremos ("**ti**" o "**tu**") comprender cómo recopilamos, utilizamos, compartimos y protegemos su información personal, así como cómo puede gestionar la información personal que recopilamos. Este Aviso de Privacidad se aplica a sus interacciones con nosotros, incluyendo asistir a nuestros eventos o participar en nuestros programas, o su uso de nuestro sitio web ([www.phillycommunitywireless.com](http://www.phillycommunitywireless.com)), o utilizando nuestra red inalámbrica de Internet (colectivamente, nuestro "**Servicios**").
 
-By using our Services, you acknowledge the terms of this Privacy Notice.
-If you do not agree to the terms of this Privacy Notice, please do not
-use our Services. If you do not understand, or if you have questions
-about, this Privacy Notice, please contact us before using, or
-continuing to use, our Services.
+Al utilizar nuestros Servicios, usted reconoce los términos de este Aviso de Privacidad.  Si no está de acuerdo con los términos de este Aviso de privacidad, no utilice nuestros Servicios. Si no entiende, o si tiene alguna pregunta acerca de este Aviso de privacidad, póngase en contacto con nosotros antes de utilizar, o continuar utilizando, nuestros Servicios.
 
-We reserve the right to change our Privacy Notice from time to time by
-posting the changes here. If we choose to amend this Privacy Notice, we
-will revise the Last Updated date at the top of this Privacy Notice when
-we post the updated version. We may also provide you with notice by
-prominently posting on our website, via email or both, if we make any
-significant changes to this Privacy Notice. Your use of our Services
-after we have informed you in one of these ways that we made changes to
-our Privacy Notice will mean that you have accepted those changes.
+Nos reservamos el derecho de cambiar de vez en cuando nuestro Aviso de privacidad mediante la publicación de los cambios aquí. Si decidimos modificar este aviso de privacidad, revisaremos la fecha de última actualización en la parte superior de este aviso de privacidad cuando publiquemos la versión actualizada. También podemos proporcionarle un aviso mediante publicado de forma destacada en nuestro sitio web, por correo electrónico o ambos, si realizamos cambios significativos en este Aviso de privacidad. Su uso de nuestros servicios. Una vez que le hayamos informado de una de estas formas en las que hemos realizado cambios nuestro Aviso de Privacidad significará que usted ha aceptado dichos cambios.
 
 1. [**TYPES OF INFORMATION WE COLLECT**](#30j0zll)
 2. [**HOW WE COLLECT PERSONAL
