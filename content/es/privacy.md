@@ -3,11 +3,11 @@ layout: single
 title: Aviso de Privacidad
 
 ---
-**Effective Date**: March 1, 2021
+Fecha de entrada en vigor: 1 de marzo de 2021
 
 **Last Updated**: May 21, 2021
 
-*******
+***
 
 We at Philadelphia Community Wireless Project, a fiscally sponsored
 project of the [Movement Alliance Project](https://movementalliance.org/) ("**PCWP**", "**us**",
@@ -36,19 +36,19 @@ significant changes to this Privacy Notice. Your use of our Services
 after we have informed you in one of these ways that we made changes to
 our Privacy Notice will mean that you have accepted those changes.
 
-1.  [**TYPES OF INFORMATION WE COLLECT**](#30j0zll)
-2.  [**HOW WE COLLECT PERSONAL
-    INFORMATION**](#lnxbz9)
-3.  [**HOW WE USE PERSONAL INFORMATION**](#j94hd7)
-4.  [**HOW WE SHARE PERSONAL INFORMATION**](#l5ns2o)
-5.  [**HOW WE PROTECT PERSONAL
-    INFORMATION**](#35nkun2)
-6.  [**CHILDREN'S PRIVACY**](#1ksv4uv)
-7.  [**YOUR CHOICES**](#1fob9te)
-8.  [**THIRD PARTY WEBSITE AND APPS**](#2jxsxqh)
+1. [**TYPES OF INFORMATION WE COLLECT**](#30j0zll)
+2. [**HOW WE COLLECT PERSONAL
+   INFORMATION**](#lnxbz9)
+3. [**HOW WE USE PERSONAL INFORMATION**](#j94hd7)
+4. [**HOW WE SHARE PERSONAL INFORMATION**](#l5ns2o)
+5. [**HOW WE PROTECT PERSONAL
+   INFORMATION**](#35nkun2)
+6. [**CHILDREN'S PRIVACY**](#1ksv4uv)
+7. [**YOUR CHOICES**](#1fob9te)
+8. [**THIRD PARTY WEBSITE AND APPS**](#2jxsxqh)
 9. [**CONTACT US**](#z337ya)
 
-********
+***
 
 ## 1. TYPES OF INFORMATION WE COLLECT {#30j0zll}
 
@@ -63,13 +63,12 @@ information**"). We may collect the following types of personal
 information from you depending upon the device you are using and how you
 interact with us or use or interact with our Services, such as your:
 
--   **Contact / Identification Information**. Name, mailing address,
-    email address, phone number, and other contact or identification
-    information.
-
--   **Device Information.** IP address, browser type and version,
-    browser plug-in types and versions, operating system and platform,
-    device type and device identifiers.
+* **Contact / Identification Information**. Name, mailing address,
+  email address, phone number, and other contact or identification
+  information.
+* **Device Information.** IP address, browser type and version,
+  browser plug-in types and versions, operating system and platform,
+  device type and device identifiers.
 
 Non-personal information includes information that does not personally
 identify you or information that has been anonymized (collectively,
@@ -88,19 +87,15 @@ with our Services, as well as to improve your experience. You may
 provide us with personal information in several ways, including, for
 example when you:
 
--   Visit our website or use our Services;
+* Visit our website or use our Services;
+* Correspond with us in any way;
+* Sign up to attend an event or program or to receive our newsletter
+  or promotional information;
+* Ask for support, or other assistance; or
+* Interact with us in any other way, online or offline, including
+  through our Services.
 
--   Correspond with us in any way;
-
--   Sign up to attend an event or program or to receive our newsletter
-    or promotional information;
-
--   Ask for support, or other assistance; or
-
--   Interact with us in any other way, online or offline, including
-    through our Services.
-
-***Cookies***
+**_Cookies_**
 
 Like many websites and apps, we use "cookies", which are small text
 files that are stored on your computer or equipment when you visit
@@ -109,11 +104,11 @@ how you use the website. We use this information for analytics purposes
 which allows us to improve your browsing experience. The information we
 collect through these technologies will also be used to manage your
 session. Out of these cookies, the cookies that are categorized as
-\"necessary\" are stored on your browser as they are essential for the
+"necessary" are stored on your browser as they are essential for the
 working of basic functionalities of the website. These necessary cookies
 cannot be disabled.
 
-***Cookie Opt-out.***
+**_Cookie Opt-out._**
 
 You can set your browser or device to refuse all
 cookies or to indicate when a cookie is being sent. If you delete your
@@ -124,7 +119,7 @@ detection of a [Do Not
 Track](https://www.consumer.ftc.gov/articles/0042-online-tracking)
 or similar signal.
 
-***Online Analytics***
+**_Online Analytics_**
 
 We also use various types of online analytics on our website. These
 online analytics services use cookies or other tracking technologies to
@@ -135,7 +130,7 @@ analytics services may collect information such as your IP address, time
 of visit, whether you are a return visitor, and any referring website or
 app.
 
-***Offline Interactions and Other Sources***
+**_Offline Interactions and Other Sources_**
 
 We also may collect personal information from other sources, such as our
 partners or third party service providers, or from our offline
@@ -144,7 +139,7 @@ Personal Information** section below, including to enable us to verify
 or update information contained in our records and to better customize
 the Services for you.
 
-***Surveys***
+**_Surveys_**
 
 From time to time, and subject to your consent where required by
 applicable local law, we may provide you with the opportunity to
@@ -164,38 +159,25 @@ containing survey or promotion communications.
 
 We may use personal information to do any or all of the following:
 
--   provide you with our Services;
-
--   facilitate your interactions and transactions with us;
-
--   respond to your requests, communications, suggestions, comments,
-    inquiries, and requests (including your feedback about our
-    Services);
-
--   administer our relationship with you, including creating and
-    managing your account;
-
--   maintain and improve our Services;
-
--   measure the performance of our Services;
-
--   develop new products, features, and services;
-
--   better understand the preferences of our customers;
-
--   respond to legally binding requests from law enforcement, regulatory
-    authorities, or other third parties;
-
--   defend, protect or enforce our rights or applicable terms of service
-    or to fulfill our legal or contractual obligations;
-
--   to prevent fraud or the recurrence of fraud;
-
--   assist in the event of an emergency;
-
--   comply with applicable law; or
-
--   any other purpose with your consent.
+* provide you with our Services;
+* facilitate your interactions and transactions with us;
+* respond to your requests, communications, suggestions, comments,
+  inquiries, and requests (including your feedback about our
+  Services);
+* administer our relationship with you, including creating and
+  managing your account;
+* maintain and improve our Services;
+* measure the performance of our Services;
+* develop new products, features, and services;
+* better understand the preferences of our customers;
+* respond to legally binding requests from law enforcement, regulatory
+  authorities, or other third parties;
+* defend, protect or enforce our rights or applicable terms of service
+  or to fulfill our legal or contractual obligations;
+* to prevent fraud or the recurrence of fraud;
+* assist in the event of an emergency;
+* comply with applicable law; or
+* any other purpose with your consent.
 
 Except as otherwise permitted or required by applicable law, we only
 retain personal information for as long as we need to use the
@@ -225,24 +207,19 @@ the security and confidentiality of your personal information.
 
 We share personal information with these third parties to help us:
 
--   with the uses described in the [How We Use Information](#j94hd7) section above;
-
--   in the operation, management, improvement, research and analysis of
-    our Services; and
-
--   comply with your directions or any consent you have provided us.
+* with the uses described in the [How We Use Information](#j94hd7) section above;
+* in the operation, management, improvement, research and analysis of
+  our Services; and
+* comply with your directions or any consent you have provided us.
 
 We may share personal information with law enforcement and regulatory
 authorities or other third parties as required or permitted by law for
 the purpose of:
 
--   responding to a subpoena, court order, or other legal processes;
-
--   defending, protecting, or enforcing our rights;
-
--   assisting in the event of a life threatening emergency; and
-
--   complying with applicable law.
+* responding to a subpoena, court order, or other legal processes;
+* defending, protecting, or enforcing our rights;
+* assisting in the event of a life threatening emergency; and
+* complying with applicable law.
 
 In accordance with applicable law, we may also transfer or assign
 personal information to third parties as a result of, or in connection
@@ -282,7 +259,7 @@ from children or those under the age of 13, please [contact us](#z337ya) immedia
 
 ## 7.  YOUR CHOICES {#1fob9te}
 
-***Email Communications / Direct Marketing***
+**_Email Communications / Direct Marketing_**
 
 You may have the opportunity to receive certain communications from us
 related to our Services. If you provide us with your email address in
@@ -293,7 +270,7 @@ may be necessary for the operation of our Services. You will continue to
 receive these necessary emails, if lawful and appropriate, even if you
 unsubscribe from our optional marketing communications.
 
-***Cookies / Beacons***
+**_Cookies / Beacons_**
 
 If you wish to minimize information collected by cookies or beacons, you
 can adjust the settings of your device or browser. You can also set your
@@ -302,7 +279,7 @@ able to install plug-ins and add-ins that serve similar functions.
 However, please be aware that some Services may not work properly if you
 reject cookies.
 
-***Do Not Track***
+**_Do Not Track_**
 
 Some devices and browsers support a "Do Not Track" (or, DNT) feature, a
 privacy preference that you can set in certain browsers, which is
@@ -336,7 +313,8 @@ before assisting with your request, such as verifying that the
 information used to contact us matches the information that we have on
 file.
 
-  ------------------ ------------------------------------
-  **Email:**   phillycommunitywireless\@gmail.com
+***
 
-  ------------------ ------------------------------------
+**Email:**   phillycommunitywireless@gmail.com
+
+***
