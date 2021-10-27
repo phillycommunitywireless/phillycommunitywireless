@@ -1,5 +1,3 @@
-/* TODO work this styling into theme */
-
 @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap");
 
 :root {
@@ -18,7 +16,7 @@
   font-family: "Nunito Sans", sans-serif;
 }
 .logo {
-  height: 70px;
+  height: 60px;
 }
 
 main a,

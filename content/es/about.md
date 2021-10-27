@@ -2,17 +2,18 @@
 date: 2021-09-30
 title: "Acerca de Nosotros"
 ---
-## El Proyecto 
 
-Nuestro equipo incluye voluntarios y personal de una amplia gama de organizaciones locales y nacionales. Para obtener más información, visite nuestra página Personas.
+## El Proyecto
+
+Nuestro equipo incluye voluntarios y personal de una amplia gama de organizaciones locales y nacionales. Para obtener más información, [visite nuestra página Equipo](/es/people).
 
 ## Los Valores
 
-Creemos que el acceso a Internet es un derecho humano fundamental y que la tecnología inalámbrica independiente, de propiedad comunitaria y operada es un medio sostenible y escalable de inclusión digital. 
+Creemos que el acceso a Internet es un derecho humano fundamental y que la tecnología inalámbrica independiente, de propiedad comunitaria y operada es un medio sostenible y escalable de inclusión digital.
 
 Somos compatibles con los principios de neutralidad de la red y creemos que Internet debe proporcionarse sin necesidad de limitación, calificación cero y seguimiento y monetización del comportamiento de los usuarios.
 
-Creemos que las personas importan más que los beneficios y que los principios de cooperación y ayuda mutua pueden hacer crecer un tipo de red digital fundamentalmente diferente. 
+Creemos que las personas importan más que los beneficios y que los principios de cooperación y ayuda mutua pueden hacer crecer un tipo de red digital fundamentalmente diferente.
 
 Por último, creemos en empezar a trabajar con poco, aprender de nuestros errores e invitar a los profesores, organizadores, usuarios y tecnólogos a que creen esta red.
 
@@ -38,7 +39,7 @@ Una subvención de dos años de la Alianza de Alfabetización Digital del Fondo 
 
 Actualmente estamos buscando organizaciones comunitarias y propietarios de edificios en los vecindarios de Fairhill y Kensington que estén dispuestos a alojar antenas de red en sus tejados, y a llevar a cabo actividades de alcance comunitario acerca de esta conexión de red gratuita. [¡Regístrate!](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)
 
-Buscamos técnicos con experiencia en ingeniería de redes para ayudar a instalar y mantener las conexiones de red. 
+Buscamos técnicos con experiencia en ingeniería de redes para ayudar a instalar y mantener las conexiones de red.
 
 Y necesitamos fondos para comprar más hardware que se donará a los miembros de la comunidad. Aproximadamente $200 pueden conectar permanentemente una casa a Internet de alta velocidad, sin facturas mensuales.
 
@@ -46,7 +47,7 @@ Si desea ayudar de alguna manera, envíenos un correo electrónico a phillycommu
 
 ## El futuro
 
-Finalmente, nos gustaría fomentar una serie de asociaciones de artes basadas en la comunidad que animen a la gente a imaginar un nuevo Internet. ¿Qué tipo de contenido y qué formas de comunicación deseamos más en Filadelfia? 
+Finalmente, nos gustaría fomentar una serie de asociaciones de artes basadas en la comunidad que animen a la gente a imaginar un nuevo Internet. ¿Qué tipo de contenido y qué formas de comunicación deseamos más en Filadelfia?
 
 También estamos planificando proyectos de investigación con las universidades vecinas de Penn, Temple y Princeton sobre equidad digital y accesibilidad a Internet.
 
