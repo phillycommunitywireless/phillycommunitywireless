@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ $.Site.LanguageCode | default "en" }}">
+<html lang="{{ $.Site.LanguageCode | default "en" }}" class="bg-dark-gray">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -39,8 +39,8 @@
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
   </head>
 
-  <body class="ma0 min-vh-100 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
-    <a href="#main" class="absolute top--2 bg-white black pa1 ph2 br2 f4">Skip to content</a>
+  <body class="ma0 bg-white {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+    <a href="#main" class="absolute top--2 w-100 bg-white f4 b no-underline black pt1 tc">Skip to content</a>
     <style>[href="#main"]:focus { top: 0; }</style>
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     <main role="main" id="main" tabindex="-1">
