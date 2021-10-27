@@ -1,7 +1,14 @@
 {{ define "main" }}
 
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray">
-    {{ .Content }}
+  <article class="cf">
+    <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy near-black">
+      {{ .Content }}
+    </section>
+  </article>
+  <article class="cf bg-light-gray">
+    <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy black">
+      {{ with .Site.GetPage "/contact" }}{{ .Content }}{{ end }}
+    </section>
   </article>
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}

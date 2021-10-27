@@ -1,0 +1,28 @@
+/* TODO work this styling into theme */
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap");
+
+:root {
+  --orange: rgb(255, 128, 0);
+  --blue: rgb(93, 57, 255);
+
+  --primary: var(--blue);
+}
+.bg-pcw {
+  background-color: var(--primary);
+}
+.color-pcw {
+  color: var(--primary);
+}
+.nunito {
+  font-family: "Nunito Sans", sans-serif;
+}
+.logo {
+  height: 70px;
+}
+
+main a,
+#TableOfContents a {
+  color: var(--primary) !important;
+  text-decoration: none;
+}

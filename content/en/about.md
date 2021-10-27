@@ -2,7 +2,8 @@
 date: 2021-09-30
 title: "About"
 ---
-Our team includes volunteers and staff from a wide array of local and national organizations. For more information, visit our [People page](https://phillycommunitywireless.org/people/)
+
+Our team includes volunteers and staff from a wide array of local and national organizations. For more information, [visit our people page](https://phillycommunitywireless.org/people/).
 
 ## Vision
 

@@ -58,7 +58,7 @@ languages:
           url: /faq
           weight: 5
         - name: Docs
-          url: https://docs.phillycommunitywireless.org/en/latest/
+          url: https://docs.phillycommunitywireless.org/es/latest/
           params:
             external: true
           weight: 10
@@ -69,7 +69,7 @@ params:
   site_logo: /images/logo.svg
   featured_image: /images/hero.jpg
   cover_dimming_class: bg-black-10
-  background_color_class: bg-black-90
+  background_color_class: bg-dark-gray
   body_classes: helvetica black
   custom_css:
     - custom.css
