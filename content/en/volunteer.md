@@ -25,6 +25,10 @@ Email Addie at tech@phillycommunitywireless.org
 
 ## Outreach
 
+{{% notice %}}
+_We are actively seeking volunteers with Spanish language proficiency to work on community engagement and outreach efforts!_
+{{% /notice %}}
+
 - Technology education
 - Community engagement
 - Grant writing
