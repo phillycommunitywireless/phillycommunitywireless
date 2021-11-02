@@ -15,285 +15,146 @@ Al utilizar nuestros Servicios, usted reconoce los términos de este Aviso de Pr
 
 Nos reservamos el derecho de cambiar de vez en cuando nuestro Aviso de privacidad mediante la publicación de los cambios aquí. Si decidimos modificar este aviso de privacidad, revisaremos la fecha de última actualización en la parte superior de este aviso de privacidad cuando publiquemos la versión actualizada. También podemos proporcionarle un aviso mediante publicado de forma destacada en nuestro sitio web, por correo electrónico o ambos, si realizamos cambios significativos en este Aviso de privacidad. Su uso de nuestros servicios. Una vez que le hayamos informado de una de estas formas en las que hemos realizado cambios nuestro Aviso de Privacidad significará que usted ha aceptado dichos cambios.
 
-1. [**TYPES OF INFORMATION WE COLLECT**](#30j0zll)
-2. [**HOW WE COLLECT PERSONAL
-   INFORMATION**](#lnxbz9)
-3. [**HOW WE USE PERSONAL INFORMATION**](#j94hd7)
-4. [**HOW WE SHARE PERSONAL INFORMATION**](#l5ns2o)
-5. [**HOW WE PROTECT PERSONAL
-   INFORMATION**](#35nkun2)
-6. [**CHILDREN'S PRIVACY**](#1ksv4uv)
-7. [**YOUR CHOICES**](#1fob9te)
-8. [**THIRD PARTY WEBSITE AND APPS**](#2jxsxqh)
-9. [**CONTACT US**](#z337ya)
+1. [**TIPOS DE INFORMACIÓN QUE RECOPILAMOS**](#30j0zll)
+2. [**CÓMO RECOPILAMOS INFORMACIÓN PERSONAL**](#lnxbz9)
+3. [**CÓMO UTILIZAMOS LA INFORMACIÓN PERSONAL**](#j94hd7)
+4. [**CÓMO COMPARTIMOS INFORMACIÓN PERSONAL**](#l5ns2o)
+5. [**CÓMO PROTEGEMOS LA INFORMACIÓN PERSONAL**](#35nkun2)
+6. [**PRIVACIDAD DE LOS NIÑOS**](#1ksv4uv)
+7. [**TU ELECCIÓNES**](#1fob9te) 
+8. [**SITIO WEB Y APLICACIONES DE TERCEROS**](#2jxsxqh)
+9. [**CONTACTARNOS**](#z337ya)
 
 ***
 
-## 1. TYPES OF INFORMATION WE COLLECT {#30j0zll}
+## 1. TIPOS DE INFORMACIÓN QUE RECOPILAMOS {#30j0zll}
 
-We collect two basic types of information from you when you provide it
-to us or when you use or interact with our Services: personal
-information and non-personal information.
+Recopilamos dos tipos básicos de información de usted cuando nos la proporciona o cuando utiliza o interactúa con nuestros Servicios: información personal información e información no personal.
 
-Personal information includes all information that relates to you or
-which are opinions about you personally and either identifies or may be
-used to identify you personally (collectively, "**personal
-information**"). We may collect the following types of personal
-information from you depending upon the device you are using and how you
-interact with us or use or interact with our Services, such as your:
+La información personal incluye toda la información relacionada con usted o que son opiniones sobre usted personalmente y que identifica o puede utilizarse para identificarle personalmente (colectivamente, “**información personal**”). Podemos recopilar los siguientes tipos de información personal de usted en función del dispositivo que esté utilizando y de cómo interactúe con nosotros o utilice o interactúe con nuestros Servicios, como su:
 
-* **Contact / Identification Information**. Name, mailing address,
-  email address, phone number, and other contact or identification
-  information.
-* **Device Information.** IP address, browser type and version,
-  browser plug-in types and versions, operating system and platform,
-  device type and device identifiers.
+* **Información de contacto / identificación**. Nombre, dirección postal, dirección de correo electrónico, número de teléfono y otra información de contacto o identificación.
+* **Información del dispositivo.** Dirección IP, tipo y versión del navegador, tipos y versiones de complementos de navegador, sistema operativo y plataforma, tipo de dispositivo e identificadores de dispositivo.
 
-Non-personal information includes information that does not personally
-identify you or information that has been anonymized (collectively,
-"**non-personal information**"). When we combine non-personal
-information with personal information, we treat the combined information
-as personal information.
+La información no personal incluye información que no le identifica personalmente ni información que ha sido anónima (en conjunto, “**información no personal**”). Cuando combinamos información no personal con información personal, tratamos la información combinada como información personal.
 
-You can always refuse to provide your personal information, but please
-note that some personal information is necessary to provide our
-Services.
+Siempre puede negarse a proporcionar su información personal, pero tenga en tenga en cuenta que cierta información personal es necesaria para proporcionar nuestros Servicios.
 
-## 2. HOW WE COLLECT PERSONAL INFORMATION {#lnxbz9}
+## 2. CÓMO RECOPILAMOS INFORMACIÓN PERSONAL {#lnxbz9}
 
-We need to collect personal information from you in order to provide you
-with our Services, as well as to improve your experience. You may
-provide us with personal information in several ways, including, for
-example when you:
+Necesitamos recopilar información personal de usted para proporcionarle nuestros Servicios, así como para mejorar su experiencia. Puede proporcionarnos información personal de varias formas, como por ejemplo cuando:
 
-* Visit our website or use our Services;
-* Correspond with us in any way;
-* Sign up to attend an event or program or to receive our newsletter
-  or promotional information;
-* Ask for support, or other assistance; or
-* Interact with us in any other way, online or offline, including
-  through our Services.
+* Visite nuestro sitio web o utilice nuestros Servicios; 
+* Se corresponde con nosotros de cualquier forma; 
+* Regístrese para asistir a un evento o programa o para recibir nuestro boletín o información promocional; 
+* Solicite asistencia u otra asistencia; O
+* Interactúe con nosotros de cualquier otra forma, en línea o fuera de línea, incluida a través de nuestros Servicios.
 
 **_Cookies_**
 
-Like many websites and apps, we use "cookies", which are small text
-files that are stored on your computer or equipment when you visit
-certain online pages that record your preferences and actions, including
-how you use the website. We use this information for analytics purposes
-which allows us to improve your browsing experience. The information we
-collect through these technologies will also be used to manage your
-session. Out of these cookies, the cookies that are categorized as
-"necessary" are stored on your browser as they are essential for the
-working of basic functionalities of the website. These necessary cookies
-cannot be disabled.
+Al igual que muchos sitios web y aplicaciones, utilizamos cookies, que son archivos de texto pequeño que se almacenan en su equipo o equipo cuando visita determinadas páginas en línea que registran sus preferencias y acciones, incluido cómo utiliza el sitio web. Utilizamos esta información con fines analíticos, lo que nos permite mejorar su experiencia de navegación. La información que recopilamos a través de estas tecnologías también se utilizará para gestionar su sesión. De estas cookies, las cookies que se clasifican como "necesarias" se almacenan en su navegador, ya que son esenciales para el funcionamiento de las funciones básicas del sitio web. Estas cookies necesarias no se pueden desactivar.
 
 **_Cookie Opt-out._**
 
-You can set your browser or device to refuse all
-cookies or to indicate when a cookie is being sent. If you delete your
-cookies, if you opt-out from cookies, or if you set your browser or
-device to decline these technologies, some Services may not function
-properly. Our Services do not currently change the way they operate upon
-detection of a [Do Not
-Track](https://www.consumer.ftc.gov/articles/0042-online-tracking)
-or similar signal.
+Puede configurar su navegador o dispositivo para rechazar todas las cookies o para indicar cuándo se envía una cookie. Si elimina las cookies, si opta por no recibir las cookies o si configura su navegador o dispositivo para rechazar estas tecnologías, es posible que algunos Servicios no funcionen correctamente. Nuestros servicios no cambian actualmente la forma en que funcionan tras la detección de un[ Do Not Track](https://www.consumer.ftc.gov/articles/0042-online-tracking) o señal similar.
 
 **_Online Analytics_**
 
-We also use various types of online analytics on our website. These
-online analytics services use cookies or other tracking technologies to
-help us analyze how users interact with and use the website, compile
-reports on the related activities, and provide other services related to
-website and app activity and usage. The technologies used by these
-analytics services may collect information such as your IP address, time
-of visit, whether you are a return visitor, and any referring website or
-app.
+También utilizamos varios tipos de análisis en línea en nuestro sitio web. Estos servicios de análisis en línea utilizan cookies u otras tecnologías de seguimiento para ayudarnos a analizar la forma en que los usuarios interactúan y utilizan el sitio web, recopilar informes sobre las actividades relacionadas y proporcionar otros servicios relacionados con la actividad y el uso del sitio web y las aplicaciones. Las tecnologías utilizadas por estos servicios de análisis pueden recopilar información, como su dirección IP, el de la visita, si es usted un visitante de regreso y cualquier sitio web o aplicación de referencia.
 
-**_Offline Interactions and Other Sources_**
+**_Interacciones fuera de línea y otras fuentes_**
 
-We also may collect personal information from other sources, such as our
-partners or third party service providers, or from our offline
-interactions with you for the purposes listed in the **How We Use
-Personal Information** section below, including to enable us to verify
-or update information contained in our records and to better customize
-the Services for you.
+También podemos recopilar información personal de otras fuentes, como nuestros socios o proveedores de servicios de terceros, O de nuestras interacciones sin conexión con usted para los fines enumerados en la sección **Cómo utilizamos la información personal** que aparece a continuación, incluida la que nos permite verificar o actualizar la información contenida en nuestros registros y personalizar mejor los servicios para usted.
 
-**_Surveys_**
+**_Encuesta_**
 
-From time to time, and subject to your consent where required by
-applicable local law, we may provide you with the opportunity to
-participate in surveys, some of which might be sponsored or conducted by
-a third party. Participation in these surveys is completely voluntary.
-If you choose to participate, we will request certain personal
-information from you. If there is a third party sponsor involved in the
-survey, we may provide certain personal information with the third party
-sponsor. Please make sure to review the sponsor's privacy policy and be
-aware that any surveys offered by us may be governed by specific rules
-and terms and conditions that are separate from and in addition to this
-Privacy Notice. By participating in any such surveys you will become
-subject to those rules, including but not limited to receiving emails
-containing survey or promotion communications.
+De vez en cuando y con sujeción a su consentimiento cuando lo requiera la legislación local aplicable, podemos ofrecerle la oportunidad de participar en encuestas, algunas de las cuales podrían ser patrocinadas o realizadas por un tercero. La participación en estas encuestas es completamente voluntaria. Si decide participar, le pediremos cierta información personal. Si hay un tercero patrocinador involucrado en la encuesta, podemos proporcionar cierta información personal con el tercero patrocinador. Por favor, asegúrese de revisar la política de privacidad del patrocinador y tenga en cuenta que cualquier encuesta que le ofrecamos puede regirse por reglas y términos y condiciones específicos que son independientes y además de este Aviso de privacidad. Al participar en dichas encuestas, estará sujeto a dichas reglas, incluidas, entre otras, la recepción de mensajes de correo electrónico que contengan comunicaciones sobre encuestas o promociones.
 
-## 3.  HOW WE USE PERSONAL INFORMATION {#j94hd7}
+## 3.  CÓMO UTILIZAMOS LA INFORMACIÓN PERSONAL {#j94hd7}
 
-We may use personal information to do any or all of the following:
+Podemos utilizar la información personal para hacer cualquiera o todos los siguientes:
 
-* provide you with our Services;
-* facilitate your interactions and transactions with us;
-* respond to your requests, communications, suggestions, comments,
-  inquiries, and requests (including your feedback about our
-  Services);
-* administer our relationship with you, including creating and
-  managing your account;
-* maintain and improve our Services;
-* measure the performance of our Services;
-* develop new products, features, and services;
-* better understand the preferences of our customers;
-* respond to legally binding requests from law enforcement, regulatory
-  authorities, or other third parties;
-* defend, protect or enforce our rights or applicable terms of service
-  or to fulfill our legal or contractual obligations;
-* to prevent fraud or the recurrence of fraud;
-* assist in the event of an emergency;
-* comply with applicable law; or
-* any other purpose with your consent.
+* Proporcionarle nuestros servicios; 
+* Facilite sus interacciones y transacciones con nosotros; 
+* Responda a sus solicitudes, comunicaciones, sugerencias, comentarios, consultas, Y solicitudes (incluidos sus comentarios sobre nuestros Servicios); 
+* Administre nuestra relación con usted, incluida la creación y la gestión de su cuenta; 
+* Mantener y mejorar nuestros Servicios; 
+* Medir el rendimiento de nuestros Servicios; 
+* Desarrollar nuevos productos, características y servicios; 
+* Comprender mejor las preferencias de nuestros clientes;
+* Responder a las solicitudes legalmente vinculantes de las autoridades responsables de la aplicación de la ley, las autoridades normativas u otros terceros; 
+* Defender, proteger o hacer cumplir nuestros derechos o las condiciones de servicio aplicables o cumplir nuestras obligaciones legales o contractuales; 
+* Para evitar el fraude o la repetición del fraude;
+* Asistir en caso de emergencia; 
+* Cumplir con la legislación aplicable; o 
+* Cualquier otro propósito con su consentimiento.
 
-Except as otherwise permitted or required by applicable law, we only
-retain personal information for as long as we need to use the
-information for the purposes listed above, including, for legal,
-regulatory, backup, archival, accounting, and/or audit purposes.
+A menos que la legislación aplicable permita o exija lo contrario, sólo conservamos la información personal durante el tiempo que necesitemos utilizar la información para los fines enumerados anteriormente, incluidos, para fines legales, normativos, backup, fines de archivo, contabilidad y/o auditoría. 
 
-We may use personal information to create non-personal information. We
-may use non-personal information for any legitimate purpose.
+Podemos utilizar información personal para crear información no personal. Podemos utilizar información no personal para cualquier propósito legítimo.
 
-## 4.  HOW WE SHARE PERSONAL INFORMATION {#l5ns2o}
+## 4.  CÓMO COMPARTIMOS INFORMACIÓN PERSONAL {#l5ns2o}
 
-**We do not sell or rent personal information.**
+**No vendemos ni alquilamos información personal.**
 
-Except as disclosed in this Privacy Notice, we do not share personal
-information with any companies other than our subsidiaries, affiliates,
-business partners, suppliers, vendors, service providers, and
-contractors, including our and their directors, officers, employees,
-agents, consultants, advisors or other representatives.
+Salvo lo que se indique en este Aviso de privacidad, no compartimos información personal con ninguna otra empresa que no sean nuestras filiales, filiales, socios comerciales, proveedores, proveedores, proveedores de servicios y contratistas, incluidos nuestros y sus directores, directivos, empleados, agentes, consultores, asesores u otros representantes.
 
-Our business partners, suppliers, vendors, service providers, and
-contractors include IT service providers, financial institutions and
-payment providers, customer relationship management vendors, other
-cloud-based solutions providers, lawyers, accountants, auditors and
-other professional advisors. We contract with them to ensure that they
-only process your personal information under our instructions and ensure
-the security and confidentiality of your personal information.
+Nuestros socios comerciales, proveedores, proveedores, proveedores de servicios y contratistas incluyen proveedores de servicios de TI, instituciones financieras y proveedores de pagos, proveedores de gestión de relaciones con los clientes, otros proveedores de soluciones basadas en la nube, abogados, contables, auditores y otros asesores profesionales. Contratamos con ellos para garantizar que sólo procesan su información personal bajo nuestras instrucciones y garantizan la seguridad y confidencialidad de su información personal.
 
-We share personal information with these third parties to help us:
+Compartimos información personal con estos terceros para ayudarnos a:
 
-* with the uses described in the [How We Use Information](#j94hd7) section above;
-* in the operation, management, improvement, research and analysis of
-  our Services; and
-* comply with your directions or any consent you have provided us.
+* con los usos descritos en el [Como Utilizamos La Información Personal]() sección anterior;
+* en la operación, gestión, mejora, investigación y análisis de nuestros Servicios; y
+* cumplir con sus instrucciones o cualquier consentimiento que nos haya proporcionado.
 
-We may share personal information with law enforcement and regulatory
-authorities or other third parties as required or permitted by law for
-the purpose of:
+Podemos compartir información personal con las autoridades de aplicación de la ley y reguladoras u otros terceros según lo exija o permita la ley para el propósito de:
 
-* responding to a subpoena, court order, or other legal processes;
-* defending, protecting, or enforcing our rights;
-* assisting in the event of a life threatening emergency; and
-* complying with applicable law.
+* responder a una citación, orden judicial u otros procesos legales; 
+* defender, proteger o hacer cumplir nuestros derechos; 
+* ayudar en caso de emergencia que ponga en peligro la vida; y 
+* cumplir con la ley aplicable.
 
-In accordance with applicable law, we may also transfer or assign
-personal information to third parties as a result of, or in connection
-with, a sale, merger, consolidation, change in control, transfer of
-assets, bankruptcy, reorganization, or liquidation. If we are involved
-in defending a legal claim, we may disclose personal information about
-you that is relevant to the claim to third parties as a result of, or in
-connection with, the associated legal proceedings.
+De acuerdo con la legislación aplicable, también podemos transferir o asignar información personal a terceros como resultado de, o en relación con, una venta, fusión, consolidación, cambio de control, transferencia de activos, bancarrota, reorganización o liquidación. Si estamos implicados en la defensa de una reclamación legal, podemos revelar información personal sobre usted que sea relevante para la reclamación a terceros como resultado de, o en relación con, los procedimientos legales asociados.
 
-We share non-personal information with third parties as reasonably
-necessary to meet our organizational needs.
+Compartimos información no personal con terceros según sea razonablemente necesario para satisfacer nuestras necesidades organizativas.
 
-## 5.  HOW WE PROTECT PERSONAL INFORMATION {#35nkun2}
+## 5.  CÓMO PROTEGEMOS LA INFORMACIÓN PERSONAL {#35nkun2}
 
-We are dedicated to ensuring the security of your personal information.
-We use physical, electronic, and administrative security measures
-appropriate to the risks and sensitivity of the personal information we
-collect. We aim to provide secure transmission of your personal
-information from your devices to our servers. We have processes to store
-personal information that we have collected in secure operating
-environments. Our security procedures mean that we may occasionally
-request proof of identity before we disclose your personal information
-to you. We try our best to safeguard personal information once we
-receive it, but please understand that no transmission of data over the
-Internet or any other public network can be guaranteed to be 100%
-secure. If you suspect an unauthorized use or security breach of your
-personal information, please [contact us](#z337ya) immediately.
+Nos dedicamos a garantizar la seguridad de su información personal. Utiliza medidas de seguridad físicas, electrónicas y administrativas adecuadas a los riesgos y la sensibilidad de la información personal que recopilamos. Nuestro objetivo es proporcionar una transmisión segura de su información personal desde sus dispositivos a nuestros servidores. Tenemos procesos para almacenar información personal que hemos recopilado en entornos operativos seguros. Nuestros procedimientos de seguridad significan que en ocasiones podemos solicitar una prueba de identidad antes de que le revelemos su información personal. Nos esforzamos al máximo por proteger la información personal una vez que la recibamos, pero por favor comprenda que no se puede garantizar que ninguna transmisión de datos a través de Internet o cualquier otra red pública sea 100% segura. Si sospecha que se ha producido un uso no autorizado o una violación de la seguridad de su información personal, por favor [contactarnos](#z337ya) inmediatamente.
 
-## 6.  CHILDREN'S PRIVACY {#1ksv4uv}
+## 6.  PRIVACIDAD DE LOS NIÑOS {#1ksv4uv}
 
-Our Services are not for children or those under the age of 13. We do
-not knowingly collect personal information from children or other
-persons who are under 13 years of age. Individuals who are children or
-those under the age of 13 should not attempt to provide us with any
-personal information. If you think we have received personal information
-from children or those under the age of 13, please [contact us](#z337ya) immediately.
+Nuestros Servicios no son para niños o menores de 13 años. No recopilamos deliberadamente información personal de niños u otras personas menores de 13 años de edad. Las personas que son niños o personas menores de 13 años no deben intentar proporcionarnos información personal. Si cree que hemos recibido información personal de niños o menores de 13 años, por favor [contactarnos](#z337ya) inmediatamente.
 
-## 7.  YOUR CHOICES {#1fob9te}
+## 7.  TU ELECCIÓNES {#1fob9te}
 
-**_Email Communications / Direct Marketing_**
+**_Comunicaciones por correo electrónico / Marketing directo_**
 
-You may have the opportunity to receive certain communications from us
-related to our Services. If you provide us with your email address in
-order to receive communications, you can opt-out of marketing emails at
-any time by following the instructions at the bottom of our emails and
-adjusting your email preferences. Please note that certain emails
-may be necessary for the operation of our Services. You will continue to
-receive these necessary emails, if lawful and appropriate, even if you
-unsubscribe from our optional marketing communications.
+Es posible que tenga la oportunidad de recibir determinadas comunicaciones de nosotros relacionadas con nuestros Servicios. Si nos proporciona su dirección de correo electrónico en para recibir comunicaciones, puede optar por no recibir correos electrónicos de marketing en cualquier momento siguiendo las instrucciones que aparecen en la parte inferior de nuestros correos electrónicos y ajustando sus preferencias de correo electrónico. Tenga en cuenta que es posible que sean necesarios determinados correos electrónicos para el funcionamiento de nuestros Servicios. Continuará recibirá estos correos electrónicos necesarios, si son legales y apropiados, incluso si darse de baja de nuestras comunicaciones de marketing opcionales.
 
 **_Cookies / Beacons_**
 
-If you wish to minimize information collected by cookies or beacons, you
-can adjust the settings of your device or browser. You can also set your
-device or browser to automatically reject any cookies. You may also be
-able to install plug-ins and add-ins that serve similar functions.
-However, please be aware that some Services may not work properly if you
-reject cookies.
+Si desea minimizar la información recopilada por cookies o balizas, <br> puede ajustar la configuración de su dispositivo o navegador. También puede configurar su dispositivo <br> o explorador para que rechace automáticamente cualquier cookie. También puede <br> instalar plug-ins y complementos que sirvan funciones similares. <br> Sin embargo, tenga en cuenta que es posible que algunos Servicios no funcionen correctamente si <br> rechaza las cookies.
 
 **_Do Not Track_**
 
-Some devices and browsers support a "Do Not Track" (or, DNT) feature, a
-privacy preference that you can set in certain browsers, which is
-intended to be a signal to websites and services that you do not wish to
-be tracked across different websites or online services you visit.
+Algunos dispositivos y navegadores admiten la función "Do Not Track" (o, DNT) feature, , una   
+preferencia de privacidad que puede configurar en determinados navegadores, que está   
+diseñado para ser una señal para sitios web y servicios que no desea   
+realizar un seguimiento en distintos sitios web o servicios en línea que visite.
 
-Please note that we cannot control how third party websites or online
-services you visit through our website respond to Do Not Track signals.
-Check the privacy policies of those third parties for information on
-their privacy practices. Our Services do not currently change the way
-they operate upon detection of a [Do Not
-Track](https://www.consumer.ftc.gov/articles/0042-online-tracking)
-or similar signal.
+Tenga en cuenta que no podemos controlar cómo responden los sitios web de terceros o los servicios de <br> en línea que visita a través de nuestro sitio web Do Not Track señales. Consulte las políticas de privacidad de esos terceros para obtener información sobre sus prácticas de privacidad. Nuestros Servicios actualmente no cambian la forma en que operan tras la detección de un [Do Not](https://www.consumer.ftc.gov/articles/0042-online-tracking) Track o señal similar.
 
-## 8.  THIRD PARTY WEBSITES AND APPS {#2jxsxqh}
+## 8.  SITIO WEB Y APLICACIONES DE TERCEROS {#2jxsxqh}
 
-Our website and Services may contain links to other websites or apps
-operated by third parties. Please be advised that the practices
-described in this Privacy Notice do not apply to information gathered
-through these third party websites and apps. We have no control over,
-and are not responsible for, the actions and privacy policies of third
-parties and other websites and apps.
+Nuestro sitio web y servicios pueden contener enlaces a otros sitios web o aplicaciones operados por terceros. Tenga en cuenta que las prácticas descritas en este aviso de privacidad no se aplican a la información recopilada a través de estos sitios web y aplicaciones de terceros. No tenemos control sobre y no somos responsables de las acciones y políticas de privacidad de terceros y otros sitios web y aplicaciones.
 
-## 9.  CONTACT US {#z337ya}
+## 9.  CONTACTARNOS {#z337ya}
 
-We welcome requests, questions, comments, and feedback on this Privacy
-Notice and our management of personal information. If you have requests,
-questions, concerns, or feedback, you can always contact us in the
-following ways. For your protection, we may need to verify your identity
-before assisting with your request, such as verifying that the
-information used to contact us matches the information that we have on
-file.
+Damos la bienvenida a las solicitudes, preguntas, comentarios y comentarios sobre este Aviso de privacidad y nuestra gestión de la información personal. Si tiene solicitudes, preguntas, dudas o comentarios, siempre puede ponerse en contacto con nosotros de las siguientes maneras. Para su protección, es posible que tengamos que verificar su identidad antes de ayudarle con su solicitud, como verificar que la información utilizada para ponerse en contacto con nosotros coincide con la información que tenemos en el archivo.
 
 ***
 
-**Email:**   phillycommunitywireless@gmail.com
+**Correo electrónico**   phillycommunitywireless@gmail.com
 
 ***
