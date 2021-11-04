@@ -17,37 +17,36 @@ Applicants should send a cover letter and resume to phillycommunitywireless@gmai
 
 # Responsibilities
 
-Most responsibilities can be conducted virtually, but on-site events are required and a regular part of the project: familiarity with and ability to travel to North Philly will sometimes be required.
+Most responsibilities can be conducted virtually, but on-site events are a regular part of the project, and familiarity with and ability to travel to North Philly will sometimes be required.
 
 * Managing PCW’s project development
 * Tracking purchases and budgeting
-* Directing communications between steering committee, subgroups, advisory board, and staff
 * Scheduling and moderating meetings 
 * Communicating with partner organizations
+* Leading the volunteer recruitment effort and managing volunteers
+* Directing communications between steering committee, staff, and volunteers
 * Leading community outreach programming
 * Coordinating with tech team on hardware installations, network management, and R&D
 * Developing fundraising initiatives
 * Supporting community-based research projects with partner institutions
-* Leading the volunteer recruitment effort
-* Coordinating/Managing volunteers
 
 # Required Qualifications
 
-* 3 years experience in nonprofit project management
-* Budgeting and grant management
-* Ability to learn technical concepts behind the project (see our [documentation](https://docs.phillycommunitywireless.org/en/latest/)).
-* Ability to work on-site (in-person) in the Norris Square Park neighborhood and the North Philadelphia region on a semi-regular basis
+* 2-3 years experience in nonprofit project management
+* Budgeting and grant management experience
 * Excellent communication skills, both oral and written. Must be able to communicate effectively with all members of a diverse stakeholder group, from residents to professionals and executives.
 * Passion for community building and ability to share that enthusiasm with residents, staff and the larger community. Commitment to PCW mission
-* Facilitate group processes, comfortably and effectively.
+* Capacity to facilitate group processes, comfortably and effectively.
 * Strong organizational, planning and time management skills
-* Work in a variety of settings, independently and with initiative, and skills for thriving in a team environment to achieve shared goals.
-* Available to work nights and/or weekends, and local travel.
-* Computer proficiency in MS Office Suite, other commonly used software as well as online meeting platforms such as Zoom.
+* Computer proficiency in Google App Suite, other commonly used software, as well as online meeting platforms such as Zoom.
+* Ability to learn technical concepts behind the project (see our [documentation](https://docs.phillycommunitywireless.org/en/latest/)).
+* Flexiliby to ork in a variety of settings, independently and with initiative, and skills for thriving in a team environment to achieve shared goals.
+* Available to work nights and/or weekends
+* Ability to work on-site (in-person) in the Norris Square Park neighborhood and the North Philadelphia region on a semi-regular basis
 
 # Preferred Qualifications
 
+* Spanish-language skills
 * Background in managing information technology projects
 * Familiarity with software and hardware for networking infrastructures
-* Spanish-language skills
 * Some knowledge of inner-city Philadelphia is a plus.
