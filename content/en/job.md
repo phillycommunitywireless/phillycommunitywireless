@@ -40,7 +40,7 @@ Most responsibilities can be conducted virtually, but on-site events are a regul
 * Strong organizational, planning and time management skills
 * Computer proficiency in Google App Suite, other commonly used software, as well as online meeting platforms such as Zoom.
 * Ability to learn technical concepts behind the project (see our [documentation](https://docs.phillycommunitywireless.org/en/latest/)).
-* Flexiliby to ork in a variety of settings, independently and with initiative, and skills for thriving in a team environment to achieve shared goals.
+* Flexibility to work in a variety of settings, independently and with initiative, and skills for thriving in a team environment to achieve shared goals.
 * Available to work nights and/or weekends
 * Ability to work on-site (in-person) in the Norris Square Park neighborhood and the North Philadelphia region on a semi-regular basis
 
@@ -49,4 +49,4 @@ Most responsibilities can be conducted virtually, but on-site events are a regul
 * Spanish-language skills
 * Background in managing information technology projects
 * Familiarity with software and hardware for networking infrastructures
-* Some knowledge of inner-city Philadelphia is a plus.
+* Knowledge of North Philadelphia is a plus.
