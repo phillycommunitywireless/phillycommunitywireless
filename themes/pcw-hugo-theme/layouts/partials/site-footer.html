@@ -1,14 +1,19 @@
-<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} pv4 ph3 ph5-m ph6-l mid-gray" role="contentinfo">
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} pv4 ph3 ph5-m ph6-l" role="contentinfo">
   <div class="flex f4 p2">
     <div>
-      <a class="fw4 no-underline gray dn dib-ns ph3" href="{{ .Site.BaseURL }}">
+      <a class="fw4 no-underline dn dib-ns ph3 white-60 dim" href="{{ .Site.BaseURL }}">
         &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
       </a>
     </div>
-    <div class="flex-auto tr">
-      <a href="/code-of-conduct" title="Code of Conduct" class="dib ph2 pb3-m link gray lh-copy">Code of Conduct</a>
-      <a href="/#contact-us" title="Contact us" class="dib ph2 pb0-l pb3 link gray lh-copy">Contact us</a>
-    </div>
-    <div>{{ partial "social-follow.html" . }}</div>
+      {{ if .Site.Menus.footer }}
+      <div class="flex-auto tr">
+        {{ range .Site.Menus.footer }}
+        <a class="dib ph2 pb3-m link lh-copy white-60 dim" href="{{ .URL | relLangURL }}" title="{{ .Name }}">
+          {{ .Name }}
+        </a>
+        {{ end }}
+      </div>
+      {{ end }}
+      <div>{{ partial "social-follow.html" . }}</div>
   </div>
 </footer>

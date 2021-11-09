@@ -33,6 +33,13 @@ languages:
           params:
             external: true
           weight: 10
+      footer:
+        - name: Code of Conduct
+          url: /code-of-conduct
+          weight: 1
+        - name: Contact us
+          url: /#contact-us
+          weight: 2
     weight: 1
   es:
     languageName: Español
@@ -62,6 +69,13 @@ languages:
           params:
             external: true
           weight: 10
+      footer:
+        - name: Código de conducta
+          url: /code-of-conduct
+          weight: 1
+        - name: Contáctenos
+          url: /#contáctenos
+          weight: 2
     weight: 2
 
 params:
