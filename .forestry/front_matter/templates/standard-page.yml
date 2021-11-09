@@ -1,4 +1,10 @@
 ---
 label: Standard page
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: The title of the page, displayed at the top.
