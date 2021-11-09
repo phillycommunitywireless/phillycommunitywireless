@@ -4,7 +4,7 @@ title: "Project Manager Job Posting"
 toc: false
 ---
 
-[Philly Community Wireless](/) (PCW) is a collective impact initiative consisting of allied community organizations based in the neighborhoods of Fairhill and Kensington. We are building community-owned and -operated internet infrastructures in order to democratize access, promote digital literacy, and fight digital inequity with free, net-neutral broadband service in North Philadelphia.
+[Philly Community Wireless](/es/) (PCW) is a collective impact initiative consisting of allied community organizations based in the neighborhoods of Fairhill and Kensington. We are building community-owned and -operated internet infrastructures in order to democratize access, promote digital literacy, and fight digital inequity with free, net-neutral broadband service in North Philadelphia.
 
 Through funding from the Independence Public Media Foundation and the Digital Literacy Alliance at the Mayor’s Fund for Philadelphia, PCW seeks a full-time Project Manager to lead this volunteer-driven initiative over the next two years as we partner with nonprofits, local businesses, and immigrant/LEP communities in the Norris Square Park neighborhood to develop an alternative model of community-based network stewardship.
 

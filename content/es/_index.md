@@ -4,6 +4,8 @@ title: Pagina Principal
 omit_header_text: true
 ---
 
+**[Estamos contratando un director de proyecto!](/es/job)**
+
 **Philly Community Wireless** (PCW) está construyendo infraestructuras de Internet de propiedad y operadas por la comunidad para democratizar el acceso a la información, promover la alfabetización digital y luchar contra la inequidad digital con un servicio de banda ancha libre y neutral en el norte de Filadelfia.
 
 ### Creemos que el acceso a Internet es un derecho humano.

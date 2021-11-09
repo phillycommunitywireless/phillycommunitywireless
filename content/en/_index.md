@@ -3,6 +3,8 @@ date: 2021-09-30
 title: Home
 ---
 
+**[We're hiring a full-time paid project manager!](/job)**
+
 **Philly Community Wireless** (PCW) is building community-owned and -operated internet infrastructures in order to democratize information access, promote digital literacy, and fight digital inequity with free, net-neutral broadband service in North Philadelphia.
 
 ### We believe that internet access is a human right.
