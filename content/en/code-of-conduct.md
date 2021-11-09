@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "Code of Conduct"
+title = "PCW Code of Conduct"
 
 +++
 ## Values of Participation
