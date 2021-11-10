@@ -1,6 +1,6 @@
 ---
 date: 2021-11-04
-title: Project Manager Job Posting
+title: Publicación de trabajos de Gerente de Proyecto
 toc: false
 draft: true
 
