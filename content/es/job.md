@@ -2,7 +2,6 @@
 date: 2021-11-04
 title: Publicación de trabajos de Gerente de Proyecto
 toc: false
-draft: true
 
 ---
 [Philly Community Wireless](/es/) (PCW) es una iniciativa de impacto colectivo que consiste en organizaciones comunitarias aliadas con sede en los barrios de Fairhill y Kensington. Estamos construyendo infraestructuras de Internet de propiedad y operadas por la comunidad para democratizar el acceso, promover la alfabetización digital y luchar contra la inequidad digital con un servicio de banda ancha libre y neutral en la red en el norte de Filadelfia.
