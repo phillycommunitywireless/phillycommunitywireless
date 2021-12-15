@@ -2,7 +2,11 @@
 
 :root {
   --orange: rgb(255, 128, 0);
-  --blue: rgb(93, 57, 255);
+
+  --blue: #5262ed;
+  --dark-blue: #123248;
+  --lilac: #d48aff;
+  --light-grey: #e6e6e6;
 
   --primary: var(--blue);
 }
