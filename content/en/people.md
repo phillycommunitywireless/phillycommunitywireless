@@ -18,7 +18,7 @@ _Digital Scholarship Coordinator, Temple University, Scholars Studio_
 **Tech Lead**
 
 Addie Barron {{< fa cogs >}} \
-_Independent Technologist_
+_Technologist and Software Engineer_
 
 **Outreach Leads**
 

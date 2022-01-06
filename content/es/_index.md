@@ -2,6 +2,9 @@
 date: 2021-09-30
 title: Pagina Principal
 omit_header_text: true
+
+segments:
+  - contact.md
 ---
 
 **[Estamos contratando un director de proyecto!](/es/job)**
@@ -12,12 +15,12 @@ omit_header_text: true
 
 Actualmente estamos colaborando con residentes y organizaciones sin fines de lucro en el vecindario de Norris Square Park, ofreciendo instalaciones gratuitas de antenas de red en los tejados para ampliar la señal wifi pública en todo el barrio.
 
-### [**Conéctese**](/es/getconnected) a Internet inalámbrico gratuito
+### [Conéctese](/es/getconnected) a Internet inalámbrico gratuito
 
-### [**Voluntario**](/es/volunteer) para ayudar a construir la red
+### [Voluntario](/es/volunteer) para ayudar a construir la red
 
-### [**Más información**](/es/faq) en nuestras preguntas frecuentes
+### [Más información](/es/faq) en nuestras preguntas frecuentes
 
-### [**Suscríbete**](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) a nuestro boletín de noticias para recibir actualizaciones.
+### [Suscríbete](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) a nuestro boletín de noticias para recibir actualizaciones.
 
-### **¡[Doná](https://phillycommunitywireless.wedid.it/)!**
+### ¡[Doná](https://phillycommunitywireless.wedid.it/)!

@@ -12,16 +12,40 @@
 }
 .bg-pcw {
   background-color: var(--primary);
+  color: var(--light-gray);
 }
+.bg-pcw-lilac {
+  background-color: var(--lilac);
+  color: var(--light-gray);
+}
+.bg-pcw-dark-blue {
+  background-color: var(--dark-blue);
+  color: var(--light-gray);
+}
+.bg-light-gray {
+  background-color: var(--light-gray);
+  color: black;
+}
+
+/* Text color */
 .color-pcw {
   color: var(--primary);
 }
-.nunito {
-  font-family: "Nunito Sans", sans-serif;
+.color-pcw-lilac {
+  color: var(--lilac);
 }
-.logo {
-  height: 60px;
+.color-pcw-dark-blue {
+  color: var(--dark-blue);
 }
+.light-gray {
+  color: var(--light-gray);
+}
+
+/* Headings */
+[class^="bg-pcw-"] :is(h1, h2, h3, h4, h5, h6) {
+  color: white !important;
+}
+
 
 main a,
 #TableOfContents a {

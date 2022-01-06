@@ -1,15 +1,25 @@
 {{ define "main" }}
   {{/* TODO: Iterate through a config param list with sections defined in md files. */}}
   <article class="cf">
-    <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy near-black">
+    <section class=" ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy">
       {{ .Content }}
     </section>
   </article>
-  <article class="cf bg-light-gray">
-    <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy black">
-      {{ with .Site.GetPage "/contact" }}{{ .Content }}{{ end }}
-    </section>
-  </article>
+  {{/* Range over values in front matter "sections" param */}}
+  {{ if isset .Params "segments" }}
+    {{ range $i, $val := .Params.segments }}
+      {{ with $.Site.GetPage $val }}
+        {{/* Alternate color and white */}}
+        {{ $segmentClass := cond (modBool $i 2) "bg-light-gray" "bg-white"}}
+        <article class="cf {{ $segmentClass }}">
+          <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy">
+            {{ .Content }}
+          </section>
+        </article>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
   {{/* Create a variable with that section to use in multiple places. */}}
