@@ -1,6 +1,10 @@
 ---
 date: 2021-09-30
 title: Home
+# Add .md files here to create new homepage segments. 
+# This will add their content after this file's content, alternating background colors
+segments:
+  - contact.md
 ---
 
 **[We're hiring a full-time paid project manager!](/job)**
