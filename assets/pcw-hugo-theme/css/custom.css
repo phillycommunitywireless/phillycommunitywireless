@@ -1,26 +1,90 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap");
+/*********
+* COLORS *
+*********/
 
 :root {
   --orange: rgb(255, 128, 0);
-  --blue: rgb(93, 57, 255);
+
+  --blue: #5262ed;
+  --lilac: #d48aff;
+  --dark-blue: #123248;
+  --light-gray: #e6e6e6;
 
   --primary: var(--blue);
 }
+
+/* Background color */
 .bg-pcw {
   background-color: var(--primary);
 }
+.bg-pcw-lilac {
+  background-color: var(--lilac);
+}
+.bg-pcw-dark-blue {
+  background-color: var(--dark-blue);
+}
+.bg-pcw-light-gray {
+  background-color: var(--light-gray);
+}
+
+/* Text color */
 .color-pcw {
   color: var(--primary);
 }
-.nunito {
-  font-family: "Nunito Sans", sans-serif;
-}
-.logo {
-  height: 60px;
-}
 
+/* Links */
 main a,
 #TableOfContents a {
   color: var(--primary) !important;
-  text-decoration: none;
+}
+
+
+/********
+* FONTS *
+********/
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap");
+
+@font-face {
+  font-family: 'Calibre';
+  font-display: swap;
+  src: url('/fonts/calibre/calibre-regular.woff2') format('woff2');
+  font-weight: 1 499;
+}
+
+@font-face {
+  font-family: 'Calibre';
+  font-display: swap;
+  src: url('/fonts/calibre/calibre-regular-italic.woff2') format('woff2');
+  font-weight: 1 499;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Calibre';
+  font-display: swap;
+  src: url('/fonts/calibre/calibre-semibold.woff2') format('woff2');
+  font-weight: 500 799;
+}
+
+@font-face {
+  font-family: 'Calibre';
+  font-display: swap;
+  src: url('/fonts/calibre/calibre-bold.woff2') format('woff2');
+  font-weight: 800 1000;
+}
+
+.nunito {
+  font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
+}
+.calibre {
+  font-family: "Calibre", "Helvetica Neue", sans-serif;
+}
+
+/*********
+* LAYOUT *
+*********/
+
+.logo {
+  height: 60px;
 }
