@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{/* TODO: Iterate through a config param list with sections defined in md files. */}}
+  {{/* Show contents of index.md */}}
   <article class="cf">
     <section class=" ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy">
       {{ .Content }}
@@ -12,7 +12,11 @@
         {{/* Alternate color and white */}}
         {{ $segmentClass := cond (modBool $i 2) "bg-light-gray" "bg-white"}}
         <article class="cf {{ $segmentClass }}">
+<<<<<<< HEAD
           <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy">
+=======
+          <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy near-black">
+>>>>>>> f2989e39229e442fdd56af72106bdda4a9dd6497
             {{ .Content }}
           </section>
         </article>
@@ -53,7 +57,7 @@
       <section class="w-100">
         <h1 class="f3">{{ i18n "more" }}</h1>
         {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
-        {{ range (first 4 (after $n_posts $section))  }}
+        {{ range (first 4 (after $n_posts $section)) }}
           <h2 class="f5 fw4 mb4 dib mr3">
             <a href="{{ .RelPermalink }}" class="link black dim">
               {{ .Title }}

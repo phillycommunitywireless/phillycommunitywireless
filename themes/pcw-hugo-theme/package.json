@@ -1,8 +1,5 @@
 {
- "author": "budparr",
- "bugs": {
-  "url": "https://github.com/theNewDynamic/gohugo-theme-ananke/issues"
- },
+ "author": "addiebarron",
  "comments": {
   "dependencies": {},
   "devDependencies": {
@@ -14,7 +11,7 @@
   }
  },
  "dependencies": {},
- "description": "Theme Ananke",
+ "description": "PCW Hugo Theme",
  "devDependencies": {
   "auto-changelog": "^1.16.1",
   "cssnano": "^3.10.0",
@@ -22,21 +19,17 @@
   "postcss-cssnext": "^2.10.0",
   "tachyons": "^4.9.1"
  },
- "homepage": "https://github.com/theNewDynamic/gohugo-theme-ananke#readme",
+ "homepage": "https://phillycommunitywireless.org",
  "keywords": [
   "hugo",
   "gohugo"
  ],
  "license": "MIT",
  "main": "index.js",
- "name": "gohugo-theme-ananke",
- "repository": {
-  "type": "git",
-  "url": "git+https://github.com/theNewDynamic/gohugo-theme-ananke.git"
- },
+ "name": "pcw-hugo-theme",
  "scripts": {
   "version": "auto-changelog -p --template keepachangelog --commit-limit 0 \u0026\u0026 git add CHANGELOG.md",
   "deploy": " cd exampleSite; hugo;"
  },
- "version": "2.7.0"
+ "version": "1.0.0"
 }
