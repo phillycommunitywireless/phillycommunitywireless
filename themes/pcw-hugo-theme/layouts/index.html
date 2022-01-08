@@ -5,17 +5,23 @@
       {{ .Content }}
     </section>
   </article>
-  {{/* Range over values in front matter "sections" param */}}
-  {{ if isset .Params "segments" }}
+  {{/* Range over values in front matter "segments" param */}}
+  {{ if (isset .Params "segments") }}
     {{ range $i, $val := .Params.segments }}
-      {{ with $.Site.GetPage $val }}
-        {{/* Alternate color and white */}}
-        {{ $segmentClass := cond (modBool $i 2) "bg-light-gray" "bg-white"}}
-        <article class="cf {{ $segmentClass }}">
-          <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy">
-            {{ .Content }}
-          </section>
-        </article>
+      
+    {{ if (eq $val.type "markdown") }}
+        {{ with $.Site.GetPage $val.url }}
+          {{/* Alternate color and white */}}
+          {{ $segmentClass := cond (modBool $i 2) "bg-light-gray" "bg-white"}}
+          <article class="cf {{ $segmentClass }}">
+            <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy">
+              {{ .Content }}
+            </section>
+          </article>
+        {{ end }}
+
+      {{ else if (eq $val.type "gallery") }}
+        {{ partial "gallery.html" $val.photos }}
       {{ end }}
     {{ end }}
   {{ end }}

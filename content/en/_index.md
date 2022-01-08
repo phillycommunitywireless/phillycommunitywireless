@@ -5,7 +5,16 @@ omit_header_text: true
 # Add .md files here to create new homepage segments. 
 # This will add their content after this file's content, alternating background colors
 segments:
-  - contact.md
+  - type: markdown
+    url: contact.md
+  - type: gallery
+    photos: 
+      - url: images/hero.jpg
+        alt: hero1
+      - url: images/hero2.jpg
+        alt: hero2
+      - url: images/hero3.jpg
+        alt: hero3
 ---
 
 **[We're hiring a full-time paid project manager!](/job)**

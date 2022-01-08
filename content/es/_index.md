@@ -4,7 +4,8 @@ title: Pagina Principal
 omit_header_text: true
 
 segments:
-  - contact.md
+  - type: markdown
+    url: contact.md
 ---
 
 **[Estamos contratando un director de proyecto!](/es/job)**

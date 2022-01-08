@@ -69,11 +69,11 @@ The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progr
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Las Parcelas Gardens
 
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Kensington Library
+
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Norris Square Community Alliance
 
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Open Kitchen Sculpture Garden
-
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Kensington Library
 
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> GALAEI
 
