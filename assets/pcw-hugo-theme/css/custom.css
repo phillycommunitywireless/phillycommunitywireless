@@ -59,7 +59,7 @@
 /* Links */
 main a,
 #TableOfContents a {
-  color: var(--primary) !important;
+  color: var(--primary);
 }
 
 
@@ -111,4 +111,9 @@ main a,
 
 .logo {
   height: 60px;
+}
+
+img.fit-cover {
+  object-fit: cover;
+  object-position: center;
 }

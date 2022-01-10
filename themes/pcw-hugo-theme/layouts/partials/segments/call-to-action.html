@@ -1,0 +1,17 @@
+<article class="cf {{ .class | default "bg-pcw-dark-blue" }}">
+  
+  <div class="tc pa5 ph6-l flex-column">
+    {{ with .header}}
+      <h1 class="mv3">{{ . | default "Placeholder text placeholder text placeholder text" }}</h1>
+    {{ end }}
+
+    {{ with .text }}
+      <p class="mv3 f3 moon-gray">{{ . | default ""}}</p>
+    {{ end }}
+
+    {{ with .link }}
+      <a href="{{.href}}" class="dib link mv3 pa3 ph4 white f3 b bg-pcw">{{.text}}</a>
+    {{ end }}
+  </div>
+
+</article>

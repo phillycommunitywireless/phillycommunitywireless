@@ -1,20 +1,39 @@
 ---
-date: 2021-09-30
 title: Home
 omit_header_text: true
-# Add .md files here to create new homepage segments. 
-# This will add their content after this file's content, alternating background colors
+
+# The `segments` param will generate homepage segments (vertical sections).
+# For the supported segment types and required params, see README.md#homepage-segments
 segments:
+  - type: call-to-action
+    header: Do you live in Norris Square?
+    text: We are currently working with residents and community organizations in the area around Norris Square Park. If you live in the area, you can either get connected or host an antenna to connect your neighbors. 
+    link:
+      text: Get connected
+      href: get-connected/
+
+  - type: image
+    src: images/hero3.jpg
+    alt: hero3
+
+  - type: call-to-action
+    header: We are looking for volunteers!
+    link: 
+      text: Get involved
+      href: volunteer/
+
+  - type: gallery
+    images:
+      - src: images/hero3.jpg
+        alt: hero3
+      - src: images/hero.jpg
+        alt: hero1
+      - src: images/hero2.jpg
+        alt: hero2
+  
   - type: markdown
     url: contact.md
-  - type: gallery
-    photos: 
-      - url: images/hero.jpg
-        alt: hero1
-      - url: images/hero2.jpg
-        alt: hero2
-      - url: images/hero3.jpg
-        alt: hero3
+    class: bg-white
 ---
 
 **[We're hiring a full-time paid project manager!](/job)**

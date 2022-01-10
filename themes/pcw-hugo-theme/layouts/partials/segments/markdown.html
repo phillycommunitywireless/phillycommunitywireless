@@ -1,0 +1,5 @@
+<article class="cf {{ .class | default "bg-light-gray" }}">
+  <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy">
+    {{ with site.GetPage .url }} {{ .Content }} {{ end }}
+  </section>
+</article>
