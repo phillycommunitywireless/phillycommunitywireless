@@ -6,10 +6,10 @@ omit_header_text: true
 # For the supported segment types and required params, see README.md#homepage-segments
 segments:
   - type: call-to-action
-    header: Do you live in Norris Square?
+    header: Get connected to free community WiFi
     text: We are currently working with residents and community organizations in the area around Norris Square Park. If you live in the area, you can either get connected or host an antenna to connect your neighbors. 
     link:
-      text: Get connected
+      text: Join the network
       href: get-connected/
 
   - type: image

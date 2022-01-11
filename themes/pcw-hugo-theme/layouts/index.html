@@ -16,7 +16,7 @@
         {{ if templates.Exists (printf "partials/%s" $partial) }}
           {{ partial $partial . }}
         {{ else }}
-          {{ warnf "There is no partial named \"%s\" in the layouts/partials/segments directory." .type }}
+          {{ warnf "There is no file named \"%s.html\" in the layouts/partials/segments directory." .type }}
         {{ end }}
       {{ end }}
     {{ end }}
