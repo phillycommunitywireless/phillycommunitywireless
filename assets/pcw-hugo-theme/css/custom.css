@@ -58,6 +58,7 @@
 
 /* Links */
 main a,
+.nested-links a,
 #TableOfContents a {
   color: var(--primary);
 }
@@ -110,7 +111,13 @@ main a,
 *********/
 
 .logo {
-  height: 60px;
+  height: 50px;
+  width: 50px;
+  object-fit: contain;
+  object-position: 1px 1px;
+  border-radius: 50%;
+  padding: 3px;
+  border: solid 3px white;
 }
 
 img.fit-cover {

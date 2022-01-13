@@ -80,7 +80,7 @@ languages:
 
 params:
   # theme
-  site_logo: /images/logo.svg
+  site_logo: /images/logo.jpg
   favicon: /images/logo-purple.svg
   featured_image: /images/hero3.jpg
   cover_dimming_class: bg-black-10
