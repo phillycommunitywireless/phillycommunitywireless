@@ -80,11 +80,11 @@ languages:
 
 params:
   # theme
-  site_logo: /images/logo.jpg
+  site_logo: /images/WebLogo_Standard2.svg
   favicon: /images/logo-purple.svg
   featured_image: /images/hero3.jpg
-  cover_dimming_class: bg-black-10
-  background_color_class: bg-pcw
+  featured_svg: /images/WebLogo_Standard.svg
+  background_color_class: bg-black-90
   body_classes: calibre black
   custom_css:
     - custom.css

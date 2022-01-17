@@ -26,6 +26,9 @@
   background-color: var(--dark-blue);
   color: var(--light-gray);
 }
+.bg-pcw-dark-blue a {
+  color: white;
+}
 .bg-light-gray {
   background-color: var(--light-gray);
   color: black;
@@ -45,11 +48,10 @@
   color: var(--light-gray);
 }
 
-/* Headings */
+/* Make headings white when on colored backgrounds. */
 [class^="bg-pcw-"] :is(h1, h2, h3, h4, h5, h6) {
   color: white !important;
 }
-
 
 /* Text color */
 .color-pcw {
@@ -106,21 +108,22 @@ main a,
   font-family: "Calibre", "Helvetica Neue", sans-serif;
 }
 
-/*********
-* LAYOUT *
-*********/
+/********
+* EXTRA *
+********/
 
-.logo {
-  height: 50px;
-  width: 50px;
-  object-fit: contain;
-  object-position: 1px 1px;
-  border-radius: 50%;
-  padding: 3px;
-  border: solid 3px white;
-}
-
-img.fit-cover {
+img.ofit-cover {
   object-fit: cover;
+}
+img.ofit-contain {
+  object-fit: contain;
+}
+img.opos-center {
   object-position: center;
+}
+img.opos-left {
+  object-position: left;
+}
+img.opos-top {
+  object-position: top;
 }

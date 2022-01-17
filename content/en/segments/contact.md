@@ -1,4 +1,4 @@
-## Contact us
+# Contact us
 
 {{< fa envelope >}} phillycommunitywireless@gmail.com
 

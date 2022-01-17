@@ -1,10 +1,4 @@
 {{ define "main" }}
-  {{/* Show main content of _index.md */}}
-  <article class="cf">
-    <section class=" ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy">
-      {{ .Content }}
-    </section>
-  </article>
   {{/* 
     Range over values in _index.md front matter "segments" param.
     Will automatically use partials in the partials/segments directory.

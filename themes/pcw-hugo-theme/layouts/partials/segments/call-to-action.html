@@ -1,17 +1,29 @@
-<article class="cf {{ .class | default "bg-pcw-dark-blue" }}">
-  
-  <div class="tc pv5 ph7-l ph5-m ph3 flex-column">
+<article class="cf flex flex-row-l flex-column items-stretch {{ .class | default "bg-pcw-dark-blue" }}">
+  {{ $with_image_class := cond (isset . "image") "w-50-l" "" }}
+  <div class="w-100 tc pv5 ph5-l ph5-m ph3 {{ $with_image_class }}">
     {{ with .header}}
-      <h1 class="mv3 f2">{{ . | default "Placeholder text placeholder text placeholder text" }}</h1>
+      <h1 class="white mv3 f1">{{ . | default "Placeholder text placeholder text placeholder text" }}</h1>
     {{ end }}
 
     {{ with .text }}
-      <p class="mv3 f3 moon-gray">{{ . | default ""}}</p>
+      <p class="mv3 f3 lh-copy">{{ (. | default "") | markdownify }}</p>
     {{ end }}
 
     {{ with .link }}
-      <a href="{{.href}}" class="dib link mv3 pa3 ph4 white f3 b bg-pcw">{{.text}}</a>
+      <a href="{{.href}}" class="dib link mv3 pa3 ph4 white f3 b bg-pcw">{{ .text | default "Link text" }}</a>
     {{ end }}
   </div>
 
+  {{ with .image }}
+    <div class="w-100 h-auto-l vh-50 w-50-l cover bg-center" role="img" aria-label="{{.alt}}" style="background-image: url('{{.src}}');"></div>
+  {{ end }}
 </article>
+
+<style>
+  article.bg-pcw>div>a.bg-pcw {
+    background-color: var(--dark-blue);
+  }
+  article.bg-pcw a {
+    color: white;
+  }
+</style>

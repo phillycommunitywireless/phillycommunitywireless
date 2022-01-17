@@ -1,3 +1,12 @@
-<article class="{{ .class | default "bg-pcw-dark-blue" }}">
-  <img src="{{.src}}" alt="{{.alt}}" class="fit-cover w-100 h5 h6-l"/>
+<article class="vh-50-l vh-25 relative">
+  <img src="{{ .src }}" alt="{{ .alt }}" class="{{ .class | default "opos-left" }} ofit-cover w-100 h-100"/>
+  {{ with .text }}
+    <div class="absolute absolute--fill flex bg-black-40">
+      {{ if in . ".svg" }}
+        <img src="{{ . }}" style="margin:auto" class="h-75">
+      {{ else }}
+        <h1 style="margin:auto" class="center db">{{ . | $.Page.RenderString }}</h1>
+      {{ end }}
+    </div>
+  {{ end }}
 </article>
