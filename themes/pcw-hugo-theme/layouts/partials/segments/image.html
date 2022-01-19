@@ -1,12 +1,1 @@
-<section class="vh-75 vh-25-s relative">
-  <img src="{{ .src }}" alt="{{ .alt }}" class="{{ .class | default "opos-left" }} ofit-cover w-100 h-100"/>
-  {{ with .text }}
-    <div class="absolute absolute--fill flex bg-black-40">
-      {{ if in . ".svg" }}
-        <img src="{{ . }}" style="margin: auto;" class="h-75">
-      {{ else }}
-        <h1 style="margin: auto;" class="center db">{{ . | $.Page.RenderString }}</h1>
-      {{ end }}
-    </div>
-  {{ end }}
-</section>
+<img src="{{ .src }}" alt="{{ .alt }}" class="db vh-75 vh-25-s ofit-cover w-100 h-100 {{ .class }} "/>

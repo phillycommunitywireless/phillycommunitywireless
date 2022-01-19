@@ -79,6 +79,7 @@ languages:
     weight: 2
 
 params:
+  instagram: phillycommunitywireless
   # theme
   site_logo: /images/WebLogo_Standard2.svg
   favicon: /images/logo-purple.svg

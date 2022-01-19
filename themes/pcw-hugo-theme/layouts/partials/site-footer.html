@@ -1,19 +1,20 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} pv4 ph3 ph5-m ph6-l" role="contentinfo">
   <div class="flex f4 p2">
-    <div>
-      <a class="fw4 dn dib-ns ph3 white-80" href="{{ .Site.BaseURL }}">
+    <div class="flex-1 tl">
+      <p class="white-80">
         &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
-      </a>
+      </p>
     </div>
-      {{ if .Site.Menus.footer }}
-      <div class="flex-auto tr">
+    {{ if .Site.Menus.footer }}
+      <div class="flex-1 tr">
         {{ range .Site.Menus.footer }}
-        <a class="dib ph2 pb3-m lh-copy white-80" href="{{ .URL | relLangURL }}" title="{{ .Name }}">
-          {{ .Name }}
-        </a>
+          <p>
+            <a class="white-80" href="{{ .URL | relLangURL }}" title="{{ .Name }}">
+              {{ .Name }}
+            </a>
+          </p>
         {{ end }}
       </div>
-      {{ end }}
-      <div>{{ partial "social-follow.html" . }}</div>
+    {{ end }}
   </div>
 </footer>

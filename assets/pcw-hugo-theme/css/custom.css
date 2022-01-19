@@ -91,7 +91,19 @@ main a,
   text-decoration: none;
   color: var(--primary);
 }
-
+a:is(a,.link):focus, a:is(a,.link):focus-within {
+  outline: dashed 5px var(--lilac);
+  outline-offset: 0.2rem;
+}
+a[href^="mailto:"] {
+  word-break: break-all;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
 
 /********
 * FONTS *
