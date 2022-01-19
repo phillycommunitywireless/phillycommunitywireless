@@ -82,8 +82,13 @@ params:
   # theme
   site_logo: /images/WebLogo_Standard2.svg
   favicon: /images/logo-purple.svg
-  featured_image: /images/hero3.jpg
-  featured_svg: /images/WebLogo_Standard.svg
+  featured_image: 
+    src: /images/hero3.jpg
+    alt: A photo of an antenna installed on a rooftop, pointing at a receiver tower in the distance.
+  featured_text:
+    header: /images/WebLogo_Standard.svg
+    subtitle: Building community-controlled networks in Philadelphia
+    link: Learn more &rarr;
   background_color_class: bg-black-90
   body_classes: calibre black
   custom_css:

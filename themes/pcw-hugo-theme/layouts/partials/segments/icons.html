@@ -1,0 +1,8 @@
+<section class="cf flex flex-row-ns flex-column items-stretch pv5 mh6-l {{ .class }}">
+  {{ range $i, $icon := .icons }}
+    <div class="tc flex-1 flex flex-column items-stretch">
+      <i class="f0 {{ .color | default "color-pcw" }} {{ $icon.icon }}"></i>
+      <p class="ma0 pb0-ns pv4 f3 dark-gray">{{ $icon.text }}</p>
+    </div>
+  {{ end }}
+</section>

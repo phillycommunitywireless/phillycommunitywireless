@@ -1,10 +1,10 @@
-<article class="gallery-segment display-grid grid-columns-3 {{ .class | default "bg-pcw-dark-blue" }}">
+<section class="gallery-segment display-grid grid-columns-3 {{ .class | default "bg-pcw-dark-blue" }}">
   {{ range $i, $img := .images }}
     {{ if not (gt $i 5) }}
       <img src="{{$img.src}}" alt="{{$img.alt}}"/>
     {{ end }}
   {{ end }}
-</article>
+</section>
 
 <style>
   .gallery-segment {

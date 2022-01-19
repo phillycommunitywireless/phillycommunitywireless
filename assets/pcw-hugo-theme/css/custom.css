@@ -16,18 +16,15 @@
 /* Background color */
 .bg-pcw {
   background-color: var(--primary);
-  color: var(--light-gray);
+  color: white;
 }
 .bg-pcw-lilac {
   background-color: var(--lilac);
-  color: var(--light-gray);
+  color: white;
 }
 .bg-pcw-dark-blue {
   background-color: var(--dark-blue);
   color: var(--light-gray);
-}
-.bg-pcw-dark-blue a {
-  color: white;
 }
 .bg-light-gray {
   background-color: var(--light-gray);
@@ -48,20 +45,50 @@
   color: var(--light-gray);
 }
 
-/* Make headings white when on colored backgrounds. */
-[class^="bg-pcw-"] :is(h1, h2, h3, h4, h5, h6) {
-  color: white !important;
+/* Automatic heading colors based on background. */
+h1,h2 {
+  color: var(--primary);
+}
+[class*=" bg-pcw"] h1,
+[class*=" bg-pcw"] h2 {
+  color: white;
 }
 
-/* Text color */
-.color-pcw {
-  color: var(--primary);
+/* Automatic link colors based on background. */
+[class*=" bg-pcw"] a {
+  color: white;
+}
+a[role="button"] {
+  color: white;
+  background-color: var(--primary);
+  /* border: dashed 1px white; */
+}
+a[role="button"]:after {
+  content: " →"
+}
+[class*=" bg-pcw"]:not(.bg-pcw-dark-blue) a[role="button"] {
+  background-color: var(--dark-blue);
+}
+
+/************
+* OVERRIDES *
+************/
+
+/* Headings */
+h1 {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+h2 {
+  margin: 0;
+  margin-bottom: 0.3em;
 }
 
 /* Links */
 main a,
 .nested-links a,
 #TableOfContents a {
+  text-decoration: none;
   color: var(--primary);
 }
 
@@ -69,8 +96,6 @@ main a,
 /********
 * FONTS *
 ********/
-
-@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap");
 
 @font-face {
   font-family: 'Calibre';
@@ -108,9 +133,9 @@ main a,
   font-family: "Calibre", "Helvetica Neue", sans-serif;
 }
 
-/********
-* EXTRA *
-********/
+/****************
+* EXTRA CLASSES *
+****************/
 
 img.ofit-cover {
   object-fit: cover;
@@ -126,4 +151,10 @@ img.opos-left {
 }
 img.opos-top {
   object-position: top;
+}
+.f0 {
+  font-size: 4rem;
+}
+.flex-1 {
+  flex: 1;
 }

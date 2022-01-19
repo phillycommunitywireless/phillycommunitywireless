@@ -1,5 +1,5 @@
-<article class="cf {{ .class }}">
-  <section class="ph3 ph4-l pv3 pv4-l f4 center measure-wide lh-copy">
+<section class="cf pv4 pa3 {{ .class }}">
+  <div class="f3 center measure-wide lh-copy">
     {{ with site.GetPage .url }} {{ .Content }} {{ end }}
-  </section>
-</article>
+  </div>
+</section>
