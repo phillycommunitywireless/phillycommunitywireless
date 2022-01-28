@@ -1,0 +1,22 @@
+{{ with $.Site.Params.featured_image }}
+
+  <div class="relative vh-75">
+    <img src="{{ .src }}" alt="{{ .alt }}" class="{{ .class | default "opos-left" }} ofit-cover w-100 h-100"/>
+    {{ with $.Site.Params.featured_text }}
+      <div class="absolute absolute--fill flex flex-column bg-black-50">
+        {{ if in .header ".svg" }}
+          <img src="{{ .header }}" alt="{{$.Site.Title}}" style="margin: auto;" class="h-75 ma4" role="heading" aria-label="{{$.Site.Title}}">
+        {{ else }}
+          <h1 style="margin: auto; font-size: 6rem;" class="tc center f1 white mb0 w-50 lh-solid">{{ markdownify .header }}</h1>
+        {{ end }}
+        {{ with .subtitle }}
+          <p class="tc center f2 white mt0">{{ . | markdownify }}</p>
+        {{ end }}
+        {{ with .link }}
+          <p class="tc center f3 white mb5 mt0"><a style="border: dashed 1px white;" class="pa2 white link" href="/about">{{ . | markdownify}}</a></p>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+
+{{ end }}

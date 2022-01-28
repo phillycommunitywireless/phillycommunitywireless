@@ -1,15 +1,14 @@
-<nav class="bg-pcw pv3 ph3 ph4-ns" role="navigation">
+<nav class="bg-pcw pa2 pl3-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white-90 flex items-center">
-      <img src="{{ .Site.Params.site_logo }}" class="logo mw5-ns v-mid" alt="{{ $.Site.Title }}" />
-      <div class="f3 fw7 lh-solid pl3 pr4 white">Philly<br>Community<br>Wireless</div>
+      <img height="70" src="{{ $.Site.Params.site_logo }}" alt="{{ $.Site.Title }}"/>
     </a>
     <div class="flex-l items-center">
       {{ if .Site.Menus.main }}
       <ul class="ph0 mb0-s lh-copy">
         {{ range .Site.Menus.main }}
-        <li class="list f5 f4-ns fw4 dib pr4 pt2 pb1">
-          <a class="hover-white no-underline white-90" href="{{ .URL | absLangURL }}" title="{{ .Name }} page">
+        <li class="list f4 fw4 dib pr4 pr3-s pt2 pb1">
+          <a class="hover-hite no-underline white-90" href="{{ .URL | absLangURL }}" title="{{ .Name }} page">
             {{ .Name }} {{ if .Params.External }} {{ partial "svg/external.svg" (dict "size" "12px" "color" "lightgrey") }} {{ end }}
           </a>
         </li>
@@ -17,7 +16,6 @@
       </ul>
       {{ end }}
       {{ partial "i18nlist.html" . }}
-      {{ partialCached "social-follow.html" . }}
     </div>
   </div>
 </nav>

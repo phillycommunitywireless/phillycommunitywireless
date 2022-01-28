@@ -16,11 +16,11 @@
 /* Background color */
 .bg-pcw {
   background-color: var(--primary);
-  color: var(--light-gray);
+  color: white;
 }
 .bg-pcw-lilac {
   background-color: var(--lilac);
-  color: var(--light-gray);
+  color: white;
 }
 .bg-pcw-dark-blue {
   background-color: var(--dark-blue);
@@ -45,29 +45,69 @@
   color: var(--light-gray);
 }
 
-/* Headings */
-[class^="bg-pcw-"] :is(h1, h2, h3, h4, h5, h6) {
-  color: white !important;
+/* Automatic heading colors based on background. */
+h1,h2 {
+  color: var(--primary);
+}
+[class*=" bg-pcw"] h1,
+[class*=" bg-pcw"] h2 {
+  color: white;
 }
 
+/* Automatic link colors based on background. */
+[class*=" bg-pcw"] a {
+  color: white;
+}
+a[role="button"] {
+  color: white;
+  background-color: var(--primary);
+  /* border: dashed 1px white; */
+}
+a[role="button"]:after {
+  content: " →"
+}
+[class*=" bg-pcw"]:not(.bg-pcw-dark-blue) a[role="button"] {
+  background-color: var(--dark-blue);
+}
 
-/* Text color */
-.color-pcw {
-  color: var(--primary);
+/************
+* OVERRIDES *
+************/
+
+/* Headings */
+h1 {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+h2 {
+  margin: 0;
+  margin-bottom: 0.3em;
 }
 
 /* Links */
 main a,
+.nested-links a,
 #TableOfContents a {
-  color: var(--primary) !important;
+  text-decoration: none;
+  color: var(--primary);
 }
-
+a:is(a,.link):focus, a:is(a,.link):focus-within {
+  outline: dashed 5px var(--lilac);
+  outline-offset: 0.2rem;
+}
+a[href^="mailto:"] {
+  word-break: break-all;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
 
 /********
 * FONTS *
 ********/
-
-@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap");
 
 @font-face {
   font-family: 'Calibre';
@@ -105,10 +145,28 @@ main a,
   font-family: "Calibre", "Helvetica Neue", sans-serif;
 }
 
-/*********
-* LAYOUT *
-*********/
+/****************
+* EXTRA CLASSES *
+****************/
 
-.logo {
-  height: 60px;
+img.ofit-cover {
+  object-fit: cover;
+}
+img.ofit-contain {
+  object-fit: contain;
+}
+img.opos-center {
+  object-position: center;
+}
+img.opos-left {
+  object-position: left;
+}
+img.opos-top {
+  object-position: top;
+}
+.f0 {
+  font-size: 4rem;
+}
+.flex-1 {
+  flex: 1;
 }

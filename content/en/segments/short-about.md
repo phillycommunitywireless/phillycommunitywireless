@@ -1,0 +1,1 @@
+We are a volunteer-led coalition of technologists and organizers. We are committed to promoting tech literacy, information access, net neutrality, and digital justice. We believe that **internet access is a human right**.
