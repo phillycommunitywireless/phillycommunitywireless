@@ -5,8 +5,7 @@
     <link>https://phillycommunitywireless.org/</link>
     <description>Recent content in Home on Philly Community Wireless</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Manager Job Posting</title>
       <link>https://phillycommunitywireless.org/job/</link>
@@ -71,28 +70,6 @@ Chris Mehretab</description>
     </item>
     
     <item>
-      <title>Volunteer</title>
-      <link>https://phillycommunitywireless.org/volunteer/</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/volunteer/</guid>
-      <description>Our network is being built by and for our communities. To get involved, just reach out to one of our team leads based on your area(s) of interest.
-We are also hiring a full-time paid project manager.
-Tech The tech team is primarily looking for volunteers who can donate time and effort to our installation process: attending in-person trainings and workdays in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://phillycommunitywireless.org/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/contact/</guid>
-      <description>Contact us   phillycommunitywireless@gmail.com
-  215-316-5761
-  Find us on Facebook</description>
-    </item>
-    
-    <item>
       <title>PCW Code of Conduct</title>
       <link>https://phillycommunitywireless.org/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -110,6 +87,17 @@ Tech The tech team is primarily looking for volunteers who can donate time and e
       <description>Effective Date: March 1, 2021
 Last Updated: May 21, 2021
  We at Philadelphia Community Wireless Project, a fiscally sponsored project of the Movement Alliance Project (&amp;quot;PCWP&amp;quot;, &amp;ldquo;us&amp;rdquo;, &amp;ldquo;our&amp;rdquo;, or &amp;ldquo;we&amp;quot;) are strongly committed to transparency, and we want you (&amp;quot;you&amp;rdquo; or &amp;ldquo;your&amp;quot;) to understand how we collect, use, share and protect your personal information, as well as how you can manage the personal information we collect. This Privacy Notice applies to your interactions with us, including attending our events or participating in our programs, or your use of our website (www.</description>
+    </item>
+    
+    <item>
+      <title>Volunteer</title>
+      <link>https://phillycommunitywireless.org/volunteer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/volunteer/</guid>
+      <description>Our network is being built by and for our communities. To get involved, just reach out to one of our team leads based on your area(s) of interest.
+We are also hiring a full-time paid project manager.
+Tech The tech team is primarily looking for volunteers who can donate time and effort to our installation process: attending in-person trainings and workdays in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops.</description>
     </item>
     
   </channel>
