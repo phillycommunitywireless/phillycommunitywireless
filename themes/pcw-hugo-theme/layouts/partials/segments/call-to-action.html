@@ -1,0 +1,17 @@
+<section class="cf tl tc-ns pv4 pa3 {{ .class }}">
+  <div class="center f3 measure-wide">  
+    <div class="w-100">
+      {{ with .heading }}
+        <h2 class="center mv3 f2">{{ . }}</h1>
+      {{ end }}
+      {{ with .text }}
+        <p class="mv3 lh-copy">
+          {{ markdownify . }}
+        </p>
+      {{ end}}
+      {{ with .link }}
+        <a role="button" href="{{.href}}" class="tc dib link mv3 pa3 ph4 f3 b">{{ .text | default "Placeholder link" }}</a>
+      {{ end }}
+    </div>
+  </div>  
+</section>

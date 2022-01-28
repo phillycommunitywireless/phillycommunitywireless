@@ -1,12 +1,6 @@
-{{ $featured_image := .Param "featured_image"}}
-
 <header class="flex flex-column">
   {{ partial "site-navigation.html" . }}
-  {{ if $featured_image }}
-    {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-    {{ $featured_image := (trim $featured_image "/") | absURL }}
-    <div class="cover bg-center h5 h6-l" style="background-image: url('{{ $featured_image }}');"></div>
-  {{ end }}
+  {{ partial "hero-image.html" . }}
 </header>
 
 <style>

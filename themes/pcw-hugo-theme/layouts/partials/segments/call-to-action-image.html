@@ -1,0 +1,20 @@
+<section class="cf tl tc-ns pv4 pa3 {{ .class }}">
+  <div class="flex flex-row-l flex-column items-stretch w-100 vh-100 h-auto-l f3 pt4-l">
+    <div class="flex-1 center pa4-l">
+      {{ with .heading }}
+        <h2 class="center mv3 f2">{{ . }}</h1>
+      {{ end }}
+      {{ with .text }}
+        <p class="mv3 lh-copy">
+          {{ markdownify . }}
+        </p>
+      {{ end}}
+      {{ with .link }}
+        <a role="button" href="{{.href}}" class="center dib link mv3 pa3 ph4 f3 b">{{ .text | default "Placeholder link" }}</a>
+      {{ end }}
+    </div>
+    {{ with .image }}
+      <div style="background-image: url('{{ .src }}'); border-right: solid 2rem transparent;" class="flex-1 cover bg-center" role="img" aria-label="{{ .alt }}"/>
+    {{ end }}
+  </div>  
+</section>

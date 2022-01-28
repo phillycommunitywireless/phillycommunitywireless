@@ -1,27 +1,59 @@
 ---
-date: 2021-09-30
 title: Home
 omit_header_text: true
-# Add .md files here to create new homepage segments. 
-# This will add their content after this file's content, alternating background colors
+
+# The `segments` param will generate homepage segments (vertically stacked sections of the page).
+# For the supported segment types and required params, see README.md#homepage-segments
 segments:
-  - contact.md
+  # Brief description of the project
+  - type: markdown
+    url: segments/short-about.md
+  
+  # Responsive three-column icons
+  - type: icons
+    icons:
+      - icon: fas fa-laptop-code
+        text: Growing tech literacy
+      - icon: fas fa-wifi
+        text: Expanding internet access
+      - icon: fas fa-people-carry
+        text: Building community autonomy
+
+  # Simple heading
+  - type: heading
+    text: Current work
+
+  # Norris Square project
+  - type: call-to-action-image
+    heading: Norris Square Network
+    text: We are beginning to build out a community wireless network in the area around [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live there, you can either get connected or host an antenna to connect your neighbors. 
+    link:
+      text: Get Connected
+      href: getconnected/
+    image: 
+      src: /images/nsp_map.png
+      alt: A map image showing Norris Square Park and the surrounding area.
+
+  # Full-width image (75vh)
+  - type: image
+    class: opos-top
+    src: images/nsnp_antenna.jpg
+    alt: "A white antenna mounted on the corner of the Norris Square Neighborhood Project building"
+
+  - type: heading
+    text: Get involved
+
+  - type: call-to-action
+    heading: We are looking for volunteers!
+    text: Volunteers handle antenna installations, network management, planning, community outreach, software development, and much more.
+    link: 
+      text: Get involved
+      href: volunteer/
+
+  - type: image
+    src: images/hero.jpg
+    alt: "A Philly Community Wireless sign amongst some flowers in Norris Square Park"
+
+  - type: markdown
+    url: contact.md
 ---
-
-**[We're hiring a full-time paid project manager!](/job)**
-
-**Philly Community Wireless** (PCW) is building community controlled internet infrastructure in order to democratize information access, promote digital literacy, and fight digital inequity with free, net-neutral broadband service in North Philadelphia.
-
-### We believe that internet access is a human right.
-
-We are currently partnering with residents and nonprofits organizations in the **Norris Square Park** neighborhood, offering free installations of network antennas on rooftops to expand the public wifi signal around the neighborhood.
-
-### [Get Connected](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) to free wireless internet
-
-### [Volunteer](mailto:phillycommunitywireless@gmail.com) to help build the network
-
-### [Learn More](https://phillycommunitywireless.org/faq/) in our FAQ
-
-### [Sign Up for our Newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) to receive updates
-
-### [Donate](https://phillycommunitywireless.wedid.it/) to help us expand
