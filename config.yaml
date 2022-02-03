@@ -79,19 +79,24 @@ languages:
     weight: 2
 
 params:
-  instagram: phillycommunitywireless
-  # theme
-  site_logo: /images/WebLogo_Standard2.svg
   favicon: /images/logo-purple.svg
+  # Logo in the navbar
+  site_logo: /images/WebLogo_Standard2.svg
+  # Hero image
   featured_image: 
     src: /images/hero3.jpg
     alt: A photo of an antenna installed on a rooftop, pointing at a receiver tower in the distance.
+  # Text overlay on the hero image 
   featured_text:
+    # SVG is allowed in the header
     header: /images/WebLogo_Standard.svg
     subtitle: Building community-controlled networks in Philadelphia
     link: Learn more &rarr;
-  background_color_class: bg-black-90
+  # Footer background color
+  background_color_class: bg-near-white black-60
+  # Add classes to the <body>
   body_classes: calibre black
+  # Load these files from assets/pcw-hugo-theme/css
   custom_css:
     - custom.css
 

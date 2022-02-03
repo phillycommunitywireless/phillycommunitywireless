@@ -86,6 +86,7 @@ h2 {
 
 /* Links */
 main a,
+footer a,
 .nested-links a,
 #TableOfContents a {
   text-decoration: none;
@@ -169,4 +170,9 @@ img.opos-top {
 }
 .flex-1 {
   flex: 1;
+}
+@media screen and (min-width: 60em) {
+  .flex-1-l {
+    flex: 1;
+  }
 }

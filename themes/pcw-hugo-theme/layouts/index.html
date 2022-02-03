@@ -1,18 +1,6 @@
 {{ define "main" }}
-  {{/* 
-    Range over values in _index.md front matter "segments" param.
-    Will automatically use partials in the partials/segments directory.
-  */}}
-  {{ with .Params.segments }}
-    {{ range $i, $val := . }} 
-      {{ with $val }}
-        {{ $partial := (printf "segments/%s.html" .type) }}
-        {{ if templates.Exists (printf "partials/%s" $partial) }}
-          {{ partial $partial . }}
-        {{ else }}
-          {{ warnf "There is no file named \"%s.html\" in the layouts/partials/segments directory." .type }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
+  {{ with .Content }}
+    {{ partial "segments/markdown.html" (dict "url" "_index.md") }}
   {{ end }}
+  {{ partial "segments.html" .Params.segments }}
 {{ end }}

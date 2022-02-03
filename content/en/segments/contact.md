@@ -1,4 +1,4 @@
-## Contact us
+## Contact
 
 {{< fa envelope >}} &nbsp;[phillycommunitywireless@gmail.com](mailto:phillycommunitywireless@gmail.com)
 

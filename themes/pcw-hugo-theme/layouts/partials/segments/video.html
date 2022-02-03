@@ -1,0 +1,21 @@
+{{ $maxheight := "75vh" }}
+
+<section class="cf mv3 {{ .class | default "bg-black" }}">
+  <!-- {{ with .text }}
+    <div class="pv5 f3 tc center white">{{ . }}</div>
+  {{ end }} -->
+  <div class="center" style="max-width: calc({{ $maxheight }} * 1.7777777 - 4rem);">
+    <div class="aspect-ratio aspect-ratio--16x9">
+      <iframe 
+        width="560" 
+        height="315"
+        title="{{ .title | default $.Site.Title }}"
+        class="absolute top-0 left-0 w-100 h-100"
+        src="{{ .src }}?rel=0" 
+        frameborder="0" 
+        allow="accelerometer; clipboard-write; gyroscope; picture-in-picture" 
+        allowfullscreen >
+      </iframe>
+    </div>
+  </div>
+</section>

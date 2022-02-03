@@ -10,7 +10,7 @@
           <h1 style="margin: auto; font-size: 6rem;" class="tc center f1 white mb0 w-50 lh-solid">{{ markdownify .header }}</h1>
         {{ end }}
         {{ with .subtitle }}
-          <p class="tc center f2 white mt0">{{ . | markdownify }}</p>
+          <p class="tc center f2-ns f3 white mt0">{{ . | markdownify }}</p>
         {{ end }}
         {{ with .link }}
           <p class="tc center f3 white mb5 mt0"><a style="border: dashed 1px white;" class="pa2 white link" href="/about">{{ . | markdownify}}</a></p>
