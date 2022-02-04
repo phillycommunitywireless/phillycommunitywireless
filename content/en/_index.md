@@ -35,21 +35,11 @@ segments:
       src: /images/nsp_map.png
       alt: A map image showing Norris Square Park and the surrounding area.
 
-  # Full-width image (75vh)
-  # - type: image
-  #   class: opos-top
-  #   src: images/nsnp_antenna.jpg
-  #   alt: "A white antenna mounted on the corner of the Norris Square Neighborhood Project building"
-  
   # Video embed
   - type: video
     src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
     title: Philly Community Wireless promo video produced by the Big Picture Alliance.
     text: Learn more about the project
-
-  # # Get involved
-  # - type: heading
-  #   text: Get involved
 
   # Volunteer CtA
   - type: call-to-action
@@ -63,10 +53,6 @@ segments:
   - type: image
     src: images/hero.jpg
     alt: "A Philly Community Wireless sign amongst some flowers in Norris Square Park"
-
-  # # Get involved
-  # - type: heading
-  #   text: Get in touch
 
   # Contact info
   - type: markdown
