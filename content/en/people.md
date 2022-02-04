@@ -70,9 +70,6 @@ _Director, Member Services and NYC Dark Fiber Program at NYSERNet_
 Mark Steckel {{< fa cogs >}} \
 _Founder, PhillyWisper_
 
-Tim Traversy {{< fa cogs >}} \
-_Software Engineer_
-
 Devren Washington {{< fa hands-helping >}} \
 _Senior Policy Organizer, Movement Alliance Project_
 
@@ -125,6 +122,12 @@ Sarah Fingerhood, University of Pennsylvania, 2021
 Anika Prakash, University of Pennsylvania, 2021
 
 <br/>
+
+
+## PCW Alumnni
+
+Tim Traversy {{< fa cogs >}} \
+_Software Engineer_
 
 ## Norris Square Community Partners
 
