@@ -22,7 +22,7 @@ segments:
   # Simple heading
   - type: heading
     text: Current work
-    # divider: true
+    divider: true
 
   # Norris Square project
   - type: call-to-action-image
