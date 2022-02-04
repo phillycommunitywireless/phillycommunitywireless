@@ -1,36 +1,43 @@
-This is the repo for the Philly Community Wireless website, phillycommunitywireless.org (or pcw.fi).
+# phillycommunitywireless.org
 
-The site is built using the [Hugo](https://gohugo.io) static site generator.
-
-# Editing
-
+Source code for the Philly Community Wireless website, [phillycommunitywireless.org](https://phillycommunitywireless.org) (or [pcw.fi](https://phillycommunitywireless.org)). The site is built using the [Hugo](https://gohugo.io) static site generator and hosted with [GitHub Pages](https://pages.github.com/).
 
 # Theme
 
 The site's theme is a fork of [gohugo-theme-ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) with major modifications.
 
+## Custom CSS
+
+Custom CSS lives in `/assets/pcw-hugo-theme/css/custom.css` 
+
 ## Segments
 
-This theme supports a `segments` front matter parameter for composing pages from "stackable components". The `segments` param is a YAML list of objects, each of which will correspond to a segment of your homepage. Each segment will use a pre-written HTML template to render a component, like a full-width photo, a video, or a call-to-action. Each component is full-width and can sometimes be customized right from the YAML.
+This theme supports a `segments` front matter parameter for all normal pages, which allows for composing layouts from "stackable components". The `segments` param is a YAML list of objects, each of which will correspond to a segment of your homepage. Each type of segment uses a pre-written HTML template to render a component, like a full-width photo, a video, or a call-to-action, to the page it's used on. Each component is full-width and can sometimes be customized right from the YAML. 
 
-Here is an example of some typical front matter. This would render a section of markdown text followed by a full-width image:
+### Example
 
-```md
+Here is an example of some typical [Hugo front matter](https://gohugo.io/content-management/front-matter/), along with the `segments` param. This would render a single full-width image followed by a volunteering call-to-action:
+
+```yml
 ---
 title: Home
 segments:
   - type: image
     src: images/antenna.jpg
     alt: An image of an antenna mounted on a brick wall.
+  - type: call-to-action
+    text: Volunteer!
+    link:
+      href: https://example.com/volunteer
+      text: Get involved
 ---
-This **markdown text** would be rendered to the page at the top. 
 ```
 
-## Segment types
+### Segment types
 
-A segment consists of a `type` string that determines which HTML template is used, as well as a series of other mandatory and optional params to serve as props/options for the component.
+A segment consists of a `type` string that determines which HTML template is used, as well as a series of other mandatory and optional params to serve as props/options for the component. These are the currently supported types:
 
-### `markdown`
+#### `markdown`
 A section of markdown text.
 ```yml
 - type: markdown
@@ -39,7 +46,7 @@ A section of markdown text.
   class: Classes (space separated) to add to the container element. Useful for e.g. font settings, background color, etc.
 ```
 
-### `heading`
+#### `heading`
 A simple full-width heading (`h1`).
 ```yml
 - type: heading
@@ -48,7 +55,7 @@ A simple full-width heading (`h1`).
   divider: false # Set to `true` to display a dotted divider above the heading. 
 ```
 
-### `image`
+#### `image`
 A full-width responsive image.
 ```yml
 - type: image
@@ -74,7 +81,7 @@ A layout of up to 6 images
   class: Classes to add to the container element.
 ```
 -->
-### `video`
+#### `video`
 A full-width responsive embedded video.
 ```yml
 - type: image
@@ -84,7 +91,7 @@ A full-width responsive embedded video.
   class: Classes to add to the container element.
 ```
 
-### `call-to-action`
+#### `call-to-action`
 A highlighted section with (optionally) a header and some text, followed by a big visible link.
 
 ```yml
@@ -100,7 +107,7 @@ A highlighted section with (optionally) a header and some text, followed by a bi
 ![A screenshot of the call-to-action template on a website.](./assets/readme/call-to-action.png)
 
 
-### `call-to-action-image`
+#### `call-to-action-image`
 Same as above, but split vertically with an image on the right side. 
 ```yml
 - type: call-to-action-image
@@ -113,7 +120,7 @@ Same as above, but split vertically with an image on the right side.
 ```
 ![A screenshot of the call-to-action-image template on a website.](./assets/readme/call-to-action-image.png)
 
-### `icons`
+#### `icons`
 A responsive layout featuring three font-awesome icons with optional text labels. Supports [Font Awesome 5](https://fontawesome.com/v5.0/icons) icons.
 ```yml
 - type: icons
@@ -129,3 +136,7 @@ A responsive layout featuring three font-awesome icons with optional text labels
 ```
 
 ![A screenshot of the call-to-action-image template on a website.](./assets/readme/icons.png)
+
+### Adding new segment types
+
+You can create a new segment type by creating a `<type-name>.html` file in the `theme/pcw-hugo-theme/layouts/partials/segments` directory. This template will automatically be used to render segments with this title. The [context](https://gohugo.io/content-management/front-matter/) passed to the partial will be the segment object from the YAML (you can access the global site variable as `site`).
