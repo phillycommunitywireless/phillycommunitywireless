@@ -12,7 +12,7 @@ Custom CSS lives in `/assets/pcw-hugo-theme/css/custom.css`
 
 ## Segments
 
-This theme supports a `segments` front matter parameter for all normal pages, which allows for composing layouts from "stackable components". The `segments` param is a YAML list of objects, each of which will correspond to a segment of your homepage. Each type of segment uses a pre-written HTML template to render a component, like a full-width photo, a video, or a call-to-action, to the page it's used on. Each component is full-width and can sometimes be customized right from the YAML. 
+This theme supports a `segments` front matter parameter for all normal pages, which allows for composing layouts from "stackable components". The `segments` param is a YAML list of objects, each of which will correspond to one of these components. Each type of segment uses a pre-written HTML template to render a component, like a full-width photo, a video, or a call-to-action, to the page it's used on. Segments are all full-width and can usually be customized right from the YAML.
 
 ### Example
 
