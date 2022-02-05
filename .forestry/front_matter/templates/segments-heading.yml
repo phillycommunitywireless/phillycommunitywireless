@@ -1,17 +1,13 @@
 ---
-label: segments/heading
-hide_body: false
+label: heading
+hide_body: true
+display_field: text
 fields:
 - name: text
   type: text
   config:
     required: false
   label: text
-- name: type
-  type: text
-  config:
-    required: false
-  label: type
 - name: divider
   type: boolean
   label: divider
