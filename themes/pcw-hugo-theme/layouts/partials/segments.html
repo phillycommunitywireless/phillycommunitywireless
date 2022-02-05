@@ -3,11 +3,11 @@
 */}}
 {{ range $i, $val := . }} 
   {{ with $val }}
-    {{ $partial := (printf "segments/%s.html" .type) }}
+    {{ $partial := (printf "segments/%s.html" .template) }}
     {{ if templates.Exists (printf "partials/%s" $partial) }}
       {{ partial $partial . }}
     {{ else }}
-      {{ warnf "There is no file named \"%s.html\" in the layouts/partials/segments directory." .type }}
+      {{ warnf "There is no file named \"%s.html\" in the layouts/partials/segments directory." .template }}
     {{ end }}
   {{ end }}
 {{ end }}

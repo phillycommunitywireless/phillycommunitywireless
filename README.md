@@ -22,10 +22,10 @@ Here is an example of some typical [Hugo front matter](https://gohugo.io/content
 ---
 title: Home
 segments:
-  - type: image
+  - template: image
     src: images/antenna.jpg
     alt: An image of an antenna mounted on a brick wall.
-  - type: call-to-action
+  - template: call-to-action
     text: Volunteer!
     link:
       href: https://example.com/volunteer
@@ -35,12 +35,12 @@ segments:
 
 ### Segment types
 
-A segment consists of a `type` string that determines which HTML template is used, as well as a series of other mandatory and optional params to serve as props/options for the component. These are the currently supported types:
+A segment consists of a `template` string that determines which HTML template is used, as well as a series of other mandatory and optional params to serve as props/options for the component. These are the currently supported types:
 
 #### `markdown`
 A section of markdown text.
 ```yml
-- type: markdown
+- template: markdown
   url: The url of the markdown file, relative to your content directory.
   # Optional
   class: Classes (space separated) to add to the container element. Useful for e.g. font settings, background color, etc.
@@ -49,7 +49,7 @@ A section of markdown text.
 #### `heading`
 A simple full-width heading (`h1`).
 ```yml
-- type: heading
+- template: heading
   text: The text to display in the heading.
   # Optional
   divider: false # Set to `true` to display a dotted divider above the heading. 
@@ -58,7 +58,7 @@ A simple full-width heading (`h1`).
 #### `image`
 A full-width responsive image.
 ```yml
-- type: image
+- template: image
   src: Image source
   alt: Alt text
   # Optional
@@ -68,7 +68,7 @@ A full-width responsive image.
 ### `gallery`
 A layout of up to 6 images
 ```yml
-- type: gallery
+- template: gallery
   images:
     - src: First image source
       alt: First image alt text
@@ -84,7 +84,7 @@ A layout of up to 6 images
 #### `video`
 A full-width responsive embedded video.
 ```yml
-- type: image
+- template: image
   src: Image source
   title: Title of the video (mandatory)
   # Optional
@@ -95,7 +95,7 @@ A full-width responsive embedded video.
 A highlighted section with (optionally) a header and some text, followed by a big visible link.
 
 ```yml
-- type: call-to-action
+- template: call-to-action
   text: Text to display above the link. Markdown can be used here (but not shortcodes).
   link:
     href: The URL the link should point to.
@@ -110,7 +110,7 @@ A highlighted section with (optionally) a header and some text, followed by a bi
 #### `call-to-action-image`
 Same as above, but split vertically with an image on the right side. 
 ```yml
-- type: call-to-action-image
+- template: call-to-action-image
   # Same as above, with the addition of:
   image:
     src: Image source
@@ -123,7 +123,7 @@ Same as above, but split vertically with an image on the right side.
 #### `icons`
 A responsive layout featuring three font-awesome icons with optional text labels. Supports [Font Awesome 5](https://fontawesome.com/v5.0/icons) icons.
 ```yml
-- type: icons
+- template: icons
   icons:
     - icon: fas fa-example-1 # The Font Awesome class for your icon.
       text: Label text 1
@@ -137,6 +137,6 @@ A responsive layout featuring three font-awesome icons with optional text labels
 
 ![A screenshot of the call-to-action-image template on a website.](./assets/readme/icons.png)
 
-### Adding new segment types
+### Adding new segment templates
 
-You can create a new segment type by creating a `<type-name>.html` file in the `theme/pcw-hugo-theme/layouts/partials/segments` directory. This template will automatically be used to render segments with this title. The [context](https://gohugo.io/content-management/front-matter/) passed to the partial will be the segment object from the YAML (you can access the global site variable as `site`).
+You can create a new segment template by creating a `<type-name>.html` file in the `theme/pcw-hugo-theme/layouts/partials/segments` directory. This template will automatically be used to render segments with this title. The [context](https://gohugo.io/content-management/front-matter/) passed to the partial will be the segment object from the YAML (you can access the global site variable as `site`).
