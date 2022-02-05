@@ -23,12 +23,3 @@ fields:
   config:
     min: 
     max: 
-- name: test
-  type: blocks
-  label: test
-  template_types:
-  - segments-call-to-action
-  - segments-icons
-  config:
-    min: 
-    max: 
