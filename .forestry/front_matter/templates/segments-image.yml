@@ -1,6 +1,7 @@
 ---
 label: segments/image
 hide_body: true
+display_field: src
 fields:
 - name: type
   type: text
