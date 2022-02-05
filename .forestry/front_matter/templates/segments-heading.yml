@@ -1,4 +1,17 @@
 ---
 label: segments/heading
 hide_body: false
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: text
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+- name: divider
+  type: boolean
+  label: divider
