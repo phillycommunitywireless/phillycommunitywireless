@@ -1,12 +1,8 @@
 ---
 label: segments/video
 hide_body: true
+display_field: title
 fields:
-- name: type
-  type: text
-  config:
-    required: false
-  label: type
 - name: src
   type: text
   config:
