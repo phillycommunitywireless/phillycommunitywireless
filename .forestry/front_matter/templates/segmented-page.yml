@@ -1,28 +1,20 @@
 ---
-label: Segmented page
+label: Segmented Page
 hide_body: true
 fields:
-- type: field_group
-  name: _build
-  label: _build
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: omit_header_text
+  label: omit_header_text
+- type: field_group_list
+  name: segments
+  label: segments
   fields:
-  - type: boolean
-    name: render
-    label: render
-  - type: boolean
-    name: list
-    label: list
-- type: field_group
-  name: cascade
-  label: cascade
-  fields:
-  - type: field_group
-    name: _build
-    label: _build
-    fields:
-    - type: boolean
-      name: render
-      label: render
-    - type: text
-      name: list
-      label: list
+  - type: text
+    name: type
+    label: type
+  - type: text
+    name: url
+    label: url
