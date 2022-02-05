@@ -37,9 +37,9 @@ fields:
     config:
       required: false
     label: src
-  - name: text
+  - name: alt
     type: text
     config:
       required: false
-    label: text
+    label: alt
   label: image
