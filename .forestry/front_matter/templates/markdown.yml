@@ -1,4 +1,14 @@
 ---
 label: Markdown
 hide_body: true
-fields: []
+fields:
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+- name: url
+  type: text
+  config:
+    required: false
+  label: url
