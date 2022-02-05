@@ -11,7 +11,13 @@ fields:
 - name: segments
   type: blocks
   label: segments
-  template_types: []
+  template_types:
+  - segments-call-to-action
+  - segments-call-to-action-image
+  - segments-icons
+  - segments-video
+  - segments-image
+  - markdown
   config:
     min: 
     max: 
