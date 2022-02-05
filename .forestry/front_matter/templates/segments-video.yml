@@ -1,4 +1,19 @@
 ---
 label: segments/video
 hide_body: true
-fields: []
+fields:
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+- name: src
+  type: text
+  config:
+    required: false
+  label: src
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
