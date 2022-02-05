@@ -3,11 +3,6 @@ label: icons
 hide_body: true
 display_field: type
 fields:
-- name: type
-  type: text
-  config:
-    required: false
-  label: type
 - name: icons
   type: field_group_list
   fields:

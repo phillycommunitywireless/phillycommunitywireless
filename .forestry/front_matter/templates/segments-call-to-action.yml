@@ -3,11 +3,6 @@ label: call-to-action
 hide_body: true
 display_field: heading
 fields:
-- name: type
-  type: text
-  config:
-    required: false
-  label: type
 - name: heading
   type: text
   config:
