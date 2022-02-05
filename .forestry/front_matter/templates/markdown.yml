@@ -1,6 +1,7 @@
 ---
-label: Markdown
+label: segments/markdown
 hide_body: true
+display_field: url
 fields:
 - name: type
   type: text
