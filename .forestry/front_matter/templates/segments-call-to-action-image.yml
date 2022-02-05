@@ -1,4 +1,49 @@
 ---
 label: segments/call-to-action-image
 hide_body: true
-fields: []
+fields:
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+- name: heading
+  type: text
+  config:
+    required: false
+  label: heading
+- name: text
+  type: text
+  config:
+    required: false
+  label: text
+- name: link
+  type: field_group
+  config: {}
+  fields:
+  - name: href
+    type: text
+    config:
+      required: false
+    label: href
+  - name: text
+    type: text
+    config:
+      required: false
+    label: text
+  label: link
+- name: image
+  type: field_group
+  config: {}
+  fields:
+  - name: src
+    type: text
+    config:
+      required: false
+    label: src
+  - name: text
+    type: text
+    config:
+      required: false
+    label: text
+  label: image
