@@ -1,13 +1,8 @@
 ---
-label: segments/call-to-action-image
+label: call-to-action-image
 hide_body: true
 display_field: heading
 fields:
-- name: type
-  type: text
-  config:
-    required: false
-  label: type
 - name: heading
   type: text
   config:
