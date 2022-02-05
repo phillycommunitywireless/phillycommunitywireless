@@ -1,4 +1,27 @@
 ---
 label: segments/icons
 hide_body: true
-fields: []
+fields:
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+- name: icons
+  type: field_group_list
+  fields:
+  - name: icon
+    type: text
+    config:
+      required: false
+    label: icon
+  - name: text
+    type: text
+    config:
+      required: false
+    label: text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: icons
