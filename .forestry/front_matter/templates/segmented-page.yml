@@ -13,13 +13,13 @@ fields:
   type: blocks
   label: segments
   template_types:
-  - segments-call-to-action
-  - segments-call-to-action-image
   - segments-icons
+  - segments-call-to-action
+  - segments-heading
+  - segments-call-to-action-image
   - segments-video
   - segments-image
   - markdown
-  - segments-heading
   config:
     min: 
     max: 
