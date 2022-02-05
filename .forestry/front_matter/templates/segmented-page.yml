@@ -18,6 +18,7 @@ fields:
   - segments-video
   - segments-image
   - markdown
+  - segments-heading
   config:
     min: 
     max: 
