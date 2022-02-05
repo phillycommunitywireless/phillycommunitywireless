@@ -1,13 +1,8 @@
 ---
-label: segments/markdown
+label: markdown
 hide_body: true
 display_field: url
 fields:
-- name: type
-  type: text
-  config:
-    required: false
-  label: type
 - name: url
   type: text
   config:
