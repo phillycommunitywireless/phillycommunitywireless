@@ -23,3 +23,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- content/en/_index.md
