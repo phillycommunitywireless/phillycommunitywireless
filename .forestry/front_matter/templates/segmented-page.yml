@@ -9,9 +9,6 @@ fields:
   name: omit_header_text
   label: omit_header_text
 - name: segments
-  type: blocks
+  type: field_group
+  config: {}
   label: segments
-  template_types: []
-  config:
-    min: 
-    max: 
