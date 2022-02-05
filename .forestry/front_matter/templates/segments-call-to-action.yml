@@ -1,6 +1,7 @@
 ---
-label: segments/call-to-action
+label: call-to-action
 hide_body: true
+display_field: heading
 fields:
 - name: type
   type: text
