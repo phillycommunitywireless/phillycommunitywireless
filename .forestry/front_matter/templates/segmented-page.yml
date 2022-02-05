@@ -8,13 +8,10 @@ fields:
 - type: boolean
   name: omit_header_text
   label: omit_header_text
-- type: field_group_list
-  name: segments
+- name: segments
+  type: blocks
   label: segments
-  fields:
-  - type: text
-    name: type
-    label: type
-  - type: text
-    name: url
-    label: url
+  template_types: []
+  config:
+    min: 
+    max: 
