@@ -4,11 +4,8 @@ omit_header_text: true
 
 # The `segments` param will generate homepage segments (vertically stacked sections of the page).
 # For the supported segment types and required params, see README.md#homepage-segments
-segments:
-  # Brief description of the project
-  - type: markdown
-    url: segments/short-about.md
-  
+segments:  
+
   # Responsive three-column icons
   - type: icons
     icons:
@@ -58,3 +55,5 @@ segments:
   - type: markdown
     url: contact.md
 ---
+
+We are a volunteer-led coalition of technologists and organizers working to build community controlled wireless internet networks in Philadelphia. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We believe that **internet access is a human right**.
