@@ -15,39 +15,45 @@
 
 /* Background color */
 .bg-pcw {
-  background-color: var(--primary);
-  color: white;
+  background-color: var(--primary) !important;
+  color: white !important;
 }
 .bg-pcw-lilac {
-  background-color: var(--lilac);
-  color: white;
+  background-color: var(--lilac) !important;
+  color: white !important;
 }
 .bg-pcw-dark-blue {
-  background-color: var(--dark-blue);
-  color: var(--light-gray);
+  background-color: var(--dark-blue) !important;
+  color: var(--light-gray) !important;
 }
 .bg-light-gray {
-  background-color: var(--light-gray);
-  color: black;
+  background-color: var(--light-gray) !important;
+  color: black !important;
 }
 
 /* Text color */
 .color-pcw {
-  color: var(--primary);
+  color: var(--primary) !important;
 }
 .color-pcw-lilac {
-  color: var(--lilac);
+  color: var(--lilac) !important;
 }
 .color-pcw-dark-blue {
-  color: var(--dark-blue);
+  color: var(--dark-blue) !important;
 }
 .light-gray {
-  color: var(--light-gray);
+  color: var(--light-gray) !important;
 }
 
 /* Automatic heading colors based on background. */
 h1,h2 {
   color: var(--primary);
+}
+.color-pcw-lilac :is(h1,h2) {
+  color: var(--lilac);
+}
+.color-pcw-dark-blue :is(h1,h2) {
+  color: var(--dark-blue);
 }
 [class*=" bg-pcw"] h1,
 [class*=" bg-pcw"] h2 {
@@ -57,11 +63,6 @@ h1,h2 {
 /* Automatic link colors based on background. */
 [class*=" bg-pcw"] a {
   color: white;
-}
-a[role="button"] {
-  color: white;
-  background-color: var(--primary);
-  /* border: dashed 1px white; */
 }
 a[role="button"]:after {
   content: " →"

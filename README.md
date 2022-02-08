@@ -43,7 +43,7 @@ A section of markdown text.
 - template: markdown
   url: The url of the markdown file, relative to your content directory.
   # Optional
-  class: Classes (space separated) to add to the container element. Useful for e.g. font settings, background color, etc.
+  class: CSS classes (space separated) to add to the container element. Useful for e.g. font settings, background color, etc.
 ```
 
 #### `heading`
@@ -52,7 +52,16 @@ A simple full-width heading (`h1`).
 - template: heading
   text: The text to display in the heading.
   # Optional
-  divider: false # Set to `true` to display a dotted divider above the heading. 
+  class: Classes to add to the h1 element
+```
+
+#### `divider`
+A dotted line to divide sections visually.
+```yml
+- template: divider
+  narrow: false # Set `true` to use a narrower divider
+  # Optional
+  class: Classes to add to the div element
 ```
 
 #### `image`
@@ -62,7 +71,7 @@ A full-width responsive image.
   src: Image source
   alt: Alt text
   # Optional
-  class: Classes to add to the <img> element.
+  class: Classes to add to the img element.
 ```
 <!--
 ### `gallery`
@@ -100,6 +109,8 @@ A highlighted section with (optionally) a header and some text, followed by a bi
   link:
     href: The URL the link should point to.
     text: The text to display on the link.
+    # Optional
+    class: Classes to add to the link/button element
   # Optional
   heading: A heading above the text.
   class: Classes to add to the container element.
@@ -115,6 +126,8 @@ Same as above, but split vertically with an image on the right side.
   image:
     src: Image source
     alt: Image alt text
+    # Optional 
+    class: Classes to add to the img element
   # Optional
   reverse: false # Set to `true` to display the image on the left instead.
 ```

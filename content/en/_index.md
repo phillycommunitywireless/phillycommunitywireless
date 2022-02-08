@@ -1,6 +1,5 @@
 ---
 title: Home
-omit_header_text: true
 
 # The `segments` param will generate homepage segments (vertically stacked sections of the page).
 # For the supported segment templates and required params, see README.md#segments
@@ -16,10 +15,12 @@ segments:
       - icon: fas fa-people-carry
         text: Building community autonomy
 
+  # Divider
+  - template: divider
+
   # Simple heading
   - template: heading
     text: Current work
-    divider: true
 
   # Norris Square project
   - template: call-to-action-image
@@ -45,11 +46,26 @@ segments:
     link: 
       text: Get involved
       href: volunteer/
+    class: color-pcw-dark-blue
+
+  # Divider
+  - template: divider
+    narrow: true
+
+  # Donate
+  - template: call-to-action
+    heading: Support the project
+    text: Your money will go toward networking equipment, tools, training materials, and paying our focus group participants and staff.
+    link:
+      text: Donate
+      href: https://phillycommunitywireless.wedid.it
+      class: bg-green white
+    class: color-pcw-dark-blue
 
   # Image
   - template: image
     src: images/hero.jpg
-    alt: "A Philly Community Wireless sign amongst some flowers in Norris Square Park"
+    alt: A Philly Community Wireless sign amongst some flowers in Norris Square Park
 
   # Contact info
   - template: markdown

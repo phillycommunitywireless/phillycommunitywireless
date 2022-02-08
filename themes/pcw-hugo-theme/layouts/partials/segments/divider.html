@@ -1,0 +1,5 @@
+{{ $narrow := cond (isset . "narrow") .narrow false }}
+
+<div class="ph3 {{ cond $narrow "pv2 mv1" "pv3 mv4" }} w-100 {{ .class }}">
+  <div class="f3 measure-narrow center" style="border-bottom: dotted 10px var(--lilac);"></div>
+</div>

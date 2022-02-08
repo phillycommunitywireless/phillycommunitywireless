@@ -1,12 +1,5 @@
 <div class="w-100 ph3">
-  <div class="f3 measure-narrow center">
-    {{ with .divider }}
-      <div class="h4">
-        <div class="h-50" style="box-sizing: content-box; border-bottom: dotted 10px var(--lilac)"></div>
-      </div>
-    {{ end }}
-    <h1 class="tl tc-ns f0 center ma0 color-pcw-dark-blue" >
-      {{ .text }}
-    </h1>
-  </div>
+  <h1 class="tl tc-ns f0 center ma0 color-pcw-dark-blue {{ .class }}" >
+    {{ .text }}
+  </h1>
 </div>
