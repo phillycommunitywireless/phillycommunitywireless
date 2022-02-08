@@ -1,12 +1,8 @@
 ---
 title: Home
-<<<<<<< HEAD
 
 # The `segments` param will generate homepage segments (vertically stacked sections of the page).
 # For the supported segment templates and required params, see README.md#segments
-=======
-omit_header_text: true
->>>>>>> 78f98f8366540908b95f45ebf48da1fc564860c5
 segments:
 - template: icons
   icons:
