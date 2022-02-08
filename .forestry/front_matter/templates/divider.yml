@@ -1,0 +1,8 @@
+---
+label: divider
+hide_body: true
+display_field: text
+fields:
+- name: narrow
+  type: boolean
+  label: narrow
