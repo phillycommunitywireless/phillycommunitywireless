@@ -1,6 +1,6 @@
 {{ $reverse := cond (.reverse | default false) "-reverse" "" }}
 
-<section class="cf tl tc-ns pa3 {{ .class }}">
+<section class="cf tl tc-ns f1 measure center pv4 {{ .class }}">
   <div class="flex flex-row{{$reverse}}-l flex-column{{$reverse}} items-stretch w-100 vh-100 h-auto-l f3">
     <div class="flex-1-l center pa4-l pb4-m pb4-s">
       {{ with .heading }}

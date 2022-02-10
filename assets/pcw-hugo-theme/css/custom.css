@@ -46,7 +46,10 @@
 }
 
 /* Automatic heading colors based on background. */
-h1,h2 {
+h1 {
+  color: var(--dark-blue);
+}
+h2 {
   color: var(--primary);
 }
 .color-pcw-lilac :is(h1,h2) {
