@@ -11,3 +11,4 @@ fields:
   description: The title of the page, displayed at the top.
 pages:
 - content/en/code-of-conduct.md
+- content/en/resources.md
