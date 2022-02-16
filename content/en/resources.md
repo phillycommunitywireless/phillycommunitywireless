@@ -6,7 +6,7 @@ Below are some more materials and resources to help support you. Check them out!
 
 ## **Computer Help**
 
-Urban League of Philadelphia and Drexel University Dornsife Center for Neighborhood Partnerships:
+### Urban League of Philadelphia and Drexel University Dornsife Center for Neighborhood Partnerships
 
 **Computer 101 Classes**
 
@@ -18,7 +18,7 @@ Tuesdays, Wednesdays, Thursdays: 5:00-7:00pm
 
 To register: call 215-571-4056, email: bflcdornsifecenter@drexel.edu, 3509 Spring Garden Street, Philadelphia PA 19104
 
-Digital Equity Center at Temple University:
+### Digital Equity Center at Temple University
 
 **Temple Tech for Philly Computer Request Form**
 
