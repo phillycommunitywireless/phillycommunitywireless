@@ -1,5 +1,5 @@
 +++
-title = "Community Resources"
+title = "Resources"
 
 +++
 Below are some more materials and resources to help support you. Check them out!
