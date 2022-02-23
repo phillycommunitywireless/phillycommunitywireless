@@ -11,11 +11,10 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
 ## Tech
 
 {{% notice %}}
-_The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings and work days in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops. Many of us are in the process of learning these skills, so, if these skills are new to you, you'll be trained in a friendly, collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both great to have._{{% /notice %}}
+_The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings and work days in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops. Many of us are in the process of learning these skills, so, if these skills are new to you, you'll be trained in a friendly, collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both great to have. We welcome you to get involved in whatever capacity makes sense for you._{{% /notice %}}
 
-{{% notice %}}
-_We welcome you to get involved in whatever capacity makes sense for you. Here are some of the skill areas we're currently looking for:_
-{{% /notice %}}
+
+_Here are some of the skill areas we're currently looking for:_
 
 - Networking (network design, security, protocols, hardware, mesh, Linux/UNIX command line interface)
 - Hardware & Cabling (terminating & testing CAT5e cable, using tapcons/concrete anchors to mount equipment on masonry)
@@ -32,9 +31,8 @@ _We welcome you to get involved in whatever capacity makes sense for you. Here a
 _The Outreach Team is actively seeking volunteers with Spanish language proficiency to work on community engagement and outreach efforts!_
 {{% /notice %}}
 
-{{% notice %}}
-_Here are some other skill areas we're looking for:_
-{{% /notice %}}
+
+_Here are some of the skill areas we're currently looking for:_
 
 - Canvassing, Flyering, Door Knocking, Tabling
 - Making Calls to Community Members
