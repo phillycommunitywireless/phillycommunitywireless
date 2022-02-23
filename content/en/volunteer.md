@@ -13,7 +13,6 @@ _The Tech Team is actively seeking volunteers to help with our installation proc
 
 
 _Here are some of the skill areas we're currently looking for:_
-
 - Networking: network design, security, protocols, hardware, mesh, Linux/UNIX
 - Hardware & Cabling: terminating & testing CAT5e cable, using tapcons/concrete anchors to mount equipment on masonry
 - Installation: accessing a rooftop with a ladder, drilling into brick, secure cables w/ wireclips
@@ -31,7 +30,6 @@ _The Outreach Team is actively seeking volunteers with Spanish language proficie
 
 
 _Here are some of the skill areas we're currently looking for:_
-
 - Canvassing, Flyering, Door Knocking, Tabling
 - Making Calls to Community Members
 - Photo & Video Documentation of Our Project
