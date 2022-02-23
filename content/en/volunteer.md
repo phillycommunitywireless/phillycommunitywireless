@@ -2,37 +2,48 @@
 title: "Volunteer"
 ---
 
-Our network is being built by and for our communities. To get involved, just reach out to one of our team leads based on your area(s) of interest. We are currently looking for volunteers with availability to work on-site and contribute to the installation of hardware. 
+We're a volunteer-led coalition working to build community controlled wireless internet networks in Philadelphia.  
+
+We're actively seeking volunteers who can help with outreach and hardware installation onsite, in and around Norris Square Park in North Philly, but there are also many opportunities for remote work.
+
+If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link). 
+
 ## Tech
 
 {{% notice %}}
-_The tech team is primarily looking for volunteers who can donate time and effort to our installation process: attending in-person trainings and workdays in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops. We are all in the process of learning these skills, so you'll be trained in a collaborative environment. Access to a car and/or proximity to Norris Square Park are both great to have._
+_The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings and work days in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops. Many of us are in the process of learning these skills, so, if these skills are new to you, you'll be trained in a friendly, collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both great to have._{{% /notice %}}
 
-_However, you're also welcome to get involved in whatever other capacity makes sense for you. These are some of the skill areas we currently / are planning to work in:_
+{{% notice %}}
+_We welcome you to get involved in whatever capacity makes sense for you. Here are some of the skill areas we're currently looking for:_
 {{% /notice %}}
 
-- Networking (network design, security, protocols, hardware, mesh)
-- Hardware and electronics
-- Public infrastructure
-- Software development
-- Documentation
-- Graphic design
-- GIS and mapping
-
-Email Addie at tech@phillycommunitywireless.org
+- Networking (network design, security, protocols, hardware, mesh, Linux/UNIX command line interface)
+- Hardware & Cabling (terminating & testing CAT5e cable, using tapcons/concrete anchors to mount equipment on masonry)
+- Installation (accessing a rooftop with a ladder, drilling into brick/mortar, using staples/wireclips to secure cables)
+- Home Electrician Basics
+- Software Development
+- Technical Documentation
+- UX/UI, Graphic Design
+- GIS & Mapping, Data Visualization, Data Science
 
 ## Outreach
 
 {{% notice %}}
-_We are actively seeking volunteers with Spanish language proficiency to work on community engagement and outreach efforts!_
+_The Outreach Team is actively seeking volunteers with Spanish language proficiency to work on community engagement and outreach efforts!_
 {{% /notice %}}
 
-- Community engagement
-- Canvassing & flyering
-- Technology education
-- Running focus groups
-- Grant writing
-- Merch and printing
-- Graphic design
+{{% notice %}}
+_Here are some other skill areas we're looking for:_
+{{% /notice %}}
 
-Email Heather at outreach@phillycommunitywireless.org
+- Canvassing, Flyering, Door Knocking, Tabling
+- Making Calls to Community Members
+- Photo & Video Documentation of Our Project
+- Posting to Social Media
+- Event Planning & Management
+- Technology Education: teaching workshops, creating training materials, leading trainings and skillshares
+- Running Focus Groups
+- Grant Writing, Fundraising
+- Marketing
+- Graphic Design: posters, postcards, fliers, merch, t-shirts
+- Printing, Silkscreening
