@@ -2,10 +2,7 @@
 title: "Volunteer"
 ---
 
-Our network is being built by and for our communities. To get involved, just reach out to one of our team leads based on your area(s) of interest.
-
-**[We are also hiring a full-time paid project manager.](/job)**
-
+Our network is being built by and for our communities. To get involved, just reach out to one of our team leads based on your area(s) of interest. We are currently looking for volunteers with availability to work on-site and contribute to the installation of hardware. 
 ## Tech
 
 {{% notice %}}
