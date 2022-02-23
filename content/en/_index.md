@@ -4,7 +4,6 @@ title: Home
 # The `segments` param will generate homepage segments (vertically stacked sections of the page).
 # For the supported segment templates and required params, see README.md#segments
 segments:
-
   # Responsive three-column icons
   - template: icons
     icons:
@@ -14,6 +13,7 @@ segments:
         text: Expanding internet access
       - icon: fas fa-people-carry
         text: Building community autonomy
+    class: dn # Hide on mobile
 
   # Divider
   - template: divider
@@ -25,11 +25,11 @@ segments:
   # Norris Square project
   - template: call-to-action-image
     heading: Norris Square Network
-    text: We are beginning to build out a community wireless network in the area around [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live there, you can either get connected or host an antenna to connect your neighbors. 
+    text: We are beginning to build out a community wireless network in the area around [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live there, you can either get connected or host an antenna to connect your neighbors.
     link:
       text: Get Connected
       href: getconnected/
-    image: 
+    image:
       src: /images/nsp_map2.png
       alt: A map image showing Norris Square Park and the surrounding area.
       class: bg-top
@@ -43,8 +43,8 @@ segments:
   # Volunteer CtA
   - template: call-to-action
     heading: Join our volunteer team
-    text: Volunteers can handle anything from antenna installations to network management, software development, community outreach, and much more. 
-    link: 
+    text: Volunteers can handle anything from antenna installations to network management, software development, community outreach, and much more.
+    link:
       text: Get involved
       href: volunteer/
     class: color-pcw-dark-blue
@@ -67,6 +67,7 @@ segments:
   - template: image
     src: images/hero.jpg
     alt: A Philly Community Wireless sign amongst some flowers in Norris Square Park
+    class: opos-left
 
   # Contact info
   - template: markdown
