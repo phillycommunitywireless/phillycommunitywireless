@@ -9,7 +9,7 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
 ## Tech Volunteers
 
 {{% notice %}}
-_The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings and work days in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops. Many of us are in the process of learning these skills, so, if these skills are new to you, you'll be trained in a friendly, collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both great. Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you._{{% /notice %}}
+_The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings and work days in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops. Many of us are in the process of learning these skills, so, if these skills are new to you, you'll be trained in a collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both ideal. Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you._{{% /notice %}}
 
 
 _Here are some of the skill areas we're currently looking for:_
