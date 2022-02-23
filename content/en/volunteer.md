@@ -9,13 +9,13 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
 ## Tech Volunteers
 
 {{% notice %}}
-_The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings and work days in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops. Many of us are in the process of learning these skills, so, if these skills are new to you, you'll be trained in a friendly, collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both great to have. Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you._{{% /notice %}}
+_The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings and work days in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops. Many of us are in the process of learning these skills, so, if these skills are new to you, you'll be trained in a friendly, collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both great. Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you._{{% /notice %}}
 
 
 _Here are some of the skill areas we're currently looking for:_
 - Networking: network design, security, protocols, hardware, mesh, Linux/UNIX
-- Hardware & Cabling: terminating & testing CAT5e cable, using tapcons/concrete anchors to mount equipment on masonry
-- Installation: accessing a rooftop with a ladder, drilling into brick, secure cables w/ wireclips
+- Hardware & Cabling: terminating & testing CAT5e cable, mounting equipment on masonry
+- Installation: accessing rooftops, climbing a ladder, drilling into brick, securing cables
 - Home Electrician Basics
 - Software Development
 - Technical Documentation
