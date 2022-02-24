@@ -53,7 +53,7 @@ At the moment, we are seeking technologists with experience in network engineeri
 
 #### Fundraising
 
-And we need funding to purchase more hardware that will be donated to community members. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills. Please visit our [We Did It](https://phillycommunitywireless.wedid.it/) page to contribute! If you have any questions, don't hesitate to email us at phillycommunitywireless@gmail.com.
+We are looking for additional funding to purchase more hardware that will be donated to community members, including alternative technologies that could supplement our baseline service. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills. Please visit our [We Did It](https://phillycommunitywireless.wedid.it/) page to contribute! If you have any questions, don't hesitate to email us at phillycommunitywireless@gmail.com.
 
 ## In the News
 
