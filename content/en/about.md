@@ -25,13 +25,19 @@ Our goal is to help communities reclaim power through critical digital literacie
 
 Finally, **we believe** in starting small, learning from our mistakes, and inviting the input and perspectives of teachers, organizers, users, and technologists alike in building this network.
 
-## Method
+# Models
+
+Community-managed and owned wireless mesh networks have cropped up across the United States in the last couple decades. Philly Community Wireless is inspired by similar projects in New York City, Detroit, Baltimore, Pittsburgh, Cleveland, and other cities across America. We are indebted to the work and documentation available on [NYC Mesh's website](https://www.nycmesh.net/).
+
+## How it works
 
 PCW’s efforts center on mesh networks, a distributed system of network routers which allow a single source of bandwidth to be shared among a broader group of users with very little cost or infrastructure required for connection.
 
 Traditional internet service providers rely on a one-way, centralized hub that transmits network traffic to all users on the receiving end. But with mesh networks, every router both receives and transmits network traffic simultaneously, enabling the network to remain operational even when individual nodes go out of service.
 
 The technical shape of mesh networks (interconnected, resilient) thus reflect the social connections that PCW seeks to amplify (democratic, participatory, decentralized).
+
+Visit our [Docs](https://docs.phillycommunitywireless.org/en/latest/) for more info on the technical infrastructure and process.
 
 ## What We Need
 
@@ -43,18 +49,15 @@ We are currently seeking community organizations and building owners in the Fair
 
 #### Volunteers for Outreach and Tech Groups
 
-We seek technologists with experience in network engineering to help install and maintain the network connections.
+At the moment, we are seeking technologists with experience in network engineering to help install and maintain the wireless network infrastructure. We always welcome interested community organizations and residents to get involved with any aspect of the project and learn as you contribute. Summer 2022 we plan to run public training events to onboard new people. For more info on roles for volunteers and onboarding processes, see our [Volunteer page](https://phillycommunitywireless.org/volunteer/) 
 
 #### Funding
 
-And we need funding to purchase more hardware that will be donated to community members. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills.
-
-#### Contact
-
-If you'd like to help in any way, please email us at phillycommunitywireless@gmail.com.
+And we need funding to purchase more hardware that will be donated to community members. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills. Please visit our [We Did It](https://phillycommunitywireless.wedid.it/) page to contribute! If you have any questions, don't hesitate to email us at phillycommunitywireless@gmail.com.
 
 ## In the Press
 
+Technical.ly Philly, [A group of Philly technologists are working on a free, community-based mesh Wi-Fi network](https://technical.ly/2022/01/12/philly-community-wireless-phillywisper-mesh-wifi/), 2/1/2022
 Temple Now, [Philly Community Wireless offers internet for the community, by the community](https://news.temple.edu/news/2021-10-07/philly-community-wireless-offers-internet-community-community), 10/7/2021
 
 The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progressive.org/latest/urban-digital-divide-rosen-210916/), 9/16/2021
