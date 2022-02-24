@@ -59,9 +59,9 @@ Temple Now, [Philly Community Wireless offers internet for the community, by the
 
 The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progressive.org/latest/urban-digital-divide-rosen-210916/), 9/16/2021
 
-## Network Status
+## Network Hubs - Status of Installations at Anchor Institutions
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Park Public Wifi
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Park 
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> West Kensington Ministries
 
@@ -71,12 +71,18 @@ The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progr
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Kensington Library
 
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Norris Square Community Alliance
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance
 
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Open Kitchen Sculpture Garden
 
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> GALAEI
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Impact Services
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Clay Studio
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Crane Arts
+
+<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> HACE
 
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Village of the Arts and Humanities
 
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Temple University
+<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Temple University Main Campus and Hospital
