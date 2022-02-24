@@ -25,7 +25,7 @@ Our goal is to help communities reclaim power through critical digital literacie
 
 Finally, **we believe** in starting small, learning from our mistakes, and inviting the input and perspectives of teachers, organizers, users, and technologists alike in building this network.
 
-# Models
+# Community Technology
 
 Community-managed and owned wireless mesh networks have cropped up across the United States in the last couple decades. Philly Community Wireless is inspired by similar projects in New York City, Detroit, Baltimore, Pittsburgh, Cleveland, and other cities across America. We are indebted to the work and documentation available on [NYC Mesh's website](https://www.nycmesh.net/).
 
@@ -47,11 +47,11 @@ Visit our [Docs](https://docs.phillycommunitywireless.org/en/latest/) for more i
 
 We are currently seeking community organizations and building owners in the Fairhill and Kensington neighborhoods who are willing to host network antennas on their rooftops, and to conduct community outreach about this free network connection. Please [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)!
 
-#### Volunteers for Outreach and Tech Groups
+#### Volunteers
 
 At the moment, we are seeking technologists with experience in network engineering to help install and maintain the wireless network infrastructure. We always welcome interested community organizations and residents to get involved with any aspect of the project and learn as you contribute. Summer 2022 we plan to run public training events to onboard new people. For more info on roles for volunteers and onboarding processes, see our [Volunteer page](https://phillycommunitywireless.org/volunteer/) 
 
-#### Funding
+#### Fundraising
 
 And we need funding to purchase more hardware that will be donated to community members. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills. Please visit our [We Did It](https://phillycommunitywireless.wedid.it/) page to contribute! If you have any questions, don't hesitate to email us at phillycommunitywireless@gmail.com.
 
@@ -63,7 +63,7 @@ Temple Now, [Philly Community Wireless offers internet for the community, by the
 
 The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progressive.org/latest/urban-digital-divide-rosen-210916/), 9/16/2021
 
-## Network Hubs - Status of Installations at Anchor Institutions
+## Network Updates
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Park 
 
