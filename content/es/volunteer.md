@@ -39,7 +39,7 @@ _Estas son algunas de las áreas de habilidades que estamos buscando actualmente
 * Ejecución de grupos focales
 * Escritura de becas, recaudación de fondos 
 * Marketing 
-* Diseño gráfico: Pósteres, postales, volantes, merch, camisetas <br> <br>
+* Diseño gráfico: Pósteres, postales, volantes, merch, camisetas 
 * Impresión, Serigrafía
 
 Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link)
