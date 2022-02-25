@@ -2,41 +2,40 @@
 title = "PCW Code of Conduct"
 
 +++
+## Valores de participación
 
-## Values of Participation
+**Este es un espacio seguro.** Alentamos la discusión de temas delicados y difíciles para que podamos apoyarnos unos a otros y resolver los problemas juntos. Al mismo tiempo, nos esforzamos por mantener espacios donde personas con una pluralidad de voces y experiencias puedan participar plenamente. Debido a la naturaleza sensible o privada de algunos elementos del proyecto, por favor sea consciente para evitar compartir información de identificación, y recuerde que cualquier cosa que usted comparte es vista por otras personas.
 
-**This is a safe space.** We encourage discussion of sensitive and difficult topics so that we can support each other and problem solve together. At the same time, we strive to uphold spaces where people with a plurality of voices and experiences can participate in full. Due to the sensitive or private nature of some elements of the project, please be cognizant to avoid sharing identifying information, and remember that anything you do share is seen by other people.
+**Mostrar.** Valoramos todas las formas de participación, pero la forma más importante de participar es a través de la participación en persona por tiempo de voluntariado, en eventos y reuniones, como sea posible. Hacemos cosas por gente que aparece.
 
-**Show up.** We value all forms of participation, but the most important way to participate is through in-person participation by volunteering time, at events and meetings, as possible. We get things done by people showing up.
+**Espere las mejores intenciones.** Aspirar a actuar en amistad—hacer que PCW sea cómodo, acogedor, de apoyo, respetuoso, sincero, y abrir. Intención de confianza, impacto en el nombre. Confíe en que todos en este grupo tienen los mejores intereses del otro en el corazón; pero si alguien dice algo incorrecto o perjudicial, nombre qué impacto tiene. Informe al comité dedicado a manejar estos informes sobre comportamientos, comentarios, discusiones o acciones odiosos o violentos. Consulte más detalles sobre ese proceso a continuación.
 
-**Expect best intentions.** Aspire to acting in friendship—make PCW comfortable, welcoming, supportive, respectful, sincere, and open. Trust intent, name impact. Trust that everyone in this group has each other's best interests at heart; but if someone says something incorrect or hurtful, name what impact that has. Report hateful or violent behavior, comments, discussions, or actions to the committee dedicated to handling these reports. See more details on that process below.
+**Manténgase abierto y flexible.** Habla y escucha tu voz, pero también conoce cuánto espacio ocupa y ejercita tus habilidades de escucha cuando sea necesario. En las discusiones técnicas, pedimos que los miembros que pertenecen a grupos históricamente sobrerepresentados (especialmente los hombres) tengan cuidado de revisar sus egos y activamente hacer espacio para otros. Nuestro objetivo es construir una infraestructura funcional: Ser un fontanero, no un rockstar.
 
-**Stay open and flexible.** Speak up and have your voice heard, but also be cognizant of how much space you're occupying and exercise your listening skills when needed. In technical discussions, we ask that members belonging to historically overrepresented groups (especially men) are careful to check their egos and actively make space for others. Our goal is to build functional infrastructure: be a plumber, not a rockstar.
+**Mantenga los comentarios constructivos**. Valoramos la honradez, pero sólo con el propósito de mejorar, no por el bien de la crueldad. En el lado opuesto del espectro, la retroalimentación del recubrimiento de azúcar para salvar los sentimientos de alguien tampoco es necesariamente constructiva. El objetivo es ser de apoyo, honesto y reflexivo.
 
-**Keep feedback constructive.** We value honesty, but only for the purpose of improvement, not for the sake of cruelty. On the opposite side of the spectrum, sugar-coating feedback in order to spare someone’s feelings is not necessarily constructive either. The goal is to be supportive, honest, and thoughtful.
+**Mantenga la discusión relevante.** Trabaja para mantenerte en el tema y llevar conversaciones de divagación a otros espacios: un canal de Slack, un hilo de correo electrónico o Signal, una reunión separada, etc.
 
-**Keep discussion relevant.** Work to stay on-topic and take digressing conversations into other spaces—a Slack channel, email or Signal thread, separate meeting, etc.
+## Acoso y abuso
 
-## Harassment and Abuse
+Creemos que el desacuerdo y las diferencias de opinión son una parte natural de una comunidad y son importantes para trabajar a través de la construcción, la estrategia, y el aprendizaje de uno a otro, pero **no toleramos el acoso o el abuso en ninguna forma**. Los participantes que se involucren en acoso o abuso pueden ser removidos del grupo a discreción de los organizadores. Los informes de acoso serán implícitamente confiables e investigados a fondo.
 
-We believe disagreement and differences of opinion are a natural part of a community and are important to work through when building, strategizing, and learning from one another, but **we do not tolerate harassment or abuse in any form.** Participants who engage in harassment or abuse may be removed from the group at the discretion of the organizers. Reports of harassment will be implicitly trusted and investigated thoroughly.
+El acoso incluye, pero no se limita a:
 
-Harassment includes, but is not limited to:
+* Comentarios no bienvenidos sobre las opciones y prácticas de estilo de vida de una persona
+* Intimidación deliberada o antagonismo 
+* Bromas o comentarios excluyentes 
+* Atención sexual o contacto físico no bienvenido 
+* Interrupción sostenida de reuniones, eventos o conversaciones en línea 
+* Continuación de la comunicación uno a uno tras las solicitudes de cese
+* Comentarios que refuerzan las estructuras sociales de dominación (relacionadas con género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, tamaño corporal, Raza, edad, religión) 
+* Amenazas de violencia
 
-- Unwelcome comments regarding a person’s lifestyle choices and practices
-- Deliberate intimidation or antagonism
-- Exclusionary jokes or comments
-- Unwelcome sexual attention or physical contact
-- Sustained disruption of meetings, events, or online discussion
-- Continued one-on-one communication after requests to cease
-- Comments that reinforce social structures of domination (related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion)
-- Threats of violence
+El abuso incluye, pero no se limita a:
 
-Abuse includes, but is not limited to:
+* Trolling, mala dirección y uso irrespetuoso de los recursos y acceso 
+* Uso de dinámicas sociales desiguales o opresivas existentes (diferencias culturales, de género o de clase, etc.) para ejercer poder sobre otra persona
 
-- Trolling, misdirection, and disrespectful use of resources and access
-- Use of existing unequal or oppressive social dynamics (cultural, gender or class differences, etc) to exert power over another person
+Si usted ha sido acosado o ha sido testigo de abusos, por favor, comuníqueselo a un miembro del comité directivo. Cada participante es responsable de tomar acción si es testigo o se da cuenta de abuso o acoso, y de invocar a un mediador y confidente para tomar los siguientes pasos - no sólo el blanco o la persona más impactada es responsable de reportarlo.
 
-If you have been harassed or have witnessed abuse, please bring this to the attention of a member of the steering committee. Every participant is responsible for taking action if they witness or become aware of abuse or harassment, and to invoke a mediator and confidant to take next steps - not just the target or most impacted person is responsible to report it.
-
-Organizers should take appropriate, usually private, action if any abuse or harassment is reported to them or they hear about or witness any such abuse or harassment. They must be sensitive to cultural differences, but take prompt action when necessary.
+Los organizadores deben tomar medidas apropiadas, generalmente privadas, si se les informa de cualquier abuso o acoso o si escuchan o son testigos de tal abuso o acoso. Deben ser sensibles a las diferencias culturales, pero deben actuar con prontitud cuando sea necesario.
