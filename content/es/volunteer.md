@@ -3,11 +3,9 @@ date: 2021-09-30
 title: Voluntario
 
 ---
-¡Nos encantan los voluntarios! Somos una coalición liderada por voluntarios que trabaja para construir redes de Internet inalámbricas controladas por la comunidad en Filadelfia. A continuación hemos esbozado las maneras en que los voluntarios pueden contribuir. 
+¡Nos encantan los voluntarios! Somos una coalición liderada por voluntarios que trabaja para construir redes de Internet inalámbricas controladas por la comunidad en Filadelfia. A continuación hemos esbozado las maneras en que los voluntarios pueden contribuir.
 
-Si está interesado en participar, rellene nuestro formulario de inscripción como voluntario.
-
-[**Además, estamos contratando un director de proyecto!**](/es/job)
+Si está interesado en participar, rellene nuestro [formulario de inscripción como voluntario.](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link)
 
 ### Equipo de divulgación
 
