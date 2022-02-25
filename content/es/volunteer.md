@@ -13,13 +13,13 @@ Si está interesado en participar, rellene nuestro [formulario de inscripción c
 
 Estas son algunas de las áreas de habilidades que estamos buscando actualmente:
 
-* Redes: Diseño de redes, seguridad, protocolos, hardware, malla, Linux/UNIX 
-* Hardware y cableado: Terminación y comprobación de CAT5e cables, montaje de equipos en mampostería 
-* Instalación: Acceso a tejados, escalamiento de escaleras, perforación en ladrillo, fijación de cables 
+* Redes: Diseño de redes, seguridad, protocolos, hardware, malla, Linux/UNIX
+* Hardware y cableado: Terminación y comprobación de CAT5e cables, montaje de equipos en mampostería
+* Instalación: Acceso a tejados, escalamiento de escaleras, perforación en ladrillo, fijación de cables
 * Conceptos básicos de Electricista en el Hogar
-* Desarrollo de software 
-* Documentación técnica 
-* UX/UI, diseño gráfico 
+* Desarrollo de software
+* Documentación técnica
+* UX/UI, diseño gráfico
 * GIS y cartografía, visualización de datos, ciencia de datos
 
 Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link)
@@ -30,15 +30,16 @@ Si está interesado en participar, complete nuestro [Formulario de inscripción 
 
 _Estas son algunas de las áreas de habilidades que estamos buscando actualmente:_
 
-* Canvacing, flyering, Door Golking, Fanting <br> <br> 
-* Realización de llamadas a miembros de la comunidad <br> <br>
-* Documentación de fotos y vídeos de nuestro proyecto <br> <br> 
-* Publicación en medios sociales <br> <br> Planificación y gestión de eventos <br> <br> 
-* Educación tecnológica: Talleres de formación, creación de materiales de formación <br> <br> 
-* Running Focus Groups <br> <br> 
-* Escritura de becas, recaudación de fondos <br> <br> 
-* Marketing <br> <br> 
-* Diseño gráfico: Pósteres, postales, volantes, merch, camisetas <br> <br> 
-* Impresión, Silkscreening
+* Hacer campañas, para regalar volantes, para tocar puertas, presentación de eventos
+* Realización de llamadas a miembros de la comunidad
+* Documentación de fotos y vídeos de nuestro proyecto 
+* Publicación en medios sociales 
+* Planificación y gestión de eventos 
+* Educación tecnológica: Talleres de formación, creación de materiales de formación 
+* Ejecución de grupos focales
+* Escritura de becas, recaudación de fondos 
+* Marketing 
+* Diseño gráfico: Pósteres, postales, volantes, merch, camisetas <br> <br>
+* Impresión, Serigrafía
 
-If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link).
+Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link)
