@@ -9,7 +9,7 @@ Si está interesado en participar, rellene nuestro [formulario de inscripción c
 
 ### Voluntarios tecnológicos
 
-{{% notice %}} _El equipo técnico está buscando voluntarios para ayudar con nuestro proceso de instalación: Asistir a entrenamientos en persona y días de trabajo en Norris Square, configurar nuestro hardware de red e instalar equipos en hogares y en tejados. Muchos de nosotros estamos en el proceso de aprender estas habilidades, así que, si estas habilidades son nuevas para usted, usted será entrenado en un ambiente de colaboración. Si tiene experiencia, le damos la bienvenida a su experiencia y soporte de formación. El acceso a un coche y/o la proximidad a Norris Square Park son ideales. También hay disponibles oportunidades de voluntariado remoto. Le damos la bienvenida para participar en cualquier capacidad que tenga sentido para usted._ {{% /notice %}}
+{{% notice %}} El equipo técnico está buscando voluntarios para ayudar con nuestro proceso de instalación: Asistir a entrenamientos en persona y días de trabajo en Norris Square, configurar nuestro hardware de red e instalar equipos en hogares y en tejados. Muchos de nosotros estamos en el proceso de aprender estas habilidades, así que, si estas habilidades son nuevas para usted, usted será entrenado en un ambiente de colaboración. Si tiene experiencia, le damos la bienvenida a su experiencia y soporte de formación. El acceso a un coche y/o la proximidad a Norris Square Park son ideales. También hay disponibles oportunidades de voluntariado remoto. Le damos la bienvenida para participar en cualquier capacidad que tenga sentido para usted. {{% /notice %}}
 
 Estas son algunas de las áreas de habilidades que estamos buscando actualmente:
 
