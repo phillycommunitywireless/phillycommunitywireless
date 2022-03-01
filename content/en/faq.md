@@ -26,6 +26,12 @@ Philly Community Wireless
 
 ## How does it work?
 
+PCW’s efforts center on mesh networks, a distributed system of network routers which allow a single source of bandwidth to be shared among a broader group of users with very little cost or infrastructure required for connection.
+
+Traditional internet service providers rely on a one-way, centralized hub that transmits network traffic to all users on the receiving end. But with mesh networks, every router both receives and transmits network traffic simultaneously, enabling the network to remain operational even when individual nodes go out of service.
+
+The technical shape of mesh networks (interconnected, resilient) thus reflect the social connections that PCW seeks to amplify (democratic, participatory, decentralized).
+
 For technical information on the project, please see our [Docs page](https://docs.phillycommunitywireless.org/en/latest/).
 
 ## How do I sign up to get connected?
