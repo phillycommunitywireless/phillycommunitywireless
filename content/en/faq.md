@@ -18,7 +18,7 @@ Just before the COVID-19 pandemic hit, a detailed study published by the Federal
 
 ## What areas of the Norris Square Park neighborhood currently have wifi?
 
-The free public wifi network should be accessible in most areas of Norris Square Park. A two-year grant from the Digital Literacy Alliance is enabling us, in the first year, to connect at least 100 homes within a one-mile radius around Norris Square to high-speed internet, at no cost to the users, for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper). Neighboring streets are currently receiving wifi, as will many of the homes and buildings in the area. For updates on upcoming installs and service expansions, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
+The free public wifi network should be accessible in most areas of Norris Square Park. Grant funding is enabling us to grow the network around Norris Square into Fairhill, connecting residents to high-speed internet, at no cost to the users, for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper). Neighboring streets are currently receiving wifi, as will many of the homes and buildings in the area. For updates on upcoming installs and service expansions, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
 ## What is the public wifi network name?
 
@@ -42,6 +42,9 @@ Yes, as long as PCW exists. We will never ask for your payment information.
 
 We can’t promise consistent connection in any given area, but we aim to provide at least 25 mbps download speed in public and private spaces. Many areas of our network currently receive higher download speeds.
 
+## How long can I stay connected to the network?
+
+Outside of 9-5 PM work hours, in order to avoid unintentional consumption of broadband, we will reset connections after 6 hours, requiring users to reconnect to the wifi.
 ## Who do I contact if things go down?
 
 Please contact us via (215) 316-5761 or email at phillycommunitywireless@gmail.com.
@@ -67,7 +70,3 @@ Please see our [Privacy page](https://phillycommunitywireless.org/privacy/).
 ## If I host an antenna on my roof, how does this affect the structural integrity of my house? Will extra drilling be involved?
 
 Some homes will only need an indoor mesh antenna, plugged into a wall outlet. For homes that require a rooftop installation, an antenna will be attached to a chimney, or secured between cement blocks etc. Whenever possible we use non-penetrating roof mounts. Cables can be run into existing holes in your house. For more information, see our [Docs page on rooftop installations](https://docs.phillycommunitywireless.org/en/latest/rooftop%20installation/).
-
-## How long can I stay connected to the network?
-
-Outside of 9-5 PM work hours, in order to avoid unintentional consumption of broadband, we will reset connections after 6 hours, requiring users to reconnect to the wifi.
