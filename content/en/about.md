@@ -11,7 +11,7 @@ Just before the COVID-19 pandemic hit, a detailed study published by the Federal
 
 Our vision extends beyond the current crisis. We seek a long term, sustainable, and affordable Internet for all in Philadelphia, rather than stopgap measures amid this emergency.
 
-The Philly Community Wireless project is currently seeking to connect homes within a one-mile radius around Norris Square to free, net-neutral broadband for at least the next decade. We strive to offer an alternative model for Internet access and to help cities and communities rethink about the Internet as a public utility by involving our users in the construction of the network.
+The Philly Community Wireless project is currently seeking to connect homes around the Norris Square neighborhood of North Philadelphia to free, net-neutral broadband for at least the next decade. We strive to offer an alternative model for Internet access and to help cities and communities rethink about the Internet as a public utility by involving our users in the construction of the network.
 
 Our goal is to help communities reclaim power through critical digital literacies. As PCW builds towards community-oriented stewardship the basic principles of network engineering and digital literacy so that they can be stewards of the technology, rather than merely recipients.
 
@@ -25,17 +25,9 @@ Our goal is to help communities reclaim power through critical digital literacie
 
 Finally, **we believe** in starting small, learning from our mistakes, and inviting the input and perspectives of teachers, organizers, users, and technologists alike in building this network.
 
-# Community Technology
+## Community Technology
 
 Community-managed and owned wireless mesh networks have cropped up across the United States in the last couple decades. Philly Community Wireless is inspired by similar projects in New York City, Detroit, Baltimore, Pittsburgh, Cleveland, and other cities across America. We are indebted to the work and documentation available on [NYC Mesh's website](https://www.nycmesh.net/).
-
-## How it works
-
-PCW’s efforts center on mesh networks, a distributed system of network routers which allow a single source of bandwidth to be shared among a broader group of users with very little cost or infrastructure required for connection.
-
-Traditional internet service providers rely on a one-way, centralized hub that transmits network traffic to all users on the receiving end. But with mesh networks, every router both receives and transmits network traffic simultaneously, enabling the network to remain operational even when individual nodes go out of service.
-
-The technical shape of mesh networks (interconnected, resilient) thus reflect the social connections that PCW seeks to amplify (democratic, participatory, decentralized).
 
 Visit our [Docs](https://docs.phillycommunitywireless.org/en/latest/) for more info on the technical infrastructure and process.
 
