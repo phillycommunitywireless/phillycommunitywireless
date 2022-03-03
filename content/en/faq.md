@@ -10,6 +10,8 @@ Philly Community Wireless is a project to develop community-owned mesh networks 
 
 Mesh networks allow a single Internet connection to be shared among a broader group of users with very little cost or infrastructure required. With the help of PhillyWisper, a pro-net neutrality, wireless internet service provider, we are working toward installing two pilot sites in Kensington and Fairhill. From there, we will plan participatory design workshops and technical training for the community that will empower them to maintain and grow this free network connection.
 
+For more information on our partner, Philly Wisper, see their [FAQ](https://phillywisper.net/faq/)
+
 ## Why is Philly Community Wireless making a mesh network in Norris Square Park?
 
 Building the project in Norris Square Park helps our organization build conversations between PCW and representatives from Latinx community organizations in Norris Square, which also stand to benefit from free internet. Not only will individuals gain access in their own homes, allowing them to do schoolwork, apply for jobs, and access online English classes, among other activities; community organizations can also expand programming, including live-streamed cooking and pottery classes or outdoor study spaces for students using computers.
