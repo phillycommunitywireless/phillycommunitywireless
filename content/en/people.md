@@ -38,7 +38,11 @@ Chris Mehretab {{< fa hands-helping >}}
 
 <br>
 
-## PCW Steering Committee
+## Steering Committee amd Community Advisory Board
+
+We are in the process of forming annual memberships in our steering committe and community advisory board. Stay tuned for more info on our team's organizational changes.
+
+## PCW Advisory Board
 
 Will Dean {{< fa cogs >}} \
 _Research and Data Services Librarian, Temple University Libraries_
@@ -70,13 +74,14 @@ _Director, Member Services and NYC Dark Fiber Program at NYSERNet_
 Mark Steckel {{< fa cogs >}} \
 _Founder, PhillyWisper_
 
+Tim Traversy {{< fa cogs >}} \
+_Software Engineer_
+
 Devren Washington {{< fa hands-helping >}} \
 _Senior Policy Organizer, Movement Alliance Project_
 
 Grant Wythoff {{< fa vial >}} \
 _Digital Humanities Strategist, Center for Digital Humanities at Princeton University_
-
-<br/>
 
 ## Technical Advisory Board
 
@@ -122,12 +127,6 @@ Sarah Fingerhood, University of Pennsylvania, 2021
 Anika Prakash, University of Pennsylvania, 2021
 
 <br/>
-
-
-## PCW Alumnni
-
-Tim Traversy {{< fa cogs >}} \
-_Software Engineer_
 
 ## Norris Square Community Partners
 
