@@ -21,6 +21,15 @@ Below are some more materials and resources to help you find digital resources f
 **Schedule**: Classes start February 1st, 2022: Tuesdays, Wednesdays, Thursdays: 5:00-7:00pm  
 **Register**: call 215-571-4056, email: bflcdornsifecenter@drexel.edu  
 
+## Public Computing Centers
+**Location**: All over the city
+**Description**: For more info, visit the [city website](https://www.phila.gov/2022-02-18-public-computing-center-in-west-philadelphia-is-a-model-for-digital-equity-and-literacy/).
+
+## Tech Tutoring: Digital Navigators (English and Spanish)  
+**Location**: Online/Over the phone  
+**Description**: Designed to assist the local community members in Philadelphia, with information on Internet access and basic technical support issues. 
+**Register**: For contact information about the Digital Navigator program's at Drexel's Excite Center, Beyond Literacy, and SEAMAAC, see the [city's website](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/).  
+
 ## Digital Literacy Training - Generations on Line:    
 **Location**: Generations on Line website  
 **Description**: Generations on Line can guide someone who has never touched a computer learn to use the Internet, email, texting, photos, apps, videochats, and all the basic tools, including voice recognition, to participate in the cyber world of endless possibilities.   
@@ -30,21 +39,6 @@ Below are some more materials and resources to help you find digital resources f
 **Description**: Basic use of computer, laptop, tablet, or smart phone. Create, access, and manage an email account. Gain access to online governmental resources or access online utility bills. Gain access to web conference meetings using Zoom, Microsoft Teams, and Google Hangouts.   
 **Contact**: jhiraldo@nscaphila.org  
 **Register**: https://www.nscaphila.org/computerclassesenrollment/  
-
-## Tech Tutors - LULAC: Digital Navigators (English and Spanish)  
-**Location**: Online/Over the phone  
-**Description**: Designed to assist the local community members in Philadelphia, with information on Internet access and basic technical support issues.   
-**Schedule**: Monday-Friday: 11am-3pm    
-**Register**: Call or text: 267-341-8591; email: navigator@excitecenter.org    
-https://www.seamaac.org/digital-navigation/ (English)  
-https://www.seamaac.org/digital-navigation/ (Spanish)  
-Call or text: 267-341-8591, Email: navigator@excitecenter.org  
-
-## Drexel University: Digital Navigators (English Only)   
-**Location**: Online/Over the phone  
-**Description**: Designed to assist the local community members in Philadelphia, with information on Internet access and basic technical support issues.   
-**Schedule**: Monday-Friday: 9am-5pm   
-**Register**: Call or text: 267-217-3508, Email: Inescdigi@gmail.com  
 
 ## Free Library of Philadelphia  
 **Description**: Get a Library Card with the Free Library of Philadelphia. You can get digital access to language classes and other streaming education, e-books and e-magazines, send materials to pick-up at your local library branch, and more.  
