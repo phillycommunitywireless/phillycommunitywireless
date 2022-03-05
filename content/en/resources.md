@@ -22,9 +22,9 @@ Below are some more materials and resources to help you find digital resources f
 **Register**: call 215-571-4056, email: bflcdornsifecenter@drexel.edu  
 
 ## Public Computing Centers
-**Location**: All over the city
-**Description**: For more info, visit the [city website](https://www.phila.gov/2022-02-18-public-computing-center-in-west-philadelphia-is-a-model-for-digital-equity-and-literacy/).
-
+**Location**: All over the city  
+**Description**: For more info, visit the [city website](https://www.phila.gov/2022-02-18-public-computing-center-in-west-philadelphia-is-a-model-for-digital-equity-and-literacy/).  
+  
 ## Tech Tutoring: Digital Navigators (English and Spanish)  
 **Location**: Online/Over the phone  
 **Description**: Designed to assist the local community members in Philadelphia, with information on Internet access and basic technical support issues. 
