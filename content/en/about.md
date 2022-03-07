@@ -5,6 +5,8 @@ title: "About"
 
 Our team includes volunteers and staff from a wide array of local and national organizations. For more information, [visit our people page](/people).
 
+For up to date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D)!
+
 ## Vision
 
 Just before the COVID-19 pandemic hit, a detailed study published by the Federal Reserve Bank of Philadelphia found that a mere 53% of Black residents and 44% of Latinx residents in Philadelphia have broadband connections ([Alvaro 2020](https://www.benton.org/headlines/toward-digital-inclusion-broadband-access-third-federal-reserve-district)). The pandemic has dramatically demonstrated the implications of this digital divide and exacerbated existing inequalities for students, business owners, job seekers, and many others.
