@@ -32,6 +32,10 @@ _Community Initiatives Specialist, Free Library of Philadelphia_
 
 ## Staff
 
+**Project Manager** 
+
+Allan Gomez {{< fa cogs >}}
+
 **Community Engagement Liaison**
 
 Chris Mehretab {{< fa hands-helping >}}
@@ -40,15 +44,12 @@ Chris Mehretab {{< fa hands-helping >}}
 
 ## Steering Committee amd Community Advisory Board
 
-We are in the process of forming annual memberships in our steering committe and community advisory board. Stay tuned for more info on our team's organizational changes.
+We are in the process of forming our annual membership for our steering committe and community advisory board. Stay tuned for more info on our team's organizational changes.
 
-## PCW Advisory Board
+## PCW Team
 
 Will Dean {{< fa cogs >}} \
 _Research and Data Services Librarian, Temple University Libraries_
-
-Helyx Chase Scearce Horwitz {{< fa cogs >}} \
-_Information Systems and Technology Manager, Movement Alliance Project_
 
 Jonathan Latko {{< fa cogs >}} \
 _Computer Recycling Center, Temple University_
@@ -67,6 +68,9 @@ _Palmer Chair in Telecommunications, Bellisario College of Communications, Penns
 
 Stasia Monteiro {{< fa hands-helping >}} \
 _NAC Program Director, HACE_
+
+Dave Onion {{< fa cogs >}} \
+_Founder, Holobiont Lab_
 
 Jennifer Oxenford {{< fa cogs >}} \
 _Director, Member Services and NYC Dark Fiber Program at NYSERNet_
