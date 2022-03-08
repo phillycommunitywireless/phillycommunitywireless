@@ -21,7 +21,7 @@ title: Equipo
 
 <br/>
 
-## Comité Directivo de PCW
+## PCW Equipo
 
 {{< fa cogs >}} ・ Will Dean ・ Bibliotecario de Servicios de Investigación y Datos, Temple University Libraries
 
