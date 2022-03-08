@@ -154,9 +154,11 @@ Anika Prakash, University of Pennsylvania, 2021
 
 [Called to Serve](https://calledtoservecdc.org/)
 
-[Temple University, Computer Recycling Center, Digital Equity Center](https://news.temple.edu/news/2021-08-25/old-community-center-provides-new-workforce-services)
+[Free Library of Philadelphia](https://www.freelibrary.org/)
 
 [HACE](https://www.hacecdc.org/)
+
+[Holobiont Lab](holobiontlab.org)
 
 [Village of the Arts and Humanities](http://spaces.villagearts.org/)
 
@@ -166,7 +168,7 @@ Anika Prakash, University of Pennsylvania, 2021
 
 [PhillyWisper](https://phillywisper.net/)
 
-[Holobiont Lab](holobiontlab.org)
+[Temple University, Digital Equity Center](https://news.temple.edu/news/2021-08-25/old-community-center-provides-new-workforce-services)
 
 <br/>
 
