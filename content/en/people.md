@@ -70,7 +70,7 @@ Stasia Monteiro {{< fa hands-helping >}} \
 _NAC Program Director, HACE_
 
 Dave Onion {{< fa cogs >}} \
-_Founder, Holobiont Lab_
+_Dialectrician, Holobiont Lab_
 
 Jennifer Oxenford {{< fa cogs >}} \
 _Director, Member Services and NYC Dark Fiber Program at NYSERNet_
@@ -165,6 +165,8 @@ Anika Prakash, University of Pennsylvania, 2021
 [Philly Tech Justice](https://phillytechjustice.org/)
 
 [PhillyWisper](https://phillywisper.net/)
+
+[Holobiont Lab](holobiontlab.org)
 
 <br/>
 
