@@ -14,15 +14,9 @@ Mesh networks allow a single Internet connection to be shared among a broader gr
 
 For more information on our partner, Philly Wisper, see their [FAQ](https://phillywisper.net/faq/)
 
-## Why is Philly Community Wireless making a mesh network in Norris Square Park?
-
-Building the project in Norris Square Park helps our organization build conversations between PCW and representatives from Latinx community organizations in Norris Square, which also stand to benefit from free internet. Not only will individuals gain access in their own homes, allowing them to do schoolwork, apply for jobs, and access online English classes, among other activities; community organizations can also expand programming, including live-streamed cooking and pottery classes or outdoor study spaces for students using computers.
-
-Just before the COVID-19 pandemic hit, a detailed study published by the Federal Reserve Bank of Philadelphia found that a mere 53% of Black residents and 44% of Latinx residents in Philadelphia have broadband connections (Alvaro 2020). The pandemic has dramatically demonstrated the implications of this digital divide and exacerbated existing inequalities for students, business owners, job seekers, and many others.
-
 ## What areas of the Norris Square Park neighborhood currently have wifi?
 
-The free public wifi network should be accessible in most areas of Norris Square Park. Grant funding is enabling us to grow the network around Norris Square into Fairhill, connecting residents to high-speed internet, at no cost to the users, for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper). Neighboring streets are currently receiving wifi, as will many of the homes and buildings in the area. For updates on upcoming installs and service expansions, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
+The free public wifi network should be accessible in most areas of Norris Square Park and the surrounding streets. Grant funding is enabling us to grow the network around Norris Square into the northwest, especially Fairhill. Our goal is to connect residents, in their homes and in public spaces, to high-speed, free internet, for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper). Neighboring streets are currently receiving wifi, as will many of the homes and buildings in the area. For updates on upcoming installs and service expansions, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
 ## What is the public wifi network name?
 
