@@ -72,6 +72,10 @@ If you would like to host a rooftop antenna or a mesh kit in your home, please f
 
 If you have any questions, or would like to volunteer with Philly Community Wireless, reach out via email at phillycommunitywireless@gmail.com.
 
+## What does an antenna installation involve?
+
+A normal installation takes a few hours, and requires cabling power to the roof, and installing a non-penetrating roof mount with line of sight to Gotham Tower, our main hub. A router can be installed inside the house, and we often try to install one relay antenna on the roof or side of the building to share the signal around the area. See our [Installations page](https://docs.phillycommunitywireless.org/en/latest/installations/) for more info.
+
 ## If I host an antenna on my roof, how does this affect the structural integrity of my house? Will extra drilling be involved?
 
 Some homes will only need an indoor mesh antenna, plugged into a wall outlet. For homes that require a rooftop installation, an antenna will be attached to a chimney, or secured between cement blocks etc. Whenever possible we use non-penetrating roof mounts. Cables can be run into existing holes in your house. For more information, see our [Docs page on rooftop installations](https://docs.phillycommunitywireless.org/en/latest/rooftop%20installation/).
