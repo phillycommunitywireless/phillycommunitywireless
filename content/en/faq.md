@@ -44,7 +44,7 @@ Yes, as long as PCW exists. We will never ask for your payment information.
 
 We can’t promise consistent connection in any given area, but we aim to provide at least 25 mbps download speed in public and private spaces. Many areas of our network currently receive higher download speeds.
 
-## How secure is the network? Who can access our information? Can anyone log in to our wifi?
+## How secure is the network? Who can access our information?
 
 We don’t track user activity. We support net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior.
 
@@ -66,7 +66,7 @@ If you would like to host a rooftop antenna or a mesh kit in your home, please f
 
 If you have any questions, or would like to volunteer with Philly Community Wireless, reach out via email at phillycommunitywireless@gmail.com.
 
-## What does an antenna installation involve?
+## What does a rooftop antenna installation involve?
 
 A normal installation takes a few hours, and requires cabling power to the roof, and installing a non-penetrating roof mount with line of sight to Gotham Tower, our main hub. A router can be installed inside the house, and we often try to install one relay antenna on the roof or side of the building to share the signal around the area. See our [Installations page](https://docs.phillycommunitywireless.org/en/latest/installations/) for more info.
 
