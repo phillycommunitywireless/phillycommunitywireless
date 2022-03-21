@@ -56,7 +56,7 @@ Nothing you do on the internet should be considered fully “private.”
 
 ## Will my activity or data on the internet be tracked by a third party?
 
-No. Please see our data policy on our [Privacy page](https://phillycommunitywireless.org/privacy/).
+No. Please see our data policy on our [Terms of Service page](https://phillycommunitywireless.org/termsofservice/).
 
 # How do I get involved?
 
