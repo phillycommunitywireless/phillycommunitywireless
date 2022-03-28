@@ -69,6 +69,16 @@ segments:
     alt: A Philly Community Wireless sign amongst some flowers in Norris Square Park
     class: opos-left
 
+  # Divider
+  - template: divider
+    narrow: true
+
+  # Video embed
+  - template: video
+    src: https://www.youtube.com/watch?v=nmuGwgVoAgI&feature=youtu.be
+    title: Philly Community Wireless animated inforgraphic produced by the Big Picture Alliance.
+    text: Learn more about community wireless mesh projects
+    
   # Contact info
   - template: markdown
     url: contact.md
