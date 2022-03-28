@@ -75,7 +75,7 @@ segments:
 
   # Video embed
   - template: video
-    src: https://www.youtube.com/watch?v=nmuGwgVoAgI&feature=youtu.be
+    src: https://www.youtube.com/embed/nmuGwgVoAgI
     title: Philly Community Wireless animated inforgraphic produced by the Big Picture Alliance.
     text: Learn more about community wireless mesh projects
     
