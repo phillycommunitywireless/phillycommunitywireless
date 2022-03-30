@@ -10,8 +10,10 @@
     {{/*  SEO  */}}
     {{/*  Schema.org schema recommended by https://keithpblog.org/post/hugo-website-seo/  */}}
     {{ partial "seo_schema" . }}
-    {{/*  Google site verification  */}}
+    {{/*  Google site verification (also handles bing) */}}
     <meta name="google-site-verification" content="XPXnnWkjfbeV_1BFrhbKm_yV9W8kKjzx-egGmvu2W-w" />
+    {{/*  Yandex site verification  */}}
+    <meta name="yandex-verification" content="e85d6aee3b293cbb" />
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
