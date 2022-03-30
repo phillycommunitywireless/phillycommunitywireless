@@ -3,83 +3,87 @@ baseURL: https://phillycommunitywireless.org
 languageCode: en-us
 defaultContentLanguage: en
 title: Philly Community Wireless
+author: Philly Community Wireless
 theme: pcw-hugo-theme
+enableRobotsTXT: true
+canonifyURLs: true
 languages:
   en:
     languageName: English
     contentDir: content/en
     menu:
       main:
-      - name: Get Connected
-        url: "/getconnected"
-        weight: "1"
-      - name: Volunteer
-        url: "/volunteer"
-        weight: "2"
-      - name: About Us
-        url: "/about"
-        weight: "3"
-      - name: People
-        url: "/people"
-        weight: "4"
-      - name: Resources
-        url: "/resources"
-        weight: "5"
-      - name: FAQ
-        url: "/faq"
-        weight: "6"
-      - name: Docs
-        url: https://docs.phillycommunitywireless.org/en/latest/
-        params:
-          external: true
-        weight: "10"
+        - name: Get Connected
+          url: "/getconnected"
+          weight: "1"
+        - name: Volunteer
+          url: "/volunteer"
+          weight: "2"
+        - name: About Us
+          url: "/about"
+          weight: "3"
+        - name: People
+          url: "/people"
+          weight: "4"
+        - name: Resources
+          url: "/resources"
+          weight: "5"
+        - name: FAQ
+          url: "/faq"
+          weight: "6"
+        - name: Docs
+          url: https://docs.phillycommunitywireless.org/en/latest/
+          params:
+            external: true
+          weight: "10"
       footer:
-      - name: Code of Conduct
-        url: "/code-of-conduct"
-        weight: "1"
-      - name: Contact us
-        url: "/#contact-us"
-        weight: "2"
+        - name: Code of Conduct
+          url: "/code-of-conduct"
+          weight: "1"
+        - name: Contact us
+          url: "/#contact-us"
+          weight: "2"
     weight: "1"
   es:
     languageName: Español
     contentDir: content/es
     menu:
       main:
-      - name: Conéctate
-        url: "/getconnected"
-        weight: "1"
-      - name: Voluntario
-        url: "/volunteer"
-        weight: "2"
-      - name: Acerca
-        url: "/about"
-        weight: "3"
-      - name: Equipo
-        url: "/people"
-        weight: "4"
-      - name: FAQ
-        url: "/faq"
-        weight: "5"
-      - name: Docs
-        url: https://docs.phillycommunitywireless.org/es/latest/
-        params:
-          external: true
-        weight: "10"
+        - name: Conéctate
+          url: "/getconnected"
+          weight: "1"
+        - name: Voluntario
+          url: "/volunteer"
+          weight: "2"
+        - name: Acerca
+          url: "/about"
+          weight: "3"
+        - name: Equipo
+          url: "/people"
+          weight: "4"
+        - name: FAQ
+          url: "/faq"
+          weight: "5"
+        - name: Docs
+          url: https://docs.phillycommunitywireless.org/es/latest/
+          params:
+            external: true
+          weight: "10"
       footer:
-      - name: Código de conducta
-        url: "/code-of-conduct"
-        weight: "1"
-      - name: Contáctenos
-        url: "/#contáctenos"
-        weight: "2"
+        - name: Código de conducta
+          url: "/code-of-conduct"
+          weight: "1"
+        - name: Contáctenos
+          url: "/#contáctenos"
+          weight: "2"
     weight: "2"
 params:
   favicon: "/images/logo-purple.svg"
   site_logo: "/images/WebLogo_Standard2.svg"
   featured_image:
     src: "/images/hero3.jpg"
-    alt: A photo of an antenna installed on a rooftop, pointing at a receiver tower
+    alt:
+      A photo of an antenna installed on a rooftop, pointing at a receiver tower
       in the distance.
   featured_text:
     header: "/images/WebLogo_Standard.svg"
@@ -88,7 +92,7 @@ params:
   background_color_class: bg-near-white black-60
   body_classes: calibre black
   custom_css:
-  - custom.css
+    - custom.css
 markup:
   goldmark:
     renderer:
