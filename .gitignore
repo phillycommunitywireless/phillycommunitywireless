@@ -3,6 +3,8 @@
 /resources
 .hugo_build.lock
 
-## OS files
+# VSCode
+.vscode
+
 # MacOS
 .DS_Store

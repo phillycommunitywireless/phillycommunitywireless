@@ -6,7 +6,6 @@ title: Philly Community Wireless
 author: Philly Community Wireless
 theme: pcw-hugo-theme
 enableRobotsTXT: true
-canonifyURLs: true
 languages:
   en:
     languageName: English
@@ -93,7 +92,10 @@ params:
   body_classes: calibre black
   custom_css:
     - custom.css
+
 markup:
+  tableOfContents:
+    startLevel: 0
   goldmark:
     renderer:
       unsafe: true

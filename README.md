@@ -2,6 +2,9 @@
 
 Source code for the Philly Community Wireless website, [phillycommunitywireless.org](https://phillycommunitywireless.org) (or [pcw.fi](https://phillycommunitywireless.org)). The site is built using the [Hugo](https://gohugo.io) static site generator and hosted with [GitHub Pages](https://pages.github.com/).
 
+**Contents**  
+&nbsp;&nbsp;&nbsp;&nbsp;[Theme](#theme)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Local development](#local-development)
 # Theme
 
 The site's theme is a fork of [gohugo-theme-ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) with major modifications.
@@ -153,3 +156,14 @@ A responsive layout featuring three font-awesome icons with optional text labels
 ### Adding new segment templates
 
 You can create a new segment template by creating a `<type-name>.html` file in the `theme/pcw-hugo-theme/layouts/partials/segments` directory. This template will automatically be used to render segments with this title. The [context](https://gohugo.io/content-management/front-matter/) passed to the partial will be the segment object from the YAML (you can access the global site variable as `site`).
+
+# Local development
+## Development server
+* To start the server: `docker-compose up -d`
+* To stop the server: `docker-compose down`
+* Server is at http://localhost:1337.
+
+### Deploy a staging site for demos
+* Install [hugo](https://gohugo.io/getting-started/installing/) and [surge](https://surge.sh/help/getting-started-with-surge). 
+* From the project root directory, run `hugo && surge public`.
+* The staging site will be deployed to https://pcw-staging.surge.sh.
