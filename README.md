@@ -165,5 +165,10 @@ You can create a new segment template by creating a `<type-name>.html` file in t
 
 ### Deploy a staging site for demos
 * Install [hugo](https://gohugo.io/getting-started/installing/) and [surge](https://surge.sh/help/getting-started-with-surge). 
-* From the project root directory, run `hugo && surge public`.
+* From the project root directory, run `hugo && surge public --domain pcw-staging.surge.sh`.
 * The staging site will be deployed to https://pcw-staging.surge.sh.
+> Alternatively, add a file named `CNAME` with the following contents to the `/static` directory: 
+> ```
+> pcw-staging.surge.sh
+> ```
+> This will remove the need for the `--domain pcw-staging.surge.sh` option, and `hugo && surge public` will just work.

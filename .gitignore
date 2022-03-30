@@ -3,6 +3,9 @@
 /resources
 .hugo_build.lock
 
+# surge
+/static/CNAME
+
 # VSCode
 .vscode
 
