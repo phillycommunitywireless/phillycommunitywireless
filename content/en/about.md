@@ -51,6 +51,8 @@ We are looking for additional funding to purchase more hardware that will be don
 
 ## In the News
 
+Al Dia, [Bringing Digital Equity to North Philadelphia](https://aldianews.com/local/philadelphia/digital-equity-day), 5/13/2022
+
 Technical.ly Philly, [A group of Philly technologists are working on a free, community-based mesh Wi-Fi network](https://technical.ly/2022/01/12/philly-community-wireless-phillywisper-mesh-wifi/), 2/1/2022  
 
 Temple Now, [Philly Community Wireless offers internet for the community, by the community](https://news.temple.edu/news/2021-10-07/philly-community-wireless-offers-internet-community-community), 10/7/2021  
