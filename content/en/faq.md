@@ -74,7 +74,7 @@ A normal installation takes a few hours, and requires cabling power to the roof,
 
 Some homes will only need an indoor mesh antenna, plugged into a wall outlet. For homes that require a rooftop installation, an antenna will be attached to a chimney, or secured between cement blocks etc. Whenever possible we use non-penetrating roof mounts. Cables can be run into existing holes in your house. For more information, see our [Docs page on rooftop installations](https://docs.phillycommunitywireless.org/en/latest/rooftop%20installation/).
 
-### How much will the electricity cost to keep the radio powered?
+## How much will the electricity cost to keep the radio powered?
 
 We estimate roughly 25 to 50 dollars a year for the electrical costs.
 
