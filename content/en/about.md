@@ -67,17 +67,17 @@ The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progr
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Neighborhood Project
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Las Parcelas Gardens
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Las Parcelas and Colobo Gardens
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Kensington Library
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Kensington branch of Free Library of Philadelphia
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance
+
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Clay Studio
 
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Open Kitchen Sculpture Garden
 
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Impact Services
-
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Clay Studio
 
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Crane Arts
 
