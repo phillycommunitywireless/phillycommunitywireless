@@ -34,21 +34,23 @@ The technical shape of mesh networks (interconnected, resilient) thus reflect th
 
 For technical information on the project, please see our [Docs page](https://docs.phillycommunitywireless.org/en/latest/).
 
-# Is it really free and secure?
+# Is it safe and affordable?
 
-## Is this actually free? Will it always be free?
+## Is the wifi actually free?
 
-Yes, as long as PCW exists, we will never ask for your payment information to access our public network.
+Yes, as long as PCW exists, you will never be asked for your payment information to access our public network.
 
 ## How fast/stable will the connection be?
 
-We can’t promise consistent connection in any given area, but we aim to provide at least 25 mbps download speed in public and private spaces. Many areas of our network currently receive higher download speeds.
+We aim to provide at least 25 mbps download speed in public and private spaces. We can’t promise consistent connection in any given area, but many areas of our network currently receive higher download speeds.
 
 ## How secure is the network? Who can access our information?
 
-We don’t track user activity. We support net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior.
+We don’t track user activity. We support net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior and data.
 
-By joining our network you agree to share it to others. When connecting through the mesh from the street you should use the same standard precautions as you would when connecting to WiFi at a coffee shop or airport: use your browser's secure mode when possible, and consider using a VPN service to be extra safe.
+By joining our network you agree to share the available bandwidth with others. Be mindful of downloading large amounts of media when others may be using the network to attend important Zoom meetings during the work day. 
+
+When connecting to the public network you should use the same standard precautions as you would when connecting to public wifi at a coffee shop or airport. Use your browser's secure mode when possible, and consider using a VPN service to be extra safe.
 
 ## Can I get hacked / is my personal information protected?
 
