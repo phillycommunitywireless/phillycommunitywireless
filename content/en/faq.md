@@ -38,7 +38,7 @@ For technical information on the project, please see our [Docs page](https://doc
 
 ## Is this actually free? Will it always be free?
 
-Yes, as long as PCW exists. We will never ask for your payment information.
+Yes, as long as PCW exists, we will never ask for your payment information to access our public network.
 
 ## How fast/stable will the connection be?
 
