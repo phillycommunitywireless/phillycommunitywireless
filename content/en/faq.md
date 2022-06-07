@@ -34,8 +34,6 @@ The technical shape of mesh networks (interconnected, resilient) thus reflect th
 
 For technical information on the project, please see our [Docs page](https://docs.phillycommunitywireless.org/en/latest/).
 
-# Is it safe and affordable?
-
 ## Is the wifi actually free?
 
 Yes, as long as PCW exists, you will never be asked for your payment information to access our public network.
