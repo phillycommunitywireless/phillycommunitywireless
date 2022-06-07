@@ -66,7 +66,7 @@ No. Please see our data policy on our [Terms of Service page](https://phillycomm
 
 If you would like to host a rooftop antenna or a mesh kit in your home, please fill out the [join form](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) and look for an email with next steps.
 
-If you have any questions, or would like to volunteer with Philly Community Wireless, reach out via email at phillycommunitywireless@gmail.com.
+If you have any questions, or would like to volunteer with Philly Community Wireless, reach out via email at phillycommunitywireless@gmail.com and see our [Volunteer](https://phillycommunitywireless.org/volunteer/) page for more information.
 
 ## What does a rooftop antenna installation involve?
 
