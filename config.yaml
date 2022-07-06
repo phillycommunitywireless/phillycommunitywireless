@@ -77,7 +77,6 @@ languages:
           weight: "2"
     weight: "2"
 params:
-  favicon: "/images/logo-purple.svg"
   site_logo: "/images/WebLogo_Standard2.svg"
   attribution:
     name: Addie Barron
