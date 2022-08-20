@@ -7,6 +7,8 @@ Our team includes volunteers and staff from a wide array of local and national o
 
 The Big Picture Alliance recently completed a documentary film about the early stages of the PCW project. Check it out on [YouTube](https://www.youtube.com/watch?v=FcReKkPl-6M)
 
+{{< youtube FcReKkPl-6M >}}
+
 For up to date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D)!
 
 ## Vision
@@ -71,9 +73,13 @@ The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progr
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Las Parcelas and Colobo Gardens
 
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Iglesias Gardens
+
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Kensington branch of Free Library of Philadelphia
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance
+
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> GALAEI
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Clay Studio
 
