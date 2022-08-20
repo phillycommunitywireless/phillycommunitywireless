@@ -5,6 +5,8 @@ title: "About"
 
 Our team includes volunteers and staff from a wide array of local and national organizations. For more information, [visit our people page](/people).
 
+The Big Picture Alliance recently completed a documentary film about the early stages of the PCW project. Check it out on [YouTube](https://www.youtube.com/watch?v=FcReKkPl-6M)
+
 For up to date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D)!
 
 ## Vision
