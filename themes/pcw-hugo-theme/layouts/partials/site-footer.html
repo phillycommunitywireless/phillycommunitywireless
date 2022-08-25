@@ -17,7 +17,7 @@
       <ul class="list db flex-1 tr">
         {{ range .Site.Menus.footer }}
           <li class="pb2">
-            <a href="{{ .URL | relLangURL }}" title="{{ .Name }}">
+            <a href="{{ .URL | relLangURL }}" title="{{ .Name }}"  tabindex="0">
               {{ .Name }}
             </a>
           </li>

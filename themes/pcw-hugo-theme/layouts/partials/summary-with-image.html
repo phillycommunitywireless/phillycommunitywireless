@@ -6,7 +6,7 @@
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
         {{ $featured_image := (trim $featured_image "/") | absURL }}
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="{{.RelPermalink}}" class="db grow">
+          <a href="{{.RelPermalink}}" class="db grow" tabindex="0">
             <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
           </a>
         </div>
@@ -20,7 +20,7 @@
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
           {{ .Summary }}
         </div>
-          <a href="{{.RelPermalink}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
+          <a href="{{.RelPermalink}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1" tabindex="0">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
         {{/* TODO: add author
         <p class="f6 lh-copy mv0">By {{ .Author }}</p> */}}
       </div>
