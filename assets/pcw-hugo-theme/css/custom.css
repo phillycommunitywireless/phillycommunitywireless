@@ -1,3 +1,34 @@
+/* Buttons */
+a.white.link:focus {
+  color: black;
+  outline: 0.1rem solid black;
+  outline-offset: .2rem;
+  background-color: var(--light-gray);
+  transition: color .10s ease-in;
+
+  /* Remove existing dotted border for hero-image button */
+  border: none;
+}
+
+/* Nav items */
+nav a.hover-white:focus {
+  color:  black;
+  outline: 0.1rem solid black;
+  /*outline-offset: 0.2rem;*/
+  background-color: white;
+  transition: color .10s ease-in;
+}
+
+/* Contact links */
+section.contact a:focus {
+  color: black;
+  outline: 0.1rem solid black;
+  outline-offset: 0.2rem;
+  background-color: var(--light-gray);
+  transition: color .10s ease-in;
+}
+
+
 /*********
 * COLORS *
 *********/
@@ -14,35 +45,36 @@
 }
 
 /* Background color */
+
 .bg-pcw {
-  background-color: var(--primary) !important;
-  color: white !important;
+  background-color: var(--primary);
+  color: white;
 }
 .bg-pcw-lilac {
-  background-color: var(--lilac) !important;
-  color: white !important;
+  background-color: var(--lilac);
+  color: white;
 }
 .bg-pcw-dark-blue {
-  background-color: var(--dark-blue) !important;
-  color: var(--light-gray) !important;
+  background-color: var(--dark-blue);
+  color: var(--light-gray);
 }
 .bg-light-gray {
-  background-color: var(--light-gray) !important;
-  color: black !important;
+  background-color: var(--light-gray);
+  color: black;
 }
 
 /* Text color */
 .color-pcw {
-  color: var(--primary) !important;
+  color: var(--primary);
 }
 .color-pcw-lilac {
-  color: var(--lilac) !important;
+  color: var(--lilac);
 }
 .color-pcw-dark-blue {
-  color: var(--dark-blue) !important;
+  color: var(--dark-blue);
 }
 .light-gray {
-  color: var(--light-gray) !important;
+  color: var(--light-gray);
 }
 
 /* Automatic heading colors based on background. */
@@ -74,9 +106,10 @@ a[role="button"]:after {
   background-color: var(--dark-blue);
 }
 
-/************
-* OVERRIDES *
-************/
+
+/*************
+* Typography *
+*************/
 
 /* Headings */
 h1 {
@@ -96,11 +129,7 @@ footer a,
   text-decoration: none;
   color: var(--primary);
 }
-a:is(a, .link):focus,
-a:is(a, .link):focus-within {
-  outline: dashed 5px var(--lilac);
-  outline-offset: 0.2rem;
-}
+
 a[href^="mailto:"] {
   word-break: break-all;
 }
@@ -111,8 +140,36 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Table Of Contents */
 
+/************************
+* Specific Item Targets *
+*************************/
+
+/* Hero Image */
+  /* 
+  Extracted from inline HTML style 
+  */
+div.hero-image a {
+  border: dashed 1px white;
+}
+
+/* Site Navigation */
+  /*
+  Giving the nav items some breathing room
+  */
+nav a { 
+  padding: 0.2rem;
+}
+
+/* Contact section */
+  /*
+  Giving the contact links some breathing room
+  */
+section.contact a {
+  padding: 0.5rem;
+}
+
+/* Table of Contents */
 #TableOfContents > ul > li > a {
   font-size: 1.3em;
   color: var(--dark-blue);
@@ -127,6 +184,7 @@ a:hover {
 }
 #TableOfContents ul li {
 }
+
 
 /********
 * FONTS *
