@@ -10,7 +10,7 @@ title: "People"
 
 ## Organizational leads
 
-**Project Manager** 
+**Project Manager**   
 Allan Gomez {{< fa cogs >}}
 
 **Admin Lead**
