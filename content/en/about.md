@@ -94,3 +94,7 @@ The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progr
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Village of the Arts and Humanities
 
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Temple University Main Campus and Hospital
+
+## Map
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1FZkwiS9IrQBjlNLUL6QhA6KO7T-XTXnK&ehbc=2E312F" width="640" height="480"></iframe>
