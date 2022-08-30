@@ -130,7 +130,7 @@ Sarah Fingerhood, University of Pennsylvania, 2021
 
 Anika Prakash, University of Pennsylvania, 2021
 
-# Volunteers (to be updated)
+## Volunteers
 
 Jen Meagher {{< fa cogs >}} \
 _Product Manager_
