@@ -30,7 +30,7 @@ _Community Initiatives Specialist, Free Library of Philadelphia_
 
 <br>
 
-## PCW Steering Committee
+## Steering Committee
 
 Will Dean {{< fa cogs >}} \
 _Research and Data Services Librarian, Temple University Libraries_
@@ -113,13 +113,12 @@ Katie Garth
 
 Eli Laban, Big Picture Alliance
 
-## Former Staff / Alumni
+## Former Staff
 
 **Community Engagement Liaison**
-
 Chris Mehretab {{< fa hands-helping >}}
 
-## Interns
+## Former Interns
 
 Tejas Gupta, Princeton University, 2020
 
@@ -157,6 +156,8 @@ _Software Engineer_
 
 [West Kensington Ministries](https://westkensingtonministry.com/)
 
+Cesar Andreu Iglesias Gardens
+
 <br/>
 
 ## Philly Community Partners
@@ -170,8 +171,6 @@ _Software Engineer_
 [Holobiont Lab](holobiontlab.org)
 
 [Village of the Arts and Humanities](http://spaces.villagearts.org/)
-
-[Movement Alliance Project](https://movementalliance.org/about/)
 
 [Philly Tech Justice](https://phillytechjustice.org/)
 
@@ -199,6 +198,10 @@ _Software Engineer_
 
 <br/>
 
+## Fiscal Sponsor
+
+[Movement Alliance Project](https://movementalliance.org/about/)
+
 ## Funders
 
 [Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/), The Mayor's Fund for Philadelphia
@@ -208,5 +211,3 @@ Digital Equity Grant of the [Independent Public Media Foundation](https://indepe
 Rapid Response Magic Project of the [Princeton Humanities Council](https://humanities.princeton.edu/)
 
 RISE (Recognizing Inequalities and Standing for Equality), [Pace Center for Civic Engagement](https://pace.princeton.edu/)
-
-
