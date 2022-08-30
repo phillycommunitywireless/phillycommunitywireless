@@ -13,15 +13,15 @@ title: "People"
 **Project Manager**   
 Allan Gomez {{< fa cogs >}}
 
-**Admin Lead**
+**Admin Lead**  
 Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
 _Digital Scholarship Coordinator, Temple University, Scholars Studio_
 
-**Tech Lead**
+**Tech Lead**  
 Addie Barron {{< fa cogs >}} \
 _Technologist and Software Engineer_
 
-**Outreach Leads**
+**Outreach Leads**  
 Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
 _Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts_
 
