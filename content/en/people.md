@@ -10,18 +10,18 @@ title: "People"
 
 ## Organizational leads
 
-**Admin Lead**
+**Project Manager** 
+Allan Gomez {{< fa cogs >}}
 
+**Admin Lead**
 Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
 _Digital Scholarship Coordinator, Temple University, Scholars Studio_
 
 **Tech Lead**
-
 Addie Barron {{< fa cogs >}} \
 _Technologist and Software Engineer_
 
 **Outreach Leads**
-
 Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
 _Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts_
 
@@ -30,26 +30,13 @@ _Community Initiatives Specialist, Free Library of Philadelphia_
 
 <br>
 
-## Staff
-
-**Project Manager** 
-
-Allan Gomez {{< fa cogs >}}
-
-**Community Engagement Liaison**
-
-Chris Mehretab {{< fa hands-helping >}}
-
-<br>
-
-## Steering Committee amd Community Advisory Board
-
-We are in the process of forming our annual membership for our steering committe and community advisory board. Stay tuned for more info on our team's organizational changes.
-
-## PCW Team
+## PCW Steering Committee
 
 Will Dean {{< fa cogs >}} \
 _Research and Data Services Librarian, Temple University Libraries_
+
+Allan Gomez {{< fa cogs >}}
+_Project Manager, Philly Community Wireless_
 
 Jonathan Latko {{< fa cogs >}} \
 _Computer Recycling Center, Temple University_
@@ -60,29 +47,23 @@ _Associate Professor, Annenberg School for Communication, University of Pennsylv
 Rev. Michael A. Major {{< fa hands-helping >}} \
 _Board President, Called to Serve CDC_
 
-Jen Meagher {{< fa cogs >}} \
-_Product Manager_
-
 Sascha Meinrath {{< fa vial >}} \
 _Palmer Chair in Telecommunications, Bellisario College of Communications, Pennsylvania State University_
 
 Stasia Monteiro {{< fa hands-helping >}} \
 _NAC Program Director, HACE_
 
-Dave Onion {{< fa cogs >}} \
-_Dialectrician, Holobiont Lab_
-
-Jennifer Oxenford {{< fa cogs >}} \
-_Director, Member Services and NYC Dark Fiber Program at NYSERNet_
-
 Mark Steckel {{< fa cogs >}} \
 _Founder, PhillyWisper_
 
-Tim Traversy {{< fa cogs >}} \
-_Software Engineer_
-
 Devren Washington {{< fa hands-helping >}} \
 _Senior Policy Organizer, Movement Alliance Project_
+
+Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
+_Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts_
+
+Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
+_Digital Scholarship Coordinator, Temple University, Scholars Studio_
 
 Grant Wythoff {{< fa vial >}} \
 _Digital Humanities Strategist, Center for Digital Humanities at Princeton University_
@@ -113,10 +94,30 @@ _Remake Learning (Pittsburgh)_
 Franca Muller Paz {{< fa graduation-cap >}} \
 _Baltimore Teachers Union (Baltimore)_
 
+Dave Onion {{< fa cogs >}} \
+_Dialectrician, Holobiont Lab_
+
+Jennifer Oxenford {{< fa cogs >}} \
+_Director, Member Services and NYC Dark Fiber Program at NYSERNet_
+
 Houman Saberi {{< fa cogs >}} \
 _Community Tech NY (New York)_
 
 <br/>
+
+## Graphic Design
+
+Katie Garth
+
+## Video Production 
+
+Eli Laban, Big Picture Alliance
+
+## Former Staff / Alumni
+
+**Community Engagement Liaison**
+
+Chris Mehretab {{< fa hands-helping >}}
 
 ## Interns
 
@@ -129,6 +130,14 @@ Chris Mehretab, Temple University, 2021
 Sarah Fingerhood, University of Pennsylvania, 2021
 
 Anika Prakash, University of Pennsylvania, 2021
+
+# Volunteers (to be updated)
+
+Jen Meagher {{< fa cogs >}} \
+_Product Manager_
+
+Tim Traversy {{< fa cogs >}} \
+_Software Engineer_
 
 <br/>
 
@@ -200,10 +209,4 @@ Rapid Response Magic Project of the [Princeton Humanities Council](https://human
 
 RISE (Recognizing Inequalities and Standing for Equality), [Pace Center for Civic Engagement](https://pace.princeton.edu/)
 
-## Graphic Design
 
-Katie Garth
-
-## Video Production 
-
-Eli Laban, Big Picture Alliance
