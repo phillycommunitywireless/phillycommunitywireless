@@ -111,11 +111,11 @@ Katie Garth
 
 ## Video Production 
 
-Eli Laban, Big Picture Alliance
+Eli Laban, *Big Picture Alliance*
 
 ## Former Staff
 
-**Community Engagement Liaison**
+**Community Engagement Liaison**  
 Chris Mehretab {{< fa hands-helping >}}
 
 ## Former Interns
