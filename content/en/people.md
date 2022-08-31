@@ -85,7 +85,7 @@ _Community Tech NY (New York)_
 David L. Johnson {{< fa cogs >}} \
 _iNethi (Cape Town, South Africa)_
 
-Adam Longwill {{< fa cogs >}} \
+Colby Hollabaugh {{< fa cogs >}} \
 _Meta Mesh (Pittsburgh)_
 
 Ani Martinez {{< fa hands-helping >}} \
