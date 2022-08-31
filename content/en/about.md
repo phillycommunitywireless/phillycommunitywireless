@@ -97,4 +97,4 @@ The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progr
 
 ## Map
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1FZkwiS9IrQBjlNLUL6QhA6KO7T-XTXnK&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1vEt8A7BlPLEYPIrPJsnegr2yxEr0pxo&ehbc=2E312F" width="640" height="480"></iframe>
