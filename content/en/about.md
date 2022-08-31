@@ -73,7 +73,7 @@ The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progr
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Las Parcelas and Colobo Gardens
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Iglesias Gardens
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Cesar Andreu Iglesias Gardens
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Kensington branch of Free Library of Philadelphia
 
