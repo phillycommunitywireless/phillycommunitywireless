@@ -25,7 +25,7 @@ segments:
   # Norris Square project
   - template: call-to-action-image
     heading: Norris Square Network
-    text: We are beginning to build out a community wireless network in the area around [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live there, you can either get connected or host an antenna to connect your neighbors.
+    text: We are building a community wireless network in the area around [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122 or 19133 zipcodes, you can get connected and host an antenna to connect your neighbors.
     link:
       text: Get Connected
       href: getconnected/
