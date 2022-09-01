@@ -10,7 +10,7 @@
         </p>
       {{ end}}
       {{ with .link }}
-        <a role="button" href="{{.href}}" tabindex="0" class="tc dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .text | default "Placeholder link" }}</a>
+        <a role="button" href="{{.href}}" class="tc dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .text | default "Placeholder link" }}</a>
       {{ end }}
     </div>
   </div>  
