@@ -1,82 +1,51 @@
-/*********
-* COLORS *
-*********/
+/************************
+* Specific Item Targets *
+*************************/
 
-:root {
-  --orange: rgb(255, 128, 0);
-
-  --blue: #5262ed;
-  --lilac: #d48aff;
-  --dark-blue: #123248;
-  --light-gray: #e6e6e6;
-
-  --primary: var(--blue);
+/* Hero Image */
+  /* 
+  Extracted from inline HTML style 
+  */
+div.hero-image a {
+  border: dashed 1px white;
 }
 
-/* Background color */
-.bg-pcw {
-  background-color: var(--primary) !important;
-  color: white !important;
-}
-.bg-pcw-lilac {
-  background-color: var(--lilac) !important;
-  color: white !important;
-}
-.bg-pcw-dark-blue {
-  background-color: var(--dark-blue) !important;
-  color: var(--light-gray) !important;
-}
-.bg-light-gray {
-  background-color: var(--light-gray) !important;
-  color: black !important;
+/* Site Navigation */
+  /*
+  Giving the nav items some breathing room
+  */
+nav a { 
+  padding: 0.2rem;
 }
 
-/* Text color */
-.color-pcw {
-  color: var(--primary) !important;
-}
-.color-pcw-lilac {
-  color: var(--lilac) !important;
-}
-.color-pcw-dark-blue {
-  color: var(--dark-blue) !important;
-}
-.light-gray {
-  color: var(--light-gray) !important;
+/* Contact section */
+  /*
+  Giving the contact links some breathing room
+  */
+section.contact a {
+  padding: 0.5rem;
 }
 
-/* Automatic heading colors based on background. */
-h1 {
+/* Table of Contents */
+#TableOfContents > ul > li > a {
+  font-size: 1.3em;
   color: var(--dark-blue);
+  font-weight: bold;
 }
-h2 {
-  color: var(--primary);
+#TableOfContents > ul > li > ul {
+  margin-top: 0.3em;
 }
-.color-pcw-lilac :is(h1, h2) {
-  color: var(--lilac);
+#TableOfContents ul li {
+  margin-bottom: 0.3em;
+  margin-left: 0.3em;
 }
-.color-pcw-dark-blue :is(h1, h2) {
-  color: var(--dark-blue);
-}
-[class*=" bg-pcw"] h1,
-[class*=" bg-pcw"] h2 {
-  color: white;
+#TableOfContents ul li {
 }
 
-/* Automatic link colors based on background. */
-[class*=" bg-pcw"] a {
-  color: white;
-}
-a[role="button"]:after {
-  content: " →";
-}
-[class*=" bg-pcw"]:not(.bg-pcw-dark-blue) a[role="button"] {
-  background-color: var(--dark-blue);
-}
 
-/************
-* OVERRIDES *
-************/
+/*************
+* Typography *
+*************/
 
 /* Headings */
 h1 {
@@ -96,11 +65,7 @@ footer a,
   text-decoration: none;
   color: var(--primary);
 }
-a:is(a, .link):focus,
-a:is(a, .link):focus-within {
-  outline: dashed 5px var(--lilac);
-  outline-offset: 0.2rem;
-}
+
 a[href^="mailto:"] {
   word-break: break-all;
 }
@@ -111,62 +76,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Table Of Contents */
-
-#TableOfContents > ul > li > a {
-  font-size: 1.3em;
-  color: var(--dark-blue);
-  font-weight: bold;
-}
-#TableOfContents > ul > li > ul {
-  margin-top: 0.3em;
-}
-#TableOfContents ul li {
-  margin-bottom: 0.3em;
-  margin-left: 0.3em;
-}
-#TableOfContents ul li {
-}
-
-/********
-* FONTS *
-********/
-
-@font-face {
-  font-family: "Calibre";
-  font-display: swap;
-  src: url("/fonts/calibre/calibre-regular.woff2") format("woff2");
-  font-weight: 1 499;
-}
-
-@font-face {
-  font-family: "Calibre";
-  font-display: swap;
-  src: url("/fonts/calibre/calibre-regular-italic.woff2") format("woff2");
-  font-weight: 1 499;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Calibre";
-  font-display: swap;
-  src: url("/fonts/calibre/calibre-semibold.woff2") format("woff2");
-  font-weight: 500 799;
-}
-
-@font-face {
-  font-family: "Calibre";
-  font-display: swap;
-  src: url("/fonts/calibre/calibre-bold.woff2") format("woff2");
-  font-weight: 800 1000;
-}
-
-.nunito {
-  font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
-}
-.calibre {
-  font-family: "Calibre", "Helvetica Neue", sans-serif;
-}
 
 /****************
 * EXTRA CLASSES *

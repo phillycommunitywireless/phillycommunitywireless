@@ -1,0 +1,76 @@
+/*********
+* COLORS *
+*********/
+
+:root {
+  --orange: rgb(255, 128, 0);
+
+  --blue: #5262ed;
+  --lilac: #d48aff;
+  --dark-blue: #123248;
+  --light-gray: #e6e6e6;
+
+  --primary: var(--blue);
+}
+
+/* Background color */
+
+.bg-pcw {
+  background-color: var(--primary);
+  color: white;
+}
+.bg-pcw-lilac {
+  background-color: var(--lilac);
+  color: white;
+}
+.bg-pcw-dark-blue {
+  background-color: var(--dark-blue);
+  color: var(--light-gray);
+}
+.bg-light-gray {
+  background-color: var(--light-gray);
+  color: black;
+}
+
+/* Text color */
+.color-pcw {
+  color: var(--primary);
+}
+.color-pcw-lilac {
+  color: var(--lilac);
+}
+.color-pcw-dark-blue {
+  color: var(--dark-blue);
+}
+.light-gray {
+  color: var(--light-gray);
+}
+
+/* Automatic heading colors based on background. */
+h1 {
+  color: var(--dark-blue);
+}
+h2 {
+  color: var(--primary);
+}
+.color-pcw-lilac :is(h1, h2) {
+  color: var(--lilac);
+}
+.color-pcw-dark-blue :is(h1, h2) {
+  color: var(--dark-blue);
+}
+[class*=" bg-pcw"] h1,
+[class*=" bg-pcw"] h2 {
+  color: white;
+}
+
+/* Automatic link colors based on background. */
+[class*=" bg-pcw"] a {
+  color: white;
+}
+a[role="button"]:after {
+  content: " →";
+}
+[class*=" bg-pcw"]:not(.bg-pcw-dark-blue) a[role="button"] {
+  background-color: var(--dark-blue);
+}

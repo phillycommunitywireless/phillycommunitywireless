@@ -82,6 +82,7 @@ segments:
   # Contact info
   - template: markdown
     url: contact.md
+    class: contact
 ---
 
 We are a volunteer-led coalition of technologists and organizers working to build community controlled wireless internet networks in Philadelphia. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We believe that **internet access is a human right**.

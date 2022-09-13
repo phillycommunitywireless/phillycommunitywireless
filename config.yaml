@@ -93,7 +93,10 @@ params:
   background_color_class: bg-near-white black-60
   body_classes: calibre black
   custom_css:
+    - colors.css
     - custom.css
+    - focus-indicators.css
+    - fonts.css
 
 markup:
   tableOfContents:

@@ -1,0 +1,22 @@
+/* Buttons & Contact links */
+a.white.link:focus,
+section.contact a:focus {
+  color: black;
+  outline: 0.1rem solid black;
+  outline-offset: 0.2rem;
+  background-color: var(--light-gray);
+  transition: color 0.10s ease-in;
+
+  /* Remove existing dotted border for hero-image button */
+  border: none;
+}
+
+/* Nav items */
+nav a.hover-white:focus {
+  color:  black;
+  outline: 0.1rem solid black;
+  /* outline-offset: 0.2rem;
+     No offset bc it looks weird on a purple background */
+  background-color: var(--light-gray);
+  transition: color 0.10s ease-in;
+}
