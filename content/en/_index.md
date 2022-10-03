@@ -56,7 +56,7 @@ segments:
   # Donate
   - template: call-to-action
     heading: Support the project
-    text: Your money will go toward networking equipment, tools, training materials, and paying our focus group participants and staff.
+    text: Your money will go toward networking equipment, tools, training materials, and paying our staff.
     link:
       text: Donate
       href: https://phillycommunitywireless.wedid.it
