@@ -77,7 +77,11 @@ The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progr
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Kensington branch of Free Library of Philadelphia
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Lillian Merrero branch of Free Library of Philadelphia
+
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance multidwelling buildings
+
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance St. Boniface School
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> GALAEI
 
@@ -90,6 +94,8 @@ The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progr
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Crane Arts
 
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> HACE
+
+<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Urban Creators Life Do Grow Farms
 
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Village of the Arts and Humanities
 
