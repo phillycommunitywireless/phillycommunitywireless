@@ -10,4 +10,4 @@
 
 {{< fa fab instagram >}} &nbsp;[@phillycommunitywireless](https://www.instagram.com/phillycommunitywireless/)
 
-<!-- {{< fa fab twitter >}} @phillycommunitywireless -->
+<{{< fa fab twitter >}} &nbsp;[@philly_wireless](https://www.twitter.com/philly_wireless/)
