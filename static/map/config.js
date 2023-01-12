@@ -143,7 +143,7 @@ var config = {
             image: './images/gotham.png',
             description: 'The Gotham Tower highsite southwest of Norris Square Park has a series of sector antennas broadcasting wireless radio signals in every direction. These sector antennas, point to multipoint radios, connect to the Litebeam on the roof of local residences and organizations.',
             location: {
-                center: { lon: -75.14288, lat: 40.03271 },
+                center: { lon: -75.13713, lat: 39.98152 },
                 zoom: 15.01,
                 pitch: 60.00,
                 bearing: -10.40
