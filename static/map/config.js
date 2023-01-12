@@ -44,9 +44,9 @@ var config = {
             id: '2',
             alignment: 'right',
             hidden: false,
-            title: 'The Pilot Stage',
+            title: 'How does it work?',
             image: './images/mounting_antenna.jpg',
-            description: 'The first stage of our pilot in Norris Square involves installing anchor antennas on blocks around the neighborhood.',
+            description: 'We often get questions about how the network is built. This scrollytelling map will walk you through how our wireless mesh network functions, and what happens when you access the internet on our network.',
             location: {
                 center: { lon: -75.13523, lat: 39.98361 },
                 zoom: 13.01,
@@ -63,9 +63,9 @@ var config = {
             id: '3',
             alignment: 'right',
             hidden: false,
-            title: 'The Anchor: Installation at the Norris Square Neighborhood Project Main Building',
+            title: 'A local access point at the Norris Square Neighborhood Project Main Building',
             image: './images/nsnp.jpg',
-            description: 'Here you see a relay antenna mounted on the wall of Norris Square Neighborhood Projects, projecting wireless signal into Norris Square Park.',
+            description: 'Here you see a directional antenna mounted on the outside facade of our community partner, Norris Square Neighborhood Projects. This device broadcasts wifi into Norris Square Park. If you were to log in, your device would reach the internet by connecting to it. This device is connected to a router and a radio antenna on the roof, known as a Litebeam.',
             location: {
                 center: { lon: -75.13358, lat: 39.98294 },
                 zoom: 17.00,
@@ -103,7 +103,7 @@ var config = {
             hidden: false,
             title: 'Las Parcelas',
             image: './images/las_parcelas.jpg',
-            description: "At the Norris Square Neighborhood Project's Las Parcelas gardens, we've installed an antenna visible in light of sight from the Gotham Tower.",
+            description: "At the Norris Square Neighborhood Project's Las Parcelas gardens, we've installed an antenna visible in light of sight from the Gotham Tower. In this image, you can see the access point broadcasting wifi, and behind it, the radio antenna pointed to PhillyWisper's supernode at Gotham Tower.",
             location: {
               center: { lon: -75.13587, lat: 39.98497 },
               zoom: 17.00,
@@ -139,6 +139,101 @@ var config = {
             id: '7',
             alignment: 'right',
             hidden: false,
+            title: 'The supernode',
+            image: './images/gotham.png',
+            description: 'The Gotham Tower highsite southwest of Norris Square Park has a series of sector antennas broadcasting wireless radio signals in every direction. These sector antennas, point to multipoint radios, connect to the Litebeam on the roof of local residences and organizations.',
+            location: {
+                center: { lon: 40.03271304964433, lat: -75.1428898291557 },
+                zoom: 15.01,
+                pitch: 60.00,
+                bearing: -10.40
+            },
+            mapAnimation: 'easeTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '8',
+            alignment: 'right',
+            hidden: false,
+            title: 'The datacenter',
+            image: './images/datacenter.jpg',
+            description: 'Gotham Tower also has radios connecting it to the Data center at 401 N Broad, which acts as the gateway out to the cloud or internet more broadly.',
+            location: {
+                center: { lon: 39.95982636969817, lat: -75.16105268909925 },
+                zoom: 15.01,
+                pitch: 60.00,
+                bearing: -10.40
+            },
+            mapAnimation: 'easeTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '9',
+            alignment: 'right',
+            hidden: false,
+            title: 'LOS',
+            image: './images/los.png',
+            description: 'One problem that often arises is we cannot get Line of Sight between a residential house and Gotham tower. To address this problem, we can take advantage of the mesh capabilities of our wifi network. For example, buildings that are too close to Gotham Tower or below a taller building, cannot get direct access from the supernode to the internet.',
+            location: {
+                center: { lon: 39.98149194589432, lat: -75.13441778171098 },
+                zoom: 15.01,
+                pitch: 60.00,
+                bearing: -10.40
+            },
+            mapAnimation: 'easeTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '10',
+            alignment: 'right',
+            hidden: false,
+            title: 'LOS',
+            image: './images/los.png',
+            description: 'To address this, we can relay signal from a local residential hub, to another location using meshing. For example, we mounted an omnidirectional antenna on the top of a residential rowhouse, with the omni wired via ethernet directly to the Litebeam pionting at Gotham. Then from GALAEI, we pointed a directional antenna towards the omni, and ran a cable inside the building to provide the organization with wifi.',
+            location: {
+                center: { lon: 39.98149194589432, lat: -75.13441778171098 },
+                zoom: 15.01,
+                pitch: 60.00,
+                bearing: -10.40
+            },
+            mapAnimation: 'easeTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '11',
+            alignment: 'right',
+            hidden: false,
+            title: 'LOS',
+            image: './images/los.png',
+            description: 'Here you can see the omni in the front and GALAEI directional antenna in the back.',
+            location: {
+                center: { lon: 39.98149194589432, lat: -75.13441778171098 },
+                zoom: 15.01,
+                pitch: 60.00,
+                bearing: -10.40
+            },
+            mapAnimation: 'easeTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '12',
+            alignment: 'right',
+            hidden: false,
             title: 'Installing Antennas on Rooftops',
             image: './images/rooftop.jpg',
             description: 'We are currently looking for homeowners who would allow us to install an antenna to relay signal from Gotham Tower',
@@ -155,7 +250,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '8',
+            id: '13',
             alignment: 'left',
             hidden: false,
             title: 'The Digital Divide in North Philadelphia',
