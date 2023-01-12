@@ -143,7 +143,7 @@ var config = {
             image: './images/gotham.png',
             description: 'The Gotham Tower highsite southwest of Norris Square Park has a series of sector antennas broadcasting wireless radio signals in every direction. These sector antennas, point to multipoint radios, connect to the Litebeam on the roof of local residences and organizations.',
             location: {
-                center: { lon: 40.03271304964433, lat: -75.1428898291557 },
+                center: { lon: 40.03271, lat: -75.14288 },
                 zoom: 15.01,
                 pitch: 60.00,
                 bearing: -10.40
@@ -162,7 +162,7 @@ var config = {
             image: './images/datacenter.jpg',
             description: 'Gotham Tower also has radios connecting it to the Data center at 401 N Broad, which acts as the gateway out to the cloud or internet more broadly.',
             location: {
-                center: { lon: 39.95982636969817, lat: -75.16105268909925 },
+                center: { lon: 39.95982, lat: -75.16105 },
                 zoom: 15.01,
                 pitch: 60.00,
                 bearing: -10.40
@@ -181,7 +181,7 @@ var config = {
             image: './images/los.png',
             description: 'One problem that often arises is we cannot get Line of Sight between a residential house and Gotham tower. To address this problem, we can take advantage of the mesh capabilities of our wifi network. For example, buildings that are too close to Gotham Tower or below a taller building, cannot get direct access from the supernode to the internet.',
             location: {
-                center: { lon: 39.98149194589432, lat: -75.13441778171098 },
+                center: { lon: 39.98149, lat: -75.13441 },
                 zoom: 15.01,
                 pitch: 60.00,
                 bearing: -10.40
@@ -200,7 +200,7 @@ var config = {
             image: './images/los.png',
             description: 'To address this, we can relay signal from a local residential hub, to another location using meshing. For example, we mounted an omnidirectional antenna on the top of a residential rowhouse, with the omni wired via ethernet directly to the Litebeam pionting at Gotham. Then from GALAEI, we pointed a directional antenna towards the omni, and ran a cable inside the building to provide the organization with wifi.',
             location: {
-                center: { lon: 39.98149194589432, lat: -75.13441778171098 },
+                center: { lon: 39.98149, lat: -75.13441 },
                 zoom: 15.01,
                 pitch: 60.00,
                 bearing: -10.40
@@ -219,7 +219,7 @@ var config = {
             image: './images/los.png',
             description: 'Here you can see the omni in the front and GALAEI directional antenna in the back.',
             location: {
-                center: { lon: 39.98149194589432, lat: -75.13441778171098 },
+                center: { lon: 39.98149, lat: -75.13441 },
                 zoom: 15.01,
                 pitch: 60.00,
                 bearing: -10.40
