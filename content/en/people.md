@@ -10,16 +10,15 @@ title: "People"
 
 ## Organizational leads
 
-**Project Manager**   
-Allan Gomez {{< fa cogs >}}
-
-**Admin Lead**  
+**Executive Director**  
 Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
 _Digital Scholarship Coordinator, Temple University, Scholars Studio_
 
-**Tech Lead**  
-Addie Barron {{< fa cogs >}} \
-_Technologist and Software Engineer_
+**Project Manager**   
+Allan Gomez {{< fa cogs >}}
+
+**Community Engagement Liaison**  
+Chris Mehretab {{< fa hands-helping >}}
 
 **Outreach Leads**  
 Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
@@ -30,7 +29,7 @@ _Community Initiatives Specialist, Free Library of Philadelphia_
 
 <br>
 
-## Steering Committee
+## Board of Directors
 
 Will Dean {{< fa cogs >}} \
 _Research and Data Services Librarian, Temple University Libraries_
@@ -103,6 +102,9 @@ _Director, Member Services and NYC Dark Fiber Program at NYSERNet_
 Houman Saberi {{< fa cogs >}} \
 _Community Tech NY (New York)_
 
+Addie Barron {{< fa cogs >}} \
+_Technologist and Software Engineer_
+
 <br/>
 
 ## Graphic Design
@@ -113,10 +115,9 @@ Katie Garth
 
 Eli Laban, *Big Picture Alliance*
 
-## Former Staff
+## Current Interns
 
-**Community Engagement Liaison**  
-Chris Mehretab {{< fa hands-helping >}}
+Megha Govindu, Unviersity of Pennsylvania, 2023
 
 ## Former Interns
 
