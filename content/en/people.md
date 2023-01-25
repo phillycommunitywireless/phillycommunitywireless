@@ -20,7 +20,7 @@ Allan Gomez {{< fa cogs >}}
 **Community Engagement Liaison**  
 Chris Mehretab {{< fa hands-helping >}}
 
-**Outreach Leads**  
+**Community Outreach Coordinators**  
 Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
 _Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts_
 
