@@ -134,6 +134,9 @@ Anika Prakash, University of Pennsylvania, 2021
 
 ## Volunteers
 
+Quinn Batten {{< fa cogs >}} \
+_Data Engineer_
+
 Jen Meagher {{< fa cogs >}} \
 _Product Manager_
 
