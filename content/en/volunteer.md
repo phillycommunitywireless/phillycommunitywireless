@@ -4,7 +4,7 @@ title: "Volunteer"
 
 We love volunteers! We're a volunteer-led coalition working to build community controlled wireless internet networks in Philadelphia. Below we've outlined ways that volunteers can contribute.
 
-If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link). 
+If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://forms.gle/4UT4s6rx1uzrQHi47). 
 
 ## Tech Volunteers
 
@@ -45,5 +45,5 @@ _Here are some of the skill areas we're currently looking for:_
 - Graphic Design: posters, postcards, fliers, merch, t-shirts
 - Printing, Silkscreening
 
-If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link). 
+If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://forms.gle/4UT4s6rx1uzrQHi47). 
 
