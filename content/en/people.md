@@ -72,6 +72,9 @@ _Digital Humanities Strategist, Center for Digital Humanities at Princeton Unive
 Adam Bouhmad {{< fa cogs >}} \
 _Project WAVES (Baltimore)_
 
+Addie Barron {{< fa cogs >}} \
+_Technologist and Software Engineer_
+
 Greta Byrum {{< fa cogs >}} \
 _Community Tech NY (New York)_
 
@@ -102,8 +105,6 @@ _Director, Member Services and NYC Dark Fiber Program at NYSERNet_
 Houman Saberi {{< fa cogs >}} \
 _Community Tech NY (New York)_
 
-Addie Barron {{< fa cogs >}} \
-_Technologist and Software Engineer_
 
 <br/>
 
