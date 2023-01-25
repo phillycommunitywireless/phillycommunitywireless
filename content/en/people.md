@@ -12,7 +12,7 @@ title: "People"
 
 **Executive Director**  
 Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
-_Digital Scholarship Coordinator, Temple University, Scholars Studio_
+_Academic Director, Temple University, Scholars Studio_
 
 **Project Manager**   
 Allan Gomez {{< fa cogs >}}
