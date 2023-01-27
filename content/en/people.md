@@ -75,6 +75,11 @@ _Project WAVES (Baltimore)_
 Addie Barron {{< fa cogs >}} \
 _Technologist and Software Engineer_
 
+Quinn Batten {{< fa cogs >}} \
+_Data Engineer_
+David L. Johnson {{< fa cogs >}} \
+_iNethi (Cape Town, South Africa)_
+
 Greta Byrum {{< fa cogs >}} \
 _Community Tech NY (New York)_
 
@@ -84,8 +89,8 @@ _Digital Harbor Foundation (Baltimore)_
 Raul Enriquez {{< fa cogs >}} \
 _Community Tech NY (New York)_
 
-David L. Johnson {{< fa cogs >}} \
-_iNethi (Cape Town, South Africa)_
+Dylan Hutchinson {{< fa cogs >}} \
+_IT Engineer_
 
 Colby Hollabaugh {{< fa cogs >}} \
 _Meta Mesh (Pittsburgh)_
@@ -104,7 +109,6 @@ _Director, Member Services and NYC Dark Fiber Program at NYSERNet_
 
 Houman Saberi {{< fa cogs >}} \
 _Community Tech NY (New York)_
-
 
 <br/>
 
@@ -132,16 +136,16 @@ Sarah Fingerhood, University of Pennsylvania, 2021
 
 Anika Prakash, University of Pennsylvania, 2021
 
-## Volunteers
-
-Quinn Batten {{< fa cogs >}} \
-_Data Engineer_
+## Additional Volunteers
 
 Jen Meagher {{< fa cogs >}} \
 _Product Manager_
 
 Tim Traversy {{< fa cogs >}} \
 _Software Engineer_
+
+Felipe Valdez {{< fa cogs >}} \
+_GIS Specialist_
 
 <br/>
 
@@ -161,7 +165,7 @@ _Software Engineer_
 
 [West Kensington Ministries](https://westkensingtonministry.com/)
 
-Cesar Andreu Iglesias Gardens
+[Cesar Andreu Iglesias Gardens](https://iglesiasgardens.com/)
 
 <br/>
 
@@ -196,6 +200,8 @@ Cesar Andreu Iglesias Gardens
 [KINBER](https://kinber.org/), Harrsiburg
 
 [Community Tech NY](http://communitytechny.org/), New York
+
+[NYC Mesh](https://www.nycmesh.net/), NYC
 
 [MetaMesh](https://www.metamesh.org/), Pittsburgh
 
