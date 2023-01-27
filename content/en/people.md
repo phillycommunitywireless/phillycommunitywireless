@@ -8,7 +8,7 @@ title: "People"
 {{< fa graduation-cap >}} = teacher \
 {{< fa vial >}} = researcher
 
-## Organizational leads
+## Administrative Team
 
 **Executive Director**  
 Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
