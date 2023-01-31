@@ -47,3 +47,7 @@ _Here are some of the skill areas we're currently looking for:_
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://forms.gle/4UT4s6rx1uzrQHi47). 
 
+## Event Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=83d2918eccfcf1f22435d1357cf1897e36872757260653ef64fc9b39e54e8354%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
