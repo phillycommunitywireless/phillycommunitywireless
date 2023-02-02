@@ -77,6 +77,7 @@ _Technologist and Software Engineer_
 
 Quinn Batten {{< fa cogs >}} \
 _Data Engineer_
+
 David L. Johnson {{< fa cogs >}} \
 _iNethi (Cape Town, South Africa)_
 
