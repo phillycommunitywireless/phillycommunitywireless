@@ -78,6 +78,9 @@ _Technologist and Software Engineer_
 Quinn Batten {{< fa cogs >}} \
 _Data Engineer_
 
+Dillon Bergin {{< fa cogs >}} \
+_Data Journalist_
+
 David L. Johnson {{< fa cogs >}} \
 _iNethi (Cape Town, South Africa)_
 
