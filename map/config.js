@@ -225,7 +225,7 @@ var config = {
                 bearing: -10.40
             },
             mapAnimation: 'easeTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -244,7 +244,7 @@ var config = {
                 bearing: -10.40
             },
             mapAnimation: 'easeTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -263,7 +263,7 @@ var config = {
                 bearing: 0.00
             },
             mapAnimation: 'easeTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
