@@ -54,6 +54,9 @@
                 href="https://phillycommunitywireless.org/people/"
                 />
   </url><url>
+    <loc>https://phillycommunitywireless.org/airmonitor/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://phillycommunitywireless.org/termsofservice/</loc>
     <priority>0</priority>
   </url><url>
