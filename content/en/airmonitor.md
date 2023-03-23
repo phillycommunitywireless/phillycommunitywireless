@@ -7,3 +7,4 @@ Philly Community Wireless is partnering with other organizations around the city
 Air quality measurements . . . 
 
 # Purple Air Monitors
+[Purple air monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods. 
