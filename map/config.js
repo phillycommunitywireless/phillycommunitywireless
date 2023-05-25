@@ -79,25 +79,6 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '4',
-            alignment: 'left',
-            hidden: false,
-            title: 'Free Wifi in Norris Square Park',
-            image: './images/park_sign.jpg',
-            description: 'After installing antennas on West Kensington Ministry and Norris Square Neighborhood Project properties, we are able to project free wifi into Norris Square Park.',
-            location: {
-              center: { lon: -75.13468, lat: 39.98269 },
-              zoom: 17.00,
-              pitch: 5.50,
-              bearing: 7.20
-            },
-            mapAnimation: 'easeTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: '5',
             alignment: 'right',
             hidden: false,
@@ -198,7 +179,7 @@ var config = {
             hidden: false,
             title: 'LOS',
             image: './images/los.png',
-            description: 'To address this, we can relay signal from a local residential hub, to another location using meshing. For example, we mounted an omnidirectional antenna on the top of a residential rowhouse, with the omni wired via ethernet directly to the Litebeam pionting at Gotham. Then from GALAEI, we pointed a directional antenna towards the omni, and ran a cable inside the building to provide the organization with wifi.',
+            description: 'We often relay signal from a local residential hub, to another location using wireless meshing. For example, we mounted an omnidirectional antenna on the top of a residential rowhouse, with the omni wired via ethernet directly to the Litebeam pionting at Gotham. Then from a neighboring community organization, GALAEI, we pointed a directional antenna towards the hub omni, and ran a cable inside the building to provide the organization with wifi.',
             location: {
                 center: { lon: -75.13441, lat: 39.98149 },
                 zoom: 15.01,
@@ -212,55 +193,17 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '11',
-            alignment: 'right',
-            hidden: false,
-            title: 'LOS',
-            image: './images/los.png',
-            description: 'Here you can see the omni in the front and GALAEI directional antenna in the back.',
-            location: {
-                center: { lon: -75.13441, lat: 39.98149 },
-                zoom: 15.01,
-                pitch: 60.00,
-                bearing: -10.40
-            },
-            mapAnimation: 'easeTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: '12',
             alignment: 'right',
             hidden: false,
             title: 'Installing Antennas on Rooftops',
             image: './images/rooftop.jpg',
-            description: 'We are currently looking for homeowners who would allow us to install an antenna to relay signal from Gotham Tower',
+            description: 'We are currently looking for homeowners who would allow us to install an antenna to relay signal from Gotham Tower. If you are interested in helping us grow the network, please reach out and we can work with you to figure out how we can grow a public wifi network in your neighborhood',
             location: {
                 center: { lon: -75.13385, lat: 39.98150 },
                 zoom: 15.01,
                 pitch: 60.00,
                 bearing: -10.40
-            },
-            mapAnimation: 'easeTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: '13',
-            alignment: 'left',
-            hidden: false,
-            title: 'The Digital Divide in North Philadelphia',
-            image: './images/divide_map.png',
-            description: 'Kensington and Fairhill are two of the neighborhoods in North Philadelphia in need of more affordable options for bridging the digital divide.',
-            location: {
-                center: { lon: -75.12988, lat: 39.99176 },
-                zoom: 12.49,
-                pitch: 15.50,
-                bearing: 0.00
             },
             mapAnimation: 'easeTo',
             rotateAnimation: false,
