@@ -54,6 +54,9 @@ At the moment, we are seeking technologists with experience in network engineeri
 We are looking for additional funding to purchase more hardware that will be donated to community members, including alternative technologies that could supplement our baseline service. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills. Please visit our [We Did It](https://phillycommunitywireless.wedid.it/) page to contribute! If you have any questions, don't hesitate to email us at phillycommunitywireless@gmail.com.
 
 ## In the News
+
+Kensington Voice, [Norris Square organization increases community access to free internet](https://kensingtonvoice.com/en/norris-square-organization-increases-community-access-to-free-internet/), 7/12/2023
+
 Technical.ly Philly, [Alex Wermer-Colan and PCW awarded Community Tech Leader of the Year 2022](https://technical.ly/startups/philly-2022-technically-awards-winners/), 12/14/2022
 
 Al Dia, [Bringing Digital Equity to North Philadelphia](https://aldianews.com/local/philadelphia/digital-equity-day), 5/13/2022
