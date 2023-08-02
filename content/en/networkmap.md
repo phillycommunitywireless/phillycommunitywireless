@@ -3,7 +3,12 @@ date: 2023-07-30
 title: "Network Map"
 ---
 
-## Map
+## 3D Map
+
+<iframe src="https://fmvaldezg.github.io/PCW_animatedlines" width="100%" height="400" />
+
+
+## Google MyMap
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1vEt8A7BlPLEYPIrPJsnegr2yxEr0pxo&ehbc=2E312F" width="640" height="480"></iframe>
 
