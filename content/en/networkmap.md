@@ -1,6 +1,6 @@
 ---
 date: 2023-07-30
-title: "Map"
+title: "Network Map"
 ---
 
 ## Map
