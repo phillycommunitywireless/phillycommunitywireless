@@ -21,20 +21,23 @@ languages:
         - name: About Us
           url: "/about"
           weight: "3"
+        - name: Map
+          url: "/map"
+          weight: "4"
         - name: People
           url: "/people"
-          weight: "4"
+          weight: "5"
         - name: Resources
           url: "/resources"
-          weight: "5"
+          weight: "6"
         - name: FAQ
           url: "/faq"
-          weight: "6"
+          weight: "7"
         - name: Docs
           url: https://docs.phillycommunitywireless.org/en/latest/
           params:
             external: true
-          weight: "10"
+          weight: "8"
       footer:
         - name: Code of Conduct
           url: "/code-of-conduct"
