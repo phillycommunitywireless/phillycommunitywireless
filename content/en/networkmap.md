@@ -5,8 +5,8 @@ title: "Network Map"
 
 ## 3D Map
 
-<iframe src="https://phillycommunitywireless.github.io/pcwnetworkmap/" width="100%" height="400" />
-
+<iframe src="https://phillycommunitywireless.github.io/pcwnetworkmap/" width="100%" height="400"/></iframe>
+  
 To view the map in fullscreen, visit this [webpage](https://phillycommunitywireless.github.io/pcwnetworkmap/). 
 
 ## Google MyMap
