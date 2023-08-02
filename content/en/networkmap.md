@@ -1,19 +1,19 @@
 ---
 date: 2023-07-30
-title: "Network Map"
+title: "Network Coverage Map"
 ---
 
-## 3D Map
+## 3D Map of Philly CommunityWireless Wifi Coverage
 
 <iframe src="https://phillycommunitywireless.github.io/pcwnetworkmap/" width="100%" height="400"/></iframe>
   
 To view the map in fullscreen, visit this [webpage](https://phillycommunitywireless.github.io/pcwnetworkmap/). 
 
-## Google MyMap
-
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1vEt8A7BlPLEYPIrPJsnegr2yxEr0pxo&ehbc=2E312F" width="640" height="480"></iframe>
+Any area covered by the heatmap should have PCW signal available for a free wifi connection. Please keep in mind that the heatmap is not accurate at the street-level, and if you cannot access the wifi network in any given space in the city, you may need to walk around a street corner. Try to find the closest access point visible to ensure a good connection.
 
 ## Network Updates
+
+PCW is regularly installing additional rooftop hubs in North Philadelphia. Below you can see tracking information for some of our big installs in various stages of planning and implementation
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Park 
 
