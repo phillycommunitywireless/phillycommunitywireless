@@ -22,7 +22,7 @@ languages:
           url: "/about"
           weight: "3"
         - name: Map
-          url: "/map"
+          url: "/networkmap"
           weight: "4"
         - name: People
           url: "/people"
