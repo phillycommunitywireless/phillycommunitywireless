@@ -25,7 +25,7 @@ segments:
   # Norris Square project
   - template: call-to-action-image
     heading: Norris Square Network
-    text: We are building a community wireless network in the area around [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122 or 19133 zipcodes, you can get connected and host an antenna to connect your neighbors.
+    text: We are building a community wireless network in [<i class="fa fa-map-marker"></i> North Philadelphia](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122, 19133, and other nearby zipcodes, reach out to get connected!
     link:
       text: Get Connected
       href: getconnected/
@@ -90,5 +90,3 @@ We are a volunteer-led coalition of technologists and organizers working to buil
 We are currently in the process of hiring a Technician. Please check out our [Technician job posting](./technicianjob) for more information.
 
 Questions? Check out our [FAQ](./faq).
-
-
