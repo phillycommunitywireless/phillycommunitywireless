@@ -24,8 +24,8 @@ segments:
 
   # Norris Square project
   - template: call-to-action-image
-    heading: Norris Square Network
-    text: We are building a community wireless network in [<i class="fa fa-map-marker"></i> North Philadelphia](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122, 19133, and other nearby zipcodes, reach out to get connected!
+    heading: North Philadelphia Network
+    text: We are building a community wireless network in North Philadelphia, with a focus on the areas north of [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122, 19133, and other nearby zipcodes, reach out to get connected!
     link:
       text: Get Connected
       href: getconnected/
@@ -40,7 +40,7 @@ segments:
     title: Philly Community Wireless promo video produced by the Big Picture Alliance.
     text: Learn more about the project
 
-  # Volunteer CtA
+  # Volunteer CTA
   - template: call-to-action
     heading: Join our volunteer team
     text: Volunteers can handle anything from antenna installations to network management, software development, community outreach, and much more.
