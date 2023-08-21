@@ -33,16 +33,19 @@ Our ideal candidate not only enjoys teaching someone how to use something new, b
 * Must respond well to receiving and giving instruction and feedback.
 * Ability to work as a part of a team as well as independently and proactively. Must complete tasks with diligence, and be willing to ask questions.
 * Must be able to lift up to 40 lbs regularly, respond quickly to avoid or mitigate potentially dangerous situations, move safely over uneven terrain, safely climb ladders while carrying up to 40 lbs, and work in inclement weather. Must be able to bend, squat, or stand for prolonged periods of time.
-* Must have a valid drivers license.
 * Familiarity with basic hardware tools and comfort using them is a must.
 * Familiarity with basic computer skills is a must
+  Must have a valid drivers license.
 * Above all, must be able to make sound decisions about safety. Must be able to adhere to OSHA safety guidelines and wear personal protective gear correctly.
+
+## Preferred Experience
 * Spanish-language skills are a plus.
 * Experience with networking hardware like routers, cabling, antennas is a plus. Experience with using the command line is a plus
 * Experience in community organizing or development is a plus.
 
 ## Hours and Compensation
-**Salary**: $24/hr, working 40 hours per week.
+**Salary**: $24/hr, working 40 hours per week.  
+
 **Benefits**: 
 * Employer covered medical and dental
 * Paid Time Off (10 days)
