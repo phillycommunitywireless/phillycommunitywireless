@@ -39,12 +39,13 @@ Our ideal candidate not only enjoys teaching someone how to use something new, b
 * Above all, must be able to make sound decisions about safety. Must be able to adhere to OSHA safety guidelines and wear personal protective gear correctly.
 
 ## Preferred Experience
-* Spanish-language skills are a plus.
-* Experience with networking hardware like routers, cabling, antennas is a plus. Experience with using the command line is a plus
-* Experience in community organizing or development is a plus.
+* Spanish-language skills
+* Experience with networking hardware like routers, cabling, antennas
+* Experience with using the command line
+* Experience in community organizing or development
 
 ## Hours and Compensation
-**Salary**: $24/hr, working 40 hours per week.  
+**Salary**: $24/hr, working 40 hours per week  
 
 **Benefits**: 
 * Employer covered medical and dental
