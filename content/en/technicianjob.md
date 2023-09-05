@@ -63,4 +63,4 @@ Our ideal candidate not only enjoys teaching someone how to use something new, b
 * Use the subject line: PCW Lead Technician.
 * In a cover letter, briefly tell us about what excites you about this role, your relevant experience, your availability to start, and how best to contact you.
 * Include a resume, cover letter and two references.
-* Applications are due by September 22nd, 2023
+* Applications are due by October 1st, 2023
