@@ -60,9 +60,6 @@
     <loc>https://phillycommunitywireless.org/airmonitor/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://phillycommunitywireless.org/technicianjob/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://phillycommunitywireless.org/termsofservice/</loc>
     <priority>0</priority>
   </url><url>
@@ -101,6 +98,8 @@
                 hreflang="en"
                 href="https://phillycommunitywireless.org/code-of-conduct/"
                 />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/technicianjob/</loc>
   </url><url>
     <loc>https://phillycommunitywireless.org/privacy/</loc>
     <xhtml:link
