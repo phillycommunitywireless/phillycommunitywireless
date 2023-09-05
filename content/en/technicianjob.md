@@ -3,12 +3,10 @@ date: 2023-09-5
 title: "PCW Technician"
 ---
 
-# PCW Job Posting
-
-# Technician
+# Philly Community Wireless Job Posting
 
 ## Who we are:
-We are a volunteer-led coalition of technologists and organizers working to build community controlled wireless internet networks in Philadelphia. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We believe that internet access is a human right. We work to build out the physical infrastructure along with community engagement with the network. Our goal is to make a robust wifi network managed by the people that use it.
+Philly Community Wireless is a volunteer-led coalition of technologists and organizers working to build community controlled wireless internet networks in Philadelphia. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We believe that internet access is a human right. We work to build out the physical infrastructure along with community engagement with the network. Our goal is to make a robust wifi network managed by the people that use it.
 
 ## Who we’re looking for:
 As a part of the Philly Community Wireless team, you’ll be the Technician. You will be part of our team that designs, organizes and carries out internet installations, network maintenance, as well as community training and engagement across our network in Northern Philadelphia. A key element of this work will involve preparing the gear, configuring devices, assessing and visiting install locations, installing equipment, and guiding volunteers through installations at community members’ homes. 
