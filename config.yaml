@@ -55,16 +55,17 @@ languages:
           url: "/volunteer"
           weight: "2"
         - name: Navegacion
-          url: "/networkmap
+          url: "/networkmap"
+          weight: "3"
         - name: Acerca
           url: "/about"
-          weight: "3"
+          weight: "4"
         - name: Equipo
           url: "/people"
-          weight: "4"
+          weight: "5"
         - name: FAQ
           url: "/faq"
-          weight: "5"
+          weight: "6"
         - name: Docs
           url: https://docs.phillycommunitywireless.org/es/latest/
           params:
