@@ -12,36 +12,36 @@ languages:
     contentDir: content/en
     menu:
       main:
-        - name: Get Connected
+        - name: Connect
           url: "/getconnected"
           weight: "1"
         - name: Volunteer
           url: "/volunteer"
           weight: "2"
-        - name: About Us
-          url: "/about"
-          weight: "3"
         - name: Map
           url: "/networkmap"
+          weight: "3"
+        - name: About
+          url: "/about"
           weight: "4"
         - name: People
           url: "/people"
           weight: "5"
-        - name: Resources
-          url: "/resources"
-          weight: "6"
         - name: FAQ
           url: "/faq"
-          weight: "7"
+          weight: "6"
         - name: Docs
           url: https://docs.phillycommunitywireless.org/en/latest/
           params:
             external: true
-          weight: "8"
+          weight: "7"
       footer:
         - name: Code of Conduct
           url: "/code-of-conduct"
           weight: "1"
+        - name: Terms of Service
+          url: "/termsofservice"
+          weight: "2"
     weight: "1"
   es:
     languageName: Español
@@ -54,6 +54,8 @@ languages:
         - name: Voluntario
           url: "/volunteer"
           weight: "2"
+        - name: Navegacion
+          url: "/networkmap
         - name: Acerca
           url: "/about"
           weight: "3"
