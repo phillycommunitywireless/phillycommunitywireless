@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Air Monitoring</title>
+      <link>https://phillycommunitywireless.org/airmonitor/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/airmonitor/</guid>
+      <description>Act on Air: The Philly Air Monitor Project Philly Community Wireless is partnering with other organizations around the city, including the Clean Air Council and Temple University&amp;rsquo;s Geography and Urban Studies Program, to deploy Purple Air Monitors on our network.
+Measuring Air Quality Purple Air monitors allow residents to asses:
+If their air quality is good in their area How it compares to other parts of the city. Purple Air Monitors Purple air monitors enable communities to engage in citizen science around pollution in their neighborhoods.</description>
+    </item>
+    
+    <item>
       <title>Network Coverage Map</title>
       <link>https://phillycommunitywireless.org/networkmap/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
@@ -63,17 +74,6 @@ Heather Lewis-Weber Sr. Coordinator of Community Engagement, Temple University, 
 Kate Goodman Community Initiatives Specialist, Free Library of Philadelphia
 Board of Directors Will Dean Research and Data Services Librarian, Temple University Libraries
 Allan Gomez Project Manager, Philly Community Wireless</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://phillycommunitywireless.org/airmonitor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/airmonitor/</guid>
-      <description>Act on Air: The Philly Air Monitor Project Philly Community Wireless is partnering with other organizations around the city, including the Clean Air Council and Temple University&amp;rsquo;s Geography and Urban Studies Program, to deploy Purple Air Monitors on our network.
-Measuring Air Quality Air quality measurements . . .
-Purple Air Monitors Purple air monitors enable communities to engage in citizen science around pollution in their neighborhoods.</description>
     </item>
     
     <item>
