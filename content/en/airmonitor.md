@@ -16,3 +16,7 @@ Purple Air monitors allow residents to asses:
 
 # Purple Air Monitors
 [Purple air monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods. 
+
+# Plans
+
+Philly Community Wireless is installing Purple Air monitors on our network in North Philly.
