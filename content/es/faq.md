@@ -2,8 +2,8 @@
 date: 2021-09-30
 title: FAQ
 toc: true
-
 ---
+
 ## ¿Qué es Philly Community Wireless?
 
 Philly Community Wireless es un proyecto para desarrollar redes de malla de propiedad comunitaria en North Philly. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros de escuelas públicas y personal del Ayuntamiento de Filadelfia. Durante una época de distanciamiento social y enseñanza en línea, aproximadamente la mitad de los estudiantes de las escuelas públicas de la ciudad carecen de conexión wifi en casa. En ciertos vecindarios, aún más residentes carecen de conexión a Internet. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla operadas y propiedad de la comunidad.
