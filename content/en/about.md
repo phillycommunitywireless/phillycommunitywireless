@@ -1,5 +1,5 @@
 ---
-date: 2021-09-30
+date: 2023-10-18
 title: "About"
 ---
 
@@ -54,6 +54,8 @@ At the moment, we are seeking technologists with experience in network engineeri
 We are looking for additional funding to purchase more hardware that will be donated to community members, including alternative technologies that could supplement our baseline service. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills. Please visit our [We Did It](https://phillycommunitywireless.wedid.it/) page to contribute! If you have any questions, don't hesitate to email us at phillycommunitywireless@gmail.com.
 
 ## In the News
+
+CNET, [Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time](https://www.cnet.com/home/internet/features/alternative-broadband-networks-affordable-internet-for-the-people-one-rooftop-at-a-time/), 10/1/2023
 
 Kensington Voice, [Norris Square organization increases community access to free internet](https://kensingtonvoice.com/en/norris-square-organization-increases-community-access-to-free-internet/), 7/12/2023
 
