@@ -7,6 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>People</title>
+      <link>https://phillycommunitywireless.org/people/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/people/</guid>
+      <description>= organizer = technologist = teacher = researcher
+Administrative Team Executive Director
+Alex Wermer-Colan Academic Director, Temple University, Scholars Studio
+Systems Administrator
+Allan Gomez Community Engagement Liaison
+Chris Mehretab Community Outreach Coordinators
+Heather Lewis-Weber Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts
+Kate Goodman Community Initiatives Specialist, Free Library of Philadelphia
+Board of Directors Will Dean Research and Data Services Librarian, Temple University Libraries
+Allan Gomez Project Manager, Philly Community Wireless</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://phillycommunitywireless.org/about/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
@@ -56,24 +74,6 @@ Any area covered by the heatmap should have PCW signal available for a free wifi
       <guid>https://phillycommunitywireless.org/getconnected/</guid>
       <description>Sign Up! If you live in the Norris Square Park neighborhood of North Philadelphia and want to get connected to free wireless internet, or host an antenna to connect your neighbors, please fill out our Sign Up Form!
 The Installation Process Philly Community Wireless works with PhillyWisper, a local wireless internet service provider, to install rooftop antennas that we use to provide a free wifi network to the neighborhood residents and public spaces.</description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>https://phillycommunitywireless.org/people/</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/people/</guid>
-      <description>= organizer = technologist = teacher = researcher
-Administrative Team Executive Director
-Alex Wermer-Colan Academic Director, Temple University, Scholars Studio
-Systems Administrator
-Allan Gomez Community Engagement Liaison
-Chris Mehretab Community Outreach Coordinators
-Heather Lewis-Weber Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts
-Kate Goodman Community Initiatives Specialist, Free Library of Philadelphia
-Board of Directors Will Dean Research and Data Services Librarian, Temple University Libraries
-Allan Gomez Project Manager, Philly Community Wireless</description>
     </item>
     
     <item>
