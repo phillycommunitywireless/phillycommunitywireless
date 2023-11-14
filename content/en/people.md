@@ -14,7 +14,7 @@ title: "People"
 Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
 _Academic Director, Temple University, Scholars Studio_
 
-**Project Manager**   
+**Systems Administrator**   
 Allan Gomez {{< fa cogs >}}
 
 **Community Engagement Liaison**  
