@@ -35,7 +35,7 @@ Will Dean {{< fa cogs >}} \
 _Research and Data Services Librarian, Temple University Libraries_
 
 Allan Gomez {{< fa cogs >}}
-_Project Manager, Philly Community Wireless_
+_Systems Administrator, Philly Community Wireless_
 
 Jonathan Latko {{< fa cogs >}} \
 _Computer Recycling Center, Temple University_
