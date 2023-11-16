@@ -9,7 +9,7 @@ title: "Network Coverage Map"
   
 To view the map in fullscreen, visit this [webpage](https://phillycommunitywireless.github.io/pcwnetworkmap/). 
 
-Any area covered by the heatmap should have PCW signal available for a free wifi connection. 
+This map focuses on showing the overall network architecture. Points on the map represent outdoor wifi access points primarily. Any area covered by the heatmap should have PCW signal available for a free wifi connection. 
 
 Please keep in mind that the heatmap is not accurate at the street-level, and if you cannot access the wifi network in any given space in the city, you may need to walk around a street corner. Try to find the closest access point visible to ensure a good connection.
 
