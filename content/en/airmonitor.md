@@ -20,3 +20,5 @@ Purple Air monitors allow residents to asses:
 # Plans
 
 Philly Community Wireless is installing Purple Air monitors on our network in North Philly.
+
+PCW bought 10 air monitors and will be installing them at the Libraries and garden spaces where we've installed wifi.
