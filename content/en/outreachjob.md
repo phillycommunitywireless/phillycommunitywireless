@@ -50,12 +50,11 @@ Our ideal candidate will be bilingual, have a strong commitment to meeting peopl
 - Experience in community organizing or development is a plus.
 
 **Hours and Compensation**
-*Salary*: $24/hr, working 30 hours per week.
-*Benefits*:
-*Employer covered medical and dental*
-Paid Time Off (10 days)
-Sick time (40 hours)
-*Federally recognized holidays plus one Float Holiday (12 total)*
+*Salary*: $24/hr, working 30 hours per week.  
+*Benefits*: Employer covered medical and dental  
+Paid Time Off (10 days)  
+Sick time (40 hours)  
+Federally recognized holidays plus one Float Holiday (12 total)  
 
 Note this is for a full-time position, benefits are subject to change if not full-time.
 
@@ -64,11 +63,11 @@ Our work week is generally M-F 9:30am-5:30pm, but also weekend depending on sche
 *Location*: Primarily on-site, sometimes remote. Office space available at our headquarters in Norris Square Park, North Philadelphia.
 
 **To Apply**
-Send an email to info@phillycommunitywireless.org
-Use the subject line: PCW Outreach Coordinator.
-In a cover letter, briefly tell us about what excites you about this role, your relevant experience, your availability to start, and how best to contact you.
-Include a resume, cover letter and two references.
-Applications are due by **December 31st, 2023**
+Send an email to info@phillycommunitywireless.org  
+Use the subject line: PCW Outreach Coordinator.  
+In a cover letter, briefly tell us about what excites you about this role, your relevant experience, your availability to start, and how best to contact you.  
+Include a resume, cover letter and two references.  
+Applications are due by **December 31st, 2023**  
 
 Black, Indigenous, and other people of color, immigrants, women and femmes, LGBTQI+ individuals, people with disabilities, neurodiverse people, and formerly convicted, incarcerated, or systems-impacted people are highly encouraged to apply.
 
