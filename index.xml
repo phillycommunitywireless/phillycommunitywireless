@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>PCW Outreach Coordinator</title>
+      <link>https://phillycommunitywireless.org/outreachjob/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/outreachjob/</guid>
+      <description>Philly Community Wireless Job Posting Who we are: Philly Community Wireless is a volunteer-led coalition of technologists and organizers working to build community controlled wireless internet networks in Philadelphia. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We believe that internet access is a human right. We work to build out the physical infrastructure along with community engagement with the network. Our goal is to make a robust wifi network managed by the people that use it.</description>
+    </item>
+    
+    <item>
       <title>People</title>
       <link>https://phillycommunitywireless.org/people/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
@@ -94,15 +103,6 @@ Terms of Service The Philly Community Wireless Project, a fiscally sponsored pro
       
       <guid>https://phillycommunitywireless.org/code-of-conduct/</guid>
       <description>Values of Participation This is a safe space. We encourage discussion of sensitive and difficult topics so that we can support each other and problem solve together. At the same time, we strive to uphold spaces where people with a plurality of voices and experiences can participate in full. Due to the sensitive or private nature of some elements of the project, please be cognizant to avoid sharing identifying information, and remember that anything you do share is seen by other people.</description>
-    </item>
-    
-    <item>
-      <title>PCW Technician</title>
-      <link>https://phillycommunitywireless.org/technicianjob/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/technicianjob/</guid>
-      <description>Philly Community Wireless Job Posting Who we are: Philly Community Wireless is a volunteer-led coalition of technologists and organizers working to build community controlled wireless internet networks in Philadelphia. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We believe that internet access is a human right. We work to build out the physical infrastructure along with community engagement with the network. Our goal is to make a robust wifi network managed by the people that use it.</description>
     </item>
     
     <item>
