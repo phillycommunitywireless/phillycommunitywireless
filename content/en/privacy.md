@@ -17,7 +17,7 @@ share and protect your personal information, as well as how you can
 manage the personal information we collect. This Privacy Notice applies
 to your interactions with us, including attending our events or
 participating in our programs, or your use of our website
-([www.phillycommunitywireless.com](http://www.phillycommunitywireless.com)),
+([www.phillycommunitywireless.org](http://www.phillycommunitywireless.org)),
 or using our wireless internet network (collectively, our
 "**Services**).
 
