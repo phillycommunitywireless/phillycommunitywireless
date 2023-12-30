@@ -12,7 +12,6 @@ title: "People"
 
 **Executive Director**  
 Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
-_Academic Director, Temple University, Scholars Studio_
 
 **Systems Administrator**   
 Allan Gomez {{< fa cogs >}}
@@ -144,6 +143,7 @@ Felipe Valdez {{< fa cogs >}} \
 _GIS Specialist_
 
 David Berman {{< fa cogs >}} \
+_Postdoctoral Fellow_
 
 Jen Meagher {{< fa cogs >}} \
 _Product Manager_
