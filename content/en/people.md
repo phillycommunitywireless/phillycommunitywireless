@@ -17,15 +17,14 @@ _Academic Director, Temple University, Scholars Studio_
 **Systems Administrator**   
 Allan Gomez {{< fa cogs >}}
 
+**Technician**   
+Mir Detre {{< fa cogs >}}
+
 **Community Engagement Liaison**  
 Chris Mehretab {{< fa hands-helping >}}
 
-**Community Outreach Coordinators**  
-Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
-_Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts_
-
-Kate Goodman {{< fa hands-helping >}} \
-_Community Initiatives Specialist, Free Library of Philadelphia_
+**Install Lead**   
+Dylan Huthcinson {{< fa cogs >}}
 
 <br>
 
@@ -68,10 +67,6 @@ Grant Wythoff {{< fa vial >}} \
 _Digital Humanities Strategist, Center for Digital Humanities at Princeton University_
 
 ## Technical Advisory Board
-
-Adam Bouhmad {{< fa cogs >}} \
-_Project WAVES (Baltimore)_
-
 Addie Barron {{< fa cogs >}} \
 _Technologist and Software Engineer_
 
@@ -80,6 +75,16 @@ _Data Engineer_
 
 Dillon Bergin {{< fa cogs >}} \
 _Data Journalist_
+
+Dylan Hutchinson {{< fa cogs >}} \
+_IT Engineer_
+
+John Center {{< fa cogs >}} \
+_Retired Networking Engineer_
+
+## Additional Partners
+Adam Bouhmad {{< fa cogs >}} \
+_Project WAVES (Baltimore)_
 
 David L. Johnson {{< fa cogs >}} \
 _iNethi (Cape Town, South Africa)_
@@ -93,8 +98,8 @@ _Digital Harbor Foundation (Baltimore)_
 Raul Enriquez {{< fa cogs >}} \
 _Community Tech NY (New York)_
 
-Dylan Hutchinson {{< fa cogs >}} \
-_IT Engineer_
+Kate Goodman {{< fa hands-helping >}} \
+_Community Initiatives Specialist, Free Library of Philadelphia_
 
 Colby Hollabaugh {{< fa cogs >}} \
 _Meta Mesh (Pittsburgh)_
@@ -114,8 +119,6 @@ _Director, Member Services and NYC Dark Fiber Program at NYSERNet_
 Houman Saberi {{< fa cogs >}} \
 _Community Tech NY (New York)_
 
-<br/>
-
 ## Graphic Design
 
 Katie Garth
@@ -124,11 +127,10 @@ Katie Garth
 
 Eli Laban, *Big Picture Alliance*
 
-## Current Interns
+## Former Interns
+Isaiah Weakes, Carnegie Mellon University, 2023
 
 Megha Govindu, Unviersity of Pennsylvania, 2023
-
-## Former Interns
 
 Tejas Gupta, Princeton University, 2020
 
