@@ -218,10 +218,13 @@ _GIS Specialist_
 [Movement Alliance Project](https://movementalliance.org/about/)
 
 ## Funders
+[Better Bike Share Partnership Mini Grant](https://betterbikeshare.org/grant/better-bike-share-mini-grants/), Philadelphia City Fund
 
-[Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/), The Mayor's Fund for Philadelphia
+(Community Challenge Grant](https://www.aarp.org/livable-communities/community-challenge/), AARP (American Association of Retired Persons)
 
 Digital Equity Grant of the [Independent Public Media Foundation](https://independencemedia.org/2021-community-voices-and-digital-equity-grants/)
+
+[Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/), The Mayor's Fund for Philadelphia
 
 Rapid Response Magic Project of the [Princeton Humanities Council](https://humanities.princeton.edu/)
 
