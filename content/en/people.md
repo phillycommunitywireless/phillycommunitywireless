@@ -33,9 +33,6 @@ Dylan Huthcinson {{< fa cogs >}}
 Will Dean {{< fa cogs >}} \
 _Research and Data Services Librarian, Temple University Libraries_
 
-Allan Gomez {{< fa cogs >}}
-_Systems Administrator, Philly Community Wireless_
-
 Jonathan Latko {{< fa cogs >}} \
 _Computer Recycling Center, Temple University_
 
@@ -59,9 +56,6 @@ _Senior Policy Organizer, Movement Alliance Project_
 
 Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
 _Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts_
-
-Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
-_Digital Scholarship Coordinator, Temple University, Scholars Studio_
 
 Grant Wythoff {{< fa vial >}} \
 _Digital Humanities Strategist, Center for Digital Humanities at Princeton University_
@@ -143,15 +137,19 @@ Sarah Fingerhood, University of Pennsylvania, 2021
 Anika Prakash, University of Pennsylvania, 2021
 
 ## Additional Volunteers
+Leanne Przybowski {{< fa cogs >}} \
+_Community Engagement Coordination_
+
+Felipe Valdez {{< fa cogs >}} \
+_GIS Specialist_
+
+David Berman {{< fa cogs >}} \
 
 Jen Meagher {{< fa cogs >}} \
 _Product Manager_
 
 Tim Traversy {{< fa cogs >}} \
 _Software Engineer_
-
-Felipe Valdez {{< fa cogs >}} \
-_GIS Specialist_
 
 <br/>
 
