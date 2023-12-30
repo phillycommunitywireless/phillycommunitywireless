@@ -21,6 +21,10 @@ To see a guided tour of our network, see the [scrollytelling map](https://philly
 
 PCW is regularly installing additional rooftop hubs in North Philadelphia. Below you can see tracking information for some of our installations at community organizations and spaces. This list is in order of install with most recent at the top.
 
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">installed</span> HACE
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">installed</span> Taller Puertoriqueno
+
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Kensington Corridor Trust Gardens
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Prevention Point
@@ -48,8 +52,6 @@ PCW is regularly installing additional rooftop hubs in North Philadelphia. Below
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Neighborhood Project
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> West Kensington Ministries
-
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">planning install</span> HACE
 
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">planning install</span> Open Kitchen Sculpture Garden
 
