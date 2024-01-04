@@ -10,9 +10,9 @@ title: Resources
 *******
 Below are some more materials and resources to help you find digital resources for wifi access, computer use, and more. Check them out!
 
-##  Free Desktop Computers and Digital Literacy Training
+## Free Desktop Computers and Digital Literacy Training
 **Organization**: Digital Equity Center at Temple University  
-**Location**: [1918 N 11th St, Philadelphia PA 19122](https://www.google.com/maps/@39.9812229,-75.151879,3a,75y,122.25h,90t/data=!3m7!1e1!3m5!1sde535JmRmXbWATVu4Ykc-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dde535JmRmXbWATVu4Ykc-A%26cb_client%3Dsearch.revgeo_and_fetch.gps%26w%3D96%26h%3D64%26yaw%3D122.2526%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)  
+**Location**: 1918 N 11th St, Philadelphia PA 19122 
 **Description**: Non-profit and community requests for refurbished and new computer equipment. Residents of Philadelphia are eligible.  
 **Register**: Sign up for PCW wifi or email us directly for more information.  
 
