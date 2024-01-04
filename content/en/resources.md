@@ -38,11 +38,12 @@ Below are some more materials and resources to help you find digital resources f
 ## Digital Literacy Training - Generations on Line:    
 **Location**: Generations on Line website  
 **Description**: Generations on Line can guide someone who has never touched a computer learn to use the Internet, email, texting, photos, apps, videochats, and all the basic tools, including voice recognition, to participate in the cyber world of endless possibilities.   
-**Register**: [https://www.generationsonline.org/apps/welcome.html]("https://www.generationsonline.org/apps/welcome.html")    
+**Register**: [Registration Page](https://www.generationsonline.org/apps/welcome.html)    
+
 ## Norris Square Community Alliance Computer Classes
 **Description**: Basic use of computer, laptop, tablet, or smart phone. Create, access, and manage an email account. Gain access to online governmental resources or access online utility bills. Gain access to web conference meetings using Zoom, Microsoft Teams, and Google Hangouts.   
 **Contact**: jhiraldo@nscaphila.org  
-**Register**: https://www.nscaphila.org/computerclassesenrollment/  
+**Register**: [NSCA Computer Class Enrollment](https://www.nscaphila.org/computerclassesenrollment/) 
 
 ## Free Library of Philadelphia  
 **Description**: Get a Library Card with the Free Library of Philadelphia. You can get digital access to language classes and other streaming education, e-books and e-magazines, send materials to pick-up at your local library branch, and more.  
