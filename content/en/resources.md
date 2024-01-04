@@ -1,7 +1,13 @@
-+++
-title = "Resources"
+---
+layout: single
+title: Resources
+---
 
-+++
+**Effective Date**: March 1, 2021
+
+**Last Updated**: January 4, 2024
+
+*******
 Below are some more materials and resources to help you find digital resources for wifi access, computer use, and more. Check them out!
 
 ##  Free Desktop Computers and Digital Literacy Training
