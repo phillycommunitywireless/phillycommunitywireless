@@ -12,6 +12,7 @@ title: "People"
 
 **Executive Director**  
 Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}}
+![Headshot]("/images/Alex Wermer-ColanBW.jpg")
 
 **Systems Administrator**   
 Allan Gomez {{< fa cogs >}}
