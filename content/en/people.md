@@ -11,9 +11,9 @@ title: "People"
 ## Administrative Team
 
 **Executive Director**  
-Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}}
+[Alex Wermer-Colan](./alexwc.md) {{< fa cogs >}}{{< fa vial >}}
 
-![Headshot]("/images/AWCBW.jpg")
+![Headshot](/images/AWCBW.jpg)
 
 **Systems Administrator**   
 Allan Gomez {{< fa cogs >}}
