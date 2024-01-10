@@ -136,7 +136,7 @@ Sarah Fingerhood, University of Pennsylvania, 2021
 Anika Prakash, University of Pennsylvania, 2021
 
 ## Additional Volunteers
-Leanne Przybowski {{< fa cogs >}} \
+Leanne Przybylowski {{< fa cogs >}} \
 _Community Engagement Coordination_
 
 Felipe Valdez {{< fa cogs >}} \
