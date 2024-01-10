@@ -12,7 +12,8 @@ title: "People"
 
 **Executive Director**  
 Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}}
-![Headshot]("/images/Alex Wermer-ColanBW.jpg")
+
+![Headshot]("/images/AWCBW.jpg")
 
 **Systems Administrator**   
 Allan Gomez {{< fa cogs >}}
