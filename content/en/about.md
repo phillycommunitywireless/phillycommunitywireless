@@ -3,7 +3,7 @@ date: 2023-10-18
 title: "About"
 ---
 
-Our team includes volunteers and staff from a wide array of local and national organizations. For more information, [visit our people page](/people).
+Our team includes six staff and over 50 volunteers from a wide array of local and national organizations. For more information, [visit our people page](/people).
 
 The Big Picture Alliance recently completed a documentary film about the early stages of the PCW project. Check it out on [YouTube](https://www.youtube.com/watch?v=FcReKkPl-6M)
 
