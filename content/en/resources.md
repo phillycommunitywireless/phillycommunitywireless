@@ -43,7 +43,7 @@ Below are some more materials and resources to help you find digital resources f
 **Contact**: Call Katie Burke at 215-222-6400.
 
 ## Free Library of Philadelphia  
-**Description**: Get a Library Card with the Free Library of Philadelphia. You can get access to language and education classes, books and magazines (phyiscal or online), use the Internet within any Free Library around the city, and much more.  
+**Description**: Get a Library Card with the Free Library of Philadelphia. You can get access to language and education classes, books and magazines (physical or online), use the Internet within any Free Library around the city, and much more.  
 **Register for a Library Card**: [Register here](http://www.freelibrary.org/MyResearch/register).  
 **Upcoming Computer Classes**: [See schedule here](https://libwww.freelibrary.org/calendar/?type=computer-classes).  
 
