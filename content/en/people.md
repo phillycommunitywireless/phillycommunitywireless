@@ -1,5 +1,5 @@
 ---
-date: 2023-11-14
+date: 2024-01-01
 title: "People"
 ---
 
@@ -11,7 +11,7 @@ title: "People"
 ## Administrative Team
 
 **Executive Director**  
-Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}} \
+Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}}
 
 **Systems Administrator**   
 Allan Gomez {{< fa cogs >}}
@@ -22,8 +22,8 @@ Mir Detre {{< fa cogs >}}
 **Community Engagement Liaison**  
 Chris Mehretab {{< fa hands-helping >}}
 
-**Install Lead**   
-Dylan Huthcinson {{< fa cogs >}}
+**Install Lead**     
+Dylan Hutchinson {{< fa cogs >}}
 
 <br>
 
