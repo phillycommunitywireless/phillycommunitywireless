@@ -35,15 +35,15 @@ Below are some more materials and resources to help you find digital resources f
 ## Tech Tutoring: Digital Navigators (English and Spanish)  
 **Location**: Online/Over the phone  
 **Description**: Designed to assist the local community members in Philadelphia, with information on Internet access and basic technical support issues. Digital Navigators can also help you enroll for discounted internet when available.  
-**Register**: For contact information about the Digital Navigator program's at Drexel's Excite Center, Beyond Literacy, and SEAMAAC, see the [city's website](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). Alternatively, call 211 to get connected with a Digital Navigator.  
+**Contact**: For contact information about the Digital Navigator program's at Drexel's Excite Center, Beyond Literacy, and SEAMAAC, see the [city's website](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). Alternatively, call 211 to get connected with a Digital Navigator.  
   
 ## Digital Literacy Training - Generations on Line:     
-**Description**: Generations on Line guides individuals or organizations via training tools and tutorials in teaching Senior citizens how to use the Internet, email, texting, photos, apps, videochats, and all the basic tools, including voice recognition, to participate in the cyber world of endless possibilities.
-**Learn more**: See more information Generations on Line [here](https://www.generationsonline.com/).  
+**Description**: Generations on Line guides individuals or organizations via training tools and tutorials in teaching Senior citizens how to use the Internet, email, texting, photos, apps, videochats, and all the basic tools, including voice recognition, to participate in the cyber world of endless possibilities.  
+**Learn more**: See more information about Generations on Line [here](https://www.generationsonline.com/).  
 **Contact**: Call Katie Burke at 215-222-6400.
 
 ## Free Library of Philadelphia  
-**Description**: Get a Library Card with the Free Library of Philadelphia. You can get access to language and education classes, books and magazines (phyiscal or online), access the Internet within any Free Library around the city, and much more.
+**Description**: Get a Library Card with the Free Library of Philadelphia. You can get access to language and education classes, books and magazines (phyiscal or online), use the Internet within any Free Library around the city, and much more.  
 **Register for a Library Card**: [Register here](http://www.freelibrary.org/MyResearch/register).  
 **Upcoming Computer Classes**: [See schedule here](https://libwww.freelibrary.org/calendar/?type=computer-classes).  
 
