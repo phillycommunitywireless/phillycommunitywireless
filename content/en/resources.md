@@ -10,10 +10,10 @@ title: Resources
 *******
 Below are some more materials and resources to help you find digital resources for wifi access, computer use, and more. Check them out!
 
-## Free Desktop Computers and Digital Literacy Training
-**Organization**: Digital Equity Center at Temple University  
-**Description**: Non-profit and community requests for refurbished and new computer equipment. Residents of Philadelphia are eligible. **Location**: 1918 N 11th St, Philadelphia PA 19122.  
-**Register**: Sign up for [PCW wifi](https://phillycommunitywireless.org/getconnected/) or email us directly at info@phillycommunitywireless.org for more information.  
+## Digital Literacy Training and Technical Support - Digital Equity Center at Temple University
+**Description**: Provides an on-site open computer lab, digital literacy training, affordable internet options, home computer solutions, and technical support via their hotline.  
+**Location**: 1918 N 11th St, Philadelphia PA 19122.  
+**Contact and Tech Support Hotline**: Call 215-204-7445 or email techforphilly@temple.edu. 
 
 ## PCs for People
 **Description**: Provides refurbished computers to eligible customers for affordable prices, starting at $0-29. To place an order, you will need photo identification and documentation of current enrollment in an income-based government assistance program OR documentation of current household income (under 200% of the federal poverty line or under 60% of the area median income).  
