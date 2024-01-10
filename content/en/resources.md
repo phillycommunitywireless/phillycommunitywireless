@@ -5,47 +5,48 @@ title: Resources
 
 **Effective Date**: March 1, 2021
 
-**Last Updated**: January 4, 2024
+**Last Updated**: January 6, 2024
 
 *******
 Below are some more materials and resources to help you find digital resources for wifi access, computer use, and more. Check them out!
 
 ## Free Desktop Computers and Digital Literacy Training
 **Organization**: Digital Equity Center at Temple University  
-**Location**: 1918 N 11th St, Philadelphia PA 19122 
-**Description**: Non-profit and community requests for refurbished and new computer equipment. Residents of Philadelphia are eligible.  
-**Register**: Sign up for PCW wifi or email us directly for more information.  
+**Description**: Non-profit and community requests for refurbished and new computer equipment. Residents of Philadelphia are eligible. **Location**: 1918 N 11th St, Philadelphia PA 19122.  
+**Register**: Sign up for [PCW wifi](https://phillycommunitywireless.org/getconnected/) or email us directly at info@phillycommunitywireless.org for more information.  
 
-## Free Tablets
-**Organization**: TechOWL Connect with Tech  
-**Description**: Connect with Tech gives free tablets and tech support to people who have trouble getting technology and health care services. Residents of Pennsylvania are eligible.  
-**To register**: Visit [TechOwl's website](https://cphapps.temple.edu/surveys/?s=YAML3KL4FAMWWNCY), or call 215-204-0101  
+## PCs for People
+**Description**: Provides refurbished computers to eligible customers for affordable prices, starting at $0-29. To place an order, you will need photo identification and documentation of current enrollment in an income-based government assistance program OR documentation of current household income (under 200% of the federal poverty line or under 60% of the area median income).  
+**In-person Location and Hours**: 2251 N Broad St, Philadelphia PA 19132. Open Monday – Friday, 10am-4:30pm. Not open on weekends.  
+**Shop online**: [Shop here](https://pcsrefurbished.com/sales/salesHome).  
+**Contact**: Call 215-621-8118 or email philadelphia@pcsforpeople.org.   
+
+## Xiente Digital Literacy Classes
+**Description**: Two levels, Basic and Intermediate, to learn essential tasks such as website navigation, email management, job applications, virtual meeting participation, and more. Classes are in English and in Spanish.  
+**Location and Time**: Norris Square Senior Center (2121 N Howard St, Philadelphia PA 19122) every Monday at 9:30am.  
+**Register**: Call the Xiente main office at 215-426-8734 or [register here](https://xiente.jotform.com/223381334958058).  
 
 ## Computer 101 Digital Literacy Classes
 **Organization**: Urban League of Philadelphia and Drexel University Dornsife Center for Neighborhood Partnerships  
 **Description**: Learn computer basics like email, typing, and staying safe online.  
-**Register**: call 215-571-4056, email: bflcdornsifecenter@drexel.edu  
+**Location and Time**: In-person training sessions are available Tuesday – Thursday from 5-7pm at the KEYSPOT computer lab (3509 Spring Garden St, Philadelphia PA 19104) in West Philadelphia.  
+**Register**: Call 215-571-4056 or email bflcdornsifecenter@drexel.edu.  
 
-## Public Computing Centers
-**Location**: All over the city  
-**Description**: For more info, visit the [city website](https://www.phila.gov/2022-02-18-public-computing-center-in-west-philadelphia-is-a-model-for-digital-equity-and-literacy/).  
-  
 ## Tech Tutoring: Digital Navigators (English and Spanish)  
 **Location**: Online/Over the phone  
-**Description**: Designed to assist the local community members in Philadelphia, with information on Internet access and basic technical support issues. 
-**Register**: For contact information about the Digital Navigator program's at Drexel's Excite Center, Beyond Literacy, and SEAMAAC, see the [city's website](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/).  
-
-## Digital Literacy Training - Generations on Line:    
-**Location**: Generations on Line website  
-**Description**: Generations on Line can guide someone who has never touched a computer learn to use the Internet, email, texting, photos, apps, videochats, and all the basic tools, including voice recognition, to participate in the cyber world of endless possibilities.   
-**Register**: [Registration Page](https://www.generationsonline.org/apps/welcome.html)    
-
-## Norris Square Community Alliance Computer Classes
-**Description**: Basic use of computer, laptop, tablet, or smart phone. Create, access, and manage an email account. Gain access to online governmental resources or access online utility bills. Gain access to web conference meetings using Zoom, Microsoft Teams, and Google Hangouts.   
-**Contact**: jhiraldo@nscaphila.org  
-**Register**: [NSCA Computer Class Enrollment](https://www.nscaphila.org/computerclassesenrollment/) 
+**Description**: Designed to assist the local community members in Philadelphia, with information on Internet access and basic technical support issues. Digital Navigators can also help you enroll for discounted internet when available.  
+**Register**: For contact information about the Digital Navigator program's at Drexel's Excite Center, Beyond Literacy, and SEAMAAC, see the [city's website](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). Alternatively, call 211 to get connected with a Digital Navigator.  
+  
+## Digital Literacy Training - Generations on Line:     
+**Description**: Generations on Line guides individuals or organizations via training tools and tutorials in teaching Senior citizens how to use the Internet, email, texting, photos, apps, videochats, and all the basic tools, including voice recognition, to participate in the cyber world of endless possibilities.
+**Learn more**: See more information Generations on Line [here](https://www.generationsonline.com/).  
+**Contact**: Call Katie Burke at 215-222-6400.
 
 ## Free Library of Philadelphia  
-**Description**: Get a Library Card with the Free Library of Philadelphia. You can get digital access to language classes and other streaming education, e-books and e-magazines, send materials to pick-up at your local library branch, and more.  
-**Register**: [www.freelibrary.org/MyResearch/register](http://www.freelibrary.org/MyResearch/register)  
-Attend virtual live Free Library Programming: [https://libwww.freelibrary.org/calendar/virtual-programs/](https://libwww.freelibrary.org/calendar/virtual-programs/ "https://libwww.freelibrary.org/calendar/virtual-programs/")  
+**Description**: Get a Library Card with the Free Library of Philadelphia. You can get access to language and education classes, books and magazines (phyiscal or online), access the Internet within any Free Library around the city, and much more.
+**Register for a Library Card**: [Register here](http://www.freelibrary.org/MyResearch/register).  
+**Upcoming Computer Classes**: [See schedule here](https://libwww.freelibrary.org/calendar/?type=computer-classes).  
+
+## Public Computing Centers
+**Location**: All over the city.  
+**Description**: For more info, visit the [city website](https://www.phila.gov/2022-02-18-public-computing-center-in-west-philadelphia-is-a-model-for-digital-equity-and-literacy/).  
