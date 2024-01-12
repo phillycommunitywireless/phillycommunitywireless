@@ -3,8 +3,6 @@ layout: single
 title: Resources
 ---
 
-**Effective Date**: March 1, 2021
-
 **Last Updated**: January 6, 2024
 
 *******
