@@ -6,11 +6,13 @@ toc: true
 
 ## ¿Qué es Philly Community Wireless?
 
-Philly Community Wireless es un proyecto para desarrollar redes de malla de propiedad comunitaria en North Philly. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros de escuelas públicas y personal del Ayuntamiento de Filadelfia. Durante una época de distanciamiento social y enseñanza en línea, aproximadamente la mitad de los estudiantes de las escuelas públicas de la ciudad carecen de conexión wifi en casa. En ciertos vecindarios, aún más residentes carecen de conexión a Internet. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla operadas y propiedad de la comunidad.
+Philly Community Wireless es una organización comunitaria que desarrolla redes de malla de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros de escuelas públicas y personal del Ayuntamiento de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla operadas y propiedad de la comunidad.
 
-Las redes de malla permiten compartir una única conexión a Internet entre un grupo más amplio de usuarios con muy poco coste o infraestructura necesaria. Con la ayuda de PhillyWisper, un proveedor de servicios de Internet inalámbrico, pro-neutral, estamos trabajando para instalar dos sitios piloto en Kensington y Fairhill. A partir de ahí, planearemos talleres de diseño participativo y capacitación técnica para la comunidad que los capacitará para mantener y hacer crecer esta conexión de red gratuita.
+Las redes de malla permiten compartir una única conexión a Internet entre un grupo más amplio de usuarios con muy poco coste o infraestructura necesaria. Con la ayuda de PhillyWisper, un proveedor de servicios de Internet inalámbrico, pro-neutral, hemos instalado nuestra red en muchas zonas de Norris Square, Fairhill y Kensington, y seguimos ampliándola.
 
-## **¿**Por qué Philly Community Wireless está haciendo una red de malla en Norris Square Park?
+Incorporamos un diseño participativo y formación técnica para la comunidad que permite el automantenimiento y el crecimiento de esta conexión de red gratuita. Además, nos asociamos con organizaciones que ayudan a los residentes a conectarse con recursos digitales, incluidos dispositivos gratuitos o de bajo coste y clases de habilidades digitales. 
+
+## ¿Por qué Philly Community Wireless está haciendo una red de malla en Norris Square Park?
 
 La construcción del proyecto en Norris Square Park ayuda a nuestra organización a entablar conversaciones entre PCW y representantes de las organizaciones comunitarias de Latinx en Norris Square, que también se beneficiarán de Internet gratuito. Los individuos no sólo tendrán acceso en sus propios hogares, permitiéndoles hacer trabajo escolar, solicitar empleo y acceder a clases de inglés en línea, entre otras actividades; las organizaciones comunitarias también pueden ampliar la programación, incluidas las clases de cocina y cerámica transmitidas en vivo o los espacios de estudio al aire libre para estudiantes que usan computadoras.
 
