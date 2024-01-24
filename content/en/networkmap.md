@@ -21,39 +21,39 @@ To see a guided tour of our network, see the [scrollytelling map](https://philly
 
 PCW is regularly installing additional rooftop hubs in North Philadelphia. Below you can see tracking information for some of our installations at community organizations and spaces. This list is in order of install with most recent at the top.
 
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">installed</span> HACE
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">installed</span> [HACE](https://www.hacecdc.org/)
 
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">installed</span> Taller Puertoriqueno
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">installed</span> [Taller Puertoriqueno](https://tallerpr.org/)
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Kensington Corridor Trust Gardens](https://kctphilly.org/)
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Prevention Point
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Prevention Point](https://ppponline.org/)
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Lillian Merrero branch of Free Library of Philadelphia
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Lillian Merrero branch of Free Library of Philadelphia](https://libwww.freelibrary.org/locations/lillian-marrero-library)
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance Children's Center 
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Norris Square Community Alliance](https://www.xiente.org/)  Children's Center
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance St. Boniface School
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Norris Square Community Alliance](https://www.xiente.org/) St. Boniface School
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Cesar Andreu Iglesias Gardens
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Cesar Andreu Iglesias Gardens](https://iglesiasgardens.com/)
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Clay Studio
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Clay Studio](https://www.theclaystudio.org/)
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> GALAEI
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [GALAEI](https://www.galaeiqtbipoc.org/)
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Kensington branch of Free Library of Philadelphia
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Kensington branch of Free Library of Philadelphia](https://libwww.freelibrary.org/locations/kensington-library)
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance multidwelling buildings
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Norris Square Community Alliance](https://www.xiente.org/) multidwelling buildings
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Las Parcelas and Colobo Gardens
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Las Parcelas and Colobo Gardens](https://www.philaplace.org/story/349/)
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Park 
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Norris Square Park](https://www.tclf.org/landscapes/norris-square-park) 
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Neighborhood Project
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Norris Square Neighborhood Project](https://myneighborhoodproject.org/)
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> West Kensington Ministries
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [West Kensington Ministries](https://westkensingtonministry.com/)
 
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">planning install</span> Open Kitchen Sculpture Garden
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">planning install</span> [Open Kitchen Sculpture Garden](https://theopenkitchensculpturegarden.com/)
 
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">planning install</span> Zion Baptist Ministry
 
