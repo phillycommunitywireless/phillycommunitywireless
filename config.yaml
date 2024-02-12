@@ -30,11 +30,16 @@ languages:
         - name: FAQ
           url: "/faq"
           weight: "6"
+        - name: Donate
+          url: https://phillycommunitywireless.allyrafundraising.com/
+          params:
+            external: true
+          weight: "7"
         - name: Docs
           url: https://docs.phillycommunitywireless.org/en/latest/
           params:
             external: true
-          weight: "7"
+          weight: "8"
       footer:
         - name: Code of Conduct
           url: "/code-of-conduct"
@@ -66,11 +71,16 @@ languages:
         - name: FAQ
           url: "/faq"
           weight: "6"
+        - name: Donate
+          url: https://phillycommunitywireless.allyrafundraising.com/
+          params:
+            external: true
+          weight: "7"
         - name: Docs
           url: https://docs.phillycommunitywireless.org/es/latest/
           params:
             external: true
-          weight: "10"
+          weight: "8"
       footer:
         - name: Código de conducta
           url: "/code-of-conduct"
