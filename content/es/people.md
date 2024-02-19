@@ -12,22 +12,28 @@ title: Equipo
 ## Equipo administrativo
 
 **Director ejecutivo**  
-Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}}
+Alex Wermer-Colan {{< fa cogs >}}{{< fa vial >}}  
+alex@phillycommunitywireless.org
 
 **Administrador de sistemas**   
-Allan Gomez {{< fa cogs >}}
+Allan Gomez {{< fa cogs >}}  
+allan@phillycommunitywireless.org
 
 **Técnico**   
-Mir Detre {{< fa cogs >}}
+Mir Detre {{< fa cogs >}}   
+mir@phillycommunitywireless.org
 
 **Community Engagement Liaison**  
-Chris Mehretab {{< fa hands-helping >}}
+Chris Mehretab {{< fa hands-helping >}}  
+chris@phillycommunitywireless.org
 
 **Install Lead**     
-Dylan Hutchinson {{< fa cogs >}}
+Dylan Hutchinson {{< fa cogs >}}  
+dylan@phillycommunitywireless.org
 
 **Outreach Coordinator**     
-Leanne Przybylowski {{< fa hands-helping >}}
+Leanne Przybylowski {{< fa hands-helping >}}  
+leanne@phillycommunitywireless.org
 <br>
 
 ## Junta directiva
