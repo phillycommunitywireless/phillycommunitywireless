@@ -5,7 +5,7 @@ title: "Acerca de Nosotros"
 
 ## El Proyecto
 
-Nuestro equipo incluye voluntarios y personal de una amplia gama de organizaciones locales y nacionales. Para obtener más información, [visite nuestra página Equipo](/es/people).
+Nuestro equipo incluye seis personal y mas de 50 voluntarios de una amplia gama de organizaciones locales y nacionales. Para obtener más información, [visite nuestra página Equipo](/es/people).
 
 ## Los Valores
 
@@ -21,7 +21,7 @@ Por último, creemos en empezar a trabajar con poco, aprender de nuestros errore
 
 Justo antes del golpe de la pandemia COVID-19, un estudio detallado publicado por el Banco de la Reserva Federal de Filadelfia encontró que apenas el 53% de los residentes negros y el 44% de los residentes de Latinx en Filadelfia tienen conexiones de banda ancha (Álvaro 2020). La pandemia ha demostrado dramáticamente las implicaciones de esta brecha digital y ha exacerbado las desigualdades existentes para estudiantes, dueños de negocios, buscadores de empleo, y muchos otros.
 
-Estamos aquí para presentar un modelo alternativo de acceso a Internet, una red basada en el aporte comunitario y la educación. Nuestro objetivo es transformar la forma en que las ciudades piensan de Internet como una utilidad, involucrando a nuestros usuarios en la construcción de la red: De estudiantes a propietarios de negocios, de proveedores médicos a personas que trabajan desde casa. Este proyecto es producto de la pandemia, pero nuestra visión se extiende más allá de la crisis actual. Buscamos un Internet a largo plazo, sostenible y asequible para todos en Philadelphia.
+Estamos aquí para presentar un modelo alternativo de acceso a Internet, una red basada en el aporte comunitario y la educación. Nuestro objetivo es transformar la forma en que las ciudades piensan de Internet como una utilidad, involucrando a nuestros usuarios en la construcción de la red: De estudiantes a propietarios de negocios, de proveedores médicos a personas que trabajan desde casa. Este proyecto es producto de la pandemia, pero nuestra visión se extiende más allá de esa crisis. Buscamos un Internet a largo plazo, sostenible y asequible para todos en Philadelphia.
 
 Nuestro objetivo es capacitar a las personas que han estado más expuestas a los daños de la tecnología a través de la vigilancia y el sesgo algorítmico con alfabetismo digital crítico. Formaremos a los usuarios en los principios básicos de la ingeniería de redes y la alfabetización digital para que puedan ser administradores de la tecnología, en lugar de simples receptores. El PCW también trabajará para desarrollar los servicios y actividades que la red permite, a través del diseño participativo y la aportación de la comunidad.
 
