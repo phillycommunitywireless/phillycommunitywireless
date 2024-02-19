@@ -3,7 +3,7 @@ date: 2023-10-18
 title: "Dylan Hutchinson"
 ---
 
-<img src="/images/DylanHHeadshot.jpeg" width="50%">
+<img src="/images/DylanHHeadshot.jpeg" width="50">
 
 Dylan grew up in the Lehigh Valley region of Pennsylvania, just north of Philadelphia. Dylan graduated from Moravian University in the Spring of 2021 with a bachelors of science degree in Public Health and Computer Science.
 
