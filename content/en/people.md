@@ -14,16 +14,19 @@ title: "People"
 [Alex Wermer-Colan](/alexwc.md) {{< fa cogs >}}{{< fa vial >}}
 
 **Systems Administrator**   
-Allan Gomez {{< fa cogs >}}
+[Allan Gomez](/allang.md) {{< fa cogs >}}
 
 **Technician**   
-Mir Detre {{< fa cogs >}}
+[Mir Detre](/mird.md) {{< fa cogs >}}
 
 **Community Engagement Liaison**  
-Chris Mehretab {{< fa hands-helping >}}
+[Chris Mehretab](/chrism.md) {{< fa hands-helping >}}
 
 **Install Lead**     
-Dylan Hutchinson {{< fa cogs >}}
+[Dylan Hutchinson](/dylanh.md) {{< fa cogs >}}
+
+**Outreach Coordinator**     
+[Leanne Przybylowski](/leannep.md) {{< fa hands-helping >}}
 
 <br>
 
@@ -136,9 +139,6 @@ Sarah Fingerhood, University of Pennsylvania, 2021
 Anika Prakash, University of Pennsylvania, 2021
 
 ## Additional Volunteers
-Leanne Przybylowski {{< fa cogs >}} \
-_Community Engagement Coordination_
-
 Felipe Valdez {{< fa cogs >}} \
 _GIS Specialist_
 
