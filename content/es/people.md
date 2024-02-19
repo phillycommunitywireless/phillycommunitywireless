@@ -4,7 +4,6 @@ title: Equipo
 
 ---
 
-****Leyenda****
 {{< fa hands-helping >}} = organizador \
 {{< fa cogs >}} = tecnólogo \
 {{< fa graduation-cap >}} = maestros \
