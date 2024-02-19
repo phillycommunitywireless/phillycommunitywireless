@@ -27,7 +27,6 @@ title: "People"
 
 **Outreach Coordinator**     
 [Leanne Przybylowski](/leannep) {{< fa hands-helping >}}
-
 <br>
 
 ## Board of Directors
