@@ -3,7 +3,7 @@ date: 2023-10-18
 title: "Alex Wermer-Colan"
 ---
 
-![Headshot](/images/AWCBW.jpg)
+<img src="/images/AWCBW.jpg" width="100">
 
 Alex Wermer-Colan is the Executive Director of Philly Community Wireless.
 
