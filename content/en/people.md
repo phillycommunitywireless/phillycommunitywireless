@@ -12,21 +12,27 @@ title: "People"
 
 **Executive Director**  
 [Alex Wermer-Colan](/alexwc) {{< fa cogs >}}{{< fa vial >}}
+alex@phillycommunitywireless.org
 
 **Systems Administrator**   
 [Allan Gomez](/allang) {{< fa cogs >}}
+allan@phillycommunitywireless.org
 
 **Technician**   
 [Mir Detre](/mird) {{< fa cogs >}}
+mir@phillycommunitywireless.org
 
 **Community Engagement Liaison**  
 [Chris Mehretab](/chrism) {{< fa hands-helping >}}
+chris@phillycommunitywireless.org
 
 **Install Lead**     
 [Dylan Hutchinson](/dylanh) {{< fa cogs >}}
+dylan@phillycommunitywireless.org
 
 **Outreach Coordinator**     
 [Leanne Przybylowski](/leannep) {{< fa hands-helping >}}
+leanne@phillycommunitywireless.org
 <br>
 
 ## Board of Directors
