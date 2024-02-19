@@ -11,22 +11,22 @@ title: "People"
 ## Administrative Team
 
 **Executive Director**  
-[Alex Wermer-Colan](alexwc.md) {{< fa cogs >}}{{< fa vial >}}
+[Alex Wermer-Colan](/alexwc) {{< fa cogs >}}{{< fa vial >}}
 
 **Systems Administrator**   
-[Allan Gomez](/allang.md) {{< fa cogs >}}
+[Allan Gomez](/allang) {{< fa cogs >}}
 
 **Technician**   
-[Mir Detre](/mird.md) {{< fa cogs >}}
+[Mir Detre](/mird) {{< fa cogs >}}
 
 **Community Engagement Liaison**  
-[Chris Mehretab](/chrism.md) {{< fa hands-helping >}}
+[Chris Mehretab](/chrism) {{< fa hands-helping >}}
 
 **Install Lead**     
-[Dylan Hutchinson](/dylanh.md) {{< fa cogs >}}
+[Dylan Hutchinson](/dylanh) {{< fa cogs >}}
 
 **Outreach Coordinator**     
-[Leanne Przybylowski](/leannep.md) {{< fa hands-helping >}}
+[Leanne Przybylowski](/leannep) {{< fa hands-helping >}}
 
 <br>
 
