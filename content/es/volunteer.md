@@ -5,11 +5,11 @@ title: Voluntario
 ---
 ¡Nos encantan los voluntarios! Somos una coalición liderada por voluntarios que trabaja para construir redes de Internet inalámbricas controladas por la comunidad en Filadelfia. A continuación hemos esbozado las maneras en que los voluntarios pueden contribuir.
 
-Si está interesado en participar, rellene nuestro [formulario de inscripción como voluntario.](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link)
+Si está interesado en participar, rellene nuestro [formulario de inscripción como voluntario.](https://forms.gle/AKUgiHZnDvhECdhA8)
 
 ### Voluntarios tecnológicos
 
-{{% notice %}} El equipo técnico está buscando voluntarios para ayudar con nuestro proceso de instalación: Asistir a entrenamientos en persona y días de trabajo en Norris Square, configurar nuestro hardware de red e instalar equipos en hogares y en tejados. Muchos de nosotros estamos en el proceso de aprender estas habilidades, así que, si estas habilidades son nuevas para usted, usted será entrenado en un ambiente de colaboración. Si tiene experiencia, le damos la bienvenida a su experiencia y soporte de formación. El acceso a un coche y/o la proximidad a Norris Square Park son ideales. También hay disponibles oportunidades de voluntariado remoto. Le damos la bienvenida para participar en cualquier capacidad que tenga sentido para usted. {{% /notice %}}
+{{% notice %}} El equipo técnico está buscando voluntarios para ayudar con nuestro proceso de instalación: Asistir a entrenamientos en persona en Norris Square, configurar nuestro hardware de red e instalar equipos en hogares y en tejados. Muchos de nosotros estamos en el proceso de aprender estas habilidades, así que, si estas habilidades son nuevas para usted, usted será entrenado en un ambiente de colaboración. Si tiene experiencia, le damos la bienvenida a su experiencia y soporte de formación. El acceso a un coche y/o la proximidad a Norris Square Park son ideales. También hay disponibles oportunidades de voluntariado remoto. Le damos la bienvenida para participar en cualquier capacidad que tenga sentido para usted. {{% /notice %}}
 
 Estas son algunas de las áreas de habilidades que estamos buscando actualmente:
 
@@ -22,11 +22,11 @@ Estas son algunas de las áreas de habilidades que estamos buscando actualmente:
 * UX/UI, diseño gráfico
 * GIS y cartografía, visualización de datos, ciencia de datos
 
-Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link)
+Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://forms.gle/AKUgiHZnDvhECdhA8)
 
 ## Voluntarios de divulgación
 
-{{% notice %}} ¡El Equipo de Alcance está buscando activamente voluntarios con dominio del idioma español para trabajar en el compromiso de la comunidad y en los esfuerzos de alcance! También estamos buscando voluntarios que puedan ayudar con el alcance in situ en y alrededor de nuestras instalaciones de red en el vecindario de Norris Square Park en North Philly. También hay disponibles oportunidades de voluntariado remoto. Le damos la bienvenida para participar en cualquier capacidad que tenga sentido para usted. {{% /notice %}}
+{{% notice %}} ¡El Equipo de Alcance está buscando activamente voluntarios con dominio del idioma español para trabajar en el compromiso de la comunidad y en los esfuerzos de alcance! También estamos buscando voluntarios que puedan ayudar con el alcance in situ en y alrededor de nuestras instalaciones de red en North Philadelphia. También hay disponibles oportunidades de voluntariado remoto. Le damos la bienvenida para participar en cualquier capacidad que tenga sentido para usted. {{% /notice %}}
 
 _Estas son algunas de las áreas de habilidades que estamos buscando actualmente:_
 
@@ -35,11 +35,12 @@ _Estas son algunas de las áreas de habilidades que estamos buscando actualmente
 * Documentación de fotos y vídeos de nuestro proyecto 
 * Publicación en medios sociales 
 * Planificación y gestión de eventos 
-* Educación tecnológica: Talleres de formación, creación de materiales de formación 
+* Educación tecnológica: Talleres de formación, creación de materiales de formación
+* Investigación
 * Ejecución de grupos focales
 * Escritura de becas, recaudación de fondos 
 * Marketing 
 * Diseño gráfico: Pósteres, postales, volantes, merch, camisetas 
 * Impresión, Serigrafía
 
-Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://docs.google.com/forms/d/e/1FAIpQLSeCzy2QTvUggsMUZtp-cJ1y7Vlk534HV-mrjMyQbuI0v_kHZw/viewform?usp=sf_link)
+Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://forms.gle/AKUgiHZnDvhECdhA8)
