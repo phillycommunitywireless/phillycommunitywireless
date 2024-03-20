@@ -32,7 +32,10 @@ dylan@phillycommunitywireless.org
 
 **Outreach Coordinator**     
 [Leanne Przybylowski](/leannep) {{< fa hands-helping >}}  
-leanne@phillycommunitywireless.org
+leanne@phillycommunitywireless.org  
+
+**Install Lead**
+Eugene Ryoo {{< fa cogs >}}  
 <br>
 
 ## Board of Directors
