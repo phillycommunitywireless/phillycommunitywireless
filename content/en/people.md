@@ -28,14 +28,14 @@ chris@phillycommunitywireless.org
 
 **Install Lead**     
 [Dylan Hutchinson](/dylanh) {{< fa cogs >}}  
-dylan@phillycommunitywireless.org
+dylan@phillycommunitywireless.org  
+
+**Install Lead**  
+[Eugene Ryoo](/eugener) {{< fa cogs >}}  
 
 **Outreach Coordinator**     
 [Leanne Przybylowski](/leannep) {{< fa hands-helping >}}  
 leanne@phillycommunitywireless.org  
-
-**Install Lead**
-Eugene Ryoo {{< fa cogs >}}  
 <br>
 
 ## Board of Directors
