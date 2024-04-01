@@ -7,7 +7,7 @@ title: "Get connected"
 
 If you live in the North Philadelphia neighborhoods of Fairhill, Kensington, and Norris Square, and want to get connected to free wireless internet, or host an antenna to connect your neighbors, please fill out our [Sign Up Form](https://forms.gle/Np8QAvWc1Q5XDgpB8)!
 
-![Receiver Antenna in Las Parcelas Gardens](/images/antenna_detail2.jpg)
+{{< figure src="/images/antenna_detail2.jpg" caption="Receiver Antenna in Las Parcelas Gardens" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
 
 # The Installation Process
 
