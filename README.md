@@ -13,6 +13,85 @@ The site's theme is a fork of [gohugo-theme-ananke](https://github.com/theNewDyn
 
 Custom CSS lives in `/assets/pcw-hugo-theme/css/custom.css` 
 
+## Adding Images
+
+This site uses [Hugo's figure shortcode](https://gohugo.io/content-management/shortcodes/#figure). It's highly recommended to use `figure` rather than simple images via Markdown (i.e. `![]()`), so that images can be automatically sized and properly styled. Non-`figure` images may not display in a consistent manner.
+
+To insert a figure into a post, paste the following example text directly into the markdown file:
+
+```text
+{{< figure src="elephant.jpg" title="An elephant at sunset" >}}
+```
+
+When the site is built, it will be rendered as follows:
+
+```html
+<figure>
+  <img src="elephant.jpg">
+  <figcaption><h4>An elephant at sunset</h4></figcaption>
+</figure>
+```
+
+Here's an example use for a photo with attribution:
+
+```text
+{{< figure src="images/duck.jpg" alt="Rubber duck sitting in a bathtub." caption="Gerald relaxing in the bath." attr="Photo by me." attrlink="http://example.com/" >}}
+```
+
+The `figure` shortcode can use the following named parameters:
+
+**src**
+
+URL of the image to be displayed.
+
+**link**
+
+If the image needs to be hyperlinked, URL of the destination.
+
+**target**
+
+Optional `target` attribute for the URL if `link` parameter is set.
+
+**rel**
+
+Optional `rel` attribute for the URL if `link` parameter is set.
+
+**alt**
+
+Alternate text for the image if the image cannot be displayed.
+
+**title**
+
+Image title.
+
+**caption**
+
+Image caption. Markdown within the value of `caption` will be rendered.
+
+**class**
+
+`class` attribute of the HTML `figure` tag.
+
+**height**
+
+`height` attribute of the image.
+
+**width**
+
+`width` attribute of the image.
+
+**loading**
+
+`loading` attribute of the image.
+
+**attr**
+
+Image attribution text. Markdown within the value of `attr` will be rendered.
+
+**attrlink**
+
+If the attribution text needs to be hyperlinked, URL of the destination.
+
 ## Segments
 
 This theme supports a `segments` front matter parameter for all normal pages, which allows for composing layouts from "stackable components". The `segments` param is a YAML list of objects, each of which will correspond to one of these components. Each type of segment uses a pre-written HTML template to render a component, like a full-width photo, a video, or a call-to-action, to the page it's used on. Segments are all full-width and can usually be customized right from the YAML.
