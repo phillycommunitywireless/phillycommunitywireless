@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://phillycommunitywireless.org/es/networkmap/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/networkmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/networkmap/"
+                />
+  </url><url>
     <loc>https://phillycommunitywireless.org/es/airmonitor/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,19 +26,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://phillycommunitywireless.org/es/airmonitor/"
-                />
-  </url><url>
-    <loc>https://phillycommunitywireless.org/es/networkmap/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/networkmap/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/networkmap/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/about/</loc>

@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://phillycommunitywireless.org/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Navegacion</title>
+      <link>https://phillycommunitywireless.org/es/networkmap/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/networkmap/</guid>
+      <description>Mapa de la covertura de la red WiFi Philly Community Wireless Para ver el mapa en pantalla completa, visite esta página web.
+Cualquier área cubierta por el mapa de calor debe tener señal PCW disponible para una conexión wifi gratuita. Tenga en cuenta que el mapa de calor no es preciso a nivel de calle, y si no puede acceder a la red wifi en un espacio determinado de la ciudad, es posible que deba caminar por una esquina.</description>
+    </item>
+    
+    <item>
       <title>Calidad de Aire</title>
       <link>https://phillycommunitywireless.org/es/airmonitor/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
@@ -15,16 +25,6 @@
       <description>Act on Air: The Philly Air Monitor Project Philly Community Wireless is partnering with other organizations around the city, including the Clean Air Council and Temple University&amp;rsquo;s Geography and Urban Studies Program, to deploy Purple Air Monitors on our network.
 Measuring Air Quality Purple Air monitors allow residents to asses:
 If their air quality is good in their area How it compares to other parts of the city. Purple Air Monitors Purple air monitors enable communities to engage in citizen science around pollution in their neighborhoods.</description>
-    </item>
-    
-    <item>
-      <title>Navegacion</title>
-      <link>https://phillycommunitywireless.org/es/networkmap/</link>
-      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/es/networkmap/</guid>
-      <description>3D Map of Philly CommunityWireless Wifi Coverage To view the map in fullscreen, visit this webpage.
-Any area covered by the heatmap should have PCW signal available for a free wifi connection. Please keep in mind that the heatmap is not accurate at the street-level, and if you cannot access the wifi network in any given space in the city, you may need to walk around a street corner. Try to find the closest access point visible to ensure a good connection.</description>
     </item>
     
     <item>
