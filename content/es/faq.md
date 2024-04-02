@@ -1,6 +1,6 @@
 ---
-date: 2021-09-30
-title: FAQ
+date: 2024-04-02
+title: Preguntas más frecuentes
 toc: true
 ---
 
