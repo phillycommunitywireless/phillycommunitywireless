@@ -3,7 +3,7 @@ date: 2024-04-02
 title: "Navegacion"
 ---
 
-## Mapa de la covertura de la red WiFi Philly Community Wireless
+## Mapa de la cobertura de Philly Community Wireless
 
 Para ver el mapa en pantalla completa, visite esta [página web](https://phillycommunitywireless.github.io/pcwnetworkmap/). 
 
