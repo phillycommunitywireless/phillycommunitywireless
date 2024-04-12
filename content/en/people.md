@@ -32,6 +32,7 @@ dylan@phillycommunitywireless.org
 
 **Install Lead**  
 [Eugene Ryoo](/eugener) {{< fa cogs >}}  
+eugene@phillycommunitywireless.org  
 
 **Outreach Coordinator**     
 [Leanne Przybylowski](/leannep) {{< fa hands-helping >}}  
