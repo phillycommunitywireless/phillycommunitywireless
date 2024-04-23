@@ -20,7 +20,7 @@ This site uses [Hugo's figure shortcode](https://gohugo.io/content-management/sh
 To insert a figure into a post, paste the following example text directly into the markdown file:
 
 ```text
-{{< figure src="elephant.jpg" title="An elephant at sunset" >}}
+{{< figure src="/images/elephant.jpg" title="An elephant at sunset" >}}
 ```
 
 When the site is built, it will be rendered as follows:
@@ -35,7 +35,7 @@ When the site is built, it will be rendered as follows:
 Here's an example use for a photo with attribution:
 
 ```text
-{{< figure src="images/duck.jpg" alt="Rubber duck sitting in a bathtub." caption="Gerald relaxing in the bath." attr="Photo by me." attrlink="http://example.com/" >}}
+{{< figure src="/images/duck.jpg" alt="Rubber duck sitting in a bathtub." caption="Gerald relaxing in the bath." attr="Photo by me." attrlink="http://example.com/" >}}
 ```
 
 The `figure` shortcode can use the following named parameters:
