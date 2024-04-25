@@ -107,3 +107,9 @@ img.opos-top {
     flex: 1;
   }
 }
+
+/* center images displayed w/ 'figure' shortcode */
+.figure-center {
+  display: flex;
+  justify-content: center;
+}
