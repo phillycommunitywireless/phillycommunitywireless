@@ -87,6 +87,17 @@ _IT Engineer_
 John Center {{< fa cogs >}} \
 _Retired Networking Engineer_
 
+Felipe Valdez {{< fa cogs >}} \
+_GIS Specialist_  
+
+Dan Zygmund-Felt {{< fa cogs >}} \
+_Software Engineer_  
+
+David Berman {{< fa vial >}} \
+_Postdoctoral Fellow_  
+
+_
+
 ## Additional Partners
 Adam Bouhmad {{< fa cogs >}} \
 _Project WAVES (Baltimore)_
@@ -147,19 +158,6 @@ Sarah Fingerhood, University of Pennsylvania, 2021
 
 Anika Prakash, University of Pennsylvania, 2021
 
-## Additional Volunteers
-Felipe Valdez {{< fa cogs >}} \
-_GIS Specialist_
-
-David Berman {{< fa cogs >}} \
-_Postdoctoral Fellow_
-
-Jen Meagher {{< fa cogs >}} \
-_Product Manager_
-
-Tim Traversy {{< fa cogs >}} \
-_Software Engineer_
-
 <br/>
 
 ## Norris Square Community Partners
@@ -170,7 +168,7 @@ _Software Engineer_
 
 [Kensington Branch of the Free Library](https://libwww.freelibrary.org/locations/kensington-library)
 
-[Norris Square Community Alliance](https://www.nscaphila.org/)
+[Xiente](https://www.xiente.org/) (formerly Norris Square Community Alliance)  
 
 [Norris Square Neighborhood Project](https://myneighborhoodproject.org/)
 
@@ -184,6 +182,8 @@ _Software Engineer_
 
 ## Philly Community Partners
 
+[PhillyWisper](https://phillywisper.net/)  
+
 [Called to Serve](https://calledtoservecdc.org/)
 
 [Free Library of Philadelphia](https://www.freelibrary.org/)
@@ -196,9 +196,9 @@ _Software Engineer_
 
 [Philly Tech Justice](https://phillytechjustice.org/)
 
-[PhillyWisper](https://phillywisper.net/)
-
 [Temple University, Digital Equity Center](https://news.temple.edu/news/2021-08-25/old-community-center-provides-new-workforce-services)
+
+[Kensington Corridor Trust](https://kctphilly.org/)  
 
 <br/>
 
@@ -231,7 +231,7 @@ _Software Engineer_
 
 [Community Challenge Grant](https://www.aarp.org/livable-communities/community-challenge/), AARP (American Association of Retired Persons), 2023
 
- Digital Equity Grant and ongoing support from the [Independent Public Media Foundation](https://independencemedia.org/2021-community-voices-and-digital-equity-grants/), 2021 to present
+Digital Equity Grant and ongoing support from the [Independent Public Media Foundation](https://independencemedia.org/2021-community-voices-and-digital-equity-grants/), 2021 to present
 
 [Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/), The Mayor's Fund for Philadelphia, 2021-2022
 
