@@ -18,10 +18,6 @@ alex@phillycommunitywireless.org
 [Allan Gomez](/allang) {{< fa cogs >}}  
 allan@phillycommunitywireless.org
 
-**Technician**   
-[Mir Detre](/mird) {{< fa cogs >}}  
-mir@phillycommunitywireless.org
-
 **Community Engagement Liaison**  
 [Chris Mehretab](/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org
@@ -96,7 +92,6 @@ _Software Engineer_
 David Berman {{< fa vial >}} \
 _Postdoctoral Fellow_  
 
-_
 
 ## Additional Partners
 Adam Bouhmad {{< fa cogs >}} \
@@ -135,6 +130,8 @@ _Director, Member Services and NYC Dark Fiber Program at NYSERNet_
 Houman Saberi {{< fa cogs >}} \
 _Community Tech NY (New York)_
 
+<br/>
+
 ## Graphic Design
 
 Katie Garth
@@ -142,6 +139,12 @@ Katie Garth
 ## Video Production 
 
 Eli Laban, *Big Picture Alliance*
+
+<br/>
+
+## Former Staff
+
+Mir Detre, Former Technician
 
 ## Former Interns
 Isaiah Weakes, Carnegie Mellon University, 2023
