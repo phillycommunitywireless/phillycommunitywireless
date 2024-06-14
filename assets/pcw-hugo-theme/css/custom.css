@@ -113,3 +113,21 @@ img.opos-top {
   display: flex;
   justify-content: center;
 }
+
+.m-footer {
+  flex-direction: row;
+}
+
+@media screen and (max-width: 60em) {
+  .m-footer {
+    flex-direction: column;
+    margin-top: 1em;
+  }
+  #right-footer {
+    text-align: center;
+    margin-left: -2em;
+  }
+  #footer-logo {
+    margin-bottom: 1em;
+  }
+}
