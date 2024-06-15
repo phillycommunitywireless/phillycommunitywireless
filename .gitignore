@@ -11,3 +11,5 @@
 
 # MacOS
 .DS_Store
+
+.idea/
