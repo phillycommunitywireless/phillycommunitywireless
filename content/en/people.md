@@ -228,16 +228,3 @@ Anika Prakash, University of Pennsylvania, 2021
 ## Fiscal Sponsor
 
 [Movement Alliance Project](https://movementalliance.org/about/)
-
-## Funders
-[Better Bike Share Partnership Mini Grant](https://betterbikeshare.org/grant/better-bike-share-mini-grants/), Philadelphia City Fund, 2024
-
-[Community Challenge Grant](https://www.aarp.org/livable-communities/community-challenge/), AARP (American Association of Retired Persons), 2023
-
-Digital Equity Grant and ongoing support from the [Independent Public Media Foundation](https://independencemedia.org/2021-community-voices-and-digital-equity-grants/), 2021 to present
-
-[Digital Literacy Alliance](http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/), The Mayor's Fund for Philadelphia, 2021-2022
-
-Rapid Response Magic Project of the [Princeton Humanities Council](https://humanities.princeton.edu/), 2020
-
-RISE (Recognizing Inequalities and Standing for Equality), [Pace Center for Civic Engagement](https://pace.princeton.edu/), 2020
