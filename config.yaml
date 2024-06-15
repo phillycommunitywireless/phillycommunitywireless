@@ -88,6 +88,7 @@ languages:
     weight: "2"
 params:
   site_logo: "/images/WebLogo_Standard2.svg"
+  site_logo_inverted: "/images/WebLogo_Inverted2.svg"
   attribution:
     name: Addie Barron
     link: https://addieis.online
