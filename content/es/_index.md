@@ -8,11 +8,11 @@ segments:
   - template: icons
     icons:
       - icon: fas fa-laptop-code
-        text: Growing tech literacy
+        text: Aumento de la alfabetización tecnológica
       - icon: fas fa-wifi
-        text: Expanding internet access
+        text: Ampliar el acceso a Internet
       - icon: fas fa-people-carry
-        text: Building community autonomy
+        text: Construcción de la autonomía comunitaria
     class: dn # Hide on mobile
 
   # Divider
@@ -20,14 +20,14 @@ segments:
 
   # Simple heading
   - template: heading
-    text: Current work
+    text: Trabajos en curso
 
   # Norris Square project
   - template: call-to-action-image
-    heading: North Philadelphia Network
-    text: We are building a community wireless network in North Philadelphia, with a focus on the areas north of [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122, 19133, and other nearby zipcodes, reach out to get connected!
+    heading: La Red en Norris Square
+    text: Estamos construyendo una red inalámbrica comunitaria en el norte de Filadelfia, con un enfoque en las áreas al norte de [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). Si vives en los códigos postales 19122, 19133 y otros cercanos, ¡comunícate para conectarte!
     link:
-      text: Get Connected
+      text: Conéctate
       href: getconnected/
     image:
       src: /images/nsp_map2.png
@@ -42,10 +42,10 @@ segments:
 
   # Volunteer CTA
   - template: call-to-action
-    heading: Join our volunteer team
-    text: Volunteers can handle anything from antenna installations to network management, software development, community outreach, and much more.
+    heading: Únete a nuestro equipo de voluntarios
+    text: Los voluntarios pueden encargarse de cualquier cosa, desde la instalación de antenas hasta la gestión de redes, el desarrollo de software, el alcance comunitario y mucho más.
     link:
-      text: Get involved
+      text: Involúcrate
       href: volunteer/
     class: color-pcw-dark-blue
 
@@ -85,8 +85,8 @@ segments:
     class: contact
 ---
 
-We are a coalition of technologists and organizers working to build community controlled wireless internet networks in Philadelphia. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We believe that **internet access is a human right**.
+Somos una coalición liderada por voluntarios de tecnólogos y organizadores que trabajan para construir redes de Internet inalámbricas controladas por la comunidad en Filadelfia. Estamos comprometidos con el crecimiento de la alfabetización tecnológica, la expansión del acceso a Internet y la construcción de la autonomía comunitaria con nuestros vecinos. **Creemos que el acceso a Internet es un derecho humano.**
 
-To stay up-to-date on new opportunities and growth of our community network, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
+Para mantenernos actualizados sobre las nuevas oportunidades y el crecimiento de nuestra red comunitaria, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
-Questions? Check out our [FAQ](./faq).
+¿Preguntas? Echa un vistazo a nuestro [FAQ](./faq).
