@@ -55,10 +55,10 @@ segments:
 
   # Donate
   - template: call-to-action
-    heading: Support the project
-    text: Your money will go toward networking equipment, tools, training materials, and paying our staff.
+    heading: Apoya el proyecto
+    text: Su dinero se destinará a equipos de redes, herramientas, materiales de capacitación y al pago de nuestro personal.
     link:
-      text: Donate
+      text: Donar
       href: https://phillycommunitywireless.wedid.it
       class: bg-green white
     class: color-pcw-dark-blue
@@ -77,7 +77,7 @@ segments:
   - template: video
     src: https://www.youtube.com/embed/nmuGwgVoAgI
     title: Philly Community Wireless animated inforgraphic produced by the Big Picture Alliance.
-    text: Learn more about community wireless mesh projects
+    text: Más información sobre los proyectos comunitarios de malla inalámbrica
     
   # Contact info
   - template: markdown
