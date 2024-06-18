@@ -5,11 +5,11 @@ segments:
 - template: icons
   icons:
   - icon: fas fa-laptop-code
-    text: Growing tech literacy
+    text: Aumento de la alfabetización tecnológica
   - icon: fas fa-wifi
-    text: Expanding internet access
+    text: Ampliar el acceso a Internet
   - icon: fas fa-people-carry
-    text: Building community autonomy
+    text: Construcción de la autonomía comunitaria
 - template: heading
   text: Current work
   divider: true
