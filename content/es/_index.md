@@ -15,8 +15,7 @@ segments:
   divider: true
 - template: call-to-action-image
   heading: La Red en Norris Square
-  text:Estamos comenzando a construir una red inalámbrica comunitaria en el área alrededor de [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8).
-   Si vives allí, puedes conectarte o alojar una antena para conectarte sus vecinos.
+ text: We are building a community wireless network in North Philadelphia, with a focus on the areas north of [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122, 19133, and other nearby zipcodes, reach out to get connected!
   link:
     text: Conéctate
     href: getconnected/
