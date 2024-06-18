@@ -11,16 +11,14 @@ segments:
   - icon: fas fa-people-carry
     text: Construcción de la autonomía comunitaria
 - template: heading
-  text: Current work
+  text: Trabajos en curso
   divider: true
 - template: call-to-action-image
-  heading: Norris Square Network
-  text: We are beginning to build out a community wireless network in the area around
-    [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8).
-    If you live there, you can either get connected or host an antenna to connect
-    your neighbors.
+  heading: La Red en Norris Square
+  text:Estamos comenzando a construir una red inalámbrica comunitaria en el área alrededor de [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8).
+   Si vives allí, puedes conectarte o alojar una antena para conectarte sus vecinos.
   link:
-    text: Get Connected
+    text: Conéctate
     href: getconnected/
   image:
     src: "/images/nsp_map.png"
@@ -29,11 +27,10 @@ segments:
   src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
   title: Philly Community Wireless promo video produced by the Big Picture Alliance.
 - template: call-to-action
-  heading: Join our volunteer team
-  text: Volunteers can handle anything from antenna installations to network management,
-    software development, community outreach, and much more.
+  heading: Únete a nuestro equipo de voluntarios
+  text: Los voluntarios pueden encargarse de cualquier cosa, desde la instalación de antenas hasta la gestión de redes, el desarrollo de software, el alcance comunitario y mucho más.
   link:
-    text: Get involved
+    text: Involúcrate
     href: volunteer/
 - template: image
   src: images/hero.jpg
