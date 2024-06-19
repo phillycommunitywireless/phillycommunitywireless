@@ -112,7 +112,7 @@ img.opos-top {
 .figure-center {
   display: flex;
   justify-content: center;
-  /* ????? */
+  /* center-align captions + photo attr credits */
   flex-direction: column;
   align-items: center;
 }
