@@ -240,7 +240,8 @@ You can create a new segment template by creating a `<type-name>.html` file in t
 ## Development server
 * To start the server: `docker-compose up -d`
 * To stop the server: `docker-compose down`
-* Server is at http://localhost:1337.
+* Server is at http://localhost:1313.
+  * **NOTE - Experienced an issue on Windows where hot reloading did not work and viewing changes required restarting the container. Fixed by adding `--poll 700ms` to `server -D` in `compose` file and rebuilding container - see [Forums](https://discourse.gohugo.io/t/hugo-serve-not-detecting-changes-in-docker/38775/3)**
 
 ### Deploy a staging site for demos
 * Install [hugo](https://gohugo.io/getting-started/installing/) and [surge](https://surge.sh/help/getting-started-with-surge). 
