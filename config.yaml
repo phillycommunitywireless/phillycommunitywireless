@@ -27,19 +27,22 @@ languages:
         - name: People
           url: "/people"
           weight: "5"
+        - name: Funders
+          url: "/funders"
+          weight: "6"
         - name: FAQ
           url: "/faq"
-          weight: "6"
+          weight: "7"
         - name: Donate
           url: https://phillycommunitywireless.allyrafundraising.com/
           params:
             external: true
-          weight: "7"
+          weight: "8"
         - name: Docs
           url: https://docs.phillycommunitywireless.org/en/latest/
           params:
             external: true
-          weight: "8"
+          weight: "9"
       footer:
         - name: Code of Conduct
           url: "/code-of-conduct"
@@ -68,19 +71,22 @@ languages:
         - name: Equipo
           url: "/people"
           weight: "5"
+        - name: Fundadores
+          url: "/funders"
+          weight: "6"
         - name: FAQ
           url: "/faq"
-          weight: "6"
+          weight: "7"
         - name: Donate
           url: https://phillycommunitywireless.allyrafundraising.com/
           params:
             external: true
-          weight: "7"
+          weight: "8"
         - name: Docs
           url: https://docs.phillycommunitywireless.org/es/latest/
           params:
             external: true
-          weight: "8"
+          weight: "9"
       footer:
         - name: Código de conducta
           url: "/code-of-conduct"

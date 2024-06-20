@@ -141,3 +141,29 @@ img.opos-top {
 }
 
 /* end adjustments to mobile footer */
+
+.funder-card {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  margin-bottom: 1em;
+}
+
+.funder-card img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.partner-card {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  margin-bottom: 1em;
+}
+
+.partner-card img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
