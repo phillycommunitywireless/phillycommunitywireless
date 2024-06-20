@@ -32,10 +32,32 @@ When the site is built, it will be rendered as follows:
 </figure>
 ```
 
+We've also added an additional css class `figure-center` for centering images/captions in the viewport 
+
+```text
+{{< figure class="figure-center" src="/images/elephant.jpg" title="An elephant at sunset" >}}
+```
+
+Which will render as so:
+
+```html
+<figure class="figure-center">
+  <img src="elephant.jpg">
+  <figcaption><h4>An elephant at sunset</h4></figcaption>
+</figure>
+```
+
+### Image Captions/Credits
+You can add image captions and credits using the `figure` shortcode's parameters `caption`, `attr`, and `attrlink`. When adding captions/credits, you will most likely want to use the `figure-center` class as well to ensure the text and image are properly aligned. 
+
+Additionally, the `caption` parameter will render any markdown in the argument - for example, `caption="*some caption here...*"` will render italicized - e.g, *some caption here*. 
+
+*An `attr` parameter with no/an empty `attrlink` will have no link styling -  to fix this, just use '#' for the value of `attrlink` - e.g, `attrlink='#'` *
+
 Here's an example use for a photo with attribution:
 
 ```text
-{{< figure src="/images/duck.jpg" alt="Rubber duck sitting in a bathtub." caption="Gerald relaxing in the bath." attr="Photo by me." attrlink="http://example.com/" >}}
+{{< figure class="figure-center" src="/images/treepr.jpg" alt="A tree with the Puerto Rican flag painted on the bottom branches." caption="A tree at NSNP." attr="Photo by me." attrlink="http://example.com/" >}}
 ```
 
 The `figure` shortcode can use the following named parameters:
@@ -240,7 +262,8 @@ You can create a new segment template by creating a `<type-name>.html` file in t
 ## Development server
 * To start the server: `docker-compose up -d`
 * To stop the server: `docker-compose down`
-* Server is at http://localhost:1337.
+* Server is at http://localhost:1313.
+  * **NOTE - Experienced an issue on Windows where hot reloading did not work and viewing changes required restarting the container. Fixed by adding `--poll 700ms` to `server -D` in `compose` file and rebuilding container - see [Forums](https://discourse.gohugo.io/t/hugo-serve-not-detecting-changes-in-docker/38775/3)**
 
 ### Deploy a staging site for demos
 * Install [hugo](https://gohugo.io/getting-started/installing/) and [surge](https://surge.sh/help/getting-started-with-surge). 
