@@ -240,7 +240,7 @@ You can create a new segment template by creating a `<type-name>.html` file in t
 
 After navigating to `static/images`, you can add funder logos in PNG, JPG/JPEG, or SVG formats to the folder titled `funders`.
 
-Then, you can create a new "funder card" on the Funders page (located in `content/en/funders.md` or `content/es/funders.md`) by following the format below and pasting it to the top of the `funders.md` file:
+Then, you can create a new "funder card" on the Funders page (located in `content/en/funders.md` or `content/es/funders.md`) by following the format below and pasting it to the top of the `funders.md` file below the `---` divider:
 
 (Parentheses here represent what should be replaced, for example: `(Organization Name)` -> `PCW`.)
 
