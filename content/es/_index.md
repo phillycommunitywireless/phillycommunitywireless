@@ -65,7 +65,7 @@ segments:
 
   # Image
   - template: image
-    src: images/hero.jpg
+    src: /images/hero.jpg
     alt: A Philly Community Wireless sign amongst some flowers in Norris Square Park
     class: opos-left
 
