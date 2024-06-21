@@ -19,10 +19,6 @@ alex@phillycommunitywireless.org
 Allan Gomez {{< fa cogs >}}  
 allan@phillycommunitywireless.org
 
-**Técnico**   
-Mir Detre {{< fa cogs >}}   
-mir@phillycommunitywireless.org
-
 **Community Engagement Liaison**  
 Chris Mehretab {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org
