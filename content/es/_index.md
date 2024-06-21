@@ -87,6 +87,6 @@ segments:
 
 Somos una coalición liderada por voluntarios de tecnólogos y organizadores que trabajan para construir redes de Internet inalámbricas controladas por la comunidad en Filadelfia. Estamos comprometidos con el crecimiento de la alfabetización tecnológica, la expansión del acceso a Internet y la construcción de la autonomía comunitaria con nuestros vecinos. **Creemos que el acceso a Internet es un derecho humano.**
 
-Para mantenernos actualizados sobre las nuevas oportunidades y el crecimiento de nuestra red comunitaria, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
+Para mantenernos actualizados sobre las nuevas oportunidades y el crecimiento de nuestra red comunitaria, [Suscríbete a nuestro boletín](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
 ¿Preguntas? Echa un vistazo a nuestro [FAQ](./faq).
