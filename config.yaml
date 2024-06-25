@@ -25,7 +25,7 @@ languages:
           url: "/about"
           weight: "4"
         - name: People
-          url: "/people"
+          url: "people/"
           weight: "5"
         - name: Funders
           url: "/funders"
