@@ -195,6 +195,7 @@ img.opos-top {
   #hamburger-menu
   {
     display: flex;
+    transition: transform 0.3s ease-in-out;
   }
 }
 
@@ -211,3 +212,8 @@ img.opos-top {
     display: none !important;
   }
 }
+
+.rotate {
+  transform: rotate(90deg);
+}
+

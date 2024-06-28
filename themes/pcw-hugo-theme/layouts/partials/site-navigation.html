@@ -29,12 +29,23 @@
 
 <!--Script to show/hide navigation content-->
 <script>
-  document.getElementById('hamburger-menu').addEventListener('click', function() {
-    var siteMenu = document.getElementById('site-menu');
-    if (siteMenu.style.display === 'none') {
-      siteMenu.style.display = 'block';
+  //stores the most recent status of the hamburger menu for mobile nav
+  var siteMenu = document.getElementById('site-menu');
+  var hamburgerMenu = document.getElementById('hamburger-menu');
+
+  // Update state when hamburger menu is clicked
+  hamburgerMenu.addEventListener('click', function() {
+    //Check if nav items are visible, if so then hamburger should be vertical
+    var isNavVisible = getComputedStyle(siteMenu).display !== 'none';
+
+    if (isNavVisible) {
+      siteMenu.classList.add('dn');
+      hamburgerMenu.classList.remove('rotate');
+      localStorage.setItem('menuShown', 'false');
     } else {
-      siteMenu.style.display = 'none';
+      siteMenu.classList.remove('dn');
+      hamburgerMenu.classList.add('rotate');
+      localStorage.setItem('menuShown', 'true');
     }
   });
 </script>
