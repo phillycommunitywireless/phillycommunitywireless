@@ -167,3 +167,47 @@ img.opos-top {
   height: 100px;
   object-fit: contain;
 }
+
+/*Hamburger style menu for mobile devices*/
+#hamburger-menu
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  cursor: pointer;
+}
+
+#hamburger-menu div
+{
+  width: 2rem;
+  height: 0.25rem;
+  background: white;
+}
+
+/*Show hamburger menu on small screens*/
+@media (max-width: 600px)
+{
+  #hamburger-menu
+  {
+    display: flex;
+  }
+}
+
+/*Hide hamburger menu on large screens*/
+@media (min-width: 601px)
+{
+  #site-menu
+  {
+    display: block !important; /*automatically displays nav items if width becomes >600px*/
+  }
+  
+  #hamburger-menu 
+  {
+    display: none !important;
+  }
+}
