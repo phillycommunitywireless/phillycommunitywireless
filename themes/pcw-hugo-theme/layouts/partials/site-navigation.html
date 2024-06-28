@@ -33,11 +33,15 @@
   var siteMenu = document.getElementById('site-menu');
   var hamburgerMenu = document.getElementById('hamburger-menu');
 
-  // Update state when hamburger menu is clicked
-  hamburgerMenu.addEventListener('click', function() {
-    //Check if nav items are visible, if so then hamburger should be vertical
-    var isNavVisible = getComputedStyle(siteMenu).display !== 'none';
+  //Set initial state of hamburger menu based on visibility of navigation
+  var isNavVisible = getComputedStyle(siteMenu).display !== 'none';
+  if (isNavVisible) {
+    hamburgerMenu.classList.add('rotate');
+  }
 
+  //Update state when hamburger menu is clicked
+  hamburgerMenu.addEventListener('click', function() {
+    isNavVisible = getComputedStyle(siteMenu).display !== 'none';
     if (isNavVisible) {
       siteMenu.classList.add('dn');
       hamburgerMenu.classList.remove('rotate');
