@@ -33,15 +33,14 @@
   var siteMenu = document.getElementById('site-menu');
   var hamburgerMenu = document.getElementById('hamburger-menu');
 
-  //Set initial state of hamburger menu based on visibility of navigation
-  var isNavVisible = getComputedStyle(siteMenu).display !== 'none';
-  if (isNavVisible) {
-    hamburgerMenu.classList.add('rotate');
+  //Hide menu content on small screens by default
+  if (window.innerWidth <= 600) {
+    siteMenu.classList.add('dn');
   }
 
   //Update state when hamburger menu is clicked
   hamburgerMenu.addEventListener('click', function() {
-    isNavVisible = getComputedStyle(siteMenu).display !== 'none';
+    var isNavVisible = getComputedStyle(siteMenu).display !== 'none';
     if (isNavVisible) {
       siteMenu.classList.add('dn');
       hamburgerMenu.classList.remove('rotate');
