@@ -60,7 +60,7 @@ Jessa Lingel Profesora Titular, Annenberg School for Communication, University o
     <meta name="generator" content="Hugo 0.111.3">
 
     
-<link rel="stylesheet" href="/pcw-hugo-theme/css/main.min.5ec42620178fbd7e98d551913a30e8856f7e99002b94349adde682aba42f7346.css" >
+<link rel="stylesheet" href="/pcw-hugo-theme/css/main.min.768851e37704eebaf640dcb3af725d41222afb8578ac80d43cd53f26772e56ea.css" >
 
 
 
@@ -142,14 +142,21 @@ Jessa Lingel Profesora Titular, Annenberg School for Communication, University o
     <a href="#main" class="absolute top--2 w-100 bg-white f4 b no-underline black pt1 tc">Skip to content</a>
     <style>[href="#main"]:focus { top: 0; }</style>
     <header class="flex flex-column">
-  <nav class="bg-pcw pa2 pl3-ns" role="navigation">
+  
+<nav class="bg-pcw pa2 pl3-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="/es/" class="f3 fw2 hover-white no-underline white-90 flex items-center">
       <img height="70" src="/images/WebLogo_Standard2.svg" alt="Philly Community Wireless"/>
     </a>
+    
+    <div id="hamburger-menu" class="dn db-l">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
     <div class="flex-l items-center">
       
-      <ul class="ph0 mb0-s lh-copy">
+      <ul id="site-menu" class="ph0 mb0-s lh-copy dn-l">
         
         <li class="list f4 fw4 dib pr4 pr3-s pt2 pb1">
           <a class="hover-white no-underline white-90" href="https://phillycommunitywireless.org/es/getconnected" title="Conéctate page">
@@ -221,6 +228,33 @@ Jessa Lingel Profesora Titular, Annenberg School for Communication, University o
     </div>
   </div>
 </nav>
+
+
+<script>
+  
+  var siteMenu = document.getElementById('site-menu');
+  var hamburgerMenu = document.getElementById('hamburger-menu');
+
+  
+  if (window.innerWidth <= 600) {
+    siteMenu.classList.add('dn');
+  }
+
+  
+  hamburgerMenu.addEventListener('click', function() {
+    var isNavVisible = getComputedStyle(siteMenu).display !== 'none';
+    if (isNavVisible) {
+      siteMenu.classList.add('dn');
+      hamburgerMenu.classList.remove('rotate');
+      localStorage.setItem('menuShown', 'false');
+    } else {
+      siteMenu.classList.remove('dn');
+      hamburgerMenu.classList.add('rotate');
+      localStorage.setItem('menuShown', 'true');
+    }
+  });
+</script>
+
 </header>
 
     <main role="main" id="main" tabindex="-1">
