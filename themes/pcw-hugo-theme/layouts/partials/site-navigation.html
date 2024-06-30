@@ -51,4 +51,13 @@
       localStorage.setItem('menuShown', 'true');
     }
   });
+
+    // auto show/hide menu items on screen resize
+    addEventListener("resize", (event) => {
+    if(window.innerWidth <= 600){
+      // set display-style to none, reset menu rotation
+      siteMenu.classList.add('dn')
+      hamburgerMenu.classList.remove('rotate');
+    } 
+  });
 </script>
