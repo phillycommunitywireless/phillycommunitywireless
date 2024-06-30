@@ -221,6 +221,15 @@ Please keep in mind that the heatmap is not accurate at the street-level, and if
       localStorage.setItem('menuShown', 'true');
     }
   });
+
+    
+    addEventListener("resize", (event) => {
+    if(window.innerWidth <= 600){
+      
+      siteMenu.classList.add('dn')
+      hamburgerMenu.classList.remove('rotate');
+    } 
+  });
 </script>
 
 </header>

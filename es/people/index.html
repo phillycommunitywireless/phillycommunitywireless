@@ -253,6 +253,15 @@ Jessa Lingel Profesora Titular, Annenberg School for Communication, University o
       localStorage.setItem('menuShown', 'true');
     }
   });
+
+    
+    addEventListener("resize", (event) => {
+    if(window.innerWidth <= 600){
+      
+      siteMenu.classList.add('dn')
+      hamburgerMenu.classList.remove('rotate');
+    } 
+  });
 </script>
 
 </header>

@@ -217,6 +217,15 @@ Cualquier área cubierta por el mapa de calor debe tener señal PCW disponible p
       localStorage.setItem('menuShown', 'true');
     }
   });
+
+    
+    addEventListener("resize", (event) => {
+    if(window.innerWidth <= 600){
+      
+      siteMenu.classList.add('dn')
+      hamburgerMenu.classList.remove('rotate');
+    } 
+  });
 </script>
 
 </header>

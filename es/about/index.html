@@ -221,6 +221,15 @@ Somos compatibles con los principios de neutralidad de la red y creemos que Inte
       localStorage.setItem('menuShown', 'true');
     }
   });
+
+    
+    addEventListener("resize", (event) => {
+    if(window.innerWidth <= 600){
+      
+      siteMenu.classList.add('dn')
+      hamburgerMenu.classList.remove('rotate');
+    } 
+  });
 </script>
 
 </header>
