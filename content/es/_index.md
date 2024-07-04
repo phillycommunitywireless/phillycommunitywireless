@@ -13,18 +13,12 @@ segments:
 - template: heading
   text: Current work
   divider: true
-- template: call-to-action-image
-  heading: Norris Square Network
-  text: We are beginning to build out a community wireless network in the area around
-    [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8).
-    If you live there, you can either get connected or host an antenna to connect
-    your neighbors.
+- template: call-to-action-map
+  heading: North Philadelphia Network
+  text: We are building a community wireless network in North Philadelphia, with a focus on the areas north of [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122, 19133, and other nearby zipcodes, reach out to get connected!
   link:
     text: Get Connected
     href: getconnected/
-  image:
-    src: "/images/nsp_map.png"
-    alt: A map image showing Norris Square Park and the surrounding area.
 - template: video
   src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
   title: Philly Community Wireless promo video produced by the Big Picture Alliance.
