@@ -7,6 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>People</title>
+      <link>https://phillycommunitywireless.org/people/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/people/</guid>
+      <description>= organizer = technologist = teacher = researcher
+Administrative Team Executive Director
+Alex Wermer-Colan alex@phillycommunitywireless.org
+Systems Administrator
+Allan Gomez allan@phillycommunitywireless.org
+Outreach Coordinator Leanne Przybylowski leanne@phillycommunitywireless.org
+Technician
+Eugene Ryoo eugene@phillycommunitywireless.org
+Community Engagement Liaison
+Chris Mehretab chris@phillycommunitywireless.org
+Installer Dylan Hutchinson dylan@phillycommunitywireless.org
+Board of Directors Will Dean Research and Data Services Librarian, Temple University Libraries
+Jonathan Latko Computer Recycling Center, Temple University
+Jessa Lingel Associate Professor, Annenberg School for Communication, University of Pennsylvania</description>
+    </item>
+    
+    <item>
       <title>Funders</title>
       <link>https://phillycommunitywireless.org/funders/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
@@ -24,28 +46,6 @@
       <description>To view the map in fullscreen, visit this webpage.
 Philly Community Wireless Wifi Coverage Map This map focuses on showing the overall network architecture. Points on the map represent outdoor wifi access points primarily. Any area covered by the heatmap should have PCW signal available for a free wifi connection.
 Please keep in mind that the heatmap is not accurate at the street-level, and if you cannot access the wifi network in any given space in the city, you may need to walk around a street corner.</description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>https://phillycommunitywireless.org/people/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/people/</guid>
-      <description>= organizer = technologist = teacher = researcher
-Administrative Team Executive Director
-Alex Wermer-Colan alex@phillycommunitywireless.org
-Systems Administrator
-Allan Gomez allan@phillycommunitywireless.org
-Outreach Coordinator Leanne Przybylowski leanne@phillycommunitywireless.org
-Technician
-Eugene Ryoo eugene@phillycommunitywireless.org
-Community Engagement Liaison
-Chris Mehretab chris@phillycommunitywireless.org
-Installer Dylan Hutchinson dylan@phillycommunitywireless.org
-Board of Directors Will Dean Research and Data Services Librarian, Temple University Libraries
-Jonathan Latko Computer Recycling Center, Temple University
-Jessa Lingel Associate Professor, Annenberg School for Communication, University of Pennsylvania</description>
     </item>
     
     <item>
