@@ -20,7 +20,7 @@ alex@phillycommunitywireless.org
 allan@phillycommunitywireless.org
 
 **Outreach Coordinator**     
-[Leanne Przybylowski](/es/leannep.md) {{< fa hands-helping >}}  
+[Leanne Przybylowski](/es/leannep) {{< fa hands-helping >}}  
 leanne@phillycommunitywireless.org    
 
 **Technician**  
@@ -28,11 +28,11 @@ leanne@phillycommunitywireless.org
 eugene@phillycommunitywireless.org  
 
 **Community Engagement Liaison**  
-[Chris Mehretab](es/chrism.md) {{< fa hands-helping >}}  
+[Chris Mehretab](es/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org  
 
 **Installer**     
-Dylan Hutchinson {{< fa cogs >}}  
+[Dylan Hutchinson](/es/dylanh) {{< fa cogs >}}  
 dylan@phillycommunitywireless.org  
 
 <br>
