@@ -24,7 +24,7 @@ allan@phillycommunitywireless.org
 leanne@phillycommunitywireless.org    
 
 **Technician**  
-Eugene Ryoo {{< fa cogs >}}  
+[Eugene Ryoo](/es/eugener) {{< fa cogs >}}  
 eugene@phillycommunitywireless.org  
 
 **Community Engagement Liaison**  
