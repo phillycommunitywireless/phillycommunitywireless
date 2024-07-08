@@ -19,17 +19,22 @@ alex@phillycommunitywireless.org
 Allan Gomez {{< fa cogs >}}  
 allan@phillycommunitywireless.org
 
-**Community Engagement Liaison**  
-Chris Mehretab {{< fa hands-helping >}}  
-chris@phillycommunitywireless.org
-
-**Install Lead**     
-Dylan Hutchinson {{< fa cogs >}}  
-dylan@phillycommunitywireless.org
-
 **Outreach Coordinator**     
 Leanne Przybylowski {{< fa hands-helping >}}  
-leanne@phillycommunitywireless.org
+leanne@phillycommunitywireless.org    
+
+**Technician**  
+Eugene Ryoo {{< fa cogs >}}  
+eugene@phillycommunitywireless.org  
+
+**Community Engagement Liaison**  
+Chris Mehretab {{< fa hands-helping >}}  
+chris@phillycommunitywireless.org  
+
+**Installer**     
+Dylan Hutchinson {{< fa cogs >}}  
+dylan@phillycommunitywireless.org  
+
 <br>
 
 ## Junta directiva
