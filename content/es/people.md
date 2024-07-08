@@ -28,7 +28,7 @@ leanne@phillycommunitywireless.org
 eugene@phillycommunitywireless.org  
 
 **Community Engagement Liaison**  
-[Chris Mehretab](es/chrism) {{< fa hands-helping >}}  
+[Chris Mehretab](/es/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org  
 
 **Installer**     
