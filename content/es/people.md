@@ -20,7 +20,7 @@ alex@phillycommunitywireless.org
 allan@phillycommunitywireless.org
 
 **Outreach Coordinator**     
-Leanne Przybylowski {{< fa hands-helping >}}  
+[Leanne Przybylowski](/es/leannep.md) {{< fa hands-helping >}}  
 leanne@phillycommunitywireless.org    
 
 **Technician**  
