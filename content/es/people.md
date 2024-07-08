@@ -28,7 +28,7 @@ Eugene Ryoo {{< fa cogs >}}
 eugene@phillycommunitywireless.org  
 
 **Community Engagement Liaison**  
-Chris Mehretab {{< fa hands-helping >}}  
+[Chris Mehretab](es/chrism.md) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org  
 
 **Installer**     
