@@ -69,6 +69,16 @@
   </url><url>
     <loc>https://phillycommunitywireless.org/allang/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/allang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/allang/"
+                />
   </url><url>
     <loc>https://phillycommunitywireless.org/chrism/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>

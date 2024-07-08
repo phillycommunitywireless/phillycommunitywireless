@@ -54,6 +54,19 @@
                 href="https://phillycommunitywireless.org/es/alexwc/"
                 />
   </url><url>
+    <loc>https://phillycommunitywireless.org/es/allang/</loc>
+    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/allang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/allang/"
+                />
+  </url><url>
     <loc>https://phillycommunitywireless.org/es/airmonitor/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
     <xhtml:link
