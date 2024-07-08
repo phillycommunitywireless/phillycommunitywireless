@@ -16,7 +16,7 @@ title: Equipo
 alex@phillycommunitywireless.org
 
 **Administrador de sistemas**   
-Allan Gomez {{< fa cogs >}}  
+[Allan Gomez](/es/allang) {{< fa cogs >}}  
 allan@phillycommunitywireless.org
 
 **Outreach Coordinator**     
