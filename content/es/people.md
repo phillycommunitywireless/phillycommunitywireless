@@ -12,7 +12,7 @@ title: Equipo
 ## Equipo administrativo
 
 **Director ejecutivo**  
-[Alex Wermer-Colan](/alexwc) {{< fa cogs >}}{{< fa vial >}}  
+[Alex Wermer-Colan](/alexwces) {{< fa cogs >}}{{< fa vial >}}  
 alex@phillycommunitywireless.org
 
 **Administrador de sistemas**   
