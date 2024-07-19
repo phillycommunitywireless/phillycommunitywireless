@@ -155,11 +155,21 @@ img.opos-top {
   object-fit: contain;
 }
 
-.partner-card {
+.partner-section {
   display: flex;
-  gap: 1em;
+  flex-wrap: wrap;
+}
+
+.partner-card {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
   align-items: center;
-  margin-bottom: 1em;
+  gap: 0.5em;
+  justify-content: center;
+  padding: 0.5em;
+  text-align: center;
+  margin: 0.5em;
 }
 
 .partner-card img {
