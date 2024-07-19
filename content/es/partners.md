@@ -5,6 +5,8 @@ title: "Partners"
 
 ## Socios comunitarios de Norris Square
 
+<div class="partner-section">
+
 <div class="partner-card">
     <img alt="Friends of Norris Square Park" src="/images/partners/fnsp.png"/>
     <div class="partner-desc">
@@ -60,9 +62,13 @@ title: "Partners"
     </div>
 </div>
 
+</div>
+
 <br/>
 
 ## Socios de la comunidad de Philadelphia
+
+<div class="partner-section">
 
 <div class="partner-card">
     <img alt="PhillyWisper" src="/images/partners/wisper.png"/>
@@ -124,4 +130,6 @@ title: "Partners"
     <div class="partner-desc">
         <a href="https://kctphilly.org/">Kensington Corridor Trust</a>
     </div>
+</div>
+
 </div>
