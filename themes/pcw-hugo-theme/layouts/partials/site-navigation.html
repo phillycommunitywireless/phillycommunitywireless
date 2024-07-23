@@ -15,7 +15,7 @@
       <ul id="site-menu" class="ph0 mb0-s lh-copy dn-l">
         {{ range .Site.Menus.main }}
         <li class="list f4 fw4 dib pr4 pr3-s pt2 pb1">
-          <a class="hover-white no-underline white-90" href="{{ .URL | absLangURL }}" title="{{ .Name }} page">
+          <a class="hover-white no-underline white-90" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
             {{ .Name }} {{ if .Params.External }} {{ partial "svg/external.svg" (dict "size" "12px" "color" "lightgrey") }} {{ end }}
           </a>
         </li>
