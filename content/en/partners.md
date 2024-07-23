@@ -57,6 +57,7 @@ title: "Partners"
 </div>
 
 <div class="partner-card">
+    <img alt="default PCW logo" src="/images/WebLogo_Inverted2.svg"/>
     <div class="partner-desc">
         <a href="https://iglesiasgardens.com/">Cesar Andreu Iglesias Gardens</a>
     </div>
@@ -120,6 +121,7 @@ title: "Partners"
 </div>
 
 <div class="partner-card">
+    <img alt="Temple University logo" src="/images/partners/temple.svg"/>
     <div class="partner-desc">
         <a href="https://lenfestcenter.temple.edu/Digital-Equality-Center">Temple University, Digital Equity Center</a>
     </div>
