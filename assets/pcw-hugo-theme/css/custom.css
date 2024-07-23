@@ -161,13 +161,11 @@ img.opos-top {
 }
 
 .partner-card {
-  width: 150px;
   display: flex;
+  flex: 1 1 200px;
   flex-direction: column;
   align-items: center;
   gap: 0.5em;
-  justify-content: center;
-  padding: 0.5em;
   text-align: center;
   margin: 0.5em;
 }
