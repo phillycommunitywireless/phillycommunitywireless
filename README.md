@@ -286,6 +286,23 @@ or, if the grant has a logo/website:
 </div>
 ```
 
+### Adding partner logos / new partners to Partners page
+
+After navigating to `static/images`, you can add partner logos in PNG, JPG/JPEG, or SVG formats to the folder titled `partners`.
+
+Then, you can create a new "partner card" on the Partners page (located in `content/en/partners.md` or `content/es/partners.md`) by following the format below and pasting it above the line saying `<!-- insert new Norris Square Community Partner above this line -->` if you are inserting a new Norris Square Community Partner, or `<!-- insert new Philly Community Partner above this line -->` if you are inserting a new Philly Community Partner.
+
+(Parentheses here represent what should be replaced, for example: `(Organization Name)` -> `PCW`.)
+
+```
+<div class="partner-card">
+    <img alt="(Organization Name)" src="/images/partners/(what you saved the logo as)"/>
+    <div class="partner-desc">
+        <a href="(organization's website)">(Organization Name)</a>
+    </div>
+</div>
+```
+
 # Local development
 ## Development server
 * To start the server: `docker-compose up -d`
