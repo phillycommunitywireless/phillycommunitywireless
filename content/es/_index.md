@@ -27,8 +27,8 @@ segments:
   heading: La Red en Norris Square
   text: Estamos construyendo una red inalámbrica comunitaria en el norte de Filadelfia, con un enfoque en las áreas al norte de [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). Si vives en los códigos postales 19122, 19133 y otros cercanos, ¡comunícate para conectarte!
   link:
-  text: Conéctate
-  href: getconnected/
+    text: Conéctate
+    href: getconnected/
 
 # Video embed
 - template: video
@@ -41,8 +41,8 @@ segments:
   heading: Únete a nuestro equipo de voluntarios
   text: Los voluntarios pueden encargarse de cualquier cosa, desde la instalación de antenas hasta la gestión de redes, el desarrollo de software, el alcance comunitario y mucho más.
   link:
-  text: Involúcrate
-  href: volunteer/
+    text: Involúcrate
+    href: volunteer/
   class: color-pcw-dark-blue
 
 # Divider
@@ -54,9 +54,9 @@ segments:
   heading: Apoya el proyecto
   text: Su dinero se destinará a equipos de redes, herramientas, materiales de capacitación y al pago de nuestro personal.
   link:
-  text: Donar
-  href: https://phillycommunitywireless.wedid.it
-  class: bg-green white
+    text: Donar
+    href: https://phillycommunitywireless.wedid.it
+    class: bg-green white
   class: color-pcw-dark-blue
 
 # Image
