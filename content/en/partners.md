@@ -57,7 +57,7 @@ title: "Partners"
 </div>
 
 <div class="partner-card">
-    <img alt="default PCW logo" src="/images/WebLogo_Inverted2.svg"/>
+    <img alt="Cesar Andreu Iglesias Gardens" src="/images/partners/caig.png"/>
     <div class="partner-desc">
         <a href="https://iglesiasgardens.com/">Cesar Andreu Iglesias Gardens</a>
     </div>
