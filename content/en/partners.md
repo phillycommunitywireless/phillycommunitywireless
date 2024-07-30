@@ -63,6 +63,8 @@ title: "Partners"
     </div>
 </div>
 
+<!-- insert new Norris Square Community Partner above this line -->
+
 </div>
 
 <br/>
@@ -133,5 +135,7 @@ title: "Partners"
         <a href="https://kctphilly.org/">Kensington Corridor Trust</a>
     </div>
 </div>
+
+<!-- insert new Philly Community Partner above this line -->
 
 </div>

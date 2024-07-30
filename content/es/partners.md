@@ -57,10 +57,13 @@ title: "Partners"
 </div>
 
 <div class="partner-card">
+    <img alt="Cesar Andreu Iglesias Gardens" src="/images/partners/caig.png"/>
     <div class="partner-desc">
         <a href="https://iglesiasgardens.com/">Cesar Andreu Iglesias Gardens</a>
     </div>
 </div>
+
+<!-- insert new Norris Square Community Partner above this line -->
 
 </div>
 
@@ -120,6 +123,7 @@ title: "Partners"
 </div>
 
 <div class="partner-card">
+    <img alt="Temple University logo" src="/images/partners/temple.svg"/>
     <div class="partner-desc">
         <a href="https://lenfestcenter.temple.edu/Digital-Equality-Center">Temple University, Digital Equity Center</a>
     </div>
@@ -131,5 +135,7 @@ title: "Partners"
         <a href="https://kctphilly.org/">Kensington Corridor Trust</a>
     </div>
 </div>
+
+<!-- insert new Philly Community Partner above this line -->
 
 </div>
