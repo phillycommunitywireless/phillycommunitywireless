@@ -164,46 +164,6 @@ _Ingeniero de software_
 
 <br/>
 
-## Socios comunitarios de Norris Square
-
-[Friends of Norris Square Park](https://www.facebook.com/friendsofnorrissquarepark/)
-
-[GALAEI](https://www.galaeiqtbipoc.org/)
-
-[Kensington Branch of the Free Library](https://libwww.freelibrary.org/locations/kensington-library)
-
-[Norris Square Community Alliance](https://www.nscaphila.org/)
-
-[Norris Square Neighborhood Project](https://myneighborhoodproject.org/)
-
-[Open Kitchen Sculpture Garden](https://www.facebook.com/theopenkitchensculpturegarden)
-
-[West Kensington Ministries](https://westkensingtonministry.com/)
-
-[Cesar Andreu Iglesias Gardens](https://iglesiasgardens.com/)
-
-<br/>
-
-## Socios de la comunidad de Philadelphia
-
-[Called to Serve](https://calledtoservecdc.org/)
-
-[Free Library of Philadelphia](https://www.freelibrary.org/)
-
-[HACE](https://www.hacecdc.org/)
-
-[Holobiont Lab](holobiontlab.org)
-
-[Village of the Arts and Humanities](http://spaces.villagearts.org/)
-
-[Philly Tech Justice](https://phillytechjustice.org/)
-
-[PhillyWisper](https://phillywisper.net/)
-
-[Temple University, Digital Equity Center](https://news.temple.edu/news/2021-08-25/old-community-center-provides-new-workforce-services)
-
-<br/>
-
 ## Organizaciones aliadas
 
 [Digital Harbor Foundation](https://www.digitalharbor.org/), Baltimore
