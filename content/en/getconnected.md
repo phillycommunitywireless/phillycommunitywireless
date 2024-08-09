@@ -19,6 +19,6 @@ If you live in a two-three story house, or in an larger apartment building, and 
 
 Installations can sometimes take an extended period of time to schedule. We are slowly growing out our network, and we appreciate your patience and assistance as we build the foundations. Please reach out to volunteer for a rooftop antenna or mesh kit, and we will work with you to provide you and your neighbors with free wifi service as soon as we can. 
 
-If you live within the range of our wifi network, we can bring you a mesh kit, like a hotspot or wifi extender, that we can easily install in your home on a short-term basis. If you need wifi in your home, please contact us specifically about getting a mesh kit.
+If you live within the range of our wifi network, we can bring you a mesh kit, like a hotspot or wifi extender, that we can easily install in your home on a short-term basis. 
 
 If you are currently outside our service area, we encourage you to still reach out if you need help accessing digital resources. We also encourage you to check out [available resources in Philadelphia](https://phillycommunitywireless.org/resources/) for accessing affordable computers, internet, and training in digital skills. 
