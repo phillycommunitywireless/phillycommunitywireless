@@ -139,3 +139,9 @@ title: "Partners"
 <!-- insert new Philly Community Partner above this line -->
 
 </div>
+
+<br/>
+
+## Funders
+
+For more information on our institutional funders, visit our [Funders page](/funders)

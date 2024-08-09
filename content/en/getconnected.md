@@ -7,7 +7,7 @@ title: "Get connected"
 
 If you live in the North Philadelphia neighborhoods of Fairhill, Kensington, and Norris Square, and want to get connected to free wireless internet, or host an antenna to connect your neighbors, please fill out our [Sign Up Form](https://forms.gle/Np8QAvWc1Q5XDgpB8)!
 
-{{< figure class="figure-center" src="/images/antenna_detail2.jpg" caption="*Receiver Antenna in Las Parcelas Gardens.*" attr="Image Credit - Unknown" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
+{{< figure class="figure-center" src="/images/antenna_detail2.jpg" caption="*PCW Antenna in NSNP's Las Parcelas Gardens pointing towards our highsite, Gotham Tower.*" attr="Grant Wythoff" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
 
 # The Installation Process
 
@@ -15,9 +15,11 @@ Philly Community Wireless works with PhillyWisper, a local wireless internet ser
 
 If you live in a two-three story house, or in an larger apartment building, and we can receive access to your roof, we can install non-penetrating roof mounts and run cables into your home to install a wifi access point. On the street level, we aim to install mesh kits in neighboring homes that help expand the network without requiring a rooftop antenna at each building.
 
+{{< figure class="figure-center" src="/images/iglesias_antenna_drone.JPG" caption="*Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens.*" attr="Eli LaBan" attrlink="#" alt="Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens, with writing visible on the street saying Not For Sale and No Me Voy" >}}
+
 # Timeline
 
-Installations can sometimes take an extended period of time to schedule. We are slowly growing out our network, and we appreciate your patience and assistance as we build the foundations. Please reach out to volunteer for a rooftop antenna or mesh kit, and we will work with you to provide you and your neighbors with free wifi service as soon as we can. 
+Installations can sometimes take an extended period of time to schedule and comnplete. We are expanding our network coverage every week, but we have more demand than we can meet, and a variety of obstacles, including line of sight, can impede our network's reach. We appreciate your patience and assistance as we build the foundations. Please reach out to volunteer for a rooftop antenna or mesh kit, and we will work with you to provide you and your neighbors with free wifi service as soon as we can. 
 
 If you live within the range of our wifi network, we can bring you a mesh kit, like a hotspot or wifi extender, that we can easily install in your home on a short-term basis. If you need wifi in your home, please contact us specifically about getting a mesh kit.
 

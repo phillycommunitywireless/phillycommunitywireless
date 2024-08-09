@@ -2,7 +2,7 @@
 title: "Volunteer"
 ---
 
-We love volunteers! We're a volunteer-led coalition working to build community controlled wireless internet networks in Philadelphia. Below we've outlined ways that volunteers can contribute.
+We love volunteers! We formed as a grassroots, entirely volunteer-led coalition working to build community controlled wireless internet networks in Philadelphia. We now have a dedicated team of staff and processes for onboarding volunteers from the Philly area and beyond to contribute to the organization and our network's growth in a variety of ways. Below we've outlined some of the ways that volunteers can contribute.
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://forms.gle/AKUgiHZnDvhECdhA8). 
 
@@ -12,7 +12,7 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
 _The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops throughout Philadelphia. Many of us are in the process of learning these skills, so if these skills are new to you, you'll be trained in a collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both ideal. Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you._{{% /notice %}}
 
 
-_Here are some of the skill areas we're currently looking for:_
+_Here are some of the skill areas we're looking for:_
 - Networking: network design, security, protocols, hardware, mesh, Linux/UNIX
 - Hardware & Cabling: terminating & testing CAT5e cable, mounting equipment on masonry
 - Installation: accessing rooftops, climbing a ladder, drilling into brick, securing cables
@@ -32,7 +32,7 @@ _The Outreach Team is actively seeking volunteers with Spanish language proficie
 {{% /notice %}}
 
 
-_Here are some of the skill areas we're currently looking for:_
+_Here are some of the skill areas we're looking for:_
 - Canvassing, Flyering, Tabling at events
 - Making Calls to Community Members
 - Photo & Video Documentation of Our Project

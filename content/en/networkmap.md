@@ -52,9 +52,9 @@ PCW is regularly installing additional rooftop hubs in North Philadelphia. Below
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [West Kensington Ministries](https://westkensingtonministry.com/)
 
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">planning install</span> [Open Kitchen Sculpture Garden](https://theopenkitchensculpturegarden.com/)
+<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">installed</span> Zion Baptist Ministry
 
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">planning install</span> Zion Baptist Ministry
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">planning install</span> [Open Kitchen Sculpture Garden](https://theopenkitchensculpturegarden.com/)
 
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Urban Creators Life Do Grow Farms
 
