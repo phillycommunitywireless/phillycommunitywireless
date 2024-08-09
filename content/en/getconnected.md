@@ -15,7 +15,7 @@ Philly Community Wireless works with PhillyWisper, a local wireless internet ser
 
 If you live in a two-three story house, or in an larger apartment building, and we can receive access to your roof, we can install non-penetrating roof mounts and run cables into your home to install a wifi access point. On the street level, we aim to install mesh kits in neighboring homes that help expand the network without requiring a rooftop antenna at each building.
 
-{{< figure class="figure-center" src="/images/iglesias_antenna_drone" caption="*Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens.*" attr="Eli LaBan" attrlink="#" alt="Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens, with writing visible on the street saying Not For Sale and No Me Voy" >}}
+{{< figure class="figure-center" src="/images/iglesias_antenna_drone.JPG" caption="*Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens.*" attr="Eli LaBan" attrlink="#" alt="Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens, with writing visible on the street saying Not For Sale and No Me Voy" >}}
 
 # Timeline
 
