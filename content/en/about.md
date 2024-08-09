@@ -5,11 +5,7 @@ title: "About"
 
 Our team includes six staff and over 50 volunteers from a wide array of local and national organizations. For more information, visit our [People page](/people).
 
-The Big Picture Alliance recently completed a documentary film about the early stages of the PCW project. Check it out on [YouTube](https://www.youtube.com/watch?v=FcReKkPl-6M).
-
-{{< youtube FcReKkPl-6M >}}
-
-For up to date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D)!
+For up to date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D) and follow us on social media.
 
 ## Vision
 
@@ -37,21 +33,27 @@ Community-managed and owned wireless mesh networks have cropped up across the Un
 
 Visit our [Docs](https://docs.phillycommunitywireless.org/en/latest/) for more info on the technical infrastructure and process.
 
+In 2022, the Big Picture Alliance completed a documentary film about the early stages of the PCW project and the larger mission of community technology and digital equity work today. Check it out on [YouTube](https://www.youtube.com/watch?v=FcReKkPl-6M).
+
+{{< youtube FcReKkPl-6M >}}
+
 ## What We Need
 
 > <p class="f3"><i>"Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills."</i></p>
 
 #### Antenna Hosts
 
-We are currently seeking community organizations and building owners in the Fairhill and Kensington neighborhoods who are willing to host network antennas on their rooftops, and to conduct community outreach about this free network connection. Please [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)!
+We are actively seeking community organizations and building owners in the Fairhill and Kensington neighborhoods who are willing to host network antennas on their rooftops, and to conduct community outreach about this free network connection. Please [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)!
+
+{{< figure class="figure-center" src="/images/iglesias_antenna_drone.JPG" caption="*Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens.*" attr="Eli LaBan" attrlink="#" alt="Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens, with writing visible on the street saying Not For Sale and No Me Voy" >}}
 
 #### Volunteers
 
-At the moment, we are seeking technologists with experience in network engineering to help install and maintain the wireless network infrastructure. We always welcome interested community organizations and residents to get involved with any aspect of the project and learn as you contribute. Summer 2022 we plan to run public training events to onboard new people. For more info on roles for volunteers and onboarding processes, see our [Volunteer page](https://phillycommunitywireless.org/volunteer/) 
+We We always welcome interested community organizations and residents to get involved with any aspect of the project and learn as you contribute. Summer 2022 we plan to run public training events to onboard new people. For more info on roles for volunteers and onboarding processes, see our [Volunteer page](https://phillycommunitywireless.org/volunteer/) 
 
 #### Fundraising
 
-We are looking for additional funding to purchase more hardware that will be donated to community members, including alternative technologies that could supplement our baseline service. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills. Please visit our [We Did It](https://phillycommunitywireless.wedid.it/) page to contribute! If you have any questions, don't hesitate to email us at phillycommunitywireless@gmail.com.
+We are looking for additional funding to purchase more hardware that will be donated to community members, including alternative technologies that could supplement our baseline service. Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills. Please visit our [We Did It](https://phillycommunitywireless.wedid.it/) page to contribute! If you have any questions, don't hesitate to email us at info@phillycommunitywireless.org.
 
 ## In the News
 
