@@ -30,6 +30,10 @@ Philly Community Wireless
 
 # How does it work?
 
+PCW collaborated with Big Picture Alliance and Eli Laban to create this animated infographic overviewing the architecture of community network and wireless mesh projects on [YouTube](https://www.youtube.com/embed/nmuGwgVoAgI).
+
+{{< youtube FcReKkPl-6M >}}
+    
 ## Wireless mesh networks
 
 PCW’s infrastructure depends on wireless broadband technologies, in particular, mesh networks, a distributed system of network routers which allow a single source of bandwidth to be shared among a broader group of users with very little cost or infrastructure required for connection.
