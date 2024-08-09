@@ -144,4 +144,4 @@ title: "Partners"
 
 ## Funders
 
-For more information on our institutional funders, visit our [Funders page](/funders.md)
+For more information on our institutional funders, visit our [Funders page](/funders)
