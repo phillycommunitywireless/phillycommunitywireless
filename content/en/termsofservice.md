@@ -10,7 +10,7 @@ Your use of the Service represents your agreement to the then-current Policy. If
 
 # Security Warning 
 
-The Service provides unsecured network and, as such, poses a risk that unauthorized persons can access your phone, laptop or other device or your communications over the network. PCWP recommends that you avoidFor this reason, you should avoid transmitting or accessing sensitive personal information while using the Service. By using the Service, you acknowledge and agree that (i) you are responsible for the security of your system and any transmissions you make or receive; and (ii) you understand the risks of unencrypted access to the Internet, and will take any all necessary security precautions, including encrypting confidential transmissions, backing up any data, and protecting your system with a firewall and robust user authentication. 
+The Service provides unsecured network and, as such, poses a risk that unauthorized persons can access your phone, laptop or other device or your communications over the network. For this reason, you should avoid transmitting or accessing sensitive personal information while using the Service. By using the Service, you acknowledge and agree that (i) you are responsible for the security of your system and any transmissions you make or receive; and (ii) you understand the risks of unencrypted access to the Internet, and will take any all necessary security precautions, including encrypting confidential transmissions, backing up any data, and protecting your system with a firewall and robust user authentication. 
 
 # Modifications to the Service / Updates to the Policy 
 
