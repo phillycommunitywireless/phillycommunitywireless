@@ -22,7 +22,7 @@ PCW is regularly installing additional rooftop hubs in North Philadelphia. Below
 
 <span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [New Kensington CDC](https://nkcdc.org)  
 
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">installed</span> [Zion Baptist Ministry](https://www.zionbaptphilly.org)  
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Zion Baptist Ministry](https://www.zionbaptphilly.org)  
 
 <span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">installed</span> [Taller Puertoriqueno](https://tallerpr.org/)  
 
