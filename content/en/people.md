@@ -149,6 +149,14 @@ Eli Laban, *Big Picture Alliance*
 
 Mir Detre, Former Technician
 
+## Former Volunteer Leads  
+
+Addie Barron, Former Tech Lead  
+
+Kate Goodman, Former Outreach Lead  
+
+Heather Lewis-Weber, Former Outreach Lead  
+
 ## Former Interns
 Francisco Oquendo, Urban Technology Project, 2024  
 
@@ -191,3 +199,10 @@ Anika Prakash, University of Pennsylvania, 2021
 ## Fiscal Sponsor
 
 [Movement Alliance Project](https://movementalliance.org/about/)
+
+<br/>
+
+## Legal Support
+
+[Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
+
