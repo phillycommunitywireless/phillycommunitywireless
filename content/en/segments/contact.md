@@ -6,10 +6,12 @@
 
 ## Socials
 
-{{< fa fab facebook >}} &nbsp;[/phillycommunitywireless](https://www.facebook.com/Philly-Community-Wireless-111328101173369/)
+{{< fa fab facebook >}} &nbsp;[/phillycommunitywireless](https://www.facebook.com/Philly-Community-Wireless-111328101173369/)  
 
-{{< fa fab instagram >}} &nbsp;[@phillycommunitywireless](https://www.instagram.com/phillycommunitywireless/)
+{{< fa fab instagram >}} &nbsp;[@phillycommunitywireless](https://www.instagram.com/phillycommunitywireless/)  
 
-{{< fa fab twitter >}} &nbsp;[@philly_wireless](https://www.twitter.com/philly_wireless/)
+{{< fa fab twitter >}} &nbsp;[@philly_wireless](https://www.twitter.com/philly_wireless/)  
 
-{{< fa fab mastodon >}} &nbsp;[@phillycommunitywireless](https://jawns.club/@phillycommunitywireless)
+{{< fa fab mastodon >}} &nbsp;[@phillycommunitywireless](https://jawns.club/@phillycommunitywireless)  
+
+{{< fa fab youtube >}} &nbsp;[Philly Community Wireless](https://www.youtube.com/channel/UCDguhllC44ZqauV6eDopShA)  
