@@ -51,6 +51,10 @@ languages:
           url: "/termsofservice"
           weight: "2"
     weight: "1"
+    params:
+      featured_text:
+        subtitle: Building community-controlled networks in Philadelphia
+        link: Learn more &rarr;
   es:
     languageName: Español
     contentDir: content/es
@@ -92,6 +96,10 @@ languages:
           url: "/code-of-conduct"
           weight: "1"
     weight: "2"
+    params:
+      featured_text:
+        subtitle: Construyendo redes controladas por la comunidad en Filadelfia
+        link: Aprende más &rarr;
 params:
   site_logo: "/images/WebLogo_Standard2.svg"
   site_logo_inverted: "/images/WebLogo_Inverted2.svg"
@@ -105,8 +113,6 @@ params:
       in the distance.
   featured_text:
     header: "/images/WebLogo_Standard.svg"
-    subtitle: Building community-controlled networks in Philadelphia
-    link: Learn more &rarr;
   background_color_class: bg-near-white black-60
   body_classes: calibre black
   custom_css:
@@ -114,7 +120,6 @@ params:
     - custom.css
     - focus-indicators.css
     - fonts.css
-
 markup:
   tableOfContents:
     startLevel: 0
