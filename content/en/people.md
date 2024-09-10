@@ -26,7 +26,7 @@ leanne@phillycommunitywireless.org
 [Eugene Ryoo](/eugener) {{< fa cogs >}}  
 eugene@phillycommunitywireless.org  
 
-**Community Engagement Liaison**  
+**Social Media Coordinator**  
 [Chris Mehretab](/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org
 
@@ -57,6 +57,9 @@ _NAC Program Director, HACE_
 
 Mark Steckel {{< fa cogs >}} \
 _Founder, PhillyWisper_
+
+Hailey Himlin {{< fa cogs >}} \
+_Coordinator, PhillyWisper_
 
 Devren Washington {{< fa hands-helping >}} \
 _Senior Policy Organizer, Movement Alliance Project_
@@ -147,6 +150,8 @@ Eli Laban, *Big Picture Alliance*
 Mir Detre, Former Technician
 
 ## Former Interns
+Francisco Oquendo, Urban Technology Project, 2024  
+
 Isaiah Weakes, Carnegie Mellon University, 2023
 
 Megha Govindu, Unviersity of Pennsylvania, 2023
