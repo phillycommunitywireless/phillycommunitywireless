@@ -12,37 +12,54 @@ languages:
     contentDir: content/en
     menu:
       main:
+        - name: Get Connected
+          identifier: get-connected
+          weight: "1"
         - name: Connect
           url: "/getconnected"
+          parent: get-connected
           weight: "1"
         - name: Volunteer
           url: "/volunteer"
+          parent: get-connected
           weight: "2"
-        - name: Map
-          url: "/networkmap"
-          weight: "3"
-        - name: About
-          url: "/about"
-          weight: "4"
-        - name: People
-          url: "/people"
-          weight: "5"
-        - name: Partners
-          url: "/partners"
-          weight: "6"
-        - name: FAQ
-          url: "/faq"
-          weight: "7"
         - name: Donate
           url: https://phillycommunitywireless.allyrafundraising.com/
           params:
             external: true
-          weight: "8"
+          parent: get-connected
+          weight: "3"
+
+        - name: About Us
+          identifier: about-us
+          weight: "2"
+        - name: About
+          url: "/about"
+          parent: about-us
+          weight: "1"
+        - name: People
+          url: "/people"
+          parent: about-us
+          weight: "2"
+        - name: Partners
+          url: "/partners"
+          parent: about-us
+          weight: "3"
+        - name: FAQ
+          url: "/faq"
+          parent: about-us
+          weight: "4"
+
+        - name: Map
+          url: "/networkmap"
+          weight: "3"
+
         - name: Docs
           url: https://docs.phillycommunitywireless.org/en/latest/
           params:
             external: true
-          weight: "9"
+          weight: "4"
+
       footer:
         - name: Code of Conduct
           url: "/code-of-conduct"
