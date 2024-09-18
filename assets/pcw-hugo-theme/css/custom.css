@@ -123,17 +123,13 @@ img.opos-top {
   flex-direction: row;
 }
 
-@media screen and (max-width: 60em) {
+@media screen and (max-width: 85em) {
   .m-footer {
     flex-direction: column;
     margin-top: 1em;
   }
   .m-footer .self-center {
     align-self: normal;
-  }
-  #right-footer {
-    text-align: left;
-    margin-left: -2em; /* get rid of list styling */
   }
   #footer-logo {
     margin-bottom: 1em;

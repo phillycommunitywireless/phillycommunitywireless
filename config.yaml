@@ -43,13 +43,6 @@ languages:
           params:
             external: true
           weight: "9"
-      footer:
-        - name: Code of Conduct
-          url: "/code-of-conduct"
-          weight: "1"
-        - name: Terms of Service
-          url: "/termsofservice"
-          weight: "2"
     weight: "1"
   es:
     languageName: Español
