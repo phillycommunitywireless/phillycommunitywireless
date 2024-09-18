@@ -1,33 +1,103 @@
-<footer class="pv2 ph3 ph5-m ph6-l {{ .Site.Params.background_color_class | default "bg-black-80" }}" role="contentinfo">
-  <div class="flex f4 p2 m-footer">
+<footer class="pv2 ph3 ph5-m ph6-l {{ .Site.Params.background_color_class | default " bg-black-80" }}"
+  role="contentinfo">
+  <div class="flex f4 p2 m-footer justify-between">
     <span class="self-center" style="margin-right: 2vw" id="footer-logo">
       <a class="f3 fw2 hover-white no-underline white-90 flex items-center" href="{{ .Site.Home.RelPermalink }}">
-      <img alt="{{ $.Site.Title }}" height="70" src="{{ $.Site.Params.site_logo_inverted }}"/>
-    </a>
-    </span>
-    <span class="flex-1 self-center">
-      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
-      <br />
-      <span class="f5">
-        {{ with .Site.Params.attribution }} 
+        <img alt="{{ $.Site.Title }}" height="70" src="{{ $.Site.Params.site_logo_inverted }}" />
+      </a>
+
+      <span class="flex-1 self-center">
+        &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+        <br />
+        <span class="f5">
+          {{ with .Site.Params.attribution }}
           {{ $name := .name | safeHTML }}
-          Site by 
-            {{ if (isset . "link") }} <a target="_blank" href="{{ .link }}">{{ $name }}</a> 
-            {{else}} {{$name}}
-            {{end}}
-        {{ end }}
+          Site by
+          {{ if (isset . "link") }} <a target="_blank" href="{{ .link }}">{{ $name }}</a>
+          {{else}} {{$name}}
+          {{end}}
+          {{ end }}
+        </span>
       </span>
+
     </span>
-    {{ if .Site.Menus.footer }}
-      <ul class="list db flex-1 tr" id="right-footer">
-        {{ range .Site.Menus.footer }}
-          <li class="pb2">
-            <a href="{{ .URL | relLangURL }}" title="{{ .Name }}">
-              {{ .Name }}
+
+    <ul class="list db pl0 pr4-l flex content-center items-center">
+      <li class="mr2 di">
+        <a href="https://www.facebook.com/Philly-Community-Wireless-111328101173369/" title="Facebook">
+          <!-- /phillycommunitywireless -->
+          <span class="fab fa-fab fa-facebook fa-2x black-60"></span>
+        </a>
+      </li>
+
+      <li class="ml2 mr2 di">
+        <a href="https://www.instagram.com/phillycommunitywireless/" title="Instagram">
+          <!-- @phillycommunitywireless -->
+          <span class="fab fa-fab fa-instagram fa-2x black-60"></span>
+        </a>
+      </li>
+
+      <li class="ml2 mr2 di">
+        <a href="https://www.twitter.com/philly_wireless/" title="Twitter">
+          <!-- @philly_wireless -->
+          <span class="fab fa-fab fa-twitter fa-2x black-60"></span>
+        </a>
+      </li>
+      <li class="ml2 mr2 di">
+        <a href="https://jawns.club/@phillycommunitywireless/" title="Mastodon">
+          <!-- @phillycommunitywireless -->
+          <span class="fab fa-fab fa-mastodon fa-2x black-60"></span>
+        </a>
+      </li>
+      <li class="ml2 di">
+        <a href="https://www.youtube.com/channel/UCDguhllC44ZqauV6eDopShA/" title="YouTube">
+          <!-- Philly Community Wireless -->
+          <span class="fab fa-fab fa-youtube fa-2x black-60"></span>
+        </a>
+      </li>
+    </ul>
+
+    <div class="flex m-footer">
+      <ul class="list db pl0 pr4-l">
+        <li class="pb2">
+          Located at <a class="pb0" href="http://myneighborhoodproject.org/">NSNP</a>
+        </li>
+
+        <li class="pb2">
+          <p class="mt0">
+            <span class="fab fa fa-location-arrow"></span>
+            2141 N Howard Street
+          </p>
+        </li>
+
+        <li class="pb2">
+          <a class="db" href="mailto:info@phillycommunitywireless.org">info@phillycommunitywireless.org</a>
+        </li>
+
+        <li class="pb2">
+          <p class="di">Sign up for
+            <a
+              href="https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631">
+              our newsletter!
             </a>
-          </li>
-        {{ end }}
+          </p>
+
+        </li>
       </ul>
-    {{ end }}
+
+      <ul class="list db pl0 pr4-l">
+        <li class="pb2">
+          <a href="/code-of-conduct" title="Code of Conduct">
+            Code of Conduct
+          </a>
+        </li>
+        <li class="pb-2">
+          <a href="/termsofservice" title="Terms of Service">
+            Terms of Service
+          </a>
+        </li>
+      </ul>
+    </div>
+
   </div>
 </footer>
