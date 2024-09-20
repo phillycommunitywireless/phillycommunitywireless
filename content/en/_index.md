@@ -20,12 +20,12 @@ segments:
 
   # Simple heading
   - template: heading
-    text: Current work
+    text: Current Work
 
   # Norris Square project
   - template: call-to-action-map
     heading: North Philadelphia Network
-    text: We are building a community wireless network in North Philadelphia, with a focus on the areas north of [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122, 19133, and other nearby zipcodes, reach out to get connected!
+    text: We are building a community wireless network in North Philadelphia, with a focus on the areas north of [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122, 19133, or 19134, reach out to get connected!
     link:
       text: Get Connected
       href: getconnected/
@@ -62,7 +62,7 @@ segments:
   # Image
   - template: image
     src: images/wifisign.jpg
-    alt: A Philly Community Wireless near southern entrance to Norris Square Park
+    alt: A Philly Community Wireless sign near southern entrance to Norris Square Park
     class: opos-left
     
   # Contact info
@@ -71,7 +71,11 @@ segments:
     class: contact
 ---
 
-We are a coalition of technologists and organizers working to build community controlled wireless internet networks in Philadelphia. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We believe that **internet access is a human right**.
+We are a coalition of technologists and organizers working to build community-controlled wireless internet networks in Philadelphia. 
+
+We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We actively partner with affordable housing organizations and other local groups focused on investing in existing communities. We believe that **internet access is a human right**.
+
+By developing an alternative model for expanding broadband access and adoption, PCW empowers communities to be involved in the construction, maintenance, and design of a public utility to provide sustainable connectivity for everyone in the neighborhood.
 
 To stay up-to-date on new opportunities and growth of our community network, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
