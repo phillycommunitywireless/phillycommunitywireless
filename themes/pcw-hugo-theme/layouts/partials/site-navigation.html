@@ -9,7 +9,7 @@
       <div></div>
       <div></div>
     </div>
-    <div class="flex-l items-center">
+    <div class="flex items-center flex-column flex-row-m flex-row-l">
       {{ if .Site.Menus.main }}
       <ul id="site-menu" class="ph0 mb0-s lh-copy dn-l">
         {{ range .Site.Menus.main }}
@@ -49,6 +49,7 @@
   //stores the most recent status of the hamburger menu for mobile nav
   var siteMenu = document.getElementById('site-menu');
   var hamburgerMenu = document.getElementById('hamburger-menu');
+  var translations = document.getElementById('translations')
 
   //Hide menu content on small screens by default
   if (window.innerWidth <= 600) {
@@ -60,10 +61,12 @@
     var isNavVisible = getComputedStyle(siteMenu).display !== 'none';
     if (isNavVisible) {
       siteMenu.classList.add('dn');
+      translations.classList.add('dn')
       hamburgerMenu.classList.remove('rotate');
       localStorage.setItem('menuShown', 'false');
     } else {
       siteMenu.classList.remove('dn');
+      translations.classList.remove('dn')
       hamburgerMenu.classList.add('rotate');
       localStorage.setItem('menuShown', 'true');
     }

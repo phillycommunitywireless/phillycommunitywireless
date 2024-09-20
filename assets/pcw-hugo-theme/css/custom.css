@@ -210,6 +210,18 @@ img.opos-top {
     display: flex;
     transition: transform 0.3s ease-in-out;
   }
+
+  #site-menu {
+    max-width: 50%;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;  
+    margin-bottom: 0;
+  }
+
+  #site-menu li {
+    display: block;
+  }
 }
 
 /*Hide hamburger menu on large screens*/
