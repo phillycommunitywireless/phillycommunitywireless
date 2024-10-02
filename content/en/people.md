@@ -59,7 +59,7 @@ Mark Steckel {{< fa cogs >}} \
 _Founder, PhillyWisper_
 
 Hailey Himlin {{< fa cogs >}} \
-_Coordinator, PhillyWisper_
+_Office Adminstrator, PhillyWisper_
 
 Devren Washington {{< fa hands-helping >}} \
 _Senior Policy Organizer, Movement Alliance Project_
