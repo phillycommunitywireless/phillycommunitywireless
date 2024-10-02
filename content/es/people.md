@@ -19,19 +19,19 @@ alex@phillycommunitywireless.org
 [Allan Gomez](/es/allang) {{< fa cogs >}}  
 allan@phillycommunitywireless.org
 
-**Outreach Coordinator**     
+**Coordinador comunitario**     
 [Leanne Przybylowski](/es/leannep) {{< fa hands-helping >}}  
 leanne@phillycommunitywireless.org    
 
-**Technician**  
+**Técnico**  
 [Eugene Ryoo](/es/eugener) {{< fa cogs >}}  
 eugene@phillycommunitywireless.org  
 
-**Community Engagement Liaison**  
+**Administrador de redes sociales**  
 [Chris Mehretab](/es/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org  
 
-**Installer**     
+**Instalador**     
 [Dylan Hutchinson](/es/dylanh) {{< fa cogs >}}  
 dylan@phillycommunitywireless.org  
 
@@ -60,6 +60,9 @@ _Director del Programa NAC, HACE_
 Mark Steckel {{< fa cogs >}} \
 _Fundador, PhillyWisper_
 
+Hailey Himlin {{< fa cogs >}} \
+_Administradora de oficina, PhillyWisper_
+
 Devren Washington {{< fa hands-helping >}} \
 _Organizador Senior de Políticas, Movement Alliance Project_
 
@@ -86,6 +89,15 @@ _Ingeniero informático_
 John Center {{< fa cogs >}} \
 _Ingeniero de redes, retirado_
 
+Felipe Valdez {{< fa cogs >}} \
+_Especialista de GIS_  
+
+Dan Zygmund-Felt {{< fa cogs >}} \
+_Ingeniero de redes_  
+
+David Berman {{< fa vial >}} \
+_Profesor Asistente, Seton Hall_  
+
 ## Socios adicionales
 
 Adam Bouhmad {{< fa cogs >}} \
@@ -103,9 +115,6 @@ _Digital Harbor Foundation (Baltimore)_
 Raul Enriquez {{< fa cogs >}} \
 _Community Tech NY (New York)_
 
-Kate Goodman {{< fa hands-helping >}} \
-_Community Initiatives Specialist, Free Library of Philadelphia_
-
 Colby Hollabaugh {{< fa cogs >}} \
 _Meta Mesh (Pittsburgh)_
 
@@ -113,7 +122,7 @@ Ani Martinez {{< fa hands-helping >}} \
 _Remake Learning (Pittsburgh)_
 
 Franca Muller Paz {{< fa graduation-cap >}} \
-_Baltimore Teachers Union (Baltimore)_
+_Sindicato de maestros de Baltimore_
 
 Dave Onion {{< fa cogs >}} \
 _Dialectólogo, Holobiont Lab_
@@ -122,7 +131,7 @@ Jennifer Oxenford {{< fa cogs >}} \
 _Directora, Member Services and NYC Dark Fiber Program at NYSERNet_
 
 Houman Saberi {{< fa cogs >}} \
-_Community Tech NY (New York)_
+_Community Tech NY (New York)_  
 
 ## Diseño gráfico
 
@@ -132,7 +141,23 @@ Katie Garth
 
 Eli Laban, *Big Picture Alliance*
 
+<br/>
+
+## Antiguo Personal
+
+Mir Detre, Former Technician
+
+## Antiguos líderes voluntarios  
+
+Addie Barron, Tech Lead  
+
+Kate Goodman, Outreach Lead  
+
+Heather Lewis-Weber, Outreach Lead 
+
 ## Antiguos internos
+
+Francisco Oquendo, Urban Technology Project, 2024  
 
 Isaiah Weakes, Carnegie Mellon University, 2023
 
@@ -147,20 +172,6 @@ Chris Mehretab, Temple University, 2021
 Sarah Fingerhood, University of Pennsylvania, 2021
 
 Anika Prakash, University of Pennsylvania, 2021
-
-## Voluntarios adicionales
-
-Felipe Valdez {{< fa cogs >}} \
-_Especialista en SIG_
-
-David Berman {{< fa cogs >}} \
-_Becario postdoctoral_
-
-Jen Meagher {{< fa cogs >}} \
-_Directora de productos_
-
-Tim Traversy {{< fa cogs >}} \
-_Ingeniero de software_
 
 <br/>
 
@@ -187,3 +198,9 @@ _Ingeniero de software_
 ## Patrocinador fiscal
 
 [Movement Alliance Project](https://movementalliance.org/about/)
+
+<br/>
+
+## Apoyo jurídico
+
+[Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
