@@ -77,6 +77,6 @@ Estamos comprometidos con el crecimiento de la alfabetización tecnológica, la 
 
 Al desarrollar un modelo alternativo para ampliar el acceso y la adopción de la banda ancha, PCW capacita a las comunidades para que participen en la construcción, el mantenimiento y el diseño de un servicio público que proporcione una conectividad sostenible para todos los habitantes del barrio.
 
-Para mantenerse actualizado sobre las nuevas oportunidades y el crecimiento de nuestra red comunitaria, [Suscríbete a nuestro boletín](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
+Para mantenerte actualizado sobre las nuevas oportunidades y el crecimiento de nuestra red comunitaria, [Suscríbete a nuestro boletín](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
 ¿Preguntas? Echa un vistazo a nuestro [FAQ](./faq).
