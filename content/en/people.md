@@ -26,7 +26,7 @@ leanne@phillycommunitywireless.org
 [Eugene Ryoo](/eugener) {{< fa cogs >}}  
 eugene@phillycommunitywireless.org  
 
-**Social Media Coordinator**  
+**Community Engagement Liason**  
 [Chris Mehretab](/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org
 
