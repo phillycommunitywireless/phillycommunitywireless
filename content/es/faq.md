@@ -4,7 +4,7 @@ title: Preguntas más frecuentes
 toc: true
 ---
 
-# ¿Quiénes somos?
+# ¿Quien Somos Nosotros?
 
 ## ¿Qué es Philly Community Wireless?
 
