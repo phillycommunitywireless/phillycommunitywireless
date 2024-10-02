@@ -93,7 +93,7 @@ Dan Zygmund-Felt {{< fa cogs >}} \
 _Software Engineer_  
 
 David Berman {{< fa vial >}} \
-_Postdoctoral Fellow_  
+_Assistant Professor, Seton Hall_  
 
 
 ## Additional Partners
@@ -111,9 +111,6 @@ _Digital Harbor Foundation (Baltimore)_
 
 Raul Enriquez {{< fa cogs >}} \
 _Community Tech NY (New York)_
-
-Kate Goodman {{< fa hands-helping >}} \
-_Community Initiatives Specialist, Free Library of Philadelphia_
 
 Colby Hollabaugh {{< fa cogs >}} \
 _Meta Mesh (Pittsburgh)_
