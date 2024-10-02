@@ -12,7 +12,7 @@
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/partners/</guid>
-      <description>Socios comunitarios de Norris Square Friends of Norris Square Park GALAEI Kensington Branch of the Free Library Xiente (formerly Norris Square Community Alliance) Norris Square Neighborhood Project Open Kitchen Sculpture Garden West Kensington Ministries Cesar Andreu Iglesias Gardens Socios de la comunidad de Philadelphia PhillyWisper Called to Serve Free Library of Philadelphia HACE Holobiont Lab Village of the Arts and Humanities Philly Tech Justice Temple University, Digital Equity Center Kensington Corridor Trust </description>
+      <description>Socios comunitarios de Norris Square Friends of Norris Square Park GALAEI Kensington Branch of the Free Library Xiente (anteriormente Norris Square Community Alliance) Norris Square Neighborhood Project Open Kitchen Sculpture Garden West Kensington Ministries Cesar Andreu Iglesias Gardens Socios de la comunidad de Philadelphia PhillyWisper Called to Serve Free Library of Philadelphia HACE Holobiont Lab Village of the Arts and Humanities Philly Tech Justice Temple University, Digital Equity Center Kensington Corridor Trust Funders Para más información sobre nuestros financiadores institucionales, visite nuestra página Fundadores.</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@ Cualquier área cubierta por el mapa de calor debe tener señal PCW disponible p
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/faq/</guid>
-      <description>¿Qué es Philly Community Wireless? Philly Community Wireless es una organización comunitaria que desarrolla redes de malla de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros de escuelas públicas y personal del Ayuntamiento de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla operadas y propiedad de la comunidad.
+      <description>¿Quien Somos Nosotros? ¿Qué es Philly Community Wireless? Philly Community Wireless es una organización comunitaria que desarrolla redes de malla de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros de escuelas públicas y personal del Ayuntamiento de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla operadas y propiedad de la comunidad.
 Las redes de malla permiten compartir una única conexión a Internet entre un grupo más amplio de usuarios con muy poco coste o infraestructura necesaria.</description>
     </item>
     
@@ -116,9 +116,8 @@ If their air quality is good in their area How it compares to other parts of the
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/about/</guid>
-      <description>El Proyecto Nuestro equipo incluye seis personal y mas de 50 voluntarios de una amplia gama de organizaciones locales y nacionales. Para obtener más información, visite nuestra página Equipo.
-Los Valores Creemos que el acceso a Internet es un derecho humano fundamental y que la tecnología inalámbrica independiente, de propiedad comunitaria y operada es un medio sostenible y escalable de inclusión digital.
-Somos compatibles con los principios de neutralidad de la red y creemos que Internet debe proporcionarse sin necesidad de limitación, calificación cero y seguimiento y monetización del comportamiento de los usuarios.</description>
+      <description>Nuestro equipo incluye seis personal y mas de 50 voluntarios de una amplia gama de organizaciones locales y nacionales. Para obtener más información, visite nuestra página Equipo.
+La Meta Justo antes del golpe de la pandemia COVID-19, un estudio detallado publicado por el Banco de la Reserva Federal de Filadelfia encontró que apenas el 53% de los residentes negros y el 44% de los residentes de Latinx en Filadelfia tienen conexiones de banda ancha (Álvaro 2020).</description>
     </item>
     
     <item>
@@ -128,7 +127,8 @@ Somos compatibles con los principios de neutralidad de la red y creemos que Inte
       
       <guid>https://phillycommunitywireless.org/es/getconnected/</guid>
       <description>Conéctate
-Si vive en los barrios de Fairhill, Kensington y Norris Square, en el norte de Filadelfia, y desea conectarse a Internet inalámbrico gratuito o alojar una antena para conectar a sus vecinos, complete nuestro formulario de inscripción!</description>
+Si vives en los barrios de Fairhill, Kensington y Norris Square, en el norte de Filadelfia, y desea conectarse a Internet inalámbrico gratuito o alojar una antena para conectar a sus vecinos, complete nuestro formulario de inscripción!
+El proceso de instalación Philly Community Wireless trabaja con PhillyWisper, un proveedor local de servicios inalámbricos de Internet, para instalar antenas en los tejados que utilizamos para compartir una red wifi gratuita a los residentes del barrio y a los espacios públicos.</description>
     </item>
     
     <item>
@@ -142,12 +142,12 @@ Equipo administrativo Director ejecutivo
 Alex Wermer-Colan alex@phillycommunitywireless.org
 Administrador de sistemas
 Allan Gomez allan@phillycommunitywireless.org
-Outreach Coordinator Leanne Przybylowski leanne@phillycommunitywireless.org
-Technician
+Coordinador comunitario Leanne Przybylowski leanne@phillycommunitywireless.org
+Técnico
 Eugene Ryoo eugene@phillycommunitywireless.org
-Community Engagement Liaison
+Administrador de redes sociales
 Chris Mehretab chris@phillycommunitywireless.org
-Installer Dylan Hutchinson dylan@phillycommunitywireless.org
+Instalador Dylan Hutchinson dylan@phillycommunitywireless.org
 Junta directiva Will Dean Bibliotecario de Servicios de Investigación y Datos, Temple University Libraries
 Jonathan Latko Centro de Reciclaje de Computadoras, Temple University
 Jessa Lingel Profesora Titular, Annenberg School for Communication, University of Pennsylvania</description>
@@ -161,7 +161,7 @@ Jessa Lingel Profesora Titular, Annenberg School for Communication, University o
       <guid>https://phillycommunitywireless.org/es/volunteer/</guid>
       <description>¡Nos encantan los voluntarios! Somos una coalición liderada por voluntarios que trabaja para construir redes de Internet inalámbricas controladas por la comunidad en Filadelfia. A continuación hemos esbozado las maneras en que los voluntarios pueden contribuir.
 Si está interesado en participar, rellene nuestro formulario de inscripción como voluntario.
-Voluntarios tecnológicos El equipo técnico está buscando voluntarios para ayudar con nuestro proceso de instalación: Asistir a entrenamientos en persona en Norris Square, configurar nuestro hardware de red e instalar equipos en hogares y en tejados.</description>
+Voluntarios tecnológicos El equipo técnico está buscando voluntarios para ayudar con nuestro proceso de instalación: Asistiendo a entrenamientos en persona en Norris Square, Configurando nuestro hardware de red e Instalando equipos en hogares y en tejados.</description>
     </item>
     
     <item>
@@ -170,9 +170,8 @@ Voluntarios tecnológicos El equipo técnico está buscando voluntarios para ayu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/contact/</guid>
-      <description>Contáctenos phillycommunitywireless@gmail.com
-215-316-5761
-Encuentranos en Facebook</description>
+      <description>Contáctenos info@phillycommunitywireless.org
+215-316-5761</description>
     </item>
     
     <item>
