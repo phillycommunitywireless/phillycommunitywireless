@@ -4,6 +4,8 @@ title: Preguntas más frecuentes
 toc: true
 ---
 
+# ¿Quiénes somos?
+
 ## ¿Qué es Philly Community Wireless?
 
 Philly Community Wireless es una organización comunitaria que desarrolla redes de malla de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros de escuelas públicas y personal del Ayuntamiento de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla operadas y propiedad de la comunidad.
@@ -26,25 +28,17 @@ La red wifi pública gratuita debe ser accesible en la mayoría de las zonas del
 
 Philly Community Wireless
 
-## ¿Cómo funciona?
+# ¿Cómo funciona?
 
-Para obtener información técnica sobre el proyecto, consulte nuestra [página de Documentos.](https://docs.phillycommunitywireless.org/en/latest/)
-
-## ¿Cómo me registro para conectarme?
-
-Si desea alojar una antena en la azotea o un kit de malla en su casa, rellene el formulario de inscripción y busque un correo electrónico con los siguientes pasos. Si tiene alguna pregunta, o desea ofrecerse como voluntario con Philly Community Wireless, puede ponerse en contacto por correo electrónico en phillycommunitywireless@gmail.com.
+Para obtener información técnica sobre el proyecto, consulte nuestra [página de Documentos.](https://docs.phillycommunitywireless.org/es/latest/)
 
 ## ¿Es esto realmente gratis? ¿Será siempre gratis?
 
-Sí, siempre y cuando exista PCW. Nunca le pediremos su información de pago.
+Sí, siempre y cuando exista PCW. Nunca te pediremos tu información de pago.
 
 ## ¿Qué tan rápida/estable será la conexión?
 
 No podemos prometer una conexión coherente en ninguna zona determinada, pero nuestro objetivo es proporcionar al menos 25 Mbps de velocidad de descarga en espacios públicos y privados. Muchas áreas de nuestra red reciben actualmente velocidades de descarga más altas.
-
-## ¿Con quién me comunico si el wifi se te va?
-
-Comuníquese con nosotros a través del (215) 316-5761 o envíe un correo electrónico a phillycommunitywireless@gmail.com.
 
 ## ¿Qué tan segura es la red? ¿Quién puede acceder a nuestra información? ¿Cualquiera puede iniciar sesión en nuestro wifi?
 
@@ -58,16 +52,24 @@ Nada de lo que hagas en Internet debe considerarse completamente "privado".
 
 ## ¿Mi actividad o datos en Internet serán rastreados por un tercero?
 
-No.
+No. Consulte nuestra [página de privacidad.](https://phillycommunitywireless.org/es/privacy/)
 
-## ¿Cuál es su política de datos de usuario?
+# ¿Cómo puedo participar?
 
-Consulte nuestra [página de privacidad.](https://phillycommunitywireless.org/es/privacy/)
+## ¿Cómo me registro para conectarme?
+
+Si deseas alojar una antena en la azotea, rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) y recibirás un correo electrónico con los pasos a seguir.
+
+Si tienes alguna pregunta o quieres ser voluntario de Philly Community Wireless, escríbenos a info@phillycommunitywireless.org y consulta nuestra página [Voluntarios](https://phillycommunitywireless.org/es/volunteer/) para obtener más información.
 
 ## Si alopón una antena en mi techo, ¿cómo afecta esto a la integridad estructural de mi casa? ¿Se involucraría una perforación adicional?
 
 Algunas casas sólo necesitan una antena de malla interior, enchufada a una toma de pared. Para las casas que requieren una instalación en la azotea, una antena será conectada a una chimenea, o asegurada entre bloques de cemento etc. Siempre que sea posible usamos montajes de techo no penetrantes. Los cables pueden entrar en los agujeros existentes de su casa. Para obtener más información, consulte nuestra [página Docs sobre instalaciones en tejados.](https://docs.phillycommunitywireless.org/en/latest/rooftop%20installation/)
 
-## **¿Cuánto tiempo puedo permanecer conectado a la red?**
+## ¿Cuánto costará la electricidad para mantener la radio encendida?
 
-Fuera de las 9-5 PM horas de trabajo, para evitar el consumo involuntario de banda ancha, restableceremos las conexiones después de 6 horas, requiriendo que los usuarios se vuelvan a conectar al wifi.
+Calculamos unos 25 dólares al año para los costes eléctricos.
+
+## ¿Con quién debo ponerme en contacto en caso de avería?
+
+Comuníquete con nosotros llamando al (215) 316-5761 o enviando un correo electrónico a info@phillycommunitywireless.org.
