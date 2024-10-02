@@ -5,7 +5,7 @@ title: "About"
 
 Our team includes six staff and over 50 volunteers from a wide array of local and national organizations. For more information, visit our [People page](/people).
 
-We currently average approximately 150 concurrent users daily, and our network is spread over dozens of blocks throughout North Philadelphia. For up-to-date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D) and follow us on social media.
+For up-to-date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D) and follow us on social media.
 
 ## Vision
 
