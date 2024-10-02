@@ -26,7 +26,7 @@ leanne@phillycommunitywireless.org
 [Eugene Ryoo](/eugener) {{< fa cogs >}}  
 eugene@phillycommunitywireless.org  
 
-**Social Media Coordinator**  
+**Community Engagement Liason**  
 [Chris Mehretab](/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org
 
@@ -59,7 +59,7 @@ Mark Steckel {{< fa cogs >}} \
 _Founder, PhillyWisper_
 
 Hailey Himlin {{< fa cogs >}} \
-_Coordinator, PhillyWisper_
+_Office Adminstrator, PhillyWisper_
 
 Devren Washington {{< fa hands-helping >}} \
 _Senior Policy Organizer, Movement Alliance Project_
@@ -93,7 +93,7 @@ Dan Zygmund-Felt {{< fa cogs >}} \
 _Software Engineer_  
 
 David Berman {{< fa vial >}} \
-_Postdoctoral Fellow_  
+_Assistant Professor, Seton Hall_  
 
 
 ## Additional Partners
@@ -111,9 +111,6 @@ _Digital Harbor Foundation (Baltimore)_
 
 Raul Enriquez {{< fa cogs >}} \
 _Community Tech NY (New York)_
-
-Kate Goodman {{< fa hands-helping >}} \
-_Community Initiatives Specialist, Free Library of Philadelphia_
 
 Colby Hollabaugh {{< fa cogs >}} \
 _Meta Mesh (Pittsburgh)_
