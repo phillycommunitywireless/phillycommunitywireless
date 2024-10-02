@@ -15,38 +15,50 @@ Cualquier área cubierta por el mapa de calor debe tener señal PCW disponible p
 
 PCW está instalando regularmente centros adicionales en el norte de Filadelfia. A continuación puede ver la información de seguimiento de algunas de nuestras grandes instalaciones en varias etapas de planificación e implementación
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Park 
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [New Kensington CDC](https://nkcdc.org)  
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> West Kensington Ministries
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Zion Baptist Ministry](https://www.zionbaptphilly.org)  
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Neighborhood Project
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Taller Puertoriqueno](https://tallerpr.org/)  
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Las Parcelas and Colobo Gardens
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [HACE at Allegheny](https://www.hacecdc.org/)  
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Cesar Andreu Iglesias Gardens
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Kensington Corridor Trust Community Garden](https://kctphilly.org/)  
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Kensington branch of Free Library of Philadelphia
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Prevention Point](https://ppponline.org/)  
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Lillian Merrero branch of Free Library of Philadelphia
+<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Lillian Merrero branch of Free Library of Philadelphia](https://libwww.freelibrary.org/locations/lillian-marrero-library)  
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance multidwelling buildings
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Xiente](https://www.xiente.org/)  Children's Center  
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Norris Square Community Alliance St. Boniface School
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Xiente](https://www.xiente.org/) St. Boniface School  
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> GALAEI
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Cesar Andreu Iglesias Gardens](https://iglesiasgardens.com/)  
 
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> Clay Studio
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Clay Studio](https://www.theclaystudio.org/)  
 
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Open Kitchen Sculpture Garden
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [GALAEI](https://www.galaeiqtbipoc.org/)  
 
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Impact Services
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Kensington branch of Free Library of Philadelphia](https://libwww.freelibrary.org/locations/kensington-library)  
 
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">sites identified</span> Crane Arts
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Xiente](https://www.xiente.org/) multidwelling buildings  
 
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> HACE
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Las Parcelas and Colobo Gardens](https://www.philaplace.org/story/349/)  
 
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Urban Creators Life Do Grow Farms
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Norris Square Park](https://www.tclf.org/landscapes/norris-square-park)  
 
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Village of the Arts and Humanities
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Norris Square Neighborhood Project](https://myneighborhoodproject.org/)  
 
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Temple University Main Campus and Hospital
+<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [West Kensington Ministries](https://westkensingtonministry.com/)  
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">planeando una instalación</span> [Open Kitchen Sculpture Garden](https://theopenkitchensculpturegarden.com/)  
+
+<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">planeando una instalación</span> [Hace at Rafael Porrata-Doria Place](https://www.hacecdc.org/)  
+
+<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">en conversación</span> Urban Creators Life Do Grow Farms
+
+<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">en conversación</span> Impact Services
+
+<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">en conversación</span> Village of the Arts and Humanities
+
+<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">en conversación</span> Temple University Main Campus and Hospital
