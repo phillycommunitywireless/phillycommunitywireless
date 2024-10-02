@@ -139,3 +139,7 @@ title: "Partners"
 <!-- insert new Philly Community Partner above this line -->
 
 </div>
+
+## Funders
+
+Para más información sobre nuestros financiadores institucionales, visite nuestra página [Fundadores](https://phillycommunitywireless.org/es/funders/).
