@@ -24,8 +24,8 @@ segments:
 
 # Norris Square project
 - template: call-to-action-map
-  heading: La Red en Norris Square
-  text: Estamos construyendo una red inalámbrica comunitaria en el norte de Filadelfia, con un enfoque en las áreas al norte de [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). Si vives en los códigos postales 19122, 19133 y otros cercanos, ¡comunícate para conectarte!
+  heading: La Red en el norte de Filadelfia
+  text: Estamos construyendo una red inalámbrica comunitaria en el norte de Filadelfia, con un enfoque en las áreas al norte de [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). Si vives en los códigos postales 19122, 19133 o 19134, ¡comunícate para conectarte!
   link:
     text: Conéctate
     href: getconnected/
@@ -71,8 +71,12 @@ segments:
   class: contact
 ---
 
-Somos una coalición liderada por voluntarios de tecnólogos y organizadores que trabajan para construir redes de Internet inalámbricas controladas por la comunidad en Filadelfia. Estamos comprometidos con el crecimiento de la alfabetización tecnológica, la expansión del acceso a Internet y la construcción de la autonomía comunitaria con nuestros vecinos. **Creemos que el acceso a Internet es un derecho humano.**
+Somos una coalición liderada por tecnólogos y organizadores que trabajamos para construir redes inalámbricas de internet controladas por la comunidad en Filadelfia.  
 
-Para mantenernos actualizados sobre las nuevas oportunidades y el crecimiento de nuestra red comunitaria, [Suscríbete a nuestro boletín](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
+Estamos comprometidos con el crecimiento de la alfabetización tecnológica, la amplicación del acceso a Internet y la construcción de la autonomía comunitaria con nuestros vecinos. Colaboramos activamente con organizaciones de vivienda asequible y otros grupos locales centrados en invertir en las comunidades existentes. **Creemos que el acceso a Internet es un derecho humano.**
+
+Al desarrollar un modelo alternativo para ampliar el acceso y la adopción de la banda ancha, PCW capacita a las comunidades para que participen en la construcción, el mantenimiento y el diseño de un servicio público que proporcione una conectividad sostenible para todos los habitantes del barrio.
+
+Para mantenerse actualizado sobre las nuevas oportunidades y el crecimiento de nuestra red comunitaria, [Suscríbete a nuestro boletín](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
 ¿Preguntas? Echa un vistazo a nuestro [FAQ](./faq).
