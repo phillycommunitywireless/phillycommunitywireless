@@ -31,7 +31,7 @@ title: "Partners"
 <div class="partner-card">
     <img alt="Xiente" src="/images/partners/xiente.png"/>
     <div class="partner-desc">
-        <a href="https://www.xiente.org/">Xiente</a> (formerly Norris Square Community Alliance)
+        <a href="https://www.xiente.org/">Xiente</a> (anteriormente Norris Square Community Alliance)
     </div>
 </div>
 
@@ -139,3 +139,7 @@ title: "Partners"
 <!-- insert new Philly Community Partner above this line -->
 
 </div>
+
+## Funders
+
+Para más información sobre nuestros financiadores institucionales, visite nuestra página [Fundadores](https://phillycommunitywireless.org/es/funders/).

@@ -5,12 +5,7 @@ title: "About"
 
 Our team includes six staff and over 50 volunteers from a wide array of local and national organizations. For more information, visit our [People page](/people).
 
-PCW has grown substantially since our inception in 2020. Since our first installation in Fall 2021, we have seen 10x growth in the amount of unique devices that have used our network:  
-* In 2021: **300** unique devices
-* In 2022: **3,000** unique devices
-* In 2023: **30,000** unique devices 
-
-We currently average approximately 150 concurrent users daily, and our network is spread over dozens of blocks throughout North Philadelphia. For up-to-date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D) and follow us on social media.
+For up-to-date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D) and follow us on social media.
 
 ## Vision
 
