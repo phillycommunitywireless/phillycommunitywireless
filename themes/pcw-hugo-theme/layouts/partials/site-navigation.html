@@ -1,8 +1,7 @@
-
 <nav class="bg-pcw pa2 pl3-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white-90 flex items-center">
-      <img height="70" src="{{ $.Site.Params.site_logo }}" alt="{{ $.Site.Title }}"/>
+      <img height="70" src="{{ $.Site.Params.site_logo }}" alt="{{ $.Site.Title }}" />
     </a>
     <!-- Hamburger style menu. Only applies to devices with <=600px width -->
     <div id="hamburger-menu" class="dn db-l">
@@ -10,15 +9,33 @@
       <div></div>
       <div></div>
     </div>
-    <div class="flex-l items-center">
+    <div id="site-menu-container" class="flex items-center flex-column flex-row-l">
       {{ if .Site.Menus.main }}
       <ul id="site-menu" class="ph0 mb0-s lh-copy dn-l">
         {{ range .Site.Menus.main }}
-        <li class="list f4 fw4 dib pr4 pr3-s pt2 pb1">
+        {{ if .HasChildren }}
+        <li class="list f4 fw4 dib pr4-l pt2 pb1 relative">
+          <a class="hover-white no-underline white-90 dropdown-toggle" href="javascript:void(0)"
+            title="{{ .Name }} page">
+            {{ .Name }} <span class="dropdown-arrow">▼</span>
+          </a>
+          <ul class="absolute bg-pcw pa3-l shadow-1 dn submenu ph2">
+            {{ range .Children }}
+            <li class="list f4 fw4 pt2 pb1 ph4 ph2-l">
+              <a class="hover-white no-underline white-90" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+                {{ .Name }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </li>
+        {{ else }}
+        <li class="list f4 fw4 dib pr4-l pt2 pb1">
           <a class="hover-white no-underline white-90" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
-            {{ .Name }} {{ if .Params.External }} {{ partial "svg/external.svg" (dict "size" "12px" "color" "lightgrey") }} {{ end }}
+            {{ .Name }}
           </a>
         </li>
+        {{ end }}
         {{ end }}
       </ul>
       {{ end }}
@@ -31,33 +48,102 @@
 <script>
   //stores the most recent status of the hamburger menu for mobile nav
   var siteMenu = document.getElementById('site-menu');
+  var siteMenuContainer = document.getElementById('site-menu-container');
   var hamburgerMenu = document.getElementById('hamburger-menu');
+  var translations = document.getElementById('translations')
 
   //Hide menu content on small screens by default
-  if (window.innerWidth <= 600) {
+  if (window.innerWidth <= 959) {
     siteMenu.classList.add('dn');
+    siteMenuContainer.classList.add('dn')
+    translations.classList.add('dn')
   }
 
   //Update state when hamburger menu is clicked
-  hamburgerMenu.addEventListener('click', function() {
+  hamburgerMenu.addEventListener('click', function () {
     var isNavVisible = getComputedStyle(siteMenu).display !== 'none';
     if (isNavVisible) {
       siteMenu.classList.add('dn');
+      siteMenu.classList.remove('flex')
+      translations.classList.add('dn')
       hamburgerMenu.classList.remove('rotate');
       localStorage.setItem('menuShown', 'false');
     } else {
       siteMenu.classList.remove('dn');
+      siteMenu.classList.add('flex')
+      translations.classList.remove('dn')
       hamburgerMenu.classList.add('rotate');
       localStorage.setItem('menuShown', 'true');
     }
   });
 
-    // auto show/hide menu items on screen resize
-    addEventListener("resize", (event) => {
-    if(window.innerWidth <= 600){
+  // auto show/hide menu items on screen resize
+  addEventListener("resize", (event) => {
+    if (window.innerWidth <= 959) {
       // set display-style to none, reset menu rotation
       siteMenu.classList.add('dn')
+      siteMenu.classList.remove('flex')
       hamburgerMenu.classList.remove('rotate');
-    } 
+      translations.classList.add('dn')
+    }
+  });
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var dropdownToggles = document.querySelectorAll('.dropdown-toggle');
+
+    // Add click event listener to each dropdown toggle
+    dropdownToggles.forEach(function (toggle) {
+      toggle.addEventListener('click', function (event) {
+        event.preventDefault(); // Prevent default link behavior
+
+        var parentLi = this.closest('li');
+        var submenu = parentLi.querySelector('.submenu');
+        var arrow = this.querySelector('.dropdown-arrow'); // Get the arrow element
+
+        // Toggle the visibility of the submenu
+        if (submenu) {
+          submenu.classList.toggle('dn'); // Toggle 'dn' class to show/hide submenu
+          arrow.classList.toggle('rotate-arrow'); // Toggle rotation of the arrow
+        }
+
+        // Close other open dropdowns
+        closeOtherDropdowns(this);
+      });
+    });
+
+    // Function to close other open dropdowns
+    function closeOtherDropdowns(currentToggle) {
+      dropdownToggles.forEach(function (toggle) {
+        if (toggle !== currentToggle) {
+          var otherSubmenu = toggle.closest('li').querySelector('.submenu');
+          var otherArrow = toggle.querySelector('.dropdown-arrow');
+          if (otherSubmenu) {
+            otherSubmenu.classList.add('dn'); // Hide other submenus
+          }
+          if (otherArrow) {
+            otherArrow.classList.remove('rotate-arrow'); // Reset other arrows
+          }
+        }
+      });
+    }
+
+    // Close dropdowns when clicking outside
+    document.addEventListener('click', function (event) {
+      var isClickInsideMenu = event.target.closest('.dropdown-toggle') || event.target.closest('.submenu');
+
+      if (!isClickInsideMenu) {
+        // Close all dropdowns if the click is outside the dropdowns
+        dropdownToggles.forEach(function (toggle) {
+          var submenu = toggle.closest('li').querySelector('.submenu');
+          var arrow = toggle.querySelector('.dropdown-arrow');
+          if (submenu) {
+            submenu.classList.add('dn'); // Ensure it's hidden
+          }
+          if (arrow) {
+            arrow.classList.remove('rotate-arrow'); // Reset arrow rotation
+          }
+        });
+      }
+    });
   });
 </script>
