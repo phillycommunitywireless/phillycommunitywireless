@@ -205,7 +205,7 @@ img.opos-top {
 }
 
 /*Show hamburger menu on small screens*/
-@media (max-width: 600px) {
+@media (max-width: 959px) {
   #hamburger-menu {
     display: flex;
     transition: transform 0.3s ease-in-out;
@@ -217,6 +217,7 @@ img.opos-top {
     flex-direction: column;
     text-align: center;  
     margin-bottom: 0;
+    margin-top: 0;
   }
 
   #site-menu li {
@@ -225,7 +226,7 @@ img.opos-top {
 }
 
 /*Hide hamburger menu on large screens*/
-@media (min-width: 601px) {
+@media (min-width: 960px) {
   #site-menu {
     display: block !important;
     /*automatically displays nav items if width becomes >600px*/

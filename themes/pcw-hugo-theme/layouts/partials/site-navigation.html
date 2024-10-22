@@ -9,12 +9,12 @@
       <div></div>
       <div></div>
     </div>
-    <div class="flex items-center flex-column flex-row-m flex-row-l">
+    <div id="site-menu-container" class="flex items-center flex-column flex-row-l">
       {{ if .Site.Menus.main }}
       <ul id="site-menu" class="ph0 mb0-s lh-copy dn-l">
         {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
-        <li class="list f4 fw4 dib pr4 pr3-s pt2 pb1 relative">
+        <li class="list f4 fw4 dib pr4-l pt2 pb1 relative">
           <a class="hover-white no-underline white-90 dropdown-toggle" href="javascript:void(0)"
             title="{{ .Name }} page">
             {{ .Name }} <span class="dropdown-arrow">▼</span>
@@ -30,7 +30,7 @@
           </ul>
         </li>
         {{ else }}
-        <li class="list f4 fw4 dib pr4 pr3-s pt2 pb1">
+        <li class="list f4 fw4 dib pr4-l pt2 pb1">
           <a class="hover-white no-underline white-90" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
             {{ .Name }}
           </a>
@@ -48,12 +48,15 @@
 <script>
   //stores the most recent status of the hamburger menu for mobile nav
   var siteMenu = document.getElementById('site-menu');
+  var siteMenuContainer = document.getElementById('site-menu-container');
   var hamburgerMenu = document.getElementById('hamburger-menu');
   var translations = document.getElementById('translations')
 
   //Hide menu content on small screens by default
-  if (window.innerWidth <= 600) {
+  if (window.innerWidth <= 959) {
     siteMenu.classList.add('dn');
+    siteMenuContainer.classList.add('dn')
+    translations.classList.add('dn')
   }
 
   //Update state when hamburger menu is clicked
@@ -61,11 +64,13 @@
     var isNavVisible = getComputedStyle(siteMenu).display !== 'none';
     if (isNavVisible) {
       siteMenu.classList.add('dn');
+      siteMenu.classList.remove('flex')
       translations.classList.add('dn')
       hamburgerMenu.classList.remove('rotate');
       localStorage.setItem('menuShown', 'false');
     } else {
       siteMenu.classList.remove('dn');
+      siteMenu.classList.add('flex')
       translations.classList.remove('dn')
       hamburgerMenu.classList.add('rotate');
       localStorage.setItem('menuShown', 'true');
@@ -74,10 +79,12 @@
 
   // auto show/hide menu items on screen resize
   addEventListener("resize", (event) => {
-    if (window.innerWidth <= 600) {
+    if (window.innerWidth <= 959) {
       // set display-style to none, reset menu rotation
       siteMenu.classList.add('dn')
+      siteMenu.classList.remove('flex')
       hamburgerMenu.classList.remove('rotate');
+      translations.classList.add('dn')
     }
   });
 
