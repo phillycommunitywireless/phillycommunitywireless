@@ -19,9 +19,9 @@
             title="{{ .Name }} page">
             {{ .Name }} <span class="dropdown-arrow">▼</span>
           </a>
-          <ul class="absolute bg-pcw pa3-l shadow-1 dn submenu">
+          <ul class="absolute bg-pcw pa3-l shadow-1 dn submenu ph2">
             {{ range .Children }}
-            <li class="list f4 fw4">
+            <li class="list f4 fw4 pt2 pb1 ph4">
               <a class="hover-white no-underline white-90" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
                 {{ .Name }}
               </a>
