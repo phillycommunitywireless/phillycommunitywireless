@@ -221,7 +221,7 @@ img.opos-top {
   }
 
   #site-menu li {
-    display: block;
+    display: flex;
   }
 }
 
