@@ -35,6 +35,7 @@ segments:
     src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
     title: Philly Community Wireless promo video produced by the Big Picture Alliance.
     text: Learn more about the project
+    header: "Learn about PCW"
 
   # Volunteer CTA
   - template: call-to-action
