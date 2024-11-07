@@ -23,12 +23,16 @@ languages:
           url: "/volunteer"
           parent: get-connected
           weight: "2"
+        - name: Network Updates
+          url: "/networkupdates"
+          parent: get-connected
+          weight: "3"
         - name: Donate
           url: https://phillycommunitywireless.allyrafundraising.com/
           params:
             external: true
           parent: get-connected
-          weight: "3"
+          weight: "4"
 
         - name: About Us
           identifier: about-us

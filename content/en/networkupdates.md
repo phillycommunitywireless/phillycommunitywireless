@@ -1,4 +1,7 @@
-# Network Updates
+---
+date: 2023-10-18
+title: "Network Updates"
+---
 
 PCW is regularly installing additional rooftop hubs in North Philadelphia. Below you can see tracking information for some of our installations at community organizations and spaces. This list is in order of install with most recent at the top.
 
@@ -49,3 +52,5 @@ PCW is regularly installing additional rooftop hubs in North Philadelphia. Below
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Village of the Arts and Humanities
 
 <span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">in conversation</span> Temple University Main Campus and Hospital
+
+Additionally, check out our [Network Map](/networkmap) webpage. 
