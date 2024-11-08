@@ -21,11 +21,11 @@
           </a>
           <ul style="top: 40px" class="absolute shadow-1 dn submenu bg-pcw br3 ph2">
             {{ range .Children }}
-            <li class="list f4 fw4 grow dim justify-center pv2 ph2">
-              <a style="white-space: nowrap;" class="hover-white no-underline white-90 pa0" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
-                {{ .Name }}
-              </a>
-            </li>
+            <a style="white-space: nowrap;" class="hover-white no-underline white-90 pa0" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+              <li class="list f4 fw4 grow dim justify-center pv2 ph2">
+                  {{ .Name }}
+              </li>
+            </a>
             {{ end }}
           </ul>
         </li>
@@ -146,4 +146,23 @@
       }
     });
   });
+
+
+  // listeners for showing dropdowns on hover 
+  var dropdownToggles = document.querySelectorAll('.list');
+
+  dropdownToggles.forEach(function (toggle) {
+    toggle.addEventListener('mouseenter', function (event) {
+      event.preventDefault(); // Prevent default link behavior
+        this.style = 'opacity: 0.5;'
+    });
+  });
+
+  dropdownToggles.forEach(function (toggle) {
+    toggle.addEventListener('mouseleave', function (event) {
+      event.preventDefault(); // Prevent default link behavior
+        this.style = 'opacity: 1.0;'
+    });
+  });
+
 </script>
