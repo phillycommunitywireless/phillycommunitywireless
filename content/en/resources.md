@@ -3,7 +3,7 @@ layout: single
 title: Resources
 ---
 
-**Last Updated**: January 6, 2024
+**Last Updated**: November 7th, 2024
 
 *******
 Below are some more materials and resources to help you find digital resources for wifi access, computer use, and more. Check them out!
@@ -12,6 +12,11 @@ Below are some more materials and resources to help you find digital resources f
 **Description**: Provides an on-site open computer lab, digital literacy training, affordable internet options, home computer solutions, and technical support via their hotline.  
 **Location**: 1918 N 11th St, Philadelphia PA 19122.  
 **Contact and Tech Support Hotline**: Call 215-204-7445 or email techforphilly@temple.edu. 
+
+## TechOWL Community Space 
+**Description**: Provides hands-on experience with assistive technology.    
+**Location**: 1392 Cecil B. Moore Avenue, Philadelphia PA 19122.    
+**Contact**: Call 800-204-7428 or email techowl@temple.edu - see [TechOWL's Website](https://techowlpa.org/community-space/) to register for classes. 
 
 ## PCs for People
 **Description**: Provides refurbished computers to eligible customers for affordable prices, starting at $0-29. To place an order, you will need photo identification and documentation of current enrollment in an income-based government assistance program OR documentation of current household income (under 200% of the federal poverty line or under 60% of the area median income).  
@@ -48,3 +53,7 @@ Below are some more materials and resources to help you find digital resources f
 ## Public Computing Centers
 **Location**: All over the city.  
 **Description**: For more info, visit the [city website](https://www.phila.gov/2022-02-18-public-computing-center-in-west-philadelphia-is-a-model-for-digital-equity-and-literacy/).  
+
+## OCF Adult Education Hotline
+**Description**: The City of [Philadelphia's Office of Children and Families ](https://www.phila.gov/departments/office-of-children-and-families/) works with several community organizations to offer adult (16+) education classes, including digital skills training.    
+**Contact**: OCF Hotline at 1-833-750-5627 
