@@ -159,7 +159,7 @@ Francisco Oquendo, Urban Technology Project, 2024
 
 Isaiah Weakes, Carnegie Mellon University, 2023
 
-Megha Govindu, Unviersity of Pennsylvania, 2023
+Megha Govindu, University of Pennsylvania, 2023
 
 Tejas Gupta, Princeton University, 2020
 
