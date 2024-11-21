@@ -9,28 +9,28 @@
       <div></div>
       <div></div>
     </div>
-    <div id="site-menu-container" class="flex items-center flex-column flex-row-l">
+    <div id="site-menu-container" class="flex items-center justify-center flex-column flex-row-l">
       {{ if .Site.Menus.main }}
       <ul id="site-menu" class="ph0 mb0-s lh-copy dn-l">
         {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
-        <li class="list f4 fw4 dib pr4-l pt2 pb1 relative">
-          <a class="hover-white no-underline white-90 dropdown-toggle" href="javascript:void(0)"
+        <li class="list br3 f4 fw4 dib mr4-l pt2 pb1 relative d-flex justify-center">
+          <a class="no-underline white-90 dropdown-toggle" href="javascript:void(0)"
             title="{{ .Name }} page">
-            {{ .Name }} <span class="dropdown-arrow">▼</span>
+            {{ .Name }} <span class="dropdown-arrow fab fa fa-caret-down"></span>
           </a>
-          <ul class="absolute bg-pcw pa3-l shadow-1 dn submenu ph2">
+          <ul style="top: 40px" class="absolute shadow-1 dn submenu bg-pcw br3 ph2">
             {{ range .Children }}
-            <li class="list f4 fw4 pt2 pb1 ph4 ph2-l">
-              <a class="hover-white no-underline white-90" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
-                {{ .Name }}
-              </a>
-            </li>
+            <a style="white-space: nowrap;" class="hover-white no-underline white-90 pa0" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+              <li class="list f4 fw4 br3 grow dim justify-center pv2 ph2">
+                  {{ .Name }}
+              </li>
+            </a>
             {{ end }}
           </ul>
         </li>
         {{ else }}
-        <li class="list f4 fw4 dib pr4-l pt2 pb1">
+        <li class="list f4 fw4 dib br3 mr4-l pt2 pb1 dim justify-center">
           <a class="hover-white no-underline white-90" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
             {{ .Name }}
           </a>
@@ -146,4 +146,23 @@
       }
     });
   });
+
+
+  // listeners for showing dropdowns on hover 
+  // var dropdownToggles = document.querySelectorAll('.list');
+
+  // dropdownToggles.forEach(function (toggle) {
+  //   toggle.addEventListener('mouseenter', function (event) {
+  //     event.preventDefault(); // Prevent default link behavior
+  //       this.style = 'opacity: 0.5;'
+  //   });
+  // });
+
+  // dropdownToggles.forEach(function (toggle) {
+  //   toggle.addEventListener('mouseleave', function (event) {
+  //     event.preventDefault(); // Prevent default link behavior
+  //       this.style = 'opacity: 1.0;'
+  //   });
+  // });
+
 </script>
