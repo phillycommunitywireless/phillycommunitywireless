@@ -115,12 +115,54 @@ Shortly after graduation, Dylan moved to the Philadelphia suburbs where he took 
     </item>
     
     <item>
+      <title>Getting Here</title>
+      <link>https://phillycommunitywireless.org/getting-here/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/getting-here/</guid>
+      <description>PCW is located at the Norris Square Neighborhood Project at 2141 N Howard Street, adjacent to Norris Square Park.
+Public Transit NSNP is a quick walk from either the York-Dauphin or Berks Market-Frankford Line SEPTA stops.
+Driving Street parking is available around Norris Square Park; availabiliy is limited.
+Cycling There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Ground Coffee.</description>
+    </item>
+    
+    <item>
       <title>Leanne Przybylowski</title>
       <link>https://phillycommunitywireless.org/leannep/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/leannep/</guid>
       <description>A Canadian, Leanne came to Philadelphia in 2021 to pursue a Master’s of Science in Communication for Development and Social Change at Temple University. Interested in digital equity and the link between digital spaces and healthy democracy, Leanne began volunteering with PCW at the end of her time at Temple, quickly becoming quite active in the organization and passionate about its alternative vision for transforming digital inclusion through community wifi.</description>
+    </item>
+    
+    <item>
+      <title>Network Updates</title>
+      <link>https://phillycommunitywireless.org/networkupdates/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/networkupdates/</guid>
+      <description>PCW is regularly installing additional rooftop hubs in North Philadelphia. Below you can see tracking information for some of our installations at community organizations and spaces. This list is in order of install with most recent at the top.
+installed New Kensington CDC
+installed Zion Baptist Ministry
+installed Taller Puertoriqueno
+installed HACE at Allegheny
+installed Kensington Corridor Trust Community Garden
+installed Prevention Point
+installed Lillian Merrero branch of Free Library of Philadelphia</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://phillycommunitywireless.org/news/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/news/</guid>
+      <description>Tech Policy, America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?, 4/30/2024
+CNET, Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time, 10/1/2023
+Kensington Voice, Norris Square organization increases community access to free internet, 7/12/2023
+Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of the Year 2022, 12/14/2022
+Al Dia, Bringing Digital Equity to North Philadelphia, 5/13/2022
+Technical.ly Philly, A group of Philly technologists are working on a free, community-based mesh Wi-Fi network, 2/1/2022</description>
     </item>
     
     <item>
@@ -191,7 +233,7 @@ We at Philadelphia Community Wireless Project, a fiscally sponsored project of t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/resources/</guid>
-      <description>Last Updated: January 6, 2024
+      <description>Last Updated: November 7th, 2024
 Below are some more materials and resources to help you find digital resources for wifi access, computer use, and more. Check them out!
 Digital Literacy Training and Technical Support - Digital Equity Center at Temple University Description: Provides an on-site open computer lab, digital literacy training, affordable internet options, home computer solutions, and technical support via their hotline.
 Location: 1918 N 11th St, Philadelphia PA 19122.</description>

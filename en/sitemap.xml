@@ -132,6 +132,19 @@
                 href="https://phillycommunitywireless.org/eugener/"
                 />
   </url><url>
+    <loc>https://phillycommunitywireless.org/getting-here/</loc>
+    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/getting-here/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/getting-here/"
+                />
+  </url><url>
     <loc>https://phillycommunitywireless.org/leannep/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -143,6 +156,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://phillycommunitywireless.org/leannep/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/networkupdates/</loc>
+    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/networkupdates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/networkupdates/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/news/</loc>
+    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/news/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/airmonitor/</loc>
@@ -236,6 +275,16 @@
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/resources/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/resources/"
+                />
   </url><url>
     <loc>https://phillycommunitywireless.org/tags/</loc>
     <xhtml:link

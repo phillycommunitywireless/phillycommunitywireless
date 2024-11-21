@@ -200,6 +200,58 @@
     <loc>https://phillycommunitywireless.org/es/contact/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://phillycommunitywireless.org/es/getting-here/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/getting-here/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/getting-here/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/es/networkupdates/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/networkupdates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/networkupdates/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/es/news/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/news/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/es/resources/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/resources/"
+                />
+  </url><url>
     <loc>https://phillycommunitywireless.org/es/privacy/</loc>
     <xhtml:link
                 rel="alternate"
