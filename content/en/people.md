@@ -18,7 +18,7 @@ alex@phillycommunitywireless.org
 [Allan Gomez](/allang) {{< fa cogs >}}  
 allan@phillycommunitywireless.org
 
-**Outreach Coordinator**     
+**Community Outreach Manager**     
 [Leanne Przybylowski](/leannep) {{< fa hands-helping >}}  
 leanne@phillycommunitywireless.org  
 
@@ -30,10 +30,6 @@ eugene@phillycommunitywireless.org
 [Chris Mehretab](/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org
 
-**Installer**     
-[Dylan Hutchinson](/dylanh) {{< fa cogs >}}  
-dylan@phillycommunitywireless.org  
-<br>
 
 ## Board of Directors
 
@@ -144,7 +140,9 @@ Eli Laban, *Big Picture Alliance*
 
 ## Former Staff
 
-Mir Detre, Former Technician
+Dylan Hutchinson, Former Installer  
+
+Mir Detre, Former Technician  
 
 ## Former Volunteer Leads  
 
