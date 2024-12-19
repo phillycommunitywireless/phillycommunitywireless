@@ -10,6 +10,7 @@ title: "Funders"
 </div>
 
 <div class="funder-card">
+    <img alt="Internet For All Grant Program" src="/images/funders/WPF logo.jpeg"/>
     <div class="funder-desc">
         <a href="https://williampennfoundation.org/awarded-grants-november-2024">Improving Public Spaces</a>, William Penn Foundation, 2024
     </div>
