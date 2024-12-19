@@ -3,6 +3,26 @@ date: 2024-06-14
 title: "Funders"
 ---
 <div class="funder-card">
+    <img alt="Digital Literacy Alliance" src="/images/funders/digital_literacy_alliance.jpg"/>
+    <div class="funder-desc">
+        <a href="https://www.phila.gov/2024-12-12-the-digital-literacy-alliance-announces-recipients-for-its-fall-2024-grant-cycle-to-address-digital-inclusion/">Building Digital Resiliency through Community Ambassador Models</a>, Digital Literacy Alliance, 2024
+    </div>
+</div>
+
+<div class="funder-card">
+    <div class="funder-desc">
+        <a href="https://williampennfoundation.org/awarded-grants-november-2024">Improving Public Spaces</a>, William Penn Foundation, 2024
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Internet For All Grant Program" src="/images/funders/ipmf.jpg"/>
+    <div class="funder-desc">
+        <a href="https://www.independencemedia.org/news/independence-public-media-foundation-announces-final-grants-2024">Internet For All</a>, IPMF (Independence Public Media Foundation) in Partnership with TLC (Technology Learning Collaborative), 2024
+    </div>
+</div>
+
+<div class="funder-card">
     <img alt="Better Bike Share Partnership Mini Grant" src="/images/funders/better_bike_share.svg"/>
     <div class="funder-desc">
         <a href="https://betterbikeshare.org/grant/better-bike-share-mini-grants/">Better Bike Share Partnership Mini Grant</a>, Philadelphia City Fund, 2024
