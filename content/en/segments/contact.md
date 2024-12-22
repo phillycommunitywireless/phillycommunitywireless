@@ -1,6 +1,6 @@
 ## Contact
 
-{{< fa envelope >}} &nbsp;[phillycommunitywireless@gmail.com](mailto:phillycommunitywireless@gmail.com)
+{{< fa envelope >}} &nbsp;[info@phillycommunitywireless.org](mailto:info@phillycommunitywireless.org)
 
 {{< fa phone >}} &nbsp;[215-316-5761](tel:2153165761)
 
