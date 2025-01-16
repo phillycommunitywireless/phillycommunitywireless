@@ -27,16 +27,16 @@ languages:
           url: "/networkupdates"
           parent: get-connected
           weight: "3"
+
         - name: Donate
           url: https://phillycommunitywireless.allyrafundraising.com/
           params:
             external: true
-          parent: get-connected
-          weight: "4"
+          weight: "2"
 
         - name: About Us
           identifier: about-us
-          weight: "2"
+          weight: "3"
         - name: About
           url: "/about"
           parent: about-us
@@ -63,7 +63,7 @@ languages:
 
         - name: Map
           url: "/networkmap"
-          weight: "3"
+          weight: "4"
 
         - name: Docs
           url: https://docs.phillycommunitywireless.org/en/latest/
