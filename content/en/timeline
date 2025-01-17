@@ -1,1 +1,24 @@
+---
+date: 2025-01-17
+title: "Timeline test page"
+---
+
+To view the map in fullscreen, visit this [webpage](https://phillycommunitywireless.github.io/pcwnetworkmap/).
+## [Philly Community Wireless Wifi Coverage Map](https://phillycommunitywireless.github.io/pcwnetworkmap/)
+
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yG0RcV0aTUsYeKgo9aZAPceAGA8WhKXx-Uo0HcYGBqs&font=Default&lang=en&initial_zoom=2&height=570" width="100%" height="400"/></iframe>
+  
+This map focuses on showing the overall network architecture. Points on the map represent outdoor wifi access points primarily. Any area covered by the heatmap should have PCW signal available for a free wifi connection. 
+
+Please keep in mind that the heatmap is not accurate at the street-level, and if you cannot access the wifi network in any given space in the city, you may need to walk around a street corner. Try to find the closest access point visible to ensure a good connection.
+
+## Guided Tour
+
+To see a guided tour of the beginnings of our network, see the [scrollytelling map](https://phillycommunitywireless.org/map/).
+
+## Network Updates
+
+PCW is regularly installing additional rooftop hubs in North Philadelphia. For a full list of current and planned installs, please visit our [Network Updates page](/networkupdates)
+
+
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yG0RcV0aTUsYeKgo9aZAPceAGA8WhKXx-Uo0HcYGBqs&font=Default&lang=en&initial_zoom=2&height=570"</iframe>
