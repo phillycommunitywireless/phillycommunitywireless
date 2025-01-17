@@ -4,6 +4,7 @@ title: "Timeline test page"
 ---
 
 Take a walk through some of Philly Community Wireless' milestones
+To view the timeline in fullscreen, [click here]([https://phillycommunitywireless.github.io/pcwnetworkmap/](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yG0RcV0aTUsYeKgo9aZAPceAGA8WhKXx-Uo0HcYGBqs&font=Default&lang=en&initial_zoom=2&height=570)).
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yG0RcV0aTUsYeKgo9aZAPceAGA8WhKXx-Uo0HcYGBqs&font=Default&lang=en&initial_zoom=2&height=600" width="100%" height="600"/></iframe>
   
