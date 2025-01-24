@@ -72,7 +72,7 @@ No. Please see our data policy on our [Terms of Service page](https://phillycomm
 
 ## How do I sign up to get connected?
 
-If you would like to host a rooftop antenna, please fill out the [join form](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) and look for an email with next steps.
+If you would like to host a rooftop antenna, please fill out the [sign-up form](https://tally.so/r/mR8VM9). We will get back to you as soon as we can.
 
 If you have any questions, or would like to volunteer with Philly Community Wireless, reach out via email at info@phillycommunitywireless.org and see our [Volunteer](https://phillycommunitywireless.org/volunteer/) page for more information.
 
