@@ -5,7 +5,7 @@ title: Conéctate
 
 **Conéctate**
 
-Si vives en los barrios de Fairhill, Kensington y Norris Square, en el norte de Filadelfia, y desea conectarse a Internet inalámbrico gratuito o alojar una antena para conectar a sus vecinos, complete nuestro [formulario de inscripción](https://forms.gle/Np8QAvWc1Q5XDgpB8)!
+Si vives en los barrios de Fairhill, Kensington y Norris Square, en el norte de Filadelfia, y desea conectarse a Internet inalámbrico gratuito o alojar una antena para conectar a sus vecinos, complete nuestro [formulario de inscripción](https://tally.so/r/mR8VM9). 
 
 ![Receiver Antenna in Las Parcelas Gardens](/images/antenna_detail2.jpg)  
 

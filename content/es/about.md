@@ -40,7 +40,7 @@ En 2022, la Alianza Big Picture completó un documental sobre las primeras etapa
 
 #### Alojar una antena
 
-Actualmente estamos buscando organizaciones comunitarias y propietarios de edificios en los vecindarios de Fairhill y Kensington que estén dispuestos a alojar antenas de red en sus tejados, y a llevar a cabo actividades de alcance comunitario acerca de esta conexión de red gratuita. [¡Regístrate!](https://docs.google.com/forms/d/e/1FAIpQLSdKHqBLrrzELhkoFOJW-uiMhKEJNL7fyhUl1roCV3Ox3xoRFA/viewform?usp=sf_link)
+Trabajamos con organizaciones comunitarias y propietarios de edificios en los vecindarios de Fairhill y Kensington que estén dispuestos a alojar antenas de red en sus tejados, y a llevar a cabo actividades de alcance comunitario acerca de esta conexión de red gratuita. [¡Regístrate!](https://tally.so/r/mR8VM9)
 
 #### Voluntarios
 

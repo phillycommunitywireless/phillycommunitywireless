@@ -5,7 +5,7 @@ title: Voluntario
 ---
 ¡Nos encantan los voluntarios! Somos una coalición liderada por voluntarios que trabaja para construir redes de Internet inalámbricas controladas por la comunidad en Filadelfia. A continuación hemos esbozado las maneras en que los voluntarios pueden contribuir.
 
-Si está interesado en participar, rellene nuestro [formulario de inscripción como voluntario.](https://forms.gle/AKUgiHZnDvhECdhA8)
+Si está interesado en participar, rellene nuestro [formulario de inscripción como voluntario.](https://tally.so/r/w2ODaj)
 
 ### Voluntarios tecnológicos
 
@@ -22,7 +22,7 @@ Estas son algunas de las áreas de habilidades que estamos buscando actualmente:
 * UX/UI, diseño gráfico
 * GIS y cartografía, visualización de datos, ciencia de datos
 
-Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://forms.gle/AKUgiHZnDvhECdhA8)
+Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://tally.so/r/w2ODaj)
 
 ## Voluntarios de divulgación
 
@@ -43,4 +43,4 @@ _Estas son algunas de las áreas de habilidades que estamos buscando actualmente
 * Diseño gráfico: Pósteres, postales, volantes, merch, camisetas 
 * Impresión, Serigrafía
 
-Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://forms.gle/AKUgiHZnDvhECdhA8)
+Si está interesado en participar, complete nuestro [Formulario de inscripción de voluntarios.](https://tally.so/r/w2ODaj)
