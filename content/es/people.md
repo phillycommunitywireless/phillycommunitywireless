@@ -27,13 +27,13 @@ leanne@phillycommunitywireless.org
 [Eugene Ryoo](/es/eugener) {{< fa cogs >}}  
 eugene@phillycommunitywireless.org  
 
+**Instalador**     
+[Zoe Kerrich](/es/zoek) {{< fa cogs >}}  
+zoe@phillycommunitywireless.org  
+
 **Administrador de redes sociales**  
 [Chris Mehretab](/es/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org  
-
-**Instalador**     
-[Dylan Hutchinson](/es/dylanh) {{< fa cogs >}}  
-dylan@phillycommunitywireless.org  
 
 <br>
 
