@@ -26,9 +26,13 @@ leanne@phillycommunitywireless.org
 [Eugene Ryoo](/eugener) {{< fa cogs >}}  
 eugene@phillycommunitywireless.org  
 
+**Installer**  
+[Zoe Kerrich](/zoek) {{< fa cogs >}}  
+zoe@phillycommunitywireless.org  
+
 **Community Engagement Liason**  
 [Chris Mehretab](/chrism) {{< fa hands-helping >}}  
-chris@phillycommunitywireless.org
+chris@phillycommunitywireless.org  
 
 
 ## Board of Directors
