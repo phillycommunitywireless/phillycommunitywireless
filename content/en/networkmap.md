@@ -16,6 +16,3 @@ Please keep in mind that the heatmap is not accurate at the street-level, and if
 
 To see a guided tour of the beginnings of our network, see the [scrollytelling map](https://phillycommunitywireless.org/map/).
 
-## Network Updates
-
-PCW is regularly installing additional rooftop hubs in North Philadelphia. For a full list of current and planned installs, please visit our [Network Updates page](/networkupdates)
