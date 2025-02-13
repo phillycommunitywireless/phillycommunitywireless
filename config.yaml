@@ -81,41 +81,64 @@ languages:
     contentDir: content/es
     menu:
       main:
+        - name: Conéctate # needs translation from "get connected"
+          identifier: get-connected
+          weight: "1"
         - name: Conéctate
           url: "/getconnected"
+          parent: get-connected
           weight: "1"
         - name: Voluntario
           url: "/volunteer"
+          parent: get-connected
           weight: "2"
-        - name: Navegacion
-          url: "/networkmap"
+        - name: Network Updates # needs translation
+          url: "/networkupdates"
+          parent: get-connected
           weight: "3"
-        - name: Acerca
-          url: "/about"
-          weight: "4"
-        - name: Equipo
-          url: "/people"
-          weight: "5"
-        - name: Partners
-          url: "/partners"
-          weight: "6"
-        - name: FAQ
-          url: "/faq"
-          weight: "7"
-        - name: Donate
+
+        - name: Donate # needs translation 
           url: https://phillycommunitywireless.allyrafundraising.com/
           params:
             external: true
-          weight: "8"
-        - name: Docs
+          weight: "2"
+      
+        - name: Acerca # needs translation from "about us"
+          identifier: about-us
+          weight: "3"
+        - name: Acerca 
+          url: "/about"
+          parent: about-us
+          weight: "1"
+        - name: In the News # needs translation  
+          url: "/news"
+          parent: about-us
+        - name: Equipo
+          url: "/people" 
+          parent: about-us
+          weight: "2"
+        - name: Partners # needs translation 
+          url: "/partners"
+          parent: about-us
+          weight: "3"
+        - name: Getting Here  # needs translation 
+          url: "/getting-here"
+          parent: about-us
+          weight: "4"
+        - name: FAQ # needs translation  
+          url: "/faq"
+          parent: about-us
+          weight: "5"
+
+        - name: Navegacion
+          url: "/networkmap"
+          weight: "4"
+
+        - name: Docs # needs translation 
           url: https://docs.phillycommunitywireless.org/es/latest/
           params:
             external: true
           weight: "9"
-      footer:
-        - name: Código de conducta
-          url: "/code-of-conduct"
-          weight: "1"
     weight: "2"
     params:
       featured_text:
