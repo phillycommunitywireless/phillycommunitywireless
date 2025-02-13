@@ -37,28 +37,43 @@ segments:
     text: Learn more about the project
     header: "Learn about PCW"
 
-  # Volunteer CTA
-  - template: call-to-action
-    heading: Join our volunteer team
-    text: Volunteers can handle anything from antenna installations to network management, software development, community outreach, and much more.
-    link:
-      text: Get involved
-      href: volunteer/
-    class: color-pcw-dark-blue
-
-  # Divider
-  - template: divider
-    narrow: true
-
-  # Donate
-  - template: call-to-action
-    heading: Support the project
-    text: Your money will go toward networking equipment, tools, training materials, and paying our staff.
-    link:
-      text: Donate
-      href: https://phillycommunitywireless.wedid.it
+  # stack
+  - template: call-to-action-vertical
+    heading1: "Join our volunteer team"
+    text1: "Volunteers can handle anything from antenna installations to network management, software development, community outreach, and much more" 
+    link1: 
+      text: "Get involved"
+      href: "volunteer/"
+    heading2: "Support the project"
+    text2: "Your money will go toward networking equipment, tools, training materials, and paying our staff." 
+    link2: 
+      text: "Donate"
+      href: "https://phillycommunitywireless.wedid.it"
       class: bg-green white
-    class: color-pcw-dark-blue
+
+
+  # Volunteer CTA
+  # - template: call-to-action
+  #   heading: Join our volunteer team
+  #   text: Volunteers can handle anything from antenna installations to network management, software development, community outreach, and much more.
+  #   link:
+  #     text: Get involved
+  #     href: volunteer/
+  #   class: color-pcw-dark-blue
+
+  # # Divider
+  # - template: divider
+  #   narrow: true
+
+  # # Donate
+  # - template: call-to-action
+  #   heading: Support the project
+  #   text: Your money will go toward networking equipment, tools, training materials, and paying our staff.
+  #   link:
+  #     text: Donate
+  #     href: https://phillycommunitywireless.wedid.it
+  #     class: bg-green white
+  #   class: color-pcw-dark-blue
 
   # Image
   - template: image
