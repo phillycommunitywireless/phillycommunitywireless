@@ -10,6 +10,8 @@
 
 {{< fa fab instagram >}} &nbsp;[@phillycommunitywireless](https://www.instagram.com/phillycommunitywireless/)  
 
+{{< fa fab bluesky >}} &nbsp;[@philly_wireless](https://bsky.app/profile/phillywireless.bsky.social)
+
 {{< fa fab mastodon >}} &nbsp;[@phillycommunitywireless](https://jawns.club/@phillycommunitywireless)  
 
 {{< fa fab youtube >}} &nbsp;[Philly Community Wireless](https://www.youtube.com/channel/UCDguhllC44ZqauV6eDopShA)  
