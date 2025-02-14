@@ -1,6 +1,7 @@
 ---
 date: 2024-07-01
 title: "People"
+layout: "people"
 ---
 
 {{< fa hands-helping >}} = organizer \
@@ -11,27 +12,27 @@ title: "People"
 ## Administrative Team
 
 **Executive Director**  
-[Alex Wermer-Colan](/alexwc) {{< fa cogs >}}{{< fa vial >}}  
+[Alex Wermer-Colan](alexwc) {{< fa cogs >}}{{< fa vial >}}  
 alex@phillycommunitywireless.org
 
 **Systems Administrator**   
-[Allan Gomez](/allang) {{< fa cogs >}}  
+[Allan Gomez](allang) {{< fa cogs >}}  
 allan@phillycommunitywireless.org
 
 **Community Outreach Manager**     
-[Leanne Przybylowski](/leannep) {{< fa hands-helping >}}  
+[Leanne Przybylowski](leannep) {{< fa hands-helping >}}  
 leanne@phillycommunitywireless.org  
 
 **Technician**  
-[Eugene Ryoo](/eugener) {{< fa cogs >}}  
+[Eugene Ryoo](eugener) {{< fa cogs >}}  
 eugene@phillycommunitywireless.org  
 
 **Installer**  
-[Zoe Kerrich](/zoek) {{< fa cogs >}}  
+[Zoe Kerrich](zoek) {{< fa cogs >}}  
 zoe@phillycommunitywireless.org  
 
 **Community Engagement Liason**  
-[Chris Mehretab](/chrism) {{< fa hands-helping >}}  
+[Chris Mehretab](chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org  
 
 
