@@ -97,7 +97,7 @@ languages:
           parent: get-connected
           weight: "3"
 
-        - name: Donate # needs translation 
+        - name: Donar
           url: https://phillycommunitywireless.allyrafundraising.com/
           params:
             external: true
@@ -117,7 +117,7 @@ languages:
           url: "/people" 
           parent: about-us
           weight: "2"
-        - name: Partners # needs translation 
+        - name: Socios
           url: "/partners"
           parent: about-us
           weight: "3"
@@ -125,7 +125,7 @@ languages:
           url: "/getting-here"
           parent: about-us
           weight: "4"
-        - name: FAQ # needs translation  
+        - name: Preguntas Frecuentes
           url: "/faq"
           parent: about-us
           weight: "5"
@@ -134,7 +134,7 @@ languages:
           url: "/networkmap"
           weight: "4"
 
-        - name: Docs # needs translation 
+        - name: Documentos
           url: https://docs.phillycommunitywireless.org/es/latest/
           params:
             external: true
