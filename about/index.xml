@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Philly Community Wireless</title>
+    <link>https://phillycommunitywireless.org/about/</link>
+    <description>Recent content in About on Philly Community Wireless</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Partners</title>
+      <link>https://phillycommunitywireless.org/about/partners/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/about/partners/</guid>
+      <description>Norris Square Community Partners Friends of Norris Square Park GALAEI Kensington Branch of the Free Library Xiente (formerly Norris Square Community Alliance) Norris Square Neighborhood Project Open Kitchen Sculpture Garden West Kensington Ministries Cesar Andreu Iglesias Gardens Philly Community Partners PhillyWisper Called to Serve Free Library of Philadelphia HACE Holobiont Lab Village of the Arts and Humanities Philly Tech Justice Temple University, Digital Equity Center Kensington Corridor Trust Funders For more information on our institutional funders, visit our Funders page</description>
+    </item>
+    
+    <item>
+      <title>Funders</title>
+      <link>https://phillycommunitywireless.org/about/funders/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/about/funders/</guid>
+      <description> Building Digital Resiliency through Community Ambassador Models, Digital Literacy Alliance, 2024 Improving Public Spaces, William Penn Foundation, 2024 Internet For All, IPMF (Independence Public Media Foundation) in Partnership with TLC (Technology Learning Collaborative), 2024 Better Bike Share Partnership Mini Grant, Philadelphia City Fund, 2024 Community Challenge Grant, AARP (American Association of Retired Persons), 2023 Digital Equity Grant and ongoing support from the Independent Public Media Foundation, 2021 to present Digital Literacy Alliance, The Mayor&#39;s Fund for Philadelphia, 2021-2022 Rapid Response Magic Project of the Princeton Humanities Council, 2020 RISE (Recognizing Inequalities and Standing for Equality), Pace Center for Civic Engagement, 2020 </description>
+    </item>
+    
+    <item>
+      <title>Getting Here</title>
+      <link>https://phillycommunitywireless.org/about/getting-here/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/about/getting-here/</guid>
+      <description>PCW is located at the Norris Square Neighborhood Project at 2141 N Howard Street, adjacent to Norris Square Park.
+Public Transit NSNP is a quick walk from either the York-Dauphin or Berks Market-Frankford Line SEPTA stops.
+Driving Street parking is available around Norris Square Park; availabiliy is limited.
+Cycling There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Ground Coffee.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://phillycommunitywireless.org/about/news/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/about/news/</guid>
+      <description>Tech Policy, America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?, 4/30/2024
+CNET, Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time, 10/1/2023
+Kensington Voice, Norris Square organization increases community access to free internet, 7/12/2023
+Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of the Year 2022, 12/14/2022
+Al Dia, Bringing Digital Equity to North Philadelphia, 5/13/2022
+Technical.ly Philly, A group of Philly technologists are working on a free, community-based mesh Wi-Fi network, 2/1/2022</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://phillycommunitywireless.org/about/faq/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/about/faq/</guid>
+      <description>Who are we? What is Philly Community Wireless? Philly Community Wireless is a community organization developing community-owned networks in North Philadelphia. We are a working group of organizers, technologists, academics, teachers, and community members in Philadelphia. We seek to address the city&amp;rsquo;s digital divide with community-controlled mesh network technologies.
+Mesh networks allow a single Internet connection to be shared among a broader group of users with very little cost or infrastructure required.</description>
+    </item>
+    
+  </channel>
+</rss>

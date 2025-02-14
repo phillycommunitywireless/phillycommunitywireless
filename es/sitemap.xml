@@ -2,43 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://phillycommunitywireless.org/es/zoek/</loc>
+    <loc>https://phillycommunitywireless.org/es/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/zoek/"
+                href="https://phillycommunitywireless.org/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/zoek/"
+                href="https://phillycommunitywireless.org/es/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/partners/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/people/zoek/</loc>
+    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/about/people/zoek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/about/people/zoek/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/es/about/partners/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/partners/"
+                href="https://phillycommunitywireless.org/about/partners/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/partners/"
+                href="https://phillycommunitywireless.org/es/about/partners/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/funders/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/funders/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/funders/"
+                href="https://phillycommunitywireless.org/about/funders/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/funders/"
+                href="https://phillycommunitywireless.org/es/about/funders/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/networkmap/</loc>
@@ -54,121 +67,121 @@
                 href="https://phillycommunitywireless.org/es/networkmap/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/faq/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/faq/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/faq/"
+                href="https://phillycommunitywireless.org/about/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/faq/"
+                href="https://phillycommunitywireless.org/es/about/faq/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/alexwc/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/people/alexwc/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/alexwc/"
+                href="https://phillycommunitywireless.org/about/people/alexwc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/alexwc/"
+                href="https://phillycommunitywireless.org/es/about/people/alexwc/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/allang/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/people/allang/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/allang/"
+                href="https://phillycommunitywireless.org/about/people/allang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/allang/"
+                href="https://phillycommunitywireless.org/es/about/people/allang/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/chrism/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/people/chrism/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/chrism/"
+                href="https://phillycommunitywireless.org/about/people/chrism/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/chrism/"
+                href="https://phillycommunitywireless.org/es/about/people/chrism/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/dylanh/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/getting-here/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/dylanh/"
+                href="https://phillycommunitywireless.org/about/getting-here/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/dylanh/"
+                href="https://phillycommunitywireless.org/es/about/getting-here/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/eugener/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/people/dylanh/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/eugener/"
+                href="https://phillycommunitywireless.org/about/people/dylanh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/eugener/"
+                href="https://phillycommunitywireless.org/es/about/people/dylanh/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/getting-here/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/people/eugener/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/getting-here/"
+                href="https://phillycommunitywireless.org/about/people/eugener/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/getting-here/"
+                href="https://phillycommunitywireless.org/es/about/people/eugener/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/leannep/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/people/leannep/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/leannep/"
+                href="https://phillycommunitywireless.org/about/people/leannep/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/leannep/"
+                href="https://phillycommunitywireless.org/es/about/people/leannep/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/news/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/news/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/news/"
+                href="https://phillycommunitywireless.org/about/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/news/"
+                href="https://phillycommunitywireless.org/es/about/news/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/airmonitor/</loc>
@@ -210,17 +223,17 @@
                 href="https://phillycommunitywireless.org/es/getconnected/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/people/</loc>
+    <loc>https://phillycommunitywireless.org/es/about/people/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/people/"
+                href="https://phillycommunitywireless.org/about/people/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/people/"
+                href="https://phillycommunitywireless.org/es/about/people/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/volunteer/</loc>
@@ -238,19 +251,6 @@
   </url><url>
     <loc>https://phillycommunitywireless.org/es/contact/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>https://phillycommunitywireless.org/es/networkupdates/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/networkupdates/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/networkupdates/"
-                />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/resources/</loc>
     <priority>0</priority>
@@ -287,18 +287,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://phillycommunitywireless.org/es/categories/"
-                />
-  </url><url>
-    <loc>https://phillycommunitywireless.org/es/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/code-of-conduct/</loc>
