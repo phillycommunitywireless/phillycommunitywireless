@@ -2,6 +2,7 @@
 date: 2024-04-02
 title: Preguntas más frecuentes
 toc: true
+layout: "people/people"
 ---
 
 # ¿Quien Somos Nosotros?

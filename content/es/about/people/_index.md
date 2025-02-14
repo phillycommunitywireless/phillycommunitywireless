@@ -1,7 +1,7 @@
 ---
 date: 2021-09-30
 title: Equipo
-
+layout: "people/people"
 ---
 
 {{< fa hands-helping >}} = organizador \

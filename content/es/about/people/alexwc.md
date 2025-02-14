@@ -1,6 +1,7 @@
 ---
 date: 2023-10-18
 title: "Alex Wermer-Colan"
+layout: "people/single"
 ---
 
 {{< figure class="figure-center" src="/images/AlexWCHeadshot-Square.jpg" width=200 height=200 >}}  

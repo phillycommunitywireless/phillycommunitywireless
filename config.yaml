@@ -81,7 +81,7 @@ languages:
     contentDir: content/es
     menu:
       main:
-        - name: Conéctate # needs translation from "get connected"
+        - name: Conéctate 
           identifier: get-connected
           weight: "1"
         - name: Conéctate
@@ -92,7 +92,7 @@ languages:
           url: "/volunteer"
           parent: get-connected
           weight: "2"
-        - name: Network Updates # needs translation
+        - name: Network Updates # should be deleted
           url: "/networkupdates"
           parent: get-connected
           weight: "3"
@@ -103,7 +103,7 @@ languages:
             external: true
           weight: "2"
       
-        - name: Acerca # needs translation from "about us"
+        - name: Acerca 
           identifier: about-us
           weight: "3"
         - name: Acerca 
@@ -111,22 +111,22 @@ languages:
           parent: about-us
           weight: "1"
         - name: Novedades
-          url: "/news"
+          url: "/about/news"
           parent: about-us
         - name: Equipo
-          url: "/people" 
+          url: "/about//people" 
           parent: about-us
           weight: "2"
         - name: Socios
-          url: "/partners"
+          url: "/about/partners"
           parent: about-us
           weight: "3"
         - name: Cómo llegar aquí
-          url: "/getting-here"
+          url: "/about/getting-here"
           parent: about-us
           weight: "4"
         - name: Preguntas Frecuentes
-          url: "/faq"
+          url: "/about/faq"
           parent: about-us
           weight: "5"
 

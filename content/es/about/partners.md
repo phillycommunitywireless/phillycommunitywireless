@@ -1,6 +1,7 @@
 ---
 date: 2024-07-03
 title: "Socios"
+layout: "people/people"
 ---
 
 ## Socios comunitarios de Norris Square
