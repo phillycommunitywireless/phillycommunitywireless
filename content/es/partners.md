@@ -1,6 +1,6 @@
 ---
 date: 2024-07-03
-title: "Partners"
+title: "Socios"
 ---
 
 ## Socios comunitarios de Norris Square
@@ -140,6 +140,6 @@ title: "Partners"
 
 </div>
 
-## Funders
+## Fundadores
 
 Para más información sobre nuestros financiadores institucionales, visite nuestra página [Fundadores](https://phillycommunitywireless.org/es/funders/).
