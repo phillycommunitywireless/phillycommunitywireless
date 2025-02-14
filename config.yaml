@@ -110,7 +110,7 @@ languages:
           url: "/about"
           parent: about-us
           weight: "1"
-        - name: In the News # needs translation  
+        - name: Novedades
           url: "/news"
           parent: about-us
         - name: Equipo
@@ -121,7 +121,7 @@ languages:
           url: "/partners"
           parent: about-us
           weight: "3"
-        - name: Getting Here  # needs translation 
+        - name: Cómo llegar aquí
           url: "/getting-here"
           parent: about-us
           weight: "4"
