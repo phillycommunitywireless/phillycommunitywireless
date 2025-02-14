@@ -92,10 +92,10 @@ languages:
           url: "/volunteer"
           parent: get-connected
           weight: "2"
-        - name: Network Updates # should be deleted
-          url: "/networkupdates"
-          parent: get-connected
-          weight: "3"
+        # - name: Network Updates # should be deleted
+        #   url: "/networkupdates"
+        #   parent: get-connected
+        #   weight: "3"
 
         - name: Donar
           url: https://phillycommunitywireless.allyrafundraising.com/
