@@ -1,10 +1,11 @@
-<section class="pa3 pv4 f3 center w-75-l">
+<section class="pa3 pv4 f3 center w-75-l tc flex justify-center">
     
-    <div class="f3 flex-column-m flex-ns justify-between items-start items-stretch">
-        <div class="w-100 w-80-m flex flex-column justify-between">
+    <div class="f3 flex-column-m flex-ns justify-between items-start items-stretch" style="max-width: calc(75vh * 1.7777777 - 4rem);">
+        <div class="w-100 w-80-l flex flex-column justify-between">
             <div class="">
                     {{ with .heading1 }}
-                    <h2 class="center ma0 mb3 f2">{{ . }}</h1>                        {{ end }}
+                    <h2 class="center ma0 mb3 f2">{{ . }}</h1>                        
+                    {{ end }}
                     {{ with .text1 }}
                         <p class="mv3 lh-copy">
                         {{ markdownify . }}
@@ -22,7 +23,7 @@
                 <div class="f3 measure-narrow" style="height: 14em; border-left: dotted 10px var(--lilac);"></div>
             </div>
 
-            <div class="w-100 w-80-m flex flex-column justify-between">
+            <div class="w-100 w-80-l flex flex-column justify-between">
                 <div class="">
 
                     {{ with .heading2 }}
