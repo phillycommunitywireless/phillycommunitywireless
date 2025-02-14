@@ -1,6 +1,7 @@
 ---
 date: 2024-07-03
 title: "Partners"
+layout: "people/people"
 ---
 
 ## Norris Square Community Partners
@@ -144,4 +145,4 @@ title: "Partners"
 
 ## Funders
 
-For more information on our institutional funders, visit our [Funders page](/funders)
+For more information on our institutional funders, visit our [Funders page](/about/funders)

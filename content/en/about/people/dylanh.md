@@ -1,6 +1,7 @@
 ---
 date: 2023-10-18
 title: "Dylan Hutchinson"
+layout: "people/single"
 ---
 
 {{< figure class="figure-center" src="/images/DylanHHeadshot-Square.jpg" width=200 height=200 >}}  

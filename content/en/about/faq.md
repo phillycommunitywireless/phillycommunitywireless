@@ -2,6 +2,7 @@
 date: 2021-09-30
 title: "Frequently Asked Questions"
 toc: true
+layout: "people/people"
 ---
 
 # Who are we?

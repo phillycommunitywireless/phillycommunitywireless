@@ -42,22 +42,22 @@ languages:
           parent: about-us
           weight: "1"
         - name: In the News 
-          url: "/news"
+          url: "/about/news"
           parent: about-us
         - name: People
-          url: "/people"
+          url: "/about/people"
           parent: about-us
           weight: "2"
         - name: Partners
-          url: "/partners"
+          url: "/about/partners"
           parent: about-us
           weight: "3"
         - name: Getting Here 
-          url: "/getting-here"
+          url: "/about/getting-here"
           parent: about-us
           weight: "4"
         - name: FAQ
-          url: "/faq"
+          url: "/about/faq"
           parent: about-us
           weight: "5"
 

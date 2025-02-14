@@ -1,7 +1,7 @@
 ---
 date: 2024-07-01
 title: "People"
-layout: "people"
+layout: "people/people"
 ---
 
 {{< fa hands-helping >}} = organizer \
