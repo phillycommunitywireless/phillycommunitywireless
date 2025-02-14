@@ -1,0 +1,45 @@
+<section class="pa3 pv4 f3 center w-75-l tc flex justify-center">
+    
+    <div class="f3 flex-column-m flex-ns justify-between items-start items-stretch" style="max-width: calc(75vh * 1.7777777 - 4rem);">
+        <div class="w-100 w-80-l flex flex-column justify-between">
+            <div class="">
+                    {{ with .heading1 }}
+                    <h2 class="center ma0 mb3 f2">{{ . }}</h1>                        
+                    {{ end }}
+                    {{ with .text1 }}
+                        <p class="mv3 lh-copy">
+                        {{ markdownify . }}
+                        </p>
+                    {{ end }}
+                    {{ with .link1 }}
+                        <a role="button" href="{{.href}}" class="dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .text | default "Placeholder link" }}</a>
+                    {{ end }}
+                </div>
+  
+            </div>
+
+            <!-- divider -->
+            <div class="dn dn-m dib-ns ph4 {{ .class }}">
+                <div class="f3 measure-narrow" style="height: 14em; border-left: dotted 10px var(--lilac);"></div>
+            </div>
+
+            <div class="w-100 w-80-l flex flex-column justify-between">
+                <div class="">
+
+                    {{ with .heading2 }}
+                       <h2 class="center ma0 mb3 f2">{{ . }}</h1>
+                    {{ end }}
+                    {{ with .text2 }}
+                        <p class="mv3 lh-copy">
+                        {{ markdownify . }}
+                        </p>
+                    {{ end}}
+                    {{ with .link2 }}
+                        <a role="button" href="{{.href}}" class="dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .text | default "Placeholder link" }}</a>
+                    {{ end }}
+                </div>
+          
+            </div>
+
+    </div>
+</section>
