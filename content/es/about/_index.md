@@ -6,7 +6,7 @@ layout: "people/people"
 
 
 
-Nuestro equipo incluye seis personal y mas de 50 voluntarios de una amplia gama de organizaciones locales y nacionales. Para obtener más información, [visite nuestra página Equipo](/es/people).  
+Nuestro equipo incluye seis personal y mas de 50 voluntarios de una amplia gama de organizaciones locales y nacionales. Para obtener más información, [visite nuestra página Equipo](/es/about/people).  
 
 ## La Meta
 
