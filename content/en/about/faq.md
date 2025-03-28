@@ -55,11 +55,11 @@ We aim to provide at least 25 mbps download speed in public and private spaces. 
 
 ## How secure is the network? Who can access our information?
 
-We don’t track user activity. We support net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior and data.
+We don’t track user activity. We support net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior and data. 
 
 By joining our network you agree to share the available bandwidth with others. Please be mindful of downloading large amounts of media, especially when others may be using the network during the day. 
 
-When connecting to the public network, you should use the same standard precautions as you would when connecting to public wifi at a coffee shop or airport. Use your browser's secure mode when possible, and consider using a VPN service to be extra safe.
+When connecting to the public network, you should use the same standard precautions as you would when connecting to public wifi at a coffee shop or airport. Use your browser's secure mode when possible, and consider using a VPN service to be extra safe. With that said, our open, public network has the usual security restrictions for client device isolation, making it more difficult for another client on the network to connect with your device.
 
 ## Can I get hacked / is my personal information protected?
 
