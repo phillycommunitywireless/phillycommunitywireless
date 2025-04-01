@@ -27,7 +27,7 @@ leanne@phillycommunitywireless.org
 [Eugene Ryoo](/es/eugener) {{< fa cogs >}}  
 eugene@phillycommunitywireless.org  
 
-**Instalador**     
+**Instaladora**     
 [Zoe Kerrich](/es/zoek) {{< fa cogs >}}  
 zoe@phillycommunitywireless.org  
 
@@ -145,7 +145,9 @@ Eli Laban, *Big Picture Alliance*
 
 ## Antiguo Personal
 
-Mir Detre, Former Technician
+Dylan Hutchinson, Antiguo instalador
+
+Mir Detre, Antiguo técnico
 
 ## Antiguos líderes voluntarios  
 
