@@ -19,7 +19,7 @@ alex@phillycommunitywireless.org
 [Allan Gomez](/es/allang) {{< fa cogs >}}  
 allan@phillycommunitywireless.org
 
-**Coordinador comunitario**     
+**Administradora de relaciones comuntarias**     
 [Leanne Przybylowski](/es/leannep) {{< fa hands-helping >}}  
 leanne@phillycommunitywireless.org    
 
@@ -31,7 +31,7 @@ eugene@phillycommunitywireless.org
 [Zoe Kerrich](/es/zoek) {{< fa cogs >}}  
 zoe@phillycommunitywireless.org  
 
-**Administrador de redes sociales**  
+**Coordinador de contenidos**  
 [Chris Mehretab](/es/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org  
 
