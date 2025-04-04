@@ -79,4 +79,4 @@ Al desarrollar un modelo alternativo para ampliar el acceso y la adopción de la
 
 Para mantenerte actualizado sobre las nuevas oportunidades y el crecimiento de nuestra red comunitaria, [Suscríbete a nuestro boletín](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
-¿Preguntas? Echa un vistazo a nuestro [FAQ](./faq).
+¿Preguntas? Echa un vistazo a nuestro [FAQ](/about/faq).
