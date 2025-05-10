@@ -31,7 +31,7 @@ eugene@phillycommunitywireless.org
 [Zoe Kerrich](zoek) {{< fa cogs >}}  
 zoe@phillycommunitywireless.org  
 
-**Community Engagement Liason**  
+**Content Coordinator**  
 [Chris Mehretab](chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org  
 
