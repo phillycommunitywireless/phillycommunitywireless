@@ -19,7 +19,7 @@ alex@phillycommunitywireless.org
 [Allan Gomez](/es/allang) {{< fa cogs >}}  
 allan@phillycommunitywireless.org
 
-**Coordinador comunitario**     
+**Administradora de relaciones comuntarias**     
 [Leanne Przybylowski](/es/leannep) {{< fa hands-helping >}}  
 leanne@phillycommunitywireless.org    
 
@@ -27,11 +27,11 @@ leanne@phillycommunitywireless.org
 [Eugene Ryoo](/es/eugener) {{< fa cogs >}}  
 eugene@phillycommunitywireless.org  
 
-**Instalador**     
+**Instaladora**     
 [Zoe Kerrich](/es/zoek) {{< fa cogs >}}  
 zoe@phillycommunitywireless.org  
 
-**Administrador de redes sociales**  
+**Coordinador de contenidos**  
 [Chris Mehretab](/es/chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org  
 
@@ -145,7 +145,9 @@ Eli Laban, *Big Picture Alliance*
 
 ## Antiguo Personal
 
-Mir Detre, Former Technician
+Dylan Hutchinson, Antiguo instalador
+
+Mir Detre, Antiguo técnico
 
 ## Antiguos líderes voluntarios  
 
