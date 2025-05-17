@@ -14,11 +14,7 @@ layout: "people/people"
 **Executive Director**  
 [Alex Wermer-Colan](alexwc) {{< fa cogs >}}{{< fa vial >}}  
 alex@phillycommunitywireless.org
-
-**Systems Administrator**   
-[Allan Gomez](allang) {{< fa cogs >}}  
-allan@phillycommunitywireless.org
-
+  
 **Community Outreach Manager**     
 [Leanne Przybylowski](leannep) {{< fa hands-helping >}}  
 leanne@phillycommunitywireless.org  
@@ -77,9 +73,6 @@ _Technologist and Software Engineer_
 
 Quinn Batten {{< fa cogs >}} \
 _Data Engineer_
-
-Dillon Bergin {{< fa cogs >}} \
-_Data Journalist_
 
 Dylan Hutchinson {{< fa cogs >}} \
 _IT Engineer_
@@ -149,6 +142,8 @@ Dylan Hutchinson, Former Installer
 
 Mir Detre, Former Technician  
 
+Allan Gomez, Former Systems Administrator 
+
 ## Former Volunteer Leads  
 
 Addie Barron, Former Tech Lead  
@@ -190,8 +185,6 @@ Anika Prakash, University of Pennsylvania, 2021
 
 [NYC Mesh](https://www.nycmesh.net/), NYC
 
-[MetaMesh](https://www.metamesh.org/), Pittsburgh
-
 [X-Lab](https://thexlab.org/), Washington, DC
 
 <br/>
@@ -204,5 +197,5 @@ Anika Prakash, University of Pennsylvania, 2021
 
 ## Legal Support
 
-[Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
+[Dentons, Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
 
