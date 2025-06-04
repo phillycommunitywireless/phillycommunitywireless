@@ -4,13 +4,13 @@ title: "About"
 layout: "people/people"
 ---
 
-Our team includes six staff and over 50 volunteers from a wide array of local and national organizations. For more information, visit our [People page](/about/people).
+Our team includes both staff and volunteers from a wide array of local and regional organizations. For more information, visit our [People page](/about/people).
 
 For up-to-date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D) and follow us on social media.
 
 ## Vision
 
-The Covid-19 pandemic dramatically demonstrated the implications of the digital divide and exacerbated existing inequalities for students, business owners, job seekers, and many others. Our vision extends beyond the COVID-19 crisis and the emergencies initiatives put into place. We seek a long term, sustainable, and affordable Internet for all in Philadelphia, rather than stopgap measures.
+The Covid-19 pandemic dramatically demonstrated the implications of the digital divide and exacerbated existing inequalities for students, business owners, job seekers, and many others. Our vision extends beyond the COVID-19 crisis and the emergency initiatives put into place. We seek a long term, sustainable, and affordable Internet for all in Philadelphia, rather than stopgap measures.
 
 The Philly Community Wireless project is actively seeking to connect homes in the Norris Square, Fairhill, and Kensington neighborhoods of North Philadelphia to free, net-neutral broadband for at least the next decade. We strive to offer an alternative model for Internet access and to help cities and communities rethink about the Internet as a public utility by involving our users in the construction of the network.
 
