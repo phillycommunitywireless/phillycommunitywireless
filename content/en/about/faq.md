@@ -21,7 +21,7 @@ For more information on our partner, Philly Wisper, see their [FAQ](https://phil
 
 ## What areas of the Norris Square Park neighborhood currently have wifi?
 
-The free public wifi network should be accessible in most areas of Norris Square Park and the surrounding streets, approximately in a half square mile area. For updates on upcoming installs and service expansions, see [our map](https://phillycommunitywireless.github.io/pcwnetworkmap/) or [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
+The free public wifi network should be accessible in most areas of Norris Square Park and the surrounding streets, approximately in a half square mile area. For updates on upcoming installs and service expansions, see [our map](https://map.phillycommunitywireless.org/) or [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
 Grant funding is enabling us to grow the network around Norris Square to the north, especially Fairhill and Kensington. Our goal is to connect residents, in their homes and in public spaces, to high-speed, free internet, for at least the next decade (the length of the agreement with our bandwidth provider, PhillyWisper).
 

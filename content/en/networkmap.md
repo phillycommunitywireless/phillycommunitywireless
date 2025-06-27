@@ -3,10 +3,10 @@ date: 2024-04-02
 title: "Network Coverage Map"
 ---
 
-To view the map in fullscreen, visit this [webpage](https://phillycommunitywireless.github.io/pcwnetworkmap/).
-## [Philly Community Wireless Wifi Coverage Map](https://phillycommunitywireless.github.io/pcwnetworkmap/)
+To view the map in fullscreen, visit this [webpage](https://map.phillycommunitywireless.org/).
+## [Philly Community Wireless Wifi Coverage Map](https://map.phillycommunitywireless.org/)
 
-<iframe src="https://phillycommunitywireless.github.io/pcwnetworkmap/" width="100%" height="400"/></iframe>
+<iframe src="https://map.phillycommunitywireless.org/" width="100%" height="400"/></iframe>
   
 This map focuses on showing the overall network architecture. Points on the map represent outdoor wifi access points primarily. Any area covered by the heatmap should have PCW signal available for a free wifi connection. 
 
