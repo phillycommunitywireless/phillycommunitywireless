@@ -5,9 +5,9 @@ title: "Navegacion"
 
 ## Mapa de la cobertura de Philly Community Wireless
 
-Para ver el mapa en pantalla completa, visite esta [página web](https://phillycommunitywireless.github.io/pcwnetworkmap/). 
+Para ver el mapa en pantalla completa, visite esta [página web](https://map.phillycommunitywireless.org/). 
 
-<iframe src="https://phillycommunitywireless.github.io/pcwnetworkmap/" width="100%" height="400"/></iframe>
+<iframe src="https://map.phillycommunitywireless.org/" width="100%" height="400"/></iframe>
   
 Cualquier área cubierta por el mapa de calor debe tener señal PCW disponible para una conexión wifi gratuita. Tenga en cuenta que el mapa de calor no es preciso a nivel de calle, y si no puede acceder a la red wifi en un espacio determinado de la ciudad, es posible que deba caminar por una esquina. Trate de encontrar el punto de acceso visible más cercano para garantizar una buena conexión.
 
