@@ -17,6 +17,6 @@ Philly Community Wireless works with [PhillyWisper](https://phillywisper.net), a
 
 # Timeline
 
-Installations can sometimes take an extended period of time to schedule and comnplete, up to several months. We are expanding our network coverage every week, but we have more demand than we can meet and a variety of obstacles, including line of sight, can impede our network's reach. We appreciate your patience and assistance as we build the foundations of our network. Please reach out to volunteer for a rooftop antenna, and we will work with you to provide you and your neighbors with free wifi service as soon as we can. 
+Installations can sometimes take an extended period of time to schedule and complete, up to several months. We are expanding our network coverage every week, but we have more demand than we can meet and a variety of obstacles, including line of sight, can impede our network's reach. We appreciate your patience and assistance as we build the foundations of our network. Please reach out to volunteer for a rooftop antenna, and we will work with you to provide you and your neighbors with free wifi service as soon as we can. 
 
 If you are currently outside our service area, we encourage you to still reach out if you need help accessing digital resources. We also encourage you to check out [available resources in Philadelphia](https://phillycommunitywireless.org/resources/) for accessing affordable computers, internet, and training in digital skills. 
