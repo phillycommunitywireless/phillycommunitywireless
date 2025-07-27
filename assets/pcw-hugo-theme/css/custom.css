@@ -265,7 +265,7 @@ img.opos-top {
 /* alt color on hover for navbar menu items */
 .submenu li:hover,
 #site-menu li:hover,
-#translations li:hover {
+ul#translations li:hover {
   background-color: #7a87f5;
   transition: 0.5s;
 }
