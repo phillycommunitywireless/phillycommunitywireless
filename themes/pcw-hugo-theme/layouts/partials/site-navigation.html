@@ -1,6 +1,6 @@
 <nav class="bg-pcw pa2 pl3-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white flex items-center">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-black no-underline white flex items-center">
       <img height="70" src="{{ $.Site.Params.site_logo }}" alt="{{ $.Site.Title }}" />
     </a>
     <!-- Hamburger style menu. Only applies to devices with <=600px width -->
@@ -24,7 +24,7 @@
           </a>
           <ul style="top: 40px" class="absolute shadow-1 dn submenu bg-pcw br3 ph2">
             {{ range .Children }}
-            <a style="white-space: nowrap;" class="hover-white no-underline white pa0" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+            <a style="white-space: nowrap;" class="hover-black no-underline white pa0" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
               <li class="list f4 fw4 br3 grow dim justify-center pv2 ph2">
                   {{ .Name }}
               </li>
@@ -33,8 +33,8 @@
           </ul>
         </li>
         {{ else }}
-        <li class="list f4 fw4 dib br3 mr4-l pt2 pb1 justify-center">
-          <a class="hover-white no-underline white" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+        <li class="list f4 fw4 dib br3 mr4-l pt2 pb1 dim justify-center">
+          <a class="hover-black no-underline white" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
             {{ .Name }}
           </a>
         </li>
