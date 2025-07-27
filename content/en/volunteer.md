@@ -9,8 +9,8 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
 ## Tech Volunteers
 
 {{% notice %}}
-_The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops throughout Philadelphia. Many of us are in the process of learning these skills, so if these skills are new to you, you'll be trained in a collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both ideal. Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you._{{% /notice %}}
-
+_The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops throughout Philadelphia. Many of us are in the process of learning these skills, so if these skills are new to you, you'll be trained in a collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both ideal. Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you._
+{{% /notice %}}
 
 _Here are some of the skill areas we're looking for:_
 - Networking: network design, security, protocols, hardware, mesh, Linux/UNIX
@@ -24,13 +24,11 @@ _Here are some of the skill areas we're looking for:_
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). 
 
-
 ## Outreach Volunteers
 
 {{% notice %}}
 _The Outreach Team is actively seeking volunteers with Spanish language proficiency to work on community engagement and outreach efforts! We're also looking for volunteers who can help with onsite outreach in and around our network installations in North Philadelphia. Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you._
 {{% /notice %}}
-
 
 _Here are some of the skill areas we're looking for:_
 - Canvassing, Flyering, Tabling at events
