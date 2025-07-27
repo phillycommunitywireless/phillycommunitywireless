@@ -158,7 +158,7 @@ params:
       in the distance.
   featured_text:
     header: "/images/WebLogo_Standard.svg"
-  background_color_class: bg-near-white black-60
+  background_color_class: black-60
   body_classes: calibre black
   custom_css:
     - colors.css
