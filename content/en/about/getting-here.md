@@ -2,6 +2,8 @@
 date: 2023-10-18
 title: "Getting Here"
 layout: "people/people"
+aliases:
+    - /getting-here
 ---
 
 PCW is located at the [Norris Square Neighborhood Project](http://myneighborhoodproject.org/) at 2141 N Howard Street, adjacent to Norris Square Park. 

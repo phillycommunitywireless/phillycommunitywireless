@@ -2,6 +2,8 @@
 date: 2023-10-18
 title: "Leanne Przybylowski"
 layout: "people/single"
+aliases:
+    - /leannep
 ---
 
 {{< figure class="figure-center" src="/images/LeannePHeadshot-Square.jpg" width=200 height=200 >}}  
