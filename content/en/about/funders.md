@@ -2,6 +2,8 @@
 date: 2024-06-14
 title: "Funders"
 layout: "people/single"
+aliases:
+    - /funders
 ---
 <div class="funder-card">
     <img alt="Digital Literacy Alliance" src="/images/funders/digital_literacy_alliance.jpg"/>

@@ -2,6 +2,8 @@
 date: 2023-10-18
 title: "Eugene Ryoo"
 layout: "people/single"
+aliases:
+    - /eugener
 ---
 
 {{< figure class="figure-center" src="/images/EugeneRHeadshot-Square.jpg" width=200 height=200  >}}  

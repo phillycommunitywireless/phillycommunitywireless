@@ -114,7 +114,7 @@ languages:
           url: "/about/news"
           parent: about-us
         - name: Equipo
-          url: "/about//people" 
+          url: "/about/people" 
           parent: about-us
           weight: "2"
         - name: Socios

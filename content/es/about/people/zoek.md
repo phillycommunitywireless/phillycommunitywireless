@@ -2,6 +2,9 @@
 date: 2025-01-27
 title: "Zoe Kerrich"
 layout: "people/single"
+aliases:
+    - /es/zoek
+
 ---
 
 {{< figure class="figure-center" src="/images/ZoeKHeadshot-Square.jpg" width=200 height=200  >}}  

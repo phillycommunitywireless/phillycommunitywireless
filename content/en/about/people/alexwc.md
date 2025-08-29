@@ -2,6 +2,8 @@
 date: 2023-10-18
 title: "Alex Wermer-Colan"
 layout: "people/single"
+aliases:
+    - /alexwc
 ---
 
 {{< figure class="figure-center" src="/images/AlexWC_Portrait.jpg" width=200 height=200 >}}  
