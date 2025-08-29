@@ -50,6 +50,10 @@
 	  {{ block "head" . }}
       {{ partial "head-additions.html" . }}
     {{ end }}
+
+    <!-- indicate canonical urls -->
+    <link rel="canonical" href="{{ .Permalink }}"/>
+
   </head>
 
   <body class="ma0 bg-white {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
