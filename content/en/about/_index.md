@@ -40,17 +40,17 @@ In 2022, the Big Picture Alliance completed a documentary film about the early s
 
 > <p class="f3"><i>"Roughly $200 can permanently connect a house to high-speed Internet, with no monthly bills."</i></p>
 
-#### Antenna Hosts
+### Antenna Hosts
 
 We work with community organizations and building owners in the Fairhill and Kensington neighborhoods who are willing to host network antennas on their rooftops and conduct community outreach about this free network connection. Please [sign up](https://tally.so/r/mR8VM9) if you would like to connect with us.
 
 {{< figure class="figure-center" src="/images/iglesias_antenna_drone.JPG" caption="*Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens.*" attr="Eli LaBan" attrlink="#" alt="Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens, with writing visible on the street saying Not For Sale and No Me Voy" >}}
 
-#### Volunteers
+### Volunteers
 
 We always welcome interested community organizations and residents to get involved with any aspect of the project and learn as you contribute. For more info on roles for volunteers and onboarding processes, see our [Volunteer page](https://phillycommunitywireless.org/volunteer/) 
 
-#### Fundraising
+### Fundraising
 
 We are looking for additional funding to purchase more hardware that will be donated to community members, including alternative technologies that could supplement our baseline service. Please visit our [Allyra](https://phillycommunitywireless.wedid.it/) page to contribute! If you have any questions, don't hesitate to email us at info@phillycommunitywireless.org.
 
