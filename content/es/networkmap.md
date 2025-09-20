@@ -7,7 +7,7 @@ title: "Navegacion"
 
 Para ver el mapa en pantalla completa, visite esta [página web](https://map.phillycommunitywireless.org/). 
 
-<iframe src="https://map.phillycommunitywireless.org/" width="100%" height="400"/></iframe>
+<iframe title="Mapa de implementación de hardware de red inalámbrica comunitaria de Filadelfia" role="img" aria-label="Un mapa que muestra la infraestructura de red inalámbrica comunitaria de Filadelfia actualmente instalada, centrada en Norris Square Park." src="https://map.phillycommunitywireless.org/" width="100%" height="400"/></iframe>
   
 Cualquier área cubierta por el mapa de calor debe tener señal PCW disponible para una conexión wifi gratuita. Tenga en cuenta que el mapa de calor no es preciso a nivel de calle, y si no puede acceder a la red wifi en un espacio determinado de la ciudad, es posible que deba caminar por una esquina. Trate de encontrar el punto de acceso visible más cercano para garantizar una buena conexión.
 
