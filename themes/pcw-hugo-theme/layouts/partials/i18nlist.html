@@ -1,8 +1,8 @@
 {{ if .IsTranslated }}
 <ul id="translations" class="pl0 mr3-l db-l dn">
     {{ range .Translations }}
-    <li class="list f4 fw4 dib pr3-l pt2 pb1">
-        <a class="hover-white no-underline white-50" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    <li class="list f4 fw4 dib br3 pt2 pb1">
+        <a class="hover-white no-underline white" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
     </li>
     {{ end}}
 </ul>
