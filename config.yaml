@@ -76,6 +76,8 @@ languages:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Building community-controlled networks in Philadelphia
         link: Learn more &rarr;
+        alt: "The Philly Community Wireless logo - a vector graphic of the Liberty Bell 
+             facing northeast, with radio waves emmitting from the top-right."
   es:
     languageName: Español
     contentDir: content/es
@@ -145,6 +147,9 @@ languages:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Construyendo redes controladas por la comunidad en Filadelfia
         link: Aprende más &rarr;
+        alt: "El logotipo de Philly Community Wireless: un gráfico vectorial de la 
+              Campana de la Libertad orientada al noreste, con ondas de radio emitiéndose 
+              desde la esquina superior derecha."
 params:
   site_logo: "/images/WebLogo_Standard2.svg"
   site_logo_inverted: "/images/WebLogo_Inverted2.svg"
