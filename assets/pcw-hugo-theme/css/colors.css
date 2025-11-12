@@ -32,6 +32,12 @@
   color: black;
 }
 
+/* override button color*/
+.bg-pcw-important {
+  background-color: var(--primary);
+  color: white !important;
+}
+
 /* Text color */
 .color-pcw {
   color: var(--primary);
