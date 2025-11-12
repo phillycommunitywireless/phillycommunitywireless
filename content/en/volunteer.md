@@ -6,6 +6,8 @@ We love volunteers! We formed as a grassroots, entirely volunteer-led coalition 
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). 
 
+{{< button-custom centered="true" href="https://tally.so/r/w2ODaj" text="Sign Up to Volunteer!">}}
+
 ## Tech Volunteers
 
 {{% notice %}}
