@@ -122,9 +122,25 @@ We've also created a "button-custom" shortcode for adding buttons to Markdown fi
 
 Which will render to...
 ```
-<a role="button" href="#" class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
-    your text here...    
-</a>
+<div>
+  <a role="button" href="#" class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
+      your text here...    
+  </a>
+</div>
+```
+
+By default, the button will be left-aligned; add the "centered=true" property to center it. 
+```
+{{< button-custom centered="true" href="#" text="your text here...">}}
+```
+
+Which will render to...
+```
+<div class="flex justify-center">
+    <a role="button" href="#" class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
+        your text here...
+    </a>
+</div>
 ```
 
 ## Segments
