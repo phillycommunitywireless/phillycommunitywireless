@@ -270,3 +270,9 @@ img.opos-top {
 footer {
   border-color: var(--primary);
 }
+
+/* Extra class with white !important for overriding button text color */
+.bg-pcw-important {
+  background-color: var(--primary);
+  color: white !important;
+}
