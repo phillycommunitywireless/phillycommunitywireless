@@ -9,7 +9,7 @@ If you live in the North Philadelphia neighborhoods of Fairhill, Kensington, and
 
 {{< button-custom centered="true" href="https://tally.so/r/mR8VM9" text="Click Here to Get Connected">}}
 
-{{< figure class="figure-center" src="IglesiasFacing.jpg" caption="*PCW Access Point in the rear of Iglesias Garden to help amplify connection in the residency*" attr="Eugene Ryoo" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
+{{< figure class="figure-center" src="/images/IglesiasFacing.jpg" caption="*PCW Access Point in the rear of Iglesias Garden to help amplify connection in the residency*" attr="Eugene Ryoo" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
 
 # The Installation Process
 
