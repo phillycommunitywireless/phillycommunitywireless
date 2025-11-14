@@ -52,6 +52,8 @@ _Here are some of the skill areas we're looking for:_
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). 
 
+{{< figure class="figure-center" src="/images/voulnteering.jpg" caption="Leanne Przybylowski and Paul Appel helping serve food to the elderly community at Somerset Villas after a successful install" attr="Eugene Ryoo" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
+
 ## Event Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_ca84146424d3ddad9678df590065af38e3fc78ff3720a41ed05584cd5e7cd7eb%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no" aria-label="Event Calendar"></iframe>
