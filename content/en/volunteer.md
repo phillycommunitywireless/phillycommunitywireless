@@ -8,6 +8,8 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
 
 {{< button-custom centered="true" href="https://tally.so/r/w2ODaj" text="Sign Up to Volunteer!">}}
 
+{{< figure class="figure-center" src="/images/Volunteers1(EugenefixingAP).jpg" caption="Eugene Ryoo and Andre M setting up a node on East Clearfield St near the Allegheny MFL stop" attr="Leanne Przybylowski" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
+
 ## Tech Volunteers
 
 {{% notice %}}
