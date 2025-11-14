@@ -28,6 +28,8 @@ _Here are some of the skill areas we're looking for:_
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). 
 
+{{< figure class="figure-center" src="/images/RooftopWorking.jpg" caption="Alex Wermer-Colan, Johnathan Caicedo, Eugene Ryoo, and Ari standing on the rooftop of NKCDC" attr="Eugene Ryoo" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
+
 
 ## Outreach Volunteers
 
