@@ -59,14 +59,14 @@ segments:
     class: bg-light-gray
 
   # Video embed
-  - template: video
-    src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
-    title: Philly Community Wireless promo video produced by the Big Picture Alliance.
-    text: Learn more about the project
-    header: 
-      text: "Our Story"
-      class: tc
-    class: pv4
+  # - template: video
+  #   src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
+  #   title: Philly Community Wireless promo video produced by the Big Picture Alliance.
+  #   text: Learn more about the project
+  #   header: 
+  #     text: "Our Story"
+  #     class: tc
+  #   class: pv4
 
   # stack
   # - template: call-to-action-vertical

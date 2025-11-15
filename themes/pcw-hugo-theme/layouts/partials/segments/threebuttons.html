@@ -9,7 +9,7 @@
 
 <!-- button element copied from button-custom.html shortcode -->
 
-<section class="cf center w-75-l w-100">
+<section class="cf center w-75-l w-100 pv4">
     <div class="mw9 center ph3-ns">
         <div class="">
             <div class="fl w-100 w-third-ns pa2">
@@ -19,9 +19,13 @@
 
                     <p class="f4 mv3">{{ .text }}</p>
 
-                    <a role="button" href="{{ .href }}" class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
-                        {{ .button_text | default "Placeholder link" }}
-                    </a> {{ end }}
+                    <div class="flex items-center">
+                        <a role="button" href="{{ .href }}"
+                            class="center tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
+                            {{ .button_text | default "Placeholder link" }}
+                        </a> {{ end }}
+                    </div>
+
 
                 </div>
             </div>
@@ -33,9 +37,12 @@
 
                     <p class="f4 mv3">{{ .text }}</p>
 
-                    <a role="button" href="{{ .href }}" class="tc dib link mv3 pa3 ph4 f3 b bg-green white">
-                        {{ .button_text | default "Placeholder link" }}
-                    </a> {{ end }}
+                    <div class="div flex items-center">
+                        <a role="button" href="{{ .href }}" class="center tc dib link mv3 pa3 ph4 f3 b bg-green white">
+                            {{ .button_text | default "Placeholder link" }}
+                        </a> {{ end }}
+                    </div>
+
                 </div>
             </div>
 
@@ -46,9 +53,12 @@
 
                     <p class="f4 mv3">{{ .text }}</p>
 
-                    <a role="button" href="{{ .href }}" class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-lilac white">
-                        {{ .button_text | default "Placeholder link" }}
-                    </a>
+                    <div class="div flex items-center">
+                        <a role="button" href="{{ .href }}"
+                            class="center tc dib link mv3 pa3 ph4 f3 b bg-pcw-lilac white">
+                            {{ .button_text | default "Placeholder link" }}
+                        </a>
+                    </div>
                     {{ end }}
                 </div>
 
