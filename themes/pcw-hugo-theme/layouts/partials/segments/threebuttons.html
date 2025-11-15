@@ -1,0 +1,58 @@
+<style>
+    .cubed {
+        aspect-ratio: 1.5/1;
+        width: 100%;
+        /* remove based off of image display feedback */
+        object-fit: cover;
+    }
+</style>
+
+<!-- button element copied from button-custom.html shortcode -->
+
+<section class="cf center w-75-l w-100">
+    <div class="mw9 center ph3-ns">
+        <div class="cf ph2-ns">
+            <div class="fl w-100 w-third-ns pa2">
+                <div class=" bg-white ">
+                    {{ with .section1}}
+                    <img src="{{ .photo }}" class="cubed" alt="">
+
+                    <p class="f4">{{ .text }}</p>
+
+                    <a role="button" href="{{ .href }}" class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
+                        {{ .button_text | default "Placeholder link" }}
+                    </a> {{ end }}
+
+                </div>
+            </div>
+
+            <div class="fl w-100 w-third-ns pa2">
+                <div class=" bg-white ">
+                    {{ with .section2}}
+                    <img src="{{ .photo }}" class="cubed" alt="">
+
+                    <p class="f4">{{ .text }}</p>
+
+                    <a role="button" href="{{ .href }}" class="tc dib link mv3 pa3 ph4 f3 b bg-green white">
+                        {{ .button_text | default "Placeholder link" }}
+                    </a> {{ end }}
+                </div>
+            </div>
+
+            <div class="fl w-100 w-third-ns pa2">
+                <div class=" bg-white ">
+                    {{ with .section3}}
+                    <img src="{{ .photo }}" class="cubed" alt="">
+
+                    <p class="f4">{{ .text }}</p>
+
+                    <a role="button" href="{{ .href }}" class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-lilac white">
+                        {{ .button_text | default "Placeholder link" }}
+                    </a>
+                    {{ end }}
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>

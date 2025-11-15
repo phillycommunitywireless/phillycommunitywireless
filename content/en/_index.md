@@ -4,6 +4,23 @@ title: Home
 # The `segments` param will generate homepage segments (vertically stacked sections of the page).
 # For the supported segment templates and required params, see README.md#segments
 segments:
+  - template: threebuttons
+    section1:
+      photo: "/images/hero3.jpg"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      button_text: Connect 
+      href: "#"
+    section2:
+      photo: "/images/pcwvolunteers.png"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      button_text: Volunteer 
+      href: "#"
+    section3:
+      photo: "/images/nsnp_antenna.jpg"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      button_text: Support 
+      href: "#" 
+
   # Responsive three-column icons
   - template: icons
     icons:
