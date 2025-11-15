@@ -21,52 +21,66 @@ segments:
       button_text: Support 
       href: "#" 
 
-  # Responsive three-column icons
-  - template: icons
-    icons:
-      - icon: fas fa-laptop-code
-        text: Growing tech literacy
-      - icon: fas fa-wifi
-        text: Expanding internet access
-      - icon: fas fa-people-carry
-        text: Building community autonomy
-    class: dn # Hide on mobile
+  # # Responsive three-column icons
+  # - template: icons
+  #   icons:
+  #     - icon: fas fa-laptop-code
+  #       text: Growing tech literacy
+  #     - icon: fas fa-wifi
+  #       text: Expanding internet access
+  #     - icon: fas fa-people-carry
+  #       text: Building community autonomy
+  #   class: dn # Hide on mobile
+
+  # Volunteer CTA
+  - template: call-to-action-photo-right
+    text: "**Philly Community Wireless** is a coalition of technologists and organizers working to build community-controlled wireless internet networks in Philadelphia. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We actively partner with affordable housing organizations and other local groups focused on investing in existing communities."
+    # Expanded
+    # We believe that **internet access is a human right**. By developing an alternative model for expanding broadband access and adoption, PCW empowers communities to be involved in the construction, maintenance, and design of a public utility to provide sustainable connectivity for everyone in the neighborhood.
+    link:
+      text: Who we are 
+      href: about/
+    class: bg-light-gray
 
   # Divider
-  - template: divider
+  # - template: divider
 
   # Simple heading
-  - template: heading
-    text: Current Work
+  # - template: heading
+    # text: Current Work
 
   # Norris Square project
   - template: call-to-action-map
-    heading: North Philadelphia Network
+    # heading: North Philadelphia Network
     text: We are building a community wireless network in North Philadelphia, with a focus on the areas north of [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122, 19133, or 19134, reach out to get connected!
     link:
-      text: Get Connected
-      href: getconnected/
+      text: Where we are 
+      href: /networkmap
+    class: bg-light-gray
 
   # Video embed
   - template: video
     src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
     title: Philly Community Wireless promo video produced by the Big Picture Alliance.
     text: Learn more about the project
-    header: "Learn about PCW"
+    header: 
+      text: "Our Story"
+      class: tc
+    class: pv4
 
   # stack
-  - template: call-to-action-vertical
-    heading1: "Join our volunteer team"
-    text1: "Volunteers can handle anything from antenna installations to network management, software development, community outreach, and much more" 
-    link1: 
-      text: "Get involved"
-      href: "volunteer/"
-    heading2: "Support the project"
-    text2: "Your money will go toward networking equipment, tools, training materials, and paying our staff." 
-    link2: 
-      text: "Donate"
-      href: "https://phillycommunitywireless.wedid.it"
-      class: bg-green white
+  # - template: call-to-action-vertical
+  #   heading1: "Join our volunteer team"
+  #   text1: "Volunteers can handle anything from antenna installations to network management, software development, community outreach, and much more" 
+  #   link1: 
+  #     text: "Get involved"
+  #     href: "volunteer/"
+  #   heading2: "Support the project"
+  #   text2: "Your money will go toward networking equipment, tools, training materials, and paying our staff." 
+  #   link2: 
+  #     text: "Donate"
+  #     href: "https://phillycommunitywireless.wedid.it"
+  #     class: bg-green white
 
 
   # Volunteer CTA
@@ -92,6 +106,9 @@ segments:
   #     class: bg-green white
   #   class: color-pcw-dark-blue
 
+  # newsletter 
+  - template: newsletter-verbose
+
   # Image
   - template: image
     src: images/wifisign.jpg
@@ -99,12 +116,12 @@ segments:
     class: opos-left
     
   # Contact info
-  - template: markdown
-    url: contact.md
-    class: contact
+  # - template: markdown
+  #   url: contact.md
+  #   class: contact
 ---
 
-We are a coalition of technologists and organizers working to build community-controlled wireless internet networks in Philadelphia. 
+<!-- We are a coalition of technologists and organizers working to build community-controlled wireless internet networks in Philadelphia. 
 
 We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We actively partner with affordable housing organizations and other local groups focused on investing in existing communities. We believe that **internet access is a human right**.
 
@@ -112,4 +129,4 @@ By developing an alternative model for expanding broadband access and adoption, 
 
 To stay up-to-date on new opportunities and growth of our community network, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
-Questions? Check out our [FAQ](/about/faq).
+Questions? Check out our [FAQ](/about/faq). -->
