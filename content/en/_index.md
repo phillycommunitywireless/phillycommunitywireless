@@ -4,22 +4,26 @@ title: Home
 # The `segments` param will generate homepage segments (vertically stacked sections of the page).
 # For the supported segment templates and required params, see README.md#segments
 segments:
-  - template: threebuttons
+  - template: three-button-call-to-action
+    title: "Some optional title..."
     section1:
       photo: "/images/hero3.jpg"
+      photo_alt_text: "This is some alt text for a photo."
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       button_text: Connect 
-      href: "#"
+      button_href: "#"
     section2:
       photo: "/images/pcwvolunteers.png"
+      photo_alt_text: "This is some alt text for a photo."
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       button_text: Volunteer 
-      href: "#"
+      button_href: "#"
     section3:
       photo: "/images/nsnp_antenna.jpg"
+      photo_alt_text: "This is some alt text for a photo."
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       button_text: Support 
-      href: "#" 
+      button_href: "#" 
 
   # # Responsive three-column icons
   # - template: icons
@@ -119,14 +123,18 @@ segments:
   # - template: markdown
   #   url: contact.md
   #   class: contact
+
+# !!! IMPORTANT !!! 
+# The old content of this page (below) was moved into the front matter because even comments will cause the "markdown" template to render, adding extra vertical space 
+# See template index.html ln3 - the "markdown" template is included regardless of if the content is a comment. 
+ 
+# We are a coalition of technologists and organizers working to build community-controlled wireless internet networks in Philadelphia. 
+
+# We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We actively partner with affordable housing organizations and other local groups focused on investing in existing communities. We believe that **internet access is a human right**.
+
+# By developing an alternative model for expanding broadband access and adoption, PCW empowers communities to be involved in the construction, maintenance, and design of a public utility to provide sustainable connectivity for everyone in the neighborhood.
+
+# To stay up-to-date on new opportunities and growth of our community network, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
+
+# Questions? Check out our [FAQ](/about/faq).
 ---
-
-<!-- We are a coalition of technologists and organizers working to build community-controlled wireless internet networks in Philadelphia. 
-
-We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We actively partner with affordable housing organizations and other local groups focused on investing in existing communities. We believe that **internet access is a human right**.
-
-By developing an alternative model for expanding broadband access and adoption, PCW empowers communities to be involved in the construction, maintenance, and design of a public utility to provide sustainable connectivity for everyone in the neighborhood.
-
-To stay up-to-date on new opportunities and growth of our community network, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
-
-Questions? Check out our [FAQ](/about/faq). -->
