@@ -1,6 +1,8 @@
-<a role="button" {{ with .Get "href" }} href="{{ . }}" {{ end }}
-    class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
-    {{ with .Get "text"}}
-    {{ . | default "Placeholder link" }}
-    {{ end }}
-</a>
+<div class="{{- if .Get "centered" -}}flex justify-center{{ end }}">
+    <a role="button" {{ with .Get "href" }} href="{{ . }}" {{ end }}
+        class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
+        {{ with .Get "text"}}
+        {{ . | default "Placeholder link" }}
+        {{ end }}
+    </a>
+</div>

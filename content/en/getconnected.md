@@ -7,7 +7,9 @@ title: "Get connected"
 
 If you live in the North Philadelphia neighborhoods of Fairhill, Kensington, and Norris Square, and want to get connected to free wireless internet or host an antenna to connect your neighbors, please fill out our [Sign Up Form](https://tally.so/r/mR8VM9)!
 
-{{< figure class="figure-center" src="/images/antenna_detail2.jpg" caption="*PCW Antenna in NSNP's Las Parcelas Gardens pointing towards our highsite, Gotham Tower.*" attr="Grant Wythoff" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
+{{< button-custom centered="true" href="https://tally.so/r/mR8VM9" text="Click Here to Get Connected">}}
+
+{{< figure class="figure-center" src="/images/IglesiasFacing.jpg" caption="*PCW Access Point in the rear of Iglesias Garden to help amplify connection in the residency*" attr="Eugene Ryoo" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
 
 # The Installation Process
 

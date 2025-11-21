@@ -6,6 +6,10 @@ We love volunteers! We formed as a grassroots, entirely volunteer-led coalition 
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). 
 
+{{< button-custom centered="true" href="https://tally.so/r/w2ODaj" text="Sign Up to Volunteer!">}}
+
+{{< figure class="figure-center" src="/images/DJI_0281.JPG" caption="PCW Staff and Volunteers during an install at the rooftop of PCW's HQ" attr="Leanne Przybylowski" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
+
 ## Tech Volunteers
 
 {{% notice %}}
@@ -23,6 +27,8 @@ _Here are some of the skill areas we're looking for:_
 - GIS & Mapping, Data Visualization, Data Science
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). 
+
+{{< figure class="figure-center" src="/images/Volunteers1(EugenefixingAP).jpg" caption="PCW staff and volunteers standing on the rooftop of NKCDC" attr="Eugene Ryoo" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
 
 
 ## Outreach Volunteers
@@ -47,6 +53,8 @@ _Here are some of the skill areas we're looking for:_
 - Printing, Silkscreening
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). 
+
+{{< figure class="figure-center" src="/images/voulnteering.jpg" caption="Leanne Przybylowski and a volunteer helping serve food to the elderly community at Somerset Villas after a successful install" attr="Eugene Ryoo" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
 
 ## Event Calendar
 
