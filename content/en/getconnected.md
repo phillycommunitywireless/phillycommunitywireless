@@ -1,6 +1,38 @@
 ---
 date: 2021-09-30
 title: "Get connected"
+segments: 
+  - template: text-lr
+    title: "some title"
+    left:
+        title: "Timeline"
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    right: 
+        title: "Resources"
+        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#   - template: text-lr
+#     left:
+#         title: 
+#         text:
+#     right:
+#         title:
+#         text:
+  - template: photo-list-with-text
+    title: "Our Service Process"
+    images:
+    - image: "/images/EugeneRHeadshot-Square.jpg"
+      alt: 
+      text: "blahblahblah"
+    - image: "/images/wifisign.jpg"
+      alt:
+      text: "yeahyeahyeah"
+    - image: "/images/hero3.jpg"
+      alt: ""
+      text: "this is a list where you can add as much as you like"
+
+  - template: photo-list-with-text
+    title: 
+
 ---
 
 # Sign Up!

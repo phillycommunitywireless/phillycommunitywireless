@@ -15,6 +15,7 @@
       {{ .Content }}
     </div>
   </article>
-  {{ partial "segments.html" .Params.segments }}
 </div>
+<!-- moved out to preserve width of new segments -->
+{{ partial "segments.html" .Params.segments }}
 {{ end }}

@@ -1,0 +1,43 @@
+<section class="cf f4 center w-75-l w-100 pv4">
+    <h1 class="tc">{{ .title | default "Default Title" }}</h1>
+
+    {{ if .images }}
+        {{ range $i, $img := .images }}
+
+        <div class="w-100 pt2 flex flex-row">
+            <!-- img -->
+            <div class="w-third flex items-center justify-center pr2">
+                <img style="aspect-ratio: 1/1; object-fit: cover;" src="{{$img.image}}" alt="{{$img.alt}}"
+                    class="br3 h5 w-100" />
+            </div>
+
+            <!-- text -->
+            <div class="w-two-thirds db ph2 bg-light-gray">
+                <p class="mv2 lh-copy">
+                    {{ $img.text }}
+                </p>
+            </div>
+        </div>
+
+        {{ end }}
+    {{ else }}
+    <!-- show default -->
+
+    <div class="w-100 pt2 flex flex-row">
+        <!-- img -->
+        <div class="w-third flex items-center justify-center pr2">
+            <img style="aspect-ratio: 1/1; object-fit: cover;" src="/images/wifisign.jpg" alt="Some alt text"
+                class="br3 h5 w-100" />
+        </div>
+
+        <!-- text -->
+        <div class="w-two-thirds db ph2 bg-light-gray">
+            <p class="mv2 lh-copy">
+                This is some placeholder text.
+            </p>
+        </div>
+    </div>
+    {{ end }}
+
+
+</section>

@@ -1,0 +1,37 @@
+<section class="cf f4 center w-75-l w-100 pv4">
+
+    <article class="cf flex flex-column flex-row-ns w-100">
+        {{ with .left }}
+        <div class="flex flex-column w-100 w-50-ns tc">
+            <div class="h-100 bg-near-white">
+                <h1 class="mb1 mt2">{{ .title | default "Default Title"}}</h1>
+                <p class="ph3 lh-copy"> {{ .text | default "Default Text" }}</p>
+            </div>
+        </div>
+        {{ end }}
+
+        <div class="dn dn-m dib-ns ph2 {{ .class }}">
+            <!-- <div class="f3 measure-narrow" style="height: 14em; border-left: dotted 10px var(--lilac);"></div> -->
+        </div>
+
+
+        <!-- divider -->
+        <!-- <div class="dn dn-m dib-ns ph2 {{ .class }}">
+            <div class="f3 measure-narrow" style="height: 14em; border-left: dotted 10px var(--lilac);"></div>
+        </div> -->
+
+        {{ with .right }}
+        <div class="flex flex-column w-100 w-50-ns tc">
+            <div class="h-100 bg-light-gray">
+                <h1 class="mb1 mt2">{{ .title | default "Default Title"}}</h1>
+                <p class="ph3 lh-copy"> {{ .text | default "Default Text" }}</p>
+            </div>
+        </div>
+        {{ end }}
+
+    </article>
+
+</section>
+
+<!-- https://tachyons.io/components/layout/two-column-collapse-one/index.html -->
+<!-- https://tachyons.io/components/layout/two-column/index.html -->
