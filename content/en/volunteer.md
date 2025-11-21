@@ -8,7 +8,7 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
 
 {{< button-custom centered="true" href="https://tally.so/r/w2ODaj" text="Sign Up to Volunteer!">}}
 
-{{< figure class="figure-center" src="/images/volunteerspicture1.jpg" caption="PCW Staff and Volunteers during an install at the rooftop of PCW's HQ" attr="Leanne Przybylowski" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
+{{< figure class="figure-center" src="/images/DJI_0281.JPG" caption="PCW Staff and Volunteers during an install at the rooftop of PCW's HQ" attr="Leanne Przybylowski" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
 
 ## Tech Volunteers
 
