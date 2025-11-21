@@ -7,7 +7,7 @@ segments:
   - template: three-button-call-to-action
     # title: "Some optional title..."
     section1:
-      photo: "/images/hero3.jpg"
+      photo: "/images/IMG_6878.jpg"
       photo_alt_text: "This is some alt text for a photo."
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       button_text: Connect 
@@ -19,7 +19,7 @@ segments:
       button_text: Volunteer 
       button_href: "#"
     section3:
-      photo: "/images/nsnp_antenna.jpg"
+      photo: "/images/Drone_HartLane_Active.JPG"
       photo_alt_text: "This is some alt text for a photo."
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       button_text: Support 
@@ -115,8 +115,8 @@ segments:
 
   # Image
   - template: image
-    src: images/wifisign.jpg
-    alt: A Philly Community Wireless sign near southern entrance to Norris Square Park
+    src: "images/homepage-nkcdc-drone.jpg"
+    alt: Birds-eye image of three people setting up equipment on a building roof, with the neighborhood in the background.
     class: opos-left
     
   # Contact info
