@@ -115,8 +115,8 @@ segments:
 
   # Image
   - template: image
-    src: images/wifisign.jpg
-    alt: A Philly Community Wireless sign near southern entrance to Norris Square Park
+    src: images/homepage-nkcdc-drone.JPG
+    alt: Birds-eye image of three people setting up equipment on a building roof, with the neighborhood in the background.
     class: opos-left
     
   # Contact info
