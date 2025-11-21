@@ -7,7 +7,7 @@ segments:
   - template: three-button-call-to-action
     title: "Some optional title..."
     section1:
-      photo: "/images/hero3.jpg"
+      photo: "/images/Drone_HartLane_Active.JPG"
       photo_alt_text: "This is some alt text for a photo."
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       button_text: Connect 
@@ -19,7 +19,7 @@ segments:
       button_text: Volunteer 
       button_href: "#"
     section3:
-      photo: "/images/nsnp_antenna.jpg"
+      photo: "/images/IMG_6878.jpg"
       photo_alt_text: "This is some alt text for a photo."
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       button_text: Support 
