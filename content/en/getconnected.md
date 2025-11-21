@@ -24,8 +24,8 @@ segments:
       For more information on what an install involves, visit our Installation documentation."
 
     - template: text-lr
-    title: "some title"
-    left:
+      title: "some title"
+      left:
         title: "How Long Does It Take?"
         text: "Installations can sometimes take an extended period of time to schedule and complete, up to several months. We are expanding our network coverage every week, but we have more demand than we can meet and a variety of obstacles, including line of sight, can impede our network's reach.
         
@@ -35,13 +35,13 @@ segments:
         text: "If you are in need of more immediate access to internet and other digital resources, please visit our resource page. There, you will find information about accessing affordable internet, computers, and training in digital skills.
         
         If you are outside our service area, we encourage you to still reach out if you need help accessing digital resources. "
-#   - template: text-lr
-#     left:
-#         title: 
-#         text:
-#     right:
-#         title:
-#         text:
+  - template: text-lr
+    left:
+        title: 
+        text:
+    right:
+        title:
+        text:
 
 ---
 

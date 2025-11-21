@@ -1,0 +1,17 @@
+{{/* 
+  Will automatically use partials in the partials/segments directory.
+*/}}
+
+hello 
+{{ range $i, $val := . }} 
+  {{ with $val }}
+    {{ $partial := (printf "segments/%s.html" .template) }}
+    {{ if templates.Exists (printf "partials/%s" $partial) }}
+      {{ if eq $partial "hero-image-segment"}}
+        {{ partial $partial . }}
+      {{ end }}
+    {{ else }}
+      {{ warnf "There is no file named \"%s.html\" in the layouts/partials/segments directory." .template }}
+    {{ end }}
+  {{ end }}
+{{ end }}

@@ -5,7 +5,7 @@ title: Home
 # For the supported segment templates and required params, see README.md#segments
 segments:
   - template: three-button-call-to-action
-    title: "Some optional title..."
+    # title: "Some optional title..."
     section1:
       photo: "/images/hero3.jpg"
       photo_alt_text: "This is some alt text for a photo."
