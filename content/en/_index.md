@@ -5,7 +5,7 @@ title: Home
 # For the supported segment templates and required params, see README.md#segments
 segments:
   - template: three-button-call-to-action
-    # title: "Invest in Community Internet. Join our network and community!"
+    title: "Let's build an Internet for everyone."
     section1:
       photo: "/images/IMG_6878.jpg"
       photo_alt_text: "This is some alt text for a photo."
