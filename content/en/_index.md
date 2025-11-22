@@ -40,6 +40,7 @@ segments:
   - template: call-to-action-photo-right
     text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
     link:
+      photo: "/images/pcwvolunteers2.jpg"
       text: What We Do 
       href: about/
     class: bg-light-gray
