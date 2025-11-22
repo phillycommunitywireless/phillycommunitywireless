@@ -5,23 +5,23 @@ title: Home
 # For the supported segment templates and required params, see README.md#segments
 segments:
   - template: three-button-call-to-action
-    title: "Let's build an Internet for everyone."
+    title: "Join us in building Internet access for everyone."
     section1:
       photo: "/images/IMG_6878.jpg"
       photo_alt_text: "This is some alt text for a photo."
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      button_text: Connect 
+      text: "Get connected! Join our network and use our Wi-Fi service at your home, organization, or local green space."
+      button_text: Our Wi-Fi 
       button_href: "#"
     section2:
       photo: "/images/pcwvolunteers.png"
       photo_alt_text: "This is some alt text for a photo."
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      text: "Get involved! Volunteer to help build our internet networks, learn new skills, and make a difference in our community."
       button_text: Volunteer 
       button_href: "#"
     section3:
       photo: "/images/Drone_HartLane_Active.JPG"
       photo_alt_text: "This is some alt text for a photo."
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      text: "Get behind us! Support our work in providing essential internet access to individuals and families in Philadephia."
       button_text: Support 
       button_href: "#" 
 
@@ -38,11 +38,9 @@ segments:
 
   # Volunteer CTA
   - template: call-to-action-photo-right
-    text: "**Philly Community Wireless** is a coalition of technologists and organizers working to build community-controlled wireless internet networks in Philadelphia. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors. We actively partner with affordable housing organizations and other local groups focused on investing in existing communities."
-    # Expanded
-    # We believe that **internet access is a human right**. By developing an alternative model for expanding broadband access and adoption, PCW empowers communities to be involved in the construction, maintenance, and design of a public utility to provide sustainable connectivity for everyone in the neighborhood.
+    text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors."
     link:
-      text: Who we are 
+      text: What We Do 
       href: about/
     class: bg-light-gray
 
@@ -56,9 +54,9 @@ segments:
   # Norris Square project
   - template: call-to-action-map
     # heading: North Philadelphia Network
-    text: We are building a community wireless network in North Philadelphia, with a focus on the areas north of [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). If you live in the 19122, 19133, or 19134, reach out to get connected!
+    text: "Our community wireless network currently exists in North Philadelphia, with a focus on **Norris Square, Fairhill, and Kensington**. If you live in the 19122, 19133, or 19134 zip codes, reach out! Check out our map for more details on where you can find us and get connected."
     link:
-      text: Where we are 
+      text: Where We Are 
       href: /networkmap
     class: bg-light-gray
 
