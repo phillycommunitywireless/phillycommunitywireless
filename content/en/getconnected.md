@@ -1,9 +1,11 @@
 ---
 date: 2021-09-30
-title: "Get connected"
+title: "Get Connected to Our Wi-Fi"
 segments: 
   - template: call-to-action-photo-right
-    text: "If you live in the North Philadelphia neighborhoods of Norris Square, Fairhill, or Kensington, and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our sign up form. Our installation and service is free, but as a host of our network equipment, you're a key part of our community! We'd love to get to know you more and stay in touch. We ask that all our antenna hosts share information about our work with neighbors, participate in our community events, and get involved in other ways."
+    text: "If you live in the North Philadelphia neighborhoods of Norris Square, Fairhill, or Kensington, and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our sign up form. 
+    
+    Our installation and service is free, but as a host of our network equipment, you're a key part of our community! We'd love to get to know you more and stay in touch. We ask that all our antenna hosts share information about our work with neighbors, participate in our community events, and get involved in other ways."
     link:
       text: Sign Up for Wi-Fi 
       href: about/
