@@ -9,19 +9,19 @@ segments:
     section1:
       photo: "/images/IMG_6878.jpg"
       photo_alt_text: "This is some alt text for a photo."
-      text: "Get connected! Join our network and use our Wi-Fi service at your home, organization, or local green space."
+      text: "**Get connected!** Join our network and use our Wi-Fi service at your home, organization, or local green space."
       button_text: Our Wi-Fi 
       button_href: "#"
     section2:
       photo: "/images/pcwvolunteers.png"
       photo_alt_text: "This is some alt text for a photo."
-      text: "Get involved! Volunteer to help build our internet networks, learn new skills, and make a difference in our community."
+      text: "**Get involved!** Volunteer to help build our internet networks, learn new skills, and make a difference in our community."
       button_text: Volunteer 
-      button_href: "#"
+      button_href: "/volunteer"
     section3:
       photo: "/images/Drone_HartLane_Active.JPG"
       photo_alt_text: "This is some alt text for a photo."
-      text: "Get behind us! Support our work in providing essential internet access to individuals and families in Philadephia."
+      text: "**Get behind us!** Support our work in providing essential internet access to individuals and families in Philadephia."
       button_text: Support 
       button_href: "#" 
 
@@ -38,7 +38,7 @@ segments:
 
   # Volunteer CTA
   - template: call-to-action-photo-right
-    text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow. We are committed to growing tech literacy, expanding internet access, and building community autonomy with our neighbors."
+    text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
     link:
       text: What We Do 
       href: about/
