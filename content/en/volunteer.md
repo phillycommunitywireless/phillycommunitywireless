@@ -8,6 +8,7 @@ segments:
     title: "Volunteers..."
     text: "We formed as a grassroots, entirely volunteer-led coalition working to build community controlled wireless internet networks in Philadelphia. We now have a dedicated team of staff and processes for onboarding volunteers from the Philly area and beyond to contribute to the organization and our network's growth in a variety of ways. Below we've outlined some of the ways that volunteers can contribute.
 
+
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). "
     photo: "/images/pcwvolunteers2.jpg"
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
