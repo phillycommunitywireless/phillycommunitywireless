@@ -11,7 +11,7 @@ segments:
         photo_alt_text: "This is some alt text for a photo."
         text: "**Get connected!** Join our network and use our Wi-Fi service at your home, organization, or local green space."
         button_text: Our Wi-Fi 
-        button_href: "#"
+        button_href: "/getconnected"
       - photo: "/images/pcwvolunteers.png"
         photo_alt_text: "This is some alt text for a photo."
         text: "**Get involved!** Volunteer to help build our internet networks, learn new skills, and make a difference in our community."
@@ -22,7 +22,7 @@ segments:
         photo_alt_text: "This is some alt text for a photo."
         text: "**Get behind us!** Support our work in providing essential internet access to individuals and families in Philadephia."
         button_text: Support 
-        button_href: "#" 
+        button_href: "/support" 
         button_class: "bg-pcw-lilac"
 
   # # Responsive three-column icons
