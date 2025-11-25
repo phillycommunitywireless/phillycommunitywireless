@@ -302,8 +302,16 @@ footer {
 }
 
 /* images for three-button-call-to-action */
-.cubed {
+.threebutton-img {
   aspect-ratio: 1.5/1;
+  width: 100%;
+  /* remove based off of image display feedback */
+  object-fit: cover;
+}
+
+/* square images for merch catalog */
+.cubed-img {
+  aspect-ratio: 1/1;
   width: 100%;
   /* remove based off of image display feedback */
   object-fit: cover;

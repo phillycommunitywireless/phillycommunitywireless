@@ -42,7 +42,7 @@ segments:
     photo: "/images/pcwvolunteers2.jpg"
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
     button: 
-      button_text: "What We Do "
+      button_text: "What We Do"
       button_href: "about/"
       # no_button_arrow: "true"
 

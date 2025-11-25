@@ -11,9 +11,11 @@
         <div class="vh-60-ns fl w-100 w-50-m w-third-l pv2 ph3">
             <div class="h-100 bg-white flex flex-column justify-between">
                 <div>
-                    <img src="{{ .photo }}" class="threebutton-img br3" alt="{{.photo_alt_text}}">
-                    {{- if .text -}}
-                    <p class="f4 f3-l tc mv3 lh-copy">{{ .text | markdownify }}</p>
+                    <img src="{{ .photo }}" class="cubed-img br3" alt="{{.photo_alt_text}}">
+                    {{- if .item_name -}}
+                    <h2 class="mb0">{{ .item_name | markdownify }}</h2>
+                    {{ end }}
+                    <p class="f4 tl mv2 lh-copy">{{ .item_caption | markdownify }}</p>
                 </div>
 
                 <div>
@@ -21,7 +23,7 @@
                         <a role="button" href="{{ .button_href }}"
                             class="center tc dib link mv3 pa3 ph4 f3 b bg-pcw white {{ .button_class }}">
                             {{ .button_text | default "Placeholder link" }}
-                        </a> {{ end }}
+                        </a> 
                     </div>
                 </div>
             </div>
