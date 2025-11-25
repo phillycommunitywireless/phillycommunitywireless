@@ -6,7 +6,9 @@ header_alt: ""
 segments: 
   - template: call-to-action-photo-right
     class: bg-light-gray
-    text: "If you live in the North Philadelphia neighborhoods of **Norris Square**, **Fairhill**, or **Kensington**, and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9)! 
+    text: "If you live in the North Philadelphia neighborhoods of **Norris Square**, **Fairhill**, or **Kensington**, and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9)!
+
+
     Our installation and service is free, but as a host of our network equipment, you're a key part of our community! We'd love to get to know you more and stay in touch. We ask that all our antenna hosts share information about our work with neighbors, participate in our community events, and get involved in other ways."
     photo: /images/antenna_detail2.jpg
     photo_alt_text: "this is some alt text"
@@ -28,7 +30,7 @@ segments:
       text: "Philly Community Wireless provides network maintenance to improve or repair existing set-ups. If you notice an issue with your connection, please reach out to us.
       
       For more information on what an install involves, visit our [Installation documentation](https://docs.phillycommunitywireless.org/en/latest/installations/installations/)."
-      button: 
+    #  button: 
         button_text: Installation Documentation
         button_href: https://docs.phillycommunitywireless.org/en/latest/installations/installations/
 
