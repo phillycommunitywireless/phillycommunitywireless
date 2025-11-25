@@ -12,17 +12,24 @@
             </div>
 
             <!-- text -->
-            <div class="w-two-thirds db ph2     ">
+            <div class="w-two-thirds ph2 flex flex-column items-center justify-center">
                 <p class="mv2 lh-copy">
-                    {{ $img.text }}
+                    {{ $img.text | markdownify }}
                 </p>
+
+                {{- if $img.button -}}
+                {{ with $img.button }}
+                    <a role="button" href="{{ .button_href }}" class="tc dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .button_text | default "Placeholder link" }}</a>
+                {{- end -}}
+                {{- end -}}
+
             </div>
         </div>
 
         {{ end }}
     {{ else }}
-    <!-- show default -->
 
+    <!-- show default -->
     <div class="w-100 pt2 flex flex-row">
         <!-- img -->
         <div class="w-third flex items-center justify-center pr2">

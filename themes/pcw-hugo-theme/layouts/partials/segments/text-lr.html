@@ -1,11 +1,11 @@
-<section class="cf f4 center w-50-l w-100 pv4">
+<section class="cf f3 center w-75-l w-100 pv4">
 
     <article class="cf flex flex-column flex-row-ns w-100">
         {{ with .left }}
-        <div class="flex flex-column w-100 w-50-ns tc">
+        <div class="flex flex-column w-100 w-50-ns {{ .class }}">
             <div class="h-100 bg-near-white">
-                <h1 class="mb1 mt2">{{ .title | default "Default Title"}}</h1>
-                <p class="ph3 lh-copy"> {{ .text | default "Default Text" }}</p>
+                <h1 class="ph3 mb1 mt2">{{ .title | markdownify | default "Default Title"}}</h1>
+                <p class="ph3 lh-copy"> {{ .text | markdownify | default "Default Text" }}</p>
             </div>
         </div>
         {{ end }}
@@ -14,17 +14,16 @@
             <!-- <div class="f3 measure-narrow" style="height: 14em; border-left: dotted 10px var(--lilac);"></div> -->
         </div>
 
-
         <!-- divider -->
         <!-- <div class="dn dn-m dib-ns ph2 {{ .class }}">
             <div class="f3 measure-narrow" style="height: 14em; border-left: dotted 10px var(--lilac);"></div>
         </div> -->
 
         {{ with .right }}
-        <div class="flex flex-column w-100 w-50-ns tc">
+        <div class="flex flex-column w-100 w-50-ns {{ .class}}">
             <div class="h-100 bg-light-gray">
-                <h1 class="mb1 mt2">{{ .title | default "Default Title"}}</h1>
-                <p class="ph3 lh-copy"> {{ .text | default "Default Text" }}</p>
+                <h1 class="ph3 mb1 mt2">{{ .title | markdownify | default "Default Title"}}</h1>
+                <p class="ph3 lh-copy"> {{ .text | markdownify | default "Default Text" }}</p>
             </div>
         </div>
         {{ end }}
