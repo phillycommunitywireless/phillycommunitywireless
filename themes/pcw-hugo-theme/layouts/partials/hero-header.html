@@ -1,46 +1,16 @@
 {{/*
-Will automatically use partials in the partials/segments directory.
-*/}}
-
-
-<div>
-  <div class="relative vh-50">
-    <img src="/images/wifisign.jpg" alt="{{ .alt }}" class="{{ .class | default " opos-left" }} ofit-cover w-100
-      h-100" />
-    {{ with $.Site.Params.featured_text }}
-    <div class="absolute absolute--fill flex flex-column bg-black-50 hero-image">
-      {{ if in .header ".svg" }}
-      <img src="{{ .header }}" alt="{{ .alt }}" style="margin: auto;" class="h-75 ma4" role="img"
-        aria-label="{{ .alt }}">
-      {{ else }}
-      <h1 style="margin: auto; font-size: 6rem;" class="tc center f1 white mb0 w-50 lh-solid">{{ markdownify .header }}
-      </h1>
-      {{ end }}
-      {{ with .subtitle }}
-      <p class="tc center f2-ns f3 white mt0">{{ . | markdownify }}</p>
-      {{ end }}
-      {{ with .link }}
-      <p class="tc center f3 white mb5 mt0"><a class="pa2 white link" href="/about">{{ . | markdownify}}</a></p>
+  Will automatically use partials in the partials/segments directory.
+  */}}
+  
+  <div>
+    <div class="relative vh-50">
+      {{ with .Params.header_photo }}
+        <img 
+          src="{{ . }}" 
+          alt="{{ $.Params.alt | default "alt text" }}" 
+          class="{{ $.Params.class | default "opos-left" }} ofit-cover w-100 h-100" 
+        />
       {{ end }}
     </div>
   </div>
-  {{ end }}
-
-  {{ partial "segments/hero-image-segment.html" }}
-  {{ partial "segments/hero-image-segment"}}
-</div>
-
-
-{{ range $i, $val := . }}
-{{ with $val }}
-{{ $partial := (printf "segments/%s.html" .template) }}
-{{ if templates.Exists (printf "partials/%s" $partial) }}
-<!-- {{ if eq $partial "hero-image-segment"}} -->
-<!-- {{ partial $partial . }} -->
-<!-- {{ partial "hero-image-segment" }} -->
-<!-- {{ end }} -->
-{{ else }}
-{{ warnf "There is no file named \"%s.html\" in the layouts/partials/segments directory." .template }}
-{{ end }}
-{{ end }}
-{{ end }}
+  

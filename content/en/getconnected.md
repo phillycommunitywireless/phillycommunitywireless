@@ -1,6 +1,8 @@
 ---
 date: 2021-09-30
 title: "Get Connected to Our Wi-Fi"
+header_photo: "/images/wifisign.jpg"
+header_alt: ""
 segments: 
   - template: call-to-action-photo-right
     class: bg-light-gray
