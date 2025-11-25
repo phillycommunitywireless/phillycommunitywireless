@@ -78,6 +78,9 @@ segments:
         
         * Printing, Silkscreening
         "
+  - template: eventcalendar
+    heading: "Title..."
+    text: "Lorem ipsum..."
 ---
 
 We love volunteers! We formed as a grassroots, entirely volunteer-led coalition working to build community controlled wireless internet networks in Philadelphia. We now have a dedicated team of staff and processes for onboarding volunteers from the Philly area and beyond to contribute to the organization and our network's growth in a variety of ways. Below we've outlined some of the ways that volunteers can contribute.
@@ -126,6 +129,4 @@ _The Outreach Team is actively seeking volunteers with Spanish language proficie
  -->
 <!-- If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj).  -->
 
-<!-- ## Event Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_ca84146424d3ddad9678df590065af38e3fc78ff3720a41ed05584cd5e7cd7eb%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no" aria-label="Event Calendar"></iframe> -->
