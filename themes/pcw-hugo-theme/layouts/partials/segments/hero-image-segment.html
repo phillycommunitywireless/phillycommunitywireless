@@ -1,9 +1,7 @@
 {{ with .featured_image }}
 
-this is the hero image segment
-
   <div class="relative vh-50">
-    <img src="{{ .src }}" alt="{{ .alt }}" class="{{ .class | default "opos-left" }} ofit-cover w-100 h-100"/>
+    <img src="/images/wifisign.jpg" alt="{{ .alt }}" class="{{ .class | default "opos-left" }} ofit-cover w-100 h-100"/>
     {{ with $.Site.Params.featured_text }}
       <div class="absolute absolute--fill flex flex-column bg-black-50 hero-image">
         {{ if in .header ".svg" }}

@@ -1,7 +1,6 @@
 ---
 date: 2025-11-20
 title: "Support PCW"
-layout: hero-header.html
 
 segments:
     # - template: hero-image-segment
