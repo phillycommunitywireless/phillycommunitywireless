@@ -30,9 +30,6 @@ segments:
       text: "Philly Community Wireless provides network maintenance to improve or repair existing set-ups. If you notice an issue with your connection, please reach out to us.
       
       For more information on what an install involves, visit our [Installation documentation](https://docs.phillycommunitywireless.org/en/latest/installations/installations/)."
-    #  button: 
-        button_text: Installation Documentation
-        button_href: https://docs.phillycommunitywireless.org/en/latest/installations/installations/
 
   - template: text-lr
     title: "some title"
