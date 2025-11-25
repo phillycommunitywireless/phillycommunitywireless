@@ -5,7 +5,9 @@
         <div class="flex flex-column w-100 w-50-ns {{ .class }}">
             <div class="h-100 bg-near-white">
                 <h1 class="ph3 mb1 mt2">{{ .title | markdownify | default "Default Title"}}</h1>
-                <p class="ph3 lh-copy"> {{ .text | markdownify | default "Default Text" }}</p>
+                <div class="ph3">
+                    <p class="lh-copy"> {{ .text | markdownify | default "Default Text" }}</p>
+                </div>           
             </div>
         </div>
         {{ end }}
@@ -23,7 +25,9 @@
         <div class="flex flex-column w-100 w-50-ns {{ .class}}">
             <div class="h-100 bg-light-gray">
                 <h1 class="ph3 mb1 mt2">{{ .title | markdownify | default "Default Title"}}</h1>
-                <p class="ph3 lh-copy"> {{ .text | markdownify | default "Default Text" }}</p>
+                <div class="ph3">
+                    <p class="lh-copy"> {{ .text | markdownify | default "Default Text" }}</p>
+                </div>
             </div>
         </div>
         {{ end }}
