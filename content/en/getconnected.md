@@ -47,7 +47,10 @@ segments:
 
     If you are outside our service area, we encourage you to still reach out if you need help accessing digital resources."
       class: tl
-  
+
+    # newsletter 
+  - template: newsletter-verbose
+    
 ---
 
 Are you looking for affordable, lost cost, or free Internet in Philadelphia? Do you want to make an impact in your community and help your neighbors get connected to the Internet? Join our network and community!
