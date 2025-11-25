@@ -42,7 +42,9 @@ segments:
     right: 
       title: "Resources"
       text: "If you are in need of more immediate access to internet and other digital resources, please visit our [resource page](https://phillycommunitywireless.org/resources/). There, you will find information about accessing affordable internet, computers, and training in digital skills.
-      If you are outside our service area, we encourage you to still reach out if you need help accessing digital resources."
+
+
+    If you are outside our service area, we encourage you to still reach out if you need help accessing digital resources."
       class: tl
   
 ---
