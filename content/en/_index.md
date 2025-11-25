@@ -116,7 +116,7 @@ segments:
   - template: image
     src: "/images/nkcdc-drone.jpg"
     alt: Birds-eye image of three people setting up equipment on a building roof, with the neighborhood in the background.
-    class: opos-left
+    class: opos-left display-img-center
     
   # Contact info
   # - template: markdown

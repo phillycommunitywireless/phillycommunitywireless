@@ -276,3 +276,7 @@ footer {
   background-color: var(--primary);
   color: white !important;
 }
+
+.display-img-center {
+  object-position: 50% 50% !important;
+}
