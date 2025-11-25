@@ -1,16 +1,6 @@
-{{/*
-  Will automatically use partials in the partials/segments directory.
-  */}}
-  
-  <div>
-    <div class="relative vh-50">
-      {{ with .Params.header_photo }}
-        <img 
-          src="{{ . }}" 
-          alt="{{ $.Params.alt | default "alt text" }}" 
-          class="{{ $.Params.class | default "opos-left" }} ofit-cover w-100 h-100" 
-        />
-      {{ end }}
-    </div>
-  </div>
-  
+{{ with .Params.header_photo }}
+<div class="relative vh-50">
+  <img src="{{ . }}" alt="{{ $.Params.alt | default " alt text" }}" class="{{ $.Params.class | default " opos-left" }}
+    ofit-cover w-100 h-100" />
+</div>
+{{ end }}

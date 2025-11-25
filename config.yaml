@@ -12,38 +12,42 @@ languages:
     contentDir: content/en
     menu:
       main:
-        - name: Get Connected
-          identifier: get-connected
+        # Programs
+        - name: Programs
+          identifier: Programs
           weight: "1"
-        - name: Connect
+        - name: Get Connected
           url: "/getconnected"
-          parent: get-connected
+          parent: Programs
           weight: "1"
         - name: Volunteer
           url: "/volunteer"
-          parent: get-connected
-          weight: "2"
-        # - name: Network Updates
-        #   url: "/networkupdates"
-        #   parent: get-connected
-        #   weight: "3"
+          parent: Programs
+          weight: "2"        
 
+        # Support
+        - name: Support
+          identifier: support
+          weight: "2"
         - name: Donate
-          url: https://phillycommunitywireless.allyrafundraising.com/
+          url: "https://phillycommunitywireless.allyrafundraising.com/"
           params:
             external: true
+          parent: support
+          weight: "1"
+        - name: Merch
+          url: "/merch"
+          parent: support
           weight: "2"
 
-        - name: About Us
+        # About
+        - name: About 
           identifier: about-us
           weight: "3"
         - name: About
           url: "/about"
           parent: about-us
           weight: "1"
-        - name: In the News 
-          url: "/about/news"
-          parent: about-us
         - name: People
           url: "/about/people"
           parent: about-us
@@ -52,14 +56,21 @@ languages:
           url: "/about/partners"
           parent: about-us
           weight: "3"
-        - name: Getting Here 
-          url: "/about/getting-here"
+        - name: In the News 
+          url: "/about/news"
           parent: about-us
           weight: "4"
+        - name: Location 
+          url: "/about/getting-here"
+          parent: about-us
+          weight: "5"
         - name: FAQ
           url: "/about/faq"
           parent: about-us
-          weight: "5"
+          weight: "6"
+        - name: Contact
+          url: contact
+          weight: "7"
 
         - name: Map
           url: "/networkmap"
