@@ -6,24 +6,24 @@ title: Home
 segments:
   - template: three-button-call-to-action
     title: "Join us in building Internet access for everyone."
-    section1:
-      photo: "/images/IMG_6878.jpg"
-      photo_alt_text: "This is some alt text for a photo."
-      text: "Get connected! Join our network and use our Wi-Fi service at your home, organization, or local green space."
-      button_text: Our Wi-Fi 
-      button_href: "#"
-    section2:
-      photo: "/images/pcwvolunteers.png"
-      photo_alt_text: "This is some alt text for a photo."
-      text: "Get involved! Volunteer to help build our internet networks, learn new skills, and make a difference in our community."
-      button_text: Volunteer 
-      button_href: "/volunteer"
-    section3:
-      photo: "/images/Drone_HartLane_Active.JPG"
-      photo_alt_text: "This is some alt text for a photo."
-      text: "Get behind us! Support our work in providing essential internet access to individuals and families in Philadephia."
-      button_text: Support 
-      button_href: "#" 
+    sections:
+      - photo: "/images/IMG_6878.jpg"
+        photo_alt_text: "This is some alt text for a photo."
+        text: "**Get connected!** Join our network and use our Wi-Fi service at your home, organization, or local green space."
+        button_text: Our Wi-Fi 
+        button_href: "#"
+      - photo: "/images/pcwvolunteers.png"
+        photo_alt_text: "This is some alt text for a photo."
+        text: "**Get involved!** Volunteer to help build our internet networks, learn new skills, and make a difference in our community."
+        button_text: Volunteer 
+        button_href: "/volunteer"
+        button_class: "bg-pcw-salmon"
+      - photo: "/images/Drone_HartLane_Active.JPG"
+        photo_alt_text: "This is some alt text for a photo."
+        text: "**Get behind us!** Support our work in providing essential internet access to individuals and families in Philadephia."
+        button_text: Support 
+        button_href: "#" 
+        button_class: "bg-pcw-lilac"
 
   # # Responsive three-column icons
   # - template: icons
@@ -39,10 +39,13 @@ segments:
   # Volunteer CTA
   - template: call-to-action-photo-right
     text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
-    link:
-      photo: "/images/pcwvolunteers2.jpg"
-      text: What We Do 
-      href: about/
+    photo: "/images/pcwvolunteers2.jpg"
+    photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
+    button: 
+      button_text: "What We Do "
+      button_href: "about/"
+      # no_button_arrow: "true"
+
     class: bg-light-gray
 
   # Divider
@@ -116,7 +119,7 @@ segments:
   - template: image
     src: "/images/nkcdc-drone.jpg"
     alt: Birds-eye image of three people setting up equipment on a building roof, with the neighborhood in the background.
-    class: opos-left display-img-center
+    class: display-img-bottom-center
     
   # Contact info
   # - template: markdown

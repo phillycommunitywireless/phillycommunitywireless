@@ -11,23 +11,37 @@
 <section class="center cf tl tc-ns f1 pt4 pb4 {{ .class }}">
     <div class="w-75-l center flex flex-row{{$reverse}}-l flex-column{{$reverse}} flex-column-reverse items-stretch w-100 h-auto-l f3">
 
-        <!-- text -->
+        <!-- left-hand title, text, btn -->
         <div class="flex flex-column flex-1-l center justify-center pv2-l ph4-l pb4 ph3">
-            {{ with .text }}
-            <p class="mv3 lh-copy tl tc-ns f4 f3-l">
+            {{- if .title -}}
+            <h1 class="tl">
+                {{ .title | markdownify }}
+            </h1>
+            {{- end -}}
+
+            <!-- text -->
+            <p class="mv3 lh-copy tl tc-ns {{ .text_class }}">
+                {{ with .text }}
                 {{ markdownify . }}
+                {{ end}}
             </p>
-            {{ end}}
-            {{ with .link }}
+
+            <!-- button -->
+            {{- if .button -}}
+            {{ with .button }}
             <div class="flex items-center">
-                <a role="button" href="{{.href}}" class="center dib link mv3 pa3 ph4 f3 b {{ .class | default " bg-pcw white" }}">{{ .text | default "Placeholder link" }}</a>
+                <a {{- if .no_button_arrow -}} role="" {{ else }} role="button" {{ end }} href="{{ .button_href }}" class=" center tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white {{ .class }}">
+                    {{ .button_text | default "Placeholder link" }}
+                </a>
             </div>
             {{ end }}
+            {{- end -}}
+
         </div>
 
-        <!-- img -->
+        <!-- right-hand photo -->
         <div class="flex-1 flex justify-center items-center bg-center pv2-l ph3">
-            <img id="ctr-img" class="br3" src="{{ .photo }}" alt="">
+            <img id="ctr-img" class="br3" src="{{ .photo }}" alt="{{.photo_alt_text}}">
         </div>
     </div>
 </section>

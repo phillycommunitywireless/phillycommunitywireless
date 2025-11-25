@@ -144,6 +144,7 @@ img.opos-top {
   .m-footer .self-center {
     align-self: normal;
   }
+
   #footer-logo {
     margin-bottom: 1em;
   }
@@ -215,7 +216,7 @@ img.opos-top {
     max-width: 50%;
     justify-content: center;
     flex-direction: column;
-    text-align: center;  
+    text-align: center;
     margin-bottom: 0;
     margin-top: 0;
   }
@@ -277,6 +278,33 @@ footer {
   color: white !important;
 }
 
-.display-img-center {
-  object-position: 50% 50% !important;
+.display-img-bottom-center {
+  object-position: 50% bottom;
+}
+
+.vh-60 {
+  height: 60vh;
+}
+
+/* not-small (ns) classes */
+@media (min-width: 30em) {
+  .vh-60-ns {
+    height: 60vh;
+  }
+}
+
+/* medium */
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .vh-60-m {
+    height: 60vh;
+  }
+
+}
+
+/* images for three-button-call-to-action */
+.cubed {
+  aspect-ratio: 1.5/1;
+  width: 100%;
+  /* remove based off of image display feedback */
+  object-fit: cover;
 }
