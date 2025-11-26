@@ -20,12 +20,12 @@
             {{- end -}}
 
             <!-- text -->
-            <p class="mv3 lh-copy tl tc-ns {{ .text_class }}">
-                {{ with .text }}
-                {{ markdownify . }}
-                {{ end}}
-            </p>
-
+            <div class="mv3 lh-copy tl tc-ns {{ .text_class }}">
+                <p>
+                    {{ .text | markdownify }}
+                </p>
+            </div>
+         
             <!-- button -->
             {{- if .button -}}
             {{ with .button }}
