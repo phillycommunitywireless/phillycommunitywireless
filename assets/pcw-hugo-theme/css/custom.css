@@ -315,5 +315,5 @@ footer {
   width: 100%;
   /* remove based off of image display feedback */
   object-fit: cover;
-  object-position: left;
+  object-position: center;
 }

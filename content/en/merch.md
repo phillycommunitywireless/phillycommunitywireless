@@ -6,7 +6,7 @@ segments:
   - template: merch-catalog
     # title: "Currently Available"
     sections:
-      - photo: "/images/merch/pcwhat.png"
+      - photo: "/images/merch/pcwhat2.jpg"
         photo_alt_text: "This is some alt text for a photo."
         item_name: PCW Hat
         item_caption: Our embroidered 6-panel PCW hat in vintage wash is perfect for a relaxed wear. Made from 100% cotton twill, with an adjustable leather strap.
