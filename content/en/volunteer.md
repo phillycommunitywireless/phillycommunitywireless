@@ -21,31 +21,27 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
     left:
         title: "Tech"
         text: "
-        The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops throughout Philadelphia. 
+        Volunteer for technical work with PCW, which includes installing equipment in homes and on rooftops throughout Philadelphia, attending in-person trainings in Norris Square, network configuring, mapping and data visualization, and web development. 
         
         
         Many of us are in the process of learning these skills, so if these skills are new to you, you'll be trained in a collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both ideal. 
         
-
-        Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you.
         
-        ## Here are some of the skill areas we're looking for:
+        ## Here are some of the skill areas that are relevant to our work:
 
-        * Networking: network design, security, protocols, hardware, mesh, Linux/UNIX
+        * Installation: accessing rooftops, climbing a ladder, drilling into brick, securing cables
 
         * Hardware & Cabling: terminating & testing CAT5e cable, mounting equipment on masonry
-        
-        * Installation: accessing rooftops, climbing a ladder, drilling into brick, securing cables
-        
-        * Home Electrician Basics
+
+        * Networking: network design, security, protocols, hardware, mesh, Linux/UNIX
         
         * Software Development
-        
-        * Technical Documentation
-        
+
+        * GIS & Mapping, Data Visualization, Data Science
+
         * UX/UI, Graphic Design
         
-        * GIS & Mapping, Data Visualization, Data Science
+        * Technical Documentation
         "
     right:
         title: "Outreach"
