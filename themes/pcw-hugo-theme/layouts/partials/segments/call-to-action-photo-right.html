@@ -14,16 +14,17 @@
         <!-- left-hand title, text, btn -->
         <div class="flex flex-column flex-1-l center justify-center pv2-l ph4-l pb4 ph3">
             {{- if .title -}}
-            <h1 class="tl">
+            <h1 class="tc mb0">
                 {{ .title | markdownify }}
             </h1>
             {{- end -}}
 
             <!-- text -->
-            <div class="mv3 lh-copy tl tc-ns {{ .text_class }}">
-                <p>
+            <div class="lh-copy tl tc-ns {{ .text_class }}">
+                <!-- <p>
                     {{ .text | markdownify }}
-                </p>
+                </p> -->
+                {{ .text | markdownify }}
             </div>
          
             <!-- button -->
