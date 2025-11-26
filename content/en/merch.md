@@ -59,6 +59,6 @@ segments:
 
 Check out the latest Philly Community Wireless swag!  
 
-When you purchase your favorite PCW items, all proceeds directly support our work to provide internet access to all. Rep PCW and let people know that you support community-led internet in Philadelhpia.  
+When you purchase your favorite PCW items, all proceeds directly support our work to provide internet access to all. Rep PCW and let people know that you support community-led internet in Philadelphia.  
 
 Items are screen-printed or embroidered locally. If you have any questions about our products, send us an email at info@phillycommunitywireless.org.
