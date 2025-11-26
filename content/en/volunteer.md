@@ -66,8 +66,8 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
         * Research & Education Training
         "
   - template: eventcalendar
-    heading: "Title..."
-    text: "Lorem ipsum..."
+    heading: "Upcoming Events"
+    text: "See our calendar to get an idea of upcoming in-person volunteer events and opportunities! Most of our installs are coordinated on Thursdays or Fridays, and we aim to host Volunteer Saturday Sessions 1-2 times per month."
 ---
 
 We love volunteers! Use your skills (whatever they are!) to give back to the Philadelphia community and support internet access for all. In-person and remote volunteer opportunities are available — we welcome you to get involved in whatever capacity makes sense for you.
