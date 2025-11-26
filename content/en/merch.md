@@ -1,6 +1,6 @@
 ---
 date: 2025-11-20
-title: "PCW Merch"
+title: "Shop PCW Merch"
 
 segments: 
   - template: merch-catalog
