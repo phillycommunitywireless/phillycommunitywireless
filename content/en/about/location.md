@@ -1,7 +1,7 @@
 ---
 date: 2023-10-18
 title: "Location"
-layout: "people/people"
+layout: "single"
 aliases:
     - /location
 header_photo: "/images/wifisign.jpg"

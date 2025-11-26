@@ -1,7 +1,7 @@
 ---
 date: 2023-10-18
 title: "About"
-layout: "people/people"
+layout: "single"
 header_photo: "/images/wifisign.jpg"
 header_alt: ""
 segments: 
@@ -10,6 +10,9 @@ segments:
     text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
     photo: "/images/pcwvolunteers2.jpg"
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
+    class: "bg-light-gray"
+    reverse: true
+
 
   # newsletter 
   - template: newsletter-verbose
@@ -20,7 +23,7 @@ segments:
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
 
 ---
-
+<!-- 
 Our team includes both staff and volunteers from a wide array of local and regional organizations. For more information, visit our [People page](/about/people).
 
 For up-to-date info on the project, sign up for our [newsletter](http://eepurl.com/hHTT2D) and follow us on social media.
@@ -73,4 +76,4 @@ We are looking for additional funding to purchase more hardware that will be don
 
 ## In the News
 
-Reporting on PCW's work can be found on our [In the News page!](/news) 
+Reporting on PCW's work can be found on our [In the News page!](/news)  -->
