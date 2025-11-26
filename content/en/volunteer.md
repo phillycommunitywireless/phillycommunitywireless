@@ -6,7 +6,7 @@ header_alt: ""
 segments: 
   - template: call-to-action-photo-right
     title: "Sign Up"
-    text: "We formed as a grassroots, volunteer-led coalition, and our dedicated team of staff regularly onboard new volunteers from the Philly area to help build and sustain our network. We invite you to join and participate in our organization, in person or virtually. Below we've outlined some of the ways that volunteers can contribute.
+    text: "We formed as a grassroots, volunteer-led coalition, and our dedicated team of staff regularly onboard new volunteers from the Philly area to help build and sustain our network. We invite you to join and participate in our organization! We've outlined some ways volunteers can contribute below.
 
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). "
@@ -86,7 +86,7 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
     text: "Lorem ipsum..."
 ---
 
-We love volunteers! Use your skills (whatever they are!) to give back to the Philadelphia community and support internet access for all. In-person and remote volunteer opportunities are available. We welcome you to get involved in whatever capacity makes sense for you.
+We love volunteers! Use your skills (whatever they are!) to give back to the Philadelphia community and support internet access for all. In-person and remote volunteer opportunities are available — we welcome you to get involved in whatever capacity makes sense for you.
 
 
 If you want to support our work but aren't able to volunteer at the moment, see our [Support page](https://phillycommunitywireless.org/support) for other ways to help.
