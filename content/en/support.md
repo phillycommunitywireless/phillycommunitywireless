@@ -13,7 +13,7 @@ segments:
         - photo: ""
           photo_alt_text: "This is some alt text for a photo."
           text: "Donate to directly support our mission of bridging the digital divide in communities in Philadelphia. To process donations, we use Allyra, a fundraising platform used by nonprofits and professional associations nationwide. You can make one-time or recurring donations."
-          button_text: Donate to PCW
+          button_text: Donate
           button_href: "#"
         - photo: ""
           photo_alt_text: "This is some alt text for a photo."
@@ -24,7 +24,7 @@ segments:
         - photo: ""
           photo_alt_text: "This is some alt text for a photo."
           text: "Become a direct part of our effort to connect community members to free internet access by hosting our network equipment at your property and sharing connectivity with your neighbors. Learn more about signing up on our Get Connected page."
-          button_text: Become a PCW Host
+          button_text: Become a Host
           button_href: "#" 
           button_class: "bg-pcw-lilac"
 
@@ -46,10 +46,7 @@ segments:
         text: "We partner with various property owners throughout North Philadelphia to build out our Wi-Fi network. Our priority is to build relationships with affordable housing organizations and other local groups focused on investing in existing communities. Other PCW partners include like-minded community organizations who provide digital access programs and services. [Click here](https://phillycommunitywireless.org/about/partners/) to see our list of valued community partners."
       right:
         title: Funders & Supporters
-        text: "Our funders make it possible for PCW to provide free internet access to tens of thousands of community members. [Click here](https://phillycommunitywireless.org/about/funders/) for more information on the funders that have invested in PCW and our community.
-        
-        
-        If you are a funder and would like to connect with PCW, please reach out at info@communitywireless.org."
+        text: "Our funders make it possible for PCW to provide free internet access to tens of thousands of community members. We are grateful for their support in realizing our mission. [Click here](https://phillycommunitywireless.org/about/funders/) for more information on the funders that have invested in PCW and our community."
 
   # newsletter 
     - template: newsletter-verbose
