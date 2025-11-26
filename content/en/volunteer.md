@@ -84,6 +84,7 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
   - template: eventcalendar
     heading: "Title..."
     text: "Lorem ipsum..."
+    # reverse: true
 ---
 
 We love volunteers! Use your skills (whatever they are!) to give back to the Philadelphia community and support internet access for all. In-person and remote volunteer opportunities are available — we welcome you to get involved in whatever capacity makes sense for you.
