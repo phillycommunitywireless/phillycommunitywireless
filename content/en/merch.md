@@ -57,7 +57,7 @@ segments:
       - photo: "https://www.pigskinsandpigtails.com/wp-content/uploads/2022/04/t-shirt-tote-bag-easy-project-kids-recycle-earth-day-800x443.jpg"
         photo_alt_text: "This is some alt text for a photo."
         item_name: Dad Hat + Tote Bag + T-Shirt Bundle
-        item_caption: Become a PCW connoisseur and rep us in all available styles! $78.
+        item_caption: Become a PCW connoisseur and rep us in all available styles!
         item_price: $78
         button_text: Purchase 
         button_href: "https://buy.stripe.com/fZueV69NDer53i27Hu5c40e" 
