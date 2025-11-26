@@ -46,9 +46,10 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
     right:
         title: "Outreach"
         text: "
-        Volunteer to do outreach work with PCW, which includes participating in community events, canvassing and flyering, marketing and graphic design, and more. If you are a Spanish speaker, we welcome your support with translations and community engagement. 
+        Volunteer to do outreach work with PCW, which includes participating in community events, canvassing and flyering, marketing and graphic design, and more. If you are a Spanish speaker, we welcome your support with translations and community engagement.
 
-    The Outreach Team is actively seeking volunteers with Spanish language proficiency to work on community engagement and outreach efforts! We're also looking for volunteers who can help with onsite outreach in and around our network installations in North Philadelphia. 
+
+        Volunteers who participate in PCW's outreach are also invited to join installations, which are a great opportunity to learn more about PCW's work, engage with community members who open their homes and spaces to us, and conduct outreach post-install.
         
         
         ## Here are some of the skill areas that are relevant to our work:
