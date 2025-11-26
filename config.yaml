@@ -34,7 +34,7 @@ languages:
           params:
             external: true
           parent: support
-          weight: "1"
+          weight: "3"
         - name: Merch
           url: "/merch"
           parent: support
@@ -42,13 +42,13 @@ languages:
         - name: Support Us
           url: "/support"
           parent: support
-          weight: "3"
+          weight: "1"
 
         # About
         - name: About 
           identifier: about-us
           weight: "3"
-        - name: About
+        - name: About Us
           url: "/about"
           parent: about-us
           weight: "1"
@@ -72,9 +72,7 @@ languages:
           url: "/about/faq"
           parent: about-us
           weight: "6"
-        - name: Contact
-          url: contact
-          weight: "7"
+     
 
         - name: Map
           url: "/networkmap"
