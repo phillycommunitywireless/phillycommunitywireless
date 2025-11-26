@@ -86,7 +86,7 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
     text: "Lorem ipsum..."
 ---
 
-We love volunteers! Use your skills (whatever they are!) to give back to the Philadelphia community and support internet access for all. 
+We love volunteers! Use your skills (whatever they are!) to give back to the Philadelphia community and support internet access for all. In-person and remote volunteer opportunities are available. We welcome you to get involved in whatever capacity makes sense for you.
 
 
 If you want to support our work but aren't able to volunteer at the moment, see our [Support page](https://phillycommunitywireless.org/support) for other ways to help.
