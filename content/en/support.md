@@ -43,7 +43,7 @@ segments:
     - template: text-lr
       left:
         title: Partners & Collaborators
-        text: "We partner with property owners throughout North Philadelphia to build out our Wi-Fi network. In particular, we build relationships with affordable housing organizations and other local groups focused on investing in existing communities. Other partners include like-minded community organizations who provide digital access programs and services. See our list of valued community partners here.
+        text: "We partner with property owners throughout North Philadelphia to build out our Wi-Fi network. In particular, we build relationships with affordable housing organizations and other local groups focused on investing in existing communities. Other partners include like-minded community organizations who provide digital access programs and services. [Click here](https://phillycommunitywireless.org/about/partners/) to see our list of valued community partners.
 
 
         If you are interested in becoming a PCW partner, contact us at info@phillycommunitywireless.org."
