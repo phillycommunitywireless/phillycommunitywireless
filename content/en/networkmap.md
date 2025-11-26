@@ -3,7 +3,7 @@ date: 2024-04-02
 title: "Network Coverage Map"
 ---
 
-{{< button-custom href="https://map.phillycommunitywireless.org/" text=View Map in Fullscreen>}}
+{{< button-custom href="https://map.phillycommunitywireless.org/" text="View Map in Fullscreen">}}
 
 ## [Philly Community Wireless Wifi Coverage Map](https://map.phillycommunitywireless.org/)
 
