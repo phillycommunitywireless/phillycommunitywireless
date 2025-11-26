@@ -23,7 +23,7 @@ segments:
           button_class: "bg-pcw-salmon"
         - photo: ""
           photo_alt_text: "This is some alt text for a photo."
-          text: "Insert."
+          text: "Become a direct part of our effort to connect community members to free internet access by hosting our network equipment at your property and sharing connectivity with your neighbors. Learn more about signing up on our Get Connected page."
           button_text: Support 
           button_href: "#" 
           button_class: "bg-pcw-lilac"
@@ -36,14 +36,18 @@ segments:
       text_class: bg-light-gray pa4
       photo: "/images/pcwvolunteers2.jpg"
       button:
-        button_text: "Donate Today!"
+        button_text: "Donate Today"
         button_href: "#"
         class: bg-pcw-lilac
 
     - template: text-lr
       left:
         title: Partners & Collaborators
-        text: 
+        text: Insert text here.
+        button:
+          button_text: "Donate Today!"
+          button_href: "#"
+          class: bg-pcw-lilac
       right:
         title: Supporters & Funders
         text:
