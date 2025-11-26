@@ -24,7 +24,7 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
         Volunteer for technical work with PCW, which includes installing equipment in homes and on rooftops throughout Philadelphia, attending in-person trainings in Norris Square, network configuring, mapping and data visualization, and web development. 
         
         
-        Many of us are in the process of learning these skills, so if these skills are new to you, you'll be trained in a collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both ideal. 
+        Many of us are in the process of learning these skills, so if these skills are new to you, you'll be trained in a collaborative environment. If you're experienced, we welcome your expertise and training support.
         
         
         ## Here are some of the skill areas that are relevant to our work:
@@ -46,36 +46,24 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
     right:
         title: "Outreach"
         text: "
-        The Outreach Team is actively seeking volunteers with Spanish language proficiency to work on community engagement and outreach efforts! We're also looking for volunteers who can help with onsite outreach in and around our network installations in North Philadelphia. 
+        Volunteer to do outreach work with PCW, which includes participating in community events, canvassing and flyering, marketing and graphic design, and more. If you are a Spanish speaker, we welcome your support with translations and community engagement. 
+
+    The Outreach Team is actively seeking volunteers with Spanish language proficiency to work on community engagement and outreach efforts! We're also looking for volunteers who can help with onsite outreach in and around our network installations in North Philadelphia. 
         
         
-        Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you.
+        ## Here are some of the skill areas that are relevant to our work:
         
-        ## Here are some of the skill areas we're looking for:
-        
-        * Canvassing, Flyering, Tabling at events
-        
-        * Making Calls to Community Members
-        
-        * Photo & Video Documentation of Our Project
-        
-        * Posting to Social Media
-        
-        * Event Planning & Management
-        
-        * Technology Education: teaching workshops, creating training materials
-        
-        * Research
-        
-        * Running Focus Groups
-         
-        * Grant Writing, Fundraising
-        
-        * Marketing
+        * Canvassing and Flyering
+
+        * Events: tabling, planning and management
+    
+        * Marketing and Social Media
         
         * Graphic Design: posters, postcards, fliers, merch, t-shirts
         
-        * Printing, Silkscreening
+        * Documentation: photo, video, and text
+        
+        * Research & Education Training
         "
   - template: eventcalendar
     heading: "Title..."
