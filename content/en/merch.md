@@ -55,7 +55,7 @@ segments:
         button_text: Purchase 
         button_href: "https://buy.stripe.com/fZueV69NDer53i27Hu5c40e" 
 
-   class: bg-light-gray
+        class: bg-light-gray
 ---
 
 Check out the latest Philly Community Wireless swag!  
