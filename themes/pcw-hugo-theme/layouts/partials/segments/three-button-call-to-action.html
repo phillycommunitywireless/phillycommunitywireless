@@ -1,5 +1,5 @@
 <section class="cf center w-75-l w-100 pv4">
-    <div class="mw9 center ph3-ns">
+    <div class="flex flex-wrap items-stretch mw9 center ph3-ns">
         {{- if .title -}}
         <div>
             <h1 style="padding-bottom:2rem" class="tl f2 f1-ns center ma0 pa2 color-pcw-dark-blue">{{ .title }}</h1>
@@ -8,7 +8,7 @@
 
         {{ range $i, $section := .sections }}
         {{ with $section }}
-        <div class="vh-60-ns fl w-100 w-50-m w-third-l pv2 ph3">
+        <div class="fl w-100 w-50-m w-third-l pv2 ph3">
             <div class="h-100 bg-white flex flex-column justify-between">
                 <div>
                     <img src="{{ .photo }}" class="threebutton-img br3" alt="{{.photo_alt_text}}">
