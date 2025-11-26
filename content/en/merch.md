@@ -8,53 +8,57 @@ segments:
     sections:
       - photo: "/images/merch/pcwhat.png"
         photo_alt_text: "This is some alt text for a photo."
-        item_name: PCW Dad Hat
-        item_caption: This hat is really cool.
+        item_name: PCW Hat
+        item_caption: Our embroidered 6-panel PCW hat in vintage wash is perfect for a relaxed wear. Made from 100% cotton twill, with an adjustable leather strap.
         button_text: Purchase 
-        button_href: "https://buy.stripe.com/9B6eV6f7Xdn1aKu9PC5c402"
+        button_href: "https://buy.stripe.com/5kQ3co8Jz6YD3i25zm5c409"
 
       - photo: "/images/merch/pcwtote.png"
         photo_alt_text: "This is some alt text for a photo."
         item_name: PCW Tote Bag
-        item_caption: This tote bag is even cooler than the hat. 
+        item_caption: Get this washable PCW tote bag for all your carrying needs! Material is 100% heavy cotton canvas; dimensions are 20" W x 15" H x 5" D.
         button_text: Purchase 
-        button_href: "https://buy.stripe.com/9B69AM2lb1Ej2dY4vi5c400" 
+        button_href: "https://buy.stripe.com/5kQfZa5xn1Ej9Gq3re5c40a" 
         
       - photo: "/images/merch/pcwshirt.png"
         photo_alt_text: "This is some alt text for a photo."
         item_name: PCW T-Shirt
-        item_caption: For the complete look.
+        item_caption: Our unisex PCW t-shirt is a great way to rep PCW while staying comfortable! A cotton and polyester blend, this fits true-to-size.
         button_text: Purchase 
-        button_href: "https://buy.stripe.com/5kQ8wIgc12InbOy4vi5c401" 
+        button_href: "https://buy.stripe.com/eVq00c3pfer5g4ObXK5c408" 
 
       - photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh78WcC5shHMmT73yj4iqQTgSJ_2dfAZbPMA&s"
         photo_alt_text: "This is some alt text for a photo."
-        item_name: Dad Hat + Tote Bag Bundle
-        item_caption: This is a bundle.
+        item_name: Hat + Tote Bag Bundle
+        item_caption: Get all the PCW accessories with this hat and tote bag bundle.
         button_text: Purchase 
-        button_href: "https://buy.stripe.com/6oU14g5xn1Ejf0K3re5c403" 
+        button_href: "https://buy.stripe.com/cNidR26Brdn12dY6Dq5c40c" 
 
       - photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhow4vWmQhtst-okjEIkI8JzB6-qhEykrIYQ&s"
         photo_alt_text: "This is some alt text for a photo."
-        item_name: Dat Hat + T-Shirt Bundle
-        item_caption: This is a bundle.
+        item_name: T-Shirt + Hat Bundle
+        item_caption: Stay comfy in our wearable bundle of a t-shirt and hat.
         button_text: Purchase 
-        button_href: "https://buy.stripe.com/bJe4gsgc14Qv6uef9W5c404" 
+        button_href: "https://buy.stripe.com/3cI28k5xn2In2dYf9W5c40d" 
 
       - photo: "https://www.pigskinsandpigtails.com/wp-content/uploads/2022/04/t-shirt-tote-bag-easy-project-kids-recycle-earth-day-800x443.jpg"
         photo_alt_text: "This is some alt text for a photo."
         item_name: Tote Bag + T-Shirt Bundle
-        item_caption: This is a bundle.
+        item_caption: I'm all out of ideas!
         button_text: Purchase 
-        button_href: "https://buy.stripe.com/dRm8wI3pf3Mr6ue3re5c405" 
+        button_href: "https://buy.stripe.com/cNieV6gc13Mr7yi1j65c40b" 
 
       - photo: "https://www.pigskinsandpigtails.com/wp-content/uploads/2022/04/t-shirt-tote-bag-easy-project-kids-recycle-earth-day-800x443.jpg"
         photo_alt_text: "This is some alt text for a photo."
         item_name: Dad Hat + Tote Bag + T-Shirt Bundle
-        item_caption: This is a bundle.
+        item_caption: Become a PCW connoisseur and rep us in all available styles! 
         button_text: Purchase 
-        button_href: "https://buy.stripe.com/aFa14g1h72In05Q3re5c406" 
+        button_href: "https://buy.stripe.com/fZueV69NDer53i27Hu5c40e" 
 
 ---
 
-Check out our latest PCW swag! Purchasing PCW merchandise not only helps cover costs and spread the word about PCW, but looks and feels great too!
+Check out the latest Philly Community Wireless swag!  
+
+When you purchase your favorite PCW items, all proceeds directly support our work to provide internet access to all. Rep PCW and let people know that you support community-led internet in Philadelhpia.  
+
+Items are screen-printed or embroidered locally. If you have any questions about our products, send us an email at info@phillycommunitywireless.org.
