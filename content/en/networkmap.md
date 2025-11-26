@@ -8,9 +8,9 @@ To view the map in fullscreen, visit this [webpage](https://map.phillycommunityw
 
 <iframe title="Philly Community Wireless network-hardware deployment map" role="img" aria-label="A map showing currently installed Philly Community Wireless network infrastructure, centered on Norris Square Park."src="https://map.phillycommunitywireless.org/" width="100%" height="400"/></iframe>
   
-This map focuses on showing the overall network architecture. Points on the map represent outdoor wifi access points primarily. Any area covered by the heatmap should have PCW signal available for a free wifi connection. 
+This map focuses on showing the overall network architecture. Icons on the map show PhillyWisper high sites, Wi-Fi access points, routers, point-to-point equipment, and mesh nodes. Other features show connections between devices, a timeline to see our network's growth over the years, and a heatmap.
 
-Please keep in mind that the heatmap is not accurate at the street-level, and if you cannot access the wifi network in any given space in the city, you may need to walk around a street corner. Try to find the closest access point visible to ensure a good connection.
+Areas covered by the heatmap should have PCW signal available for a free Wi-Fi connection, but please keep in mind that it may not be accurate at street-level. If you cannot access the Wi-Fi network at a location covered by the heatmap here, you may need to walk around a street corner. Try to find the closest access point visible to ensure a good connection.
 
 ## Guided Tour
 
