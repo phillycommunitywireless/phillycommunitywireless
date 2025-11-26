@@ -5,7 +5,8 @@ header_alt: ""
 
 segments: 
   - template: call-to-action-photo-right
-    text: "We formed as a grassroots, entirely volunteer-led coalition working to build community controlled wireless internet networks in Philadelphia. We now have a dedicated team of staff and processes for onboarding volunteers from the Philly area and beyond to contribute to the organization and our network's growth in a variety of ways. Below we've outlined some of the ways that volunteers can contribute.
+    title: "Sign Up"
+    text: "We formed as a grassroots, volunteer-led coalition, and our dedicated team of staff regularly onboard new volunteers from the Philly area to help build and sustain our network. We invite you to join and participate in our organization, in person or virtually. Below we've outlined some of the ways that volunteers can contribute.
 
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). "
@@ -85,7 +86,7 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
     text: "Lorem ipsum..."
 ---
 
-We love volunteers! Use your skills to give back to the Philadelphia community and support internet access for all. Adults of all ages and professions are welcome!
+We love volunteers! Use your skills (whatever they are!) to give back to the Philadelphia community and support internet access for all. 
 
 
 If you want to support our work but aren't able to volunteer at the moment, see our [Support page](https://phillycommunitywireless.org/support) for other ways to help.
