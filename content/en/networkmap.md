@@ -3,11 +3,11 @@ date: 2024-04-02
 title: "Network Coverage Map"
 ---
 
-{{< button-custom href="https://map.phillycommunitywireless.org/" text="View Map in Fullscreen">}}
-
 ## [Philly Community Wireless Wifi Coverage Map](https://map.phillycommunitywireless.org/)
 
 <iframe title="Philly Community Wireless network-hardware deployment map" role="img" aria-label="A map showing currently installed Philly Community Wireless network infrastructure, centered on Norris Square Park."src="https://map.phillycommunitywireless.org/" width="100%" height="400"/></iframe>
+
+{{< button-custom href="https://map.phillycommunitywireless.org/" text="View Map in Fullscreen">}}
   
 This map focuses on showing the overall network architecture. Icons on the map show PhillyWisper high sites, Wi-Fi access points, routers, point-to-point equipment, and mesh nodes. Other features show connections between devices, a timeline to see our network's growth over the years, and a heatmap.
 
