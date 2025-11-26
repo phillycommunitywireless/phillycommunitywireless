@@ -43,7 +43,7 @@ segments:
     - template: text-lr
       left:
         title: Partners & Collaborators
-        text:
+        text: 
       right:
         title: Supporters & Funders
         text:
@@ -57,8 +57,7 @@ segments:
 
 We believe that internet access is a human right.
 
-Since 2020, our work has proven that when community members come together to construct, expand, and leverage shared wireless internet networks, more people can have access to the internet in more spaces.
+Since 2020, our work has proven that when community members come together to construct, expand, and leverage shared wireless internet networks, tens of thousands of people can access the internet in private and public spaces.
 
-Having internet access is essential to take part in everyday opportunities and activities. Resources and opportunities like education, job listings, remote work, healthcare, government services and resources, banking, civic information, social connection, and more are increasingly taking place online. Your support for our work can...
-
+Having internet access is essential to take part in everyday opportunities and activities. Your support for our work ensures that everyone can access online health, education, employment, and civic resources. 
 
