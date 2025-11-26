@@ -8,21 +8,21 @@ aliases:
 <div class="funder-card">
     <img alt="Kensington Community Resilience Fund" src="/images/funders/KensingtonCommunityResilienceFund.webp"/>
     <div class="funder-desc">
-        <a href="https://kcrfund.org">By Community, For Community</a>, Kensington Community Resilience Fund, 2025
+        <a href="https://kcrfund.org">KCR Fund</a>, Kensington Community Resilience Fund, 2025
     </div>
 </div>
 
 <div class="funder-card">
     <img alt="Community Fund, Claneil Foundation" src="/images/funders/ClaneilFoundation.jpg"/>
     <div class="funder-desc">
-        <a href="https://claneil.org/grantees/philly-community-wireless">Creating Healthy Communities</a>, Claneil Foundation, 2025
+        <a href="https://claneil.org/grantees/philly-community-wireless">Community Fund</a>, Claneil Foundation, 2025
     </div>
 </div>
 
 <div class="funder-card">
-    <img alt"Community Challenge Grant" src="/imgaes/funders/community_challenge_grant.png"/>
+    <img alt="Community Challenge Grant" src="/images/funders/community_challenge_grant.png"/>
     <div class="funder-desc">
-        <a href="https://www.aarp.org/livable-communities/community-challenge/info-2025/2025-demonstration-grantees.html">AARP Community Challenge</a>, AARP (American Association of Retired Persons), 2025
+        <a href="https://www.aarp.org/livable-communities/community-challenge/info-2025/2025-demonstration-grantees.html">AARP Community Challenge Demonstration Grant</a>, AARP (American Association of Retired Persons), 2025
     </div>
 </div>
 
