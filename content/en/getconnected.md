@@ -4,8 +4,10 @@ title: "Get Connected to Our Wi-Fi"
 header_photo: "/images/wifisign.jpg"
 header_alt: ""
 segments: 
+
   - template: call-to-action-photo-right
     class: bg-light-gray
+    title: "Sign Up"
     text: "If you live in the North Philadelphia neighborhoods of **Norris Square**, **Fairhill**, or **Kensington**, and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9).
 
 
