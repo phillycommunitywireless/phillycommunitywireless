@@ -6,13 +6,17 @@
             false;
             clear: left;
             /* font: 14px Helvetica, Arial, sans-serif; */
-            width: 600px;
+            max-width: 600px;
+        }
+
+        #mc-embedded-subscribe-form {
+            width: 100%;
         }
 
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
          We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
     </style>
-    <div id="mc_embed_signup">
+    <div id="mc_embed_signup" class="flex flex-row center ph3">
         <form
             action="https://phillycommunitywireless.us5.list-manage.com/subscribe/post?u=7a97e4278a5833f5505a85940&amp;id=6af414f631&amp;f_id=007dbaedf0"
             method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
@@ -22,14 +26,14 @@
                 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 
                 <!-- fname, lname -->
-                <div class="flex">
-                    <div style="width: 50% !important; display: inline-block; position: initial; padding-bottom: 0px;"
-                        class="mc-field-group pr2-ns">
+                <div class="flex flex-column flex-row-ns">
+                    <div style="display: inline-block; position: initial;"
+                        class="mc-field-group w-100 w-50-ns pb0 pr2-ns">
                         <label class="calibre f4" for="mce-FNAME">First Name </label><input type="text" name="FNAME"
                             class=" text" id="mce-FNAME" value="">
                     </div>
-                    <div style="width: 50% !important; display: inline-block; position: initial; padding-bottom: 0px;"
-                        class="mc-field-group pl2-ns">
+                    <div style="display: inline-block; position: initial; padding-bottom: 0px;"
+                        class="mc-field-group w-100 w-50-ns pb0 pl2-ns">
                         <label class="calibre f4" for="mce-LNAME">Last Name </label><input type="text" name="LNAME"
                             class=" text" id="mce-LNAME" value="">
                     </div>

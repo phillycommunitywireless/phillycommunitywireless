@@ -39,6 +39,10 @@ languages:
           url: "/merch"
           parent: support
           weight: "2"
+        - name: Support Us
+          url: "/support"
+          parent: support
+          weight: "3"
 
         # About
         - name: About 

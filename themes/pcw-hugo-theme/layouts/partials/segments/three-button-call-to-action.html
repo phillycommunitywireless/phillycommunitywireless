@@ -2,7 +2,7 @@
     <div class="flex flex-wrap items-stretch mw9 center ph3-ns">
         {{- if .title -}}
         <div>
-            <h1 style="padding-bottom:2rem" class="tl f2 f1-ns center ma0 pa2 color-pcw-dark-blue">{{ .title }}</h1>
+            <h1 class="tl f2 f1-ns center ph3 ma0-ns pa2-ns pb4-ns color-pcw-dark-blue">{{ .title }}</h1>
         </div>
         {{- end -}}
 
@@ -13,7 +13,7 @@
                 <div>
                     <img src="{{ .photo }}" class="threebutton-img br3" alt="{{.photo_alt_text}}">
                     {{- if .text -}}
-                    <p class="f4 f3-l tc mv3 lh-copy">{{ .text | markdownify }}</p>
+                    <p class="f3 tc mv3 lh-copy">{{ .text | markdownify }}</p>
                 </div>
 
                 <div>
