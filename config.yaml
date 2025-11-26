@@ -65,7 +65,7 @@ languages:
           parent: about-us
           weight: "4"
         - name: Location 
-          url: "/about/getting-here"
+          url: "/about/location"
           parent: about-us
           weight: "5"
         - name: FAQ
@@ -139,7 +139,7 @@ languages:
           parent: about-us
           weight: "3"
         - name: Cómo llegar aquí
-          url: "/about/getting-here"
+          url: "/about/location"
           parent: about-us
           weight: "4"
         - name: Preguntas Frecuentes

@@ -33,7 +33,7 @@ segments:
       title: "Why Support PCW?"
       text: Our cost-effective wireless network connects thousands of users to the internet. **Just $100 dollars** covers the cost of one new device to add to our network, and can save a household hundreds of dollars per year. 
       # fix yaml unmarshalling
-      text_class: bg-light-gray pa4
+      text_class: bg-light-gray pa4 mv3
       photo: "/images/pcwvolunteers2.jpg"
       button:
         button_text: "Donate Today"
