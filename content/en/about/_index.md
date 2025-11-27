@@ -26,10 +26,10 @@ segments:
   # Video embed
   - template: video
     src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
-    title: Philly Community Wireless promo video produced by the Big Picture Alliance.
-    text: Learn more about the project
+    title: Philly Community Wireless documentary video produced by the Big Picture Alliance.
+    text: None.
     header: 
-      text: "Learn about PCW"
+      text: "Watch Our Documentary (2022)"
       class: tc
 
   # newsletter 
