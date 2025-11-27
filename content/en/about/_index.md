@@ -15,14 +15,16 @@ segments:
     class: "bg-light-gray"
     reverse: true
 
-
-  # newsletter 
-  - template: newsletter-verbose
-
   - template: call-to-action-photo-right
     text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
     photo: "/images/pcwvolunteers2.jpg"
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
+
+  # newsletter 
+  - template: newsletter-verbose
+    class: bg-pcw
+
+
 
 ---
 
