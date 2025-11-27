@@ -29,7 +29,7 @@ segments:
   - template: text-lr
     left:
       title: Our Vision
-      text: "Philly Community Wireless was formed in 2020 at the onset of the COVID-19 pandemic, a time that highlighted the need for robust public resources and internet access. Our primary work over the past five years has focused on building our community-controlled internet network to provide free internet access and adoption in areas of North Philadelphia where research has consistently shown the least amount of internet access.
+      text: "Philly Community Wireless was formed in 2020 at the onset of the COVID-19 pandemic, a time that highlighted the need for robust public resources and internet access. Our work focuses on building our network and larger community to provide free internet access and support internet adoption in areas of North Philadelphia where research has consistently shown the least amount of digital access.
 
 
 We envision a just future where everyone can meaningfully access the internet, regardless of their income or housing situation. We believe in establishing a baseline of internet access for all that does not seek to solely provide every “house” or “home” with its own, separate Wi-Fi network, but rather spreads Wi-Fi access across large areas of a city. This approach offers a viable alternative to the existing paradigm of privatized internet access and shows what shared internet service provisioning can make possible in a major urban setting."
@@ -62,7 +62,7 @@ We envision a just future where everyone can meaningfully access the internet, r
 
 ---
 
-Philly Community Wireless is committed to expanding internet access, growing tech literacy, and building community autonomy with our neighbors. Through our unique community internet model, we partner with local organizations and leverage existing assets to expand digital access where it’s needed most.
+Philly Community Wireless is committed to expanding internet access, growing tech literacy, and building community autonomy with our neighbors. Through our unique community internet model, we partner with local organizations and neighbors to expand digital access where it’s needed most.
 
 To learn more about our staff, boards, and other people involved in our work, visit our [People page](https://phillycommunitywireless.org/about/people/). For updates about our work, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) and follow us on social media.
 
