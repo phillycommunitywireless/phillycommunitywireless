@@ -23,6 +23,14 @@ segments:
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
 
 ---
+
+Philly Community Wireless is committed to expanding internet access, growing tech literacy, and building community autonomy with our neighbors. Through our unique community internet model, we partner with local organizations and leverage existing assets to expand digital access where it’s needed most.
+
+To learn more about our staff, boards, and other people involved in our work, visit our [People page](https://phillycommunitywireless.org/about/people/).
+
+For updates about our work, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) and follow us on social media.
+
+
 <!-- 
 Our team includes both staff and volunteers from a wide array of local and regional organizations. For more information, visit our [People page](/about/people).
 
