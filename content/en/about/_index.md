@@ -24,6 +24,13 @@ PCW envisions a just future where everyone can meaningfully access the internet,
     photo: "/images/pcwvolunteers2.jpg"
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
 
+  # Video embed
+  - template: video
+    src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
+    title: Philly Community Wireless promo video produced by the Big Picture Alliance.
+    text: Learn more about the project
+    header: "Learn about PCW"
+
   # newsletter 
   - template: newsletter-verbose
 
