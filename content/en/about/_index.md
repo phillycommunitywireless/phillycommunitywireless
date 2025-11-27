@@ -17,13 +17,15 @@ segments:
 
   - template: call-to-action-photo-right
     title: "Our Vision" 
-    text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
+    text: "PCW was formed in 2020 at the onset of the COVID-19 pandemic, a time that highlighted the need for robust public resources and internet access. Our primary work over the past five years has focused on building our community-controlled internet network to provide free internet access and adoption in areas of North Philadelphia where research has consistently shown the least amount of internet access.
+
+
+PCW envisions a just future where everyone can meaningfully access the internet, regardless of their income or housing situation. We believe in establishing a baseline of internet access for all that does not seek to solely provide every “house” or “home” with its own, separate Wi-Fi network, but rather spreads Wi-Fi access across large areas of a city, offering a viable alternative to the existing paradigm of privatized internet access and showing what shared internet service provisioning can make possible in a major urban setting."
     photo: "/images/pcwvolunteers2.jpg"
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
 
   # newsletter 
   - template: newsletter-verbose
-    class: bg-pcw
 
 
 
