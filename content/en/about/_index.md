@@ -1,6 +1,6 @@
 ---
 date: 2023-10-18
-title: "About"
+title: "About PCW"
 layout: "single"
 header_photo: "/images/wifisign.jpg"
 header_alt: ""
