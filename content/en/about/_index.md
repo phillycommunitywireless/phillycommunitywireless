@@ -7,6 +7,8 @@ header_alt: ""
 segments: 
 
   - template: call-to-action-photo-right
+    class: bg-pcw
+    title: "Why Support PCW?"
     text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
     photo: "/images/pcwvolunteers2.jpg"
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
@@ -26,9 +28,15 @@ segments:
 
 Philly Community Wireless is committed to expanding internet access, growing tech literacy, and building community autonomy with our neighbors. Through our unique community internet model, we partner with local organizations and leverage existing assets to expand digital access where it’s needed most.
 
-To learn more about our staff, boards, and other people involved in our work, visit our [People page](https://phillycommunitywireless.org/about/people/).
+To learn more about our staff, boards, and other people involved in our work, visit our [People page](https://phillycommunitywireless.org/about/people/). For updates about our work, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) and follow us on social media.
 
-For updates about our work, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) and follow us on social media.
+
+
+
+
+
+
+
 
 
 <!-- 
