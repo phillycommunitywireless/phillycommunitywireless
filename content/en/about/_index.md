@@ -41,7 +41,7 @@ We envision a just future where everyone can meaningfully access the internet, r
     title: Philly Community Wireless documentary video produced by the Big Picture Alliance.
     text: None.
     header: 
-      text: "Watch Our Documentary (2022)"
+      text: "Watch Our Documentary Trailer (2022)"
       class: tc
 
   # newsletter 
