@@ -18,10 +18,22 @@ segments:
   - template: text-lr
     left:
       title: Our Vision
-      text: "insert"
+      text: "Philly Community Wireless was formed in 2020 at the onset of the COVID-19 pandemic, a time that highlighted the need for robust public resources and internet access. Our primary work over the past five years has focused on building our community-controlled internet network to provide free internet access and adoption in areas of North Philadelphia where research has consistently shown the least amount of internet access.
+
+
+We envision a just future where everyone can meaningfully access the internet, regardless of their income or housing situation. We believe in establishing a baseline of internet access for all that does not seek to solely provide every “house” or “home” with its own, separate Wi-Fi network, but rather spreads Wi-Fi access across large areas of a city. This approach offers a viable alternative to the existing paradigm of privatized internet access and shows what shared internet service provisioning can make possible in a major urban setting."
     right:
-      title: Funders & Supporters
-      text: "Our funders make it possible for PCW to provide free internet access to tens of thousands of community members. We are grateful for their support in realizing our mission. [Click here](https://phillycommunitywireless.org/about/funders/) for more information on the funders that have invested in PCW and our community."
+      title: Our Values
+      text: "**We believe** that access to the Internet is a fundamental human right and that independent, community-owned and -operated wireless is a sustainable and scaleable means of digital inclusion.
+
+
+**We support** net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior.
+
+
+**We believe** that people matter more than profit and that the principles of cooperation and mutual aid can grow a fundamentally different kind of digital network.
+
+
+**We believe** in starting small, learning from our mistakes, and inviting the input and perspectives of teachers, organizers, users, and technologists alike in building this network."
 
   # Video embed
   - template: video
