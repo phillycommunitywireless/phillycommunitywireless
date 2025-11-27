@@ -4,8 +4,8 @@
         {{ with .left }}
         <div class="flex flex-column w-100 w-50-ns {{ .class }}">
             <div class="h-100 bg-near-white">
-                <h1 class="ph4 pt4 pb0 mb1 mt2">{{ .title | markdownify | default "Default Title"}}</h1>
-                <div class="ph4 pt0 pb4 lh-copy">
+                <h1 class="ph3 ph4-ns pt4 pb0 mb1 mt2">{{ .title | markdownify | default "Default Title"}}</h1>
+                <div class="ph3 ph4-ns pt0 pb4 lh-copy">
                     <p class=""> {{ .text | markdownify | default "Default Text" }}</p>
                 </div>           
             </div>
@@ -24,8 +24,8 @@
         {{ with .right }}
         <div class="flex flex-column w-100 w-50-ns {{ .class}}">
             <div class="h-100 bg-light-gray">
-                <h1 class="ph4 pt4 pb0 mb1 mt2">{{ .title | markdownify | default "Default Title"}}</h1>
-                <div class="ph4 pt0 pb4 lh-copy">
+                <h1 class="ph3 ph4-ns pt4 pb0 mb1 mt2">{{ .title | markdownify | default "Default Title"}}</h1>
+                <div class="ph3 ph4-ns pt0 pb4 lh-copy">
                     <p class=""> {{ .text | markdownify | default "Default Text" }}</p>
                 </div>
             </div>

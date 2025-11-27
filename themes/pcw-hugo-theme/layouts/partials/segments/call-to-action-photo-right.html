@@ -1,18 +1,11 @@
 {{ $reverse := cond (.reverse | default false) "-reverse" "" }}
 
-<style>
-    #ctr-img {
-        height: 40vh;
-        object-fit: cover;
-        width: 100%;
-    }
-</style>
 
 <section class="center cf tl tc-ns f1 pt4 pb4 {{ .class }}">
-    <div class="w-75-l center flex flex-row{{$reverse}}-l flex-column{{$reverse}} flex-column-reverse items-stretch w-100 h-auto-l f3">
+    <div class="w-75-l center flex flex-row{{$reverse}}-xl flex-column{{$reverse}} flex-column-reverse items-stretch w-100 h-auto-l f3">
 
         <!-- left-hand title, text, btn -->
-        <div class="flex flex-column flex-1-l center justify-center pv2-l ph4-l pb4 ph3">
+        <div class="flex flex-column flex-1-l center justify-center pv2 ph4-l ph3">
             {{- if .title -}}
             <h1 class="tc mb0">
                 {{ .title | markdownify }}
@@ -41,8 +34,8 @@
         </div>
 
         <!-- right-hand photo -->
-        <div class="flex-1 flex justify-center items-center bg-center pv2-l ph3">
-            <img id="ctr-img" class="br3" src="{{ .photo }}" alt="{{.photo_alt_text}}">
+        <div class="flex-1 flex justify-center items-center bg-center pv2 ph3">
+            <img class="br3 ctr-img" src="{{ .photo }}" alt="{{.photo_alt_text}}">
         </div>
     </div>
 </section>

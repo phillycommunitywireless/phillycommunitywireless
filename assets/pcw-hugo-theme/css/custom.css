@@ -263,7 +263,9 @@ img.opos-top {
 }
 
 /* alt color on hover for navbar menu items */
-.submenu li:hover, #site-menu li:hover, #translations li:hover {
+.submenu li:hover,
+#site-menu li:hover,
+#translations li:hover {
   background-color: #7a87f5;
   transition: 0.5s;
 }
@@ -316,4 +318,23 @@ footer {
   /* remove based off of image display feedback */
   object-fit: cover;
   object-position: center;
+}
+
+/* call-to-action-photo-right */
+@media screen and (min-width: 80em) {
+  .flex-row-xl {
+    flex-direction: row;
+  }
+
+  .flex-row-reverse-xl {
+    flex-direction: row-reverse;
+  }
+}
+
+/* call-to-action-photo-right image css*/
+.ctr-img {
+  max-height: 50vh;
+  min-height: 40vh;
+  object-fit: cover;
+  width: 100%;
 }
