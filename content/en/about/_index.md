@@ -15,6 +15,17 @@ segments:
     class: "bg-light-gray"
     reverse: true
 
+  # Responsive three-column icons
+  - template: icons
+    icons:
+      - icon: fas fa-laptop-code
+        text: Growing tech literacy
+      - icon: fas fa-wifi
+        text: Expanding internet access
+      - icon: fas fa-people-carry
+        text: Building community autonomy
+    class: dn # Hide on mobile
+
   - template: text-lr
     left:
       title: Our Vision
