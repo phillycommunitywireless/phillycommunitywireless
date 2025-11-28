@@ -7,7 +7,7 @@ segments:
     # title: "Currently Available"
     sections:
       - photo: "/images/merch/pcwhat.jpg"
-        photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
+        photo_alt_text: "alt"
         item_name: PCW Hat
         item_caption: Our embroidered 6-panel PCW hat in vintage wash is perfect for a relaxed wear. Made from 100% cotton twill, with an adjustable leather strap.
         item_price: $40
@@ -15,7 +15,7 @@ segments:
         button_href: "https://buy.stripe.com/5kQ3co8Jz6YD3i25zm5c409"
 
       - photo: "/images/merch/pcwtote.png"
-        photo_alt_text: "A large beige bag with PCW's logo, a bell with a Wi-Fi signal, and PhillyCommunityWireless.org written on it; the back of the bag is plain."
+        photo_alt_text: "alt"
         item_name: PCW Tote Bag
         item_caption: Get this washable PCW tote bag for all your carrying needs! Material is 100% heavy cotton canvas; dimensions are 20" W x 15" H x 5" D.
         item_price: $18
@@ -23,7 +23,7 @@ segments:
         button_href: "https://buy.stripe.com/5kQfZa5xn1Ej9Gq3re5c40a" 
         
       - photo: "/images/merch/pcwshirt.png"
-        photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest. The back of the t-shirt has the text "Philly Community Wireless · Get Connected" in a circle around PCW's logo, a bell with a Wi-Fi signal."
+        photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest. The back of the t-shirt has the text "Philly Community Wireless Get Connected" in a circle around PCW's logo, a bell with a Wi-Fi signal."
         item_name: PCW T-Shirt
         item_caption: Our unisex PCW t-shirt is a great way to rep PCW while staying comfortable! A cotton and polyester blend, this fits true-to-size. 
         item_price: "$20"
