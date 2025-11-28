@@ -1,6 +1,6 @@
 ---
 title: "Volunteer with PCW"
-header_photo: /images/pcwvolunteers2.jpg
+header_photo: /images/web updates/Group_Solar_HQ.jpg
 header_alt: ""
 
 segments: 
