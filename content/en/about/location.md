@@ -8,16 +8,22 @@ segments:
 
   - template: call-to-action-photo-right
     class: bg-light-gray
-    title: "Sign Up"
+    title: "Getting Here"
     text: "## Public Transit 
+
+
 NSNP is a quick walk from either the York-Dauphin or Berks Market-Frankford Line SEPTA stops. 
 
 
 ## Driving 
+
+
 Street parking is available around Norris Square Park; availabiliy is limited. 
 
 
 ## Cycling 
+
+
 There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Ground Coffee. "
     photo: /images/nsnp.png
     photo_alt_text: "Map of Norris Square Park and the surrounding streets with marker for 2141 Howard Street, the Norris Square Neighborhood Project."
