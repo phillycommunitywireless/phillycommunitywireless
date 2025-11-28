@@ -15,7 +15,7 @@ segments:
         button_href: "https://buy.stripe.com/5kQ3co8Jz6YD3i25zm5c409"
 
       - photo: "/images/merch/pcwtote.png"
-        photo_alt_text: "A large beige bag with PCW's logo, a bell with a Wi-Fi signal, and PhillyCommunityWireless.org written on it. The back of the bag is plain."
+        photo_alt_text: "A large beige bag with PCW's logo, a bell with a Wi-Fi signal, and PhillyCommunityWireless.org written on it; the back of the bag is plain."
         item_name: PCW Tote Bag
         item_caption: Get this washable PCW tote bag for all your carrying needs! Material is 100% heavy cotton canvas; dimensions are 20" W x 15" H x 5" D.
         item_price: $18
