@@ -49,7 +49,7 @@ segments:
       - photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhow4vWmQhtst-okjEIkI8JzB6-qhEykrIYQ&s"
         photo_alt_text: "This is some alt text for a photo."
         item_name: T-Shirt + Hat Bundle
-        item_caption: Stay comfy in our wearable bundle of a t-shirt and hat.
+        item_caption: Stay comfy in our most wearable bundle of a t-shirt and hat.
         item_price: $60
         button_text: Purchase 
         button_href: "https://buy.stripe.com/3cI28k5xn2In2dYf9W5c40d" 
