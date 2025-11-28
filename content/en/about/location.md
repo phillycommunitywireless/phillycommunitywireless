@@ -8,8 +8,10 @@ segments:
 
   - template: call-to-action-photo-right
     class: bg-pcw
-    title: "Our Mission"  
-    text: "Our mission is to bridge the digital divide by building large-scale and no-cost Wi-Fi networks in private and public spaces of underserved Philadelphia neighborhoods. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
+    title: "Why Norris Square?"  
+    text: "We’re often asked why we chose the Norris Square neighborhood as the place to start our network and house our headquarters.
+
+    Learn more about Norris Square through [Penn State Extension Philadelphia’s Community Profile] (https://health.extension.org/wp-content/uploads/2024/01/Pennsylvania-State-Extension-Norris-Square-Community-Profile.pdf)."
     photo: "/images/pcwvolunteers2.jpg"
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
     class: "bg-light-gray"
