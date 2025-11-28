@@ -10,7 +10,7 @@ segments:
     class: bg-pcw
     title: "Our Mission"  
     text: "Our mission is to bridge the digital divide by building large-scale and no-cost Wi-Fi networks in private and public spaces of underserved Philadelphia neighborhoods. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
-    photo: "/images/pcwvolunteers2.jpg"
+    photo: "/images/web updates/Signage-Collazo.jpg"
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
     class: "bg-light-gray"
     reverse: true
