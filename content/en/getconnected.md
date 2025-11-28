@@ -1,8 +1,9 @@
 ---
 date: 2021-09-30
 title: "Get Connected to Our Wi-Fi"
-header_photo: "/images/web updates/clearfield-panorama.jpg"
-header_alt: ""
+header_photo: "/images/Eugene_AP.jpg"
+header_alt: "alt text test"
+header_class: "opos-50-30"
 segments: 
 
   - template: call-to-action-photo-right
@@ -12,7 +13,7 @@ segments:
 
 
     If you live in these area and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9) and we'll get back to you."
-    photo: /images/web updates/image.png
+    photo: /images/litebeam-bunnyears.png
     photo_alt_text: "this is some alt text"
     button: 
       button_text: "Sign Up for Wi-Fi"

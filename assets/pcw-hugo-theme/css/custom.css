@@ -338,3 +338,11 @@ footer {
   object-fit: cover;
   width: 100%;
 }
+
+.opos-70p {
+  object-position: 70% 70%;
+}
+
+.opos-50-30 {
+  object-position: 50% 30%;
+}

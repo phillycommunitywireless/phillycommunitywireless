@@ -2,7 +2,8 @@
 date: 2023-10-18
 title: "About PCW"
 layout: "single"
-header_photo: "/images/web updates/View_Fairhill_Equipment.png"
+# header_photo: "/images/web updates/View_Fairhill_Equipment.png"
+header_photo: "/images/Drone_HartLane_Active.JPG"
 header_alt: ""
 segments: 
 
@@ -24,7 +25,7 @@ segments:
   #      text: Growing tech literacy
   #    - icon: fas fa-people-carry
   #      text: Building community autonomy
-  #  class: dn # Hide on mobile
+    class: pv4 dn # Hide on mobile
 
   - template: text-lr
     left:

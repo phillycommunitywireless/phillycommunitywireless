@@ -13,10 +13,10 @@
                 <div>
                     <img src="{{ .photo }}" class="cubed-img br3" alt="{{.photo_alt_text}}">
                     {{- if .item_name -}}
-                    <h2 class="">{{ .item_name | markdownify }}</h2>
+                    <h2 class="tc tl-ns">{{ .item_name | markdownify }}</h2>
                     {{ end }}
-                    <h2 class="black mv0">{{ .item_price }}</h2>
-                    <p class="f4 tl mv2 lh-copy">{{ .item_caption | markdownify }}</p>
+                    <h2 class="black mv0 tc tl-ns">{{ .item_price }}</h2>
+                    <p class="f4 tc tl-ns mv2 lh-copy">{{ .item_caption | markdownify }}</p>
                 </div>
 
                 <div>
