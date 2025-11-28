@@ -5,6 +5,7 @@ header_alt: ""
 
 segments: 
   - template: call-to-action-photo-right
+    class: bg-light-gray
     title: "Sign Up"
     text: "We formed as a grassroots, volunteer-led coalition, and our dedicated team of staff regularly onboard new volunteers from the Philly area to help build and sustain our network. We invite you to join and participate in our organization! We've outlined some ways volunteers can contribute below.
 
