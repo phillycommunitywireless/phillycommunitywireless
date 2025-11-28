@@ -8,10 +8,7 @@ segments:
   - template: call-to-action-photo-right
     class: bg-light-gray
     title: "Sign Up"
-    text: "If you live in the North Philadelphia neighborhoods of **Norris Square**, **Fairhill**, or **Kensington**, and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9).
-
-
-    We'd love to get to know you more and stay in touch. We ask that all our antenna hosts share information about our work with neighbors, participate in our community events, and get involved in other ways."
+    text: "If you live in the North Philadelphia neighborhoods of **Norris Square**, **Fairhill**, or **Kensington**, and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9)."
     photo: /images/antenna_detail2.jpg
     photo_alt_text: "this is some alt text"
     button: 
@@ -55,7 +52,11 @@ segments:
     
 ---
 
-Are you looking for affordable, lost cost, or free Internet in Philadelphia? Do you want to make an impact in your community and help your neighbors get connected to the Internet? Join our network and community!
+Are you looking for affordable, lost cost, or free Internet in Philadelphia? Do you want to make an impact in your community and help your neighbors get connected to the Internet?
+
+We're not an internet company — we're a community! By joining us, you'll play an important role in growing our network and creating a baseline of internet access for everyone.
+
+
 
 <!-- # Sign Up! -->
 
