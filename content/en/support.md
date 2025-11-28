@@ -1,8 +1,10 @@
 ---
 date: 2025-11-20
 title: "Support PCW"
-
+header_photo: "/images/wifisign.jpg"
+header_alt: ""
 segments:
+
     # - template: hero-image-segment
     #   featured_image: 
     #     src: "/images/wifisign.jpg"
