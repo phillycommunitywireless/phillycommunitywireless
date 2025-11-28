@@ -5,14 +5,8 @@ layout: "single"
 aliases:
     - /location
 segments: 
-
-  - template: call-to-action-photo-right
-    title: "Getting Here"
-    text: "Insert"
-    photo: /images/nsnp.png
-    photo_alt_text: "Map of Norris Square Park and the surrounding streets with marker for 2141 Howard Street, the Norris Square Neighborhood Project."
     
-  - template: call-to-action-photo-left
+  - template: call-to-action-photo-right
     title: "Getting Here"
     text: "## Public Transit 
 
