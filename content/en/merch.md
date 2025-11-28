@@ -47,7 +47,7 @@ segments:
         button_href: "https://buy.stripe.com/cNidR26Brdn12dY6Dq5c40c" 
 
       - photo: "/images/merch/pcw-shirt-hat.jpg"
-        photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest; a purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front,"
+        photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest; a purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front."
         item_name: T-Shirt + Hat Bundle
         item_caption: Stay comfy in our most wearable bundle of a t-shirt and hat.
         item_price: $60
