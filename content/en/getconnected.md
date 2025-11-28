@@ -1,7 +1,7 @@
 ---
 date: 2021-09-30
 title: "Get Connected to Our Wi-Fi"
-header_photo: "/images/wifisign.jpg"
+header_photo: "/images/web updates/dan-ap.jpg"
 header_alt: ""
 segments: 
 
