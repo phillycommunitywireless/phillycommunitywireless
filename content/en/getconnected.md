@@ -1,7 +1,7 @@
 ---
 date: 2021-09-30
 title: "Get Connected to Our Wi-Fi"
-header_photo: "/images/web updates/image.png"
+header_photo: "/images/web updates/Iglesias_AP_Equipment.jpg"
 header_alt: ""
 segments: 
 
