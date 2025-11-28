@@ -30,7 +30,7 @@ segments:
         button_text: Purchase 
         button_href: "https://buy.stripe.com/eVq00c3pfer5g4ObXK5c408"
 
-      - photo: "https://www.pigskinsandpigtails.com/wp-content/uploads/2022/04/t-shirt-tote-bag-easy-project-kids-recycle-earth-day-800x443.jpg"
+      - photo: "/images/merch/pcw-tote-shirt.jpg"
         photo_alt_text: "This is some alt text for a photo."
         item_name: Tote Bag + T-Shirt Bundle
         item_caption: Wear it and carry it with this tote bag and t-shirt bundle!
@@ -38,7 +38,7 @@ segments:
         button_text: Purchase 
         button_href: "https://buy.stripe.com/cNieV6gc13Mr7yi1j65c40b" 
 
-      - photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh78WcC5shHMmT73yj4iqQTgSJ_2dfAZbPMA&s"
+      - photo: "/images/merch/pcw-hat-tote.jpg"
         photo_alt_text: "This is some alt text for a photo."
         item_name: Hat + Tote Bag Bundle
         item_caption: Get all the PCW accessories with this hat and tote bag bundle. 
@@ -54,9 +54,9 @@ segments:
         button_text: Purchase 
         button_href: "https://buy.stripe.com/3cI28k5xn2In2dYf9W5c40d" 
 
-      - photo: "https://www.pigskinsandpigtails.com/wp-content/uploads/2022/04/t-shirt-tote-bag-easy-project-kids-recycle-earth-day-800x443.jpg"
+      - photo: "/images/merch/pcw-tote-hat-shirt.jpg"
         photo_alt_text: "This is some alt text for a photo."
-        item_name: Hat + Tote Bag + T-Shirt Bundle
+        item_name: Tote Bag + Hat + T-Shirt Bundle
         item_caption: Become a PCW connoisseur and rep us in all available styles!
         item_price: $78
         button_text: Purchase 
