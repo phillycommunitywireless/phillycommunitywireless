@@ -6,7 +6,7 @@ segments:
   - template: merch-catalog
     # title: "Currently Available"
     sections:
-      - photo: "/images/merch/pcwhat2.jpg"
+      - photo: "/images/merch/pcwhat.jpg"
         photo_alt_text: "This is some alt text for a photo."
         item_name: PCW Hat
         item_caption: Our embroidered 6-panel PCW hat in vintage wash is perfect for a relaxed wear. Made from 100% cotton twill, with an adjustable leather strap.
@@ -46,7 +46,7 @@ segments:
         button_text: Purchase 
         button_href: "https://buy.stripe.com/cNidR26Brdn12dY6Dq5c40c" 
 
-      - photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhow4vWmQhtst-okjEIkI8JzB6-qhEykrIYQ&s"
+      - photo: "/images/merch/pcw-shirt-hat.jpg"
         photo_alt_text: "This is some alt text for a photo."
         item_name: T-Shirt + Hat Bundle
         item_caption: Stay comfy in our most wearable bundle of a t-shirt and hat.
