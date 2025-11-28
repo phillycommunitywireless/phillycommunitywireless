@@ -18,7 +18,7 @@ segments:
         button_text: Volunteer 
         button_href: "/volunteer"
         button_class: "bg-pcw-salmon"
-      - photo: "/images/Drone_HartLane_Active.JPG"
+      - photo: "/images/web updates/Signage_Collazo.jpg"
         photo_alt_text: "This is some alt text for a photo."
         text: "**Get behind us!** Support our work in providing essential internet access to individuals and families in Philadephia."
         button_text: Support 
