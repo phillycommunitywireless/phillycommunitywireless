@@ -2,7 +2,7 @@
 date: 2023-10-18
 title: "About PCW"
 layout: "single"
-header_photo: "/images/wifisign.jpg"
+header_photo: "/images/web updates/View_Fairhill_Equipment.jpg"
 header_alt: ""
 segments: 
 
