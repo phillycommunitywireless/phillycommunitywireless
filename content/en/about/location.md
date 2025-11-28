@@ -32,8 +32,8 @@ Street parking is available around Norris Square Park; availabiliy is limited.
 ## Cycling 
 
 There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Ground Coffee. "
-    photo: /images/nsnp.png
-    photo_alt_text: "Map of Norris Square Park and the surrounding streets with marker for 2141 Howard Street, the Norris Square Neighborhood Project."
+    photo: /images/location-map.jpg
+    photo_alt_text: "Map of Norris Square Park and the surrounding streets with marker for 2141 Howard Street, the Norris Square Neighborhood Project, SEPTA MFL stops York-Dauphin and Berks, and Indego Bike station at 2nd and Norris."
     reverse: true
     
 ---
