@@ -27,7 +27,6 @@ There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Grou
 Philly Community Wireless’s headquarters is located at the [Norris Square Neighborhood Project](http://myneighborhoodproject.org/), at 2141 N Howard St. We are on the east side of Norris Square Park. 
 
 If you are looking for information about where our free Wi-Fi network is located, please visit [our live map](https://phillycommunitywireless.org/networkmap).
-
-{{< figure class="figure-center" src="/map/images/nsnp.jpg" alt="Exterior of 2141 N Howard St Building with Norris Square Park Neighboorhood Project sign.">}}  
+ 
 
 
