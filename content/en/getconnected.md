@@ -8,7 +8,10 @@ segments:
   - template: call-to-action-photo-right
     class: bg-light-gray
     title: "Sign Up"
-    text: "If you live in the North Philadelphia neighborhoods of **Norris Square**, **Fairhill**, or **Kensington**, and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9)."
+    text: "We currently service the North Philadelphia neighborhoods of **Norris Square**, **Fairhill**, or **Kensington**.
+
+
+    If you live in these area and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9) and we'll get back to you."
     photo: /images/antenna_detail2.jpg
     photo_alt_text: "this is some alt text"
     button: 
