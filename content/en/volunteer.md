@@ -7,7 +7,7 @@ segments:
   - template: call-to-action-photo-right
     class: bg-light-gray
     title: "Sign Up"
-    text: "We formed as a grassroots, volunteer-led coalition, and our dedicated team of staff regularly onboard new volunteers from the Philly area to help build and sustain our network. We invite you to join and participate in our organization! We've outlined some ways volunteers can contribute below.
+    text: "We formed as a grassroots, volunteer-led coalition, and our dedicated team of staff regularly onboard new volunteers from the Philly area to help build and sustain our network. We invite you to join and participate in our organization!
 
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). "
