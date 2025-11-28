@@ -17,13 +17,13 @@ segments:
           text: "Donate to directly support our mission of bridging the digital divide in communities in Philadelphia. To process donations, we use Allyra, a fundraising platform used by nonprofits and professional associations nationwide. You can make one-time or recurring donations."
           button_text: Donate
           button_href: "https://phillycommunitywireless.allyrafundraising.com"
-        - photo: ""
+        - photo: "/images/web updates/Group_Power Up.png"
           photo_alt_text: "This is some alt text for a photo."
           text: "Check out PCW's Merch! We sell PCW t-shirts, tote bags, and hats. The proceeds from your purchase will direclty support our work — plus, by repping Philly Community Wireless, you can help spread the word about our work! Let us know what merch you want to see next."
           button_text: Rep PCW
           button_href: "/merch"
           button_class: "bg-pcw-salmon"
-        - photo: "/images/web updates/Group_Power Up.png"
+        - photo: ""
           photo_alt_text: "This is some alt text for a photo."
           text: "Become a direct part of our effort to connect community members to free internet access by hosting our network equipment at your property and sharing connectivity with your neighbors. Learn more about signing up on our Get Connected page."
           button_text: Become a Host
