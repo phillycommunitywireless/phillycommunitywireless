@@ -2,7 +2,6 @@
 date: 2023-10-18
 title: "About PCW"
 layout: "single"
-# header_photo: "/images/web updates/View_Fairhill_Equipment.png"
 header_photo: "/images/Drone_HartLane_Active.JPG"
 header_alt: ""
 segments: 
