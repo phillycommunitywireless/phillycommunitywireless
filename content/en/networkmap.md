@@ -47,7 +47,7 @@ This map focuses on showing the overall network architecture. Icons on the map s
 
 Areas covered by the heatmap should have PCW signal available for a free Wi-Fi connection, but please keep in mind that it may not be accurate at street-level. If you cannot access the Wi-Fi network at a location covered by the heatmap here, you may need to walk around a street corner. Try to find the closest access point visible to ensure a good connection.
 
-##Our Headquarters
+## Our Headquarters
 
 Philly Community Wireless’s headquarters is located at the [Norris Square Neighborhood Project](http://myneighborhoodproject.org/) (NSNP), at 2141 N Howard St. We are on the east side of Norris Square Park. 
 
