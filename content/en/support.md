@@ -4,6 +4,7 @@ title: "Support PCW"
 # header_photo: "/images/wifisign.jpg"
 header_photo: "/images/web updates/clearfield-panorama.jpg"
 header_alt: ""
+header_class: "opos-50-30"
 segments:
 
     # - template: hero-image-segment
