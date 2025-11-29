@@ -1,6 +1,40 @@
 ---
 date: 2024-04-02
 title: "Network Coverage Map"
+
+segments: 
+
+  - template: call-to-action-photo-right
+    class: bg-pcw
+    title: "Why Norris Square?"  
+    text: "We started PCW in Norris Square for several reasons: technical feasibility, a need for digital access, and a vibrant community full of incredible community organizations.
+
+
+    Learn more about Norris Square through [Penn State Extension Philadelphia’s Community Profile](https://health.extension.org/wp-content/uploads/2024/01/Pennsylvania-State-Extension-Norris-Square-Community-Profile.pdf)."
+    photo: "/images/pcwvolunteers2.jpg"
+    photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
+    class: "bg-light-gray"
+    
+  - template: call-to-action-photo-right
+    title: "Getting Here"
+    text: "## Public Transit 
+
+Our headquarters at NSNP is a quick walk from either the York-Dauphin or Berks Market-Frankford Line SEPTA stops. 
+
+
+## Driving 
+
+Street parking is available around Norris Square Park; availabiliy is limited. 
+
+
+## Cycling 
+
+There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Ground Coffee. "
+    photo: /images/hq-location-map.jpg
+    photo_alt_text: "Map of Norris Square Park and the surrounding streets with marker for 2141 Howard Street, the Norris Square Neighborhood Project, SEPTA MFL stops York-Dauphin and Berks, and Indego Bike station at 2nd and Norris."
+    reverse: true
+  
+
 ---
 
 ## [Philly Community Wireless Wi-Fi Coverage Map](https://map.phillycommunitywireless.org/)
@@ -13,7 +47,7 @@ This map focuses on showing the overall network architecture. Icons on the map s
 
 Areas covered by the heatmap should have PCW signal available for a free Wi-Fi connection, but please keep in mind that it may not be accurate at street-level. If you cannot access the Wi-Fi network at a location covered by the heatmap here, you may need to walk around a street corner. Try to find the closest access point visible to ensure a good connection.
 
-## Guided Tour
+##Our Headquarters
 
-To see a guided tour of the beginnings of our network, see the [scrollytelling map](https://phillycommunitywireless.org/map/).
+Philly Community Wireless’s headquarters is located at the [Norris Square Neighborhood Project](http://myneighborhoodproject.org/) (NSNP), at 2141 N Howard St. We are on the east side of Norris Square Park. 
 
