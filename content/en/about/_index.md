@@ -5,7 +5,6 @@ layout: "single"
 header_photo: "/images/Drone_HartLane_Active.JPG"
 header_alt: ""
 segments: 
-
   - template: call-to-action-photo-right
     class: bg-pcw
     title: "Our Mission"  
@@ -41,10 +40,10 @@ We envision a just future where everyone can meaningfully access the internet, r
 **We support** net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior.
 
 
-**We believe** that people matter more than profit and that the principles of cooperation and mutual aid can grow a fundamentally different kind of digital network.
+**We affirm** that people matter more than profit and that the principles of cooperation and mutual aid can grow a fundamentally different kind of digital network.
 
 
-**We believe** in starting small, learning from our mistakes, and inviting the input and perspectives of teachers, organizers, users, and technologists alike in building this network."
+**We commit** to starting small, learning from our mistakes, and inviting the input and perspectives of teachers, organizers, users, and technologists alike in building this network."
 
   # Video embed
   - template: video
