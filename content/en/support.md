@@ -14,7 +14,7 @@ segments:
 
     - template: three-button-call-to-action
       sections:
-        - photo: ""
+        - photo: "/images/web updates/LB_AP_KCT Garden_Alex.jpg"
           photo_alt_text: "This is some alt text for a photo."
           text: "Donate to directly support our mission of bridging the digital divide in communities in Philadelphia. To process donations, we use Allyra, a fundraising platform used by nonprofits and professional associations nationwide. You can make one-time or recurring donations."
           button_text: Donate
