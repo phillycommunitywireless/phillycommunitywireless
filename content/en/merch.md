@@ -7,7 +7,7 @@ segments:
     # title: "Currently Available"
     sections:
       - photo: "/images/merch/pcwhat.jpg"
-        photo_alt_text: "alt"
+        photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
         item_name: PCW Hat
         item_caption: Our embroidered 6-panel PCW hat in vintage wash is perfect for a relaxed wear. Made from 100% cotton twill, with an adjustable leather strap.
         item_price: $40
