@@ -3,9 +3,9 @@ date: 2023-10-18
 title: "About PCW"
 layout: "single"
 header_photo: "/images/Drone_HartLane_Active.JPG"
-header_alt: ""
+header_alt: "A drone image from above showing 5 people on a rowhome roof, 4 people working on a small structure with an access point device."
 segments: 
-  - template: call-to-action-photo-right
+    - template: call-to-action-photo-right
     class: bg-pcw
     title: "Our Mission"  
     text: "Our mission is to bridge the digital divide by building large-scale and no-cost Wi-Fi networks in private and public spaces of underserved Philadelphia neighborhoods. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
