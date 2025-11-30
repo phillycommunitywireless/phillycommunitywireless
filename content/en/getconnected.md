@@ -28,7 +28,7 @@ segments:
     - image: "/images/web updates/hart-install.jpg"
       alt:
       text: "The first step in our service process involves assessing whether we can provide our network at your requested location. If we are able to service your location, we will coordinate an installation visit, which may occur in multiple stages over several days."
-    - image: "/images/hero3.jpg"
+    - image: "/images/web updates/dan-ap.jpg"
       alt: ""
       text: "Philly Community Wireless provides network maintenance to improve or repair existing set-ups. If you notice an issue with your connection, please reach out to us.
       
