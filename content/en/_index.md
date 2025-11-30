@@ -8,18 +8,18 @@ segments:
     title: "Join us in building Internet access for everyone."
     sections:
       - photo: "/images/IMG_6878.jpg"
-        photo_alt_text: "This is some alt text for a photo."
+        photo_alt_text: "A white access point device on a pole with the sky in the background."
         text: "**Get connected!** Join our network and use our Wi-Fi service at your home, organization, or local green space."
         button_text: Our Wi-Fi 
         button_href: "/getconnected"
       - photo: "/images/pcwvolunteers.png"
-        photo_alt_text: "This is some alt text for a photo."
+        photo_alt_text: "7 people in matching PCW t-shirts posing for a photo on a sidewalk."
         text: "**Get involved!** Volunteer to help build our internet networks, learn new skills, and make a difference in our community."
         button_text: Volunteer 
         button_href: "/volunteer"
         button_class: "bg-pcw-salmon"
       - photo: "/images/web updates/Signage_Collazo.jpg"
-        photo_alt_text: "This is some alt text for a photo."
+        photo_alt_text: "A PCW sign saying "Free Wifi Available Here" with PCW's contact information and logos of partner organizations."
         text: "**Get behind us!** Support our work in providing essential internet access to individuals and families in Philadephia."
         button_text: Support 
         button_href: "/support" 
@@ -40,7 +40,7 @@ segments:
   - template: call-to-action-photo-right
     text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
     photo: "/images/web updates/clearfield-install.jpg"
-    photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
+    photo_alt_text: "4 PCW Volunteers on a roof, with one using a drill to secure a pole that the access point device is on."
     button: 
       button_text: "What We Do"
       button_href: "about/"
