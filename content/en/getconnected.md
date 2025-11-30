@@ -25,7 +25,7 @@ segments:
     - image: "/images/web updates/PW.jpg"
       alt: 
       text: "Philly Community Wireless works with [PhillyWisper](https://phillywisper.com), a local wireless internet service provider, to install rooftop antennas that we use to provide a free Wi-Fi network to neighborhood residents and public spaces."
-    - image: "/images/wifisign.jpg"
+    - image: "/images/web updates/hart-install.jpg"
       alt:
       text: "The first step in our service process involves assessing whether we can provide our network at your requested location. If we are able to service your location, we will coordinate an installation visit, which may occur in multiple stages over several days."
     - image: "/images/hero3.jpg"
