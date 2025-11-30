@@ -1,11 +1,10 @@
 ---
 date: 2024-04-02
-title: "Network Coverage Map"
+title: "Network Location"
 
 segments: 
 
   - template: call-to-action-photo-right
-    class: bg-pcw
     title: "Why Norris Square?"  
     text: "We started PCW in Norris Square for several reasons: technical feasibility, a need for digital access, and a vibrant community full of incredible community organizations.
 
