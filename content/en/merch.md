@@ -23,7 +23,7 @@ segments:
         button_href: "https://buy.stripe.com/5kQfZa5xn1Ej9Gq3re5c40a" 
         
       - photo: "/images/merch/pcwshirt.png"
-        photo_alt_text: "alt"
+        photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest. The back of the t-shirt has the text "Philly Community Wireless Get Connected" in a circle around PCW's logo, a bell with a Wi-Fi signal."
         item_name: PCW T-Shirt
         item_caption: Our unisex PCW t-shirt is a great way to rep PCW while staying comfortable! A cotton and polyester blend, this fits true-to-size. 
         item_price: "$20"
