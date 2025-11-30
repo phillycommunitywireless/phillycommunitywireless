@@ -1,7 +1,7 @@
 ---
 title: "Volunteer with PCW"
 header_photo: /images/web updates/Group_Solar_HQ.jpg
-header_alt: ""
+header_alt: "12 people sitting around a table indoors with laptops and tech equipment on the table."
 
 segments: 
   - template: call-to-action-photo-right
@@ -12,7 +12,7 @@ segments:
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). "
     photo: "/images/pcwvolunteers2.jpg"
-    photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
+    photo_alt_text: "7 people posing for a group photo on a roof with a device and tall trees behind them."
     button: 
       button_text: "Sign Up to Volunteer"
       button_href: "https://tally.so/r/w2ODaj"
