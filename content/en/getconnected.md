@@ -22,7 +22,7 @@ segments:
   - template: photo-list-with-text
     title: "Our Service Process"
     images:
-    - image: "/images/web updates/somerset-pw.jpg"
+    - image: "/images/web updates/PW.jpg"
       alt: 
       text: "Philly Community Wireless works with [PhillyWisper](https://phillywisper.com), a local wireless internet service provider, to install rooftop antennas that we use to provide a free Wi-Fi network to neighborhood residents and public spaces."
     - image: "/images/wifisign.jpg"
