@@ -13,7 +13,6 @@ segments:
     Learn more about Norris Square through [Penn State Extension Philadelphia’s Community Profile](https://health.extension.org/wp-content/uploads/2024/01/Pennsylvania-State-Extension-Norris-Square-Community-Profile.pdf)."
     photo: "/images/web updates/NSNProof1.JPG"
     photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
-    class: "bg-light-gray"
     
   - template: call-to-action-photo-right
     title: "Getting Here"
