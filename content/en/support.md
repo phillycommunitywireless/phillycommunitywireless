@@ -25,7 +25,7 @@ segments:
           button_text: Rep PCW
           button_href: "/merch"
           button_class: "bg-pcw-salmon"
-        - photo: ""
+        - photo: "/images/web updates/AP-Gotham.jpg"
           photo_alt_text: "This is some alt text for a photo."
           text: "Become a direct part of our effort to connect community members to free internet access by hosting our network equipment at your property and sharing connectivity with your neighbors. Learn more about signing up on our Get Connected page."
           button_text: Become a Host
