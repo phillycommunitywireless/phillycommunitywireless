@@ -31,7 +31,7 @@ segments:
         button_href: "https://buy.stripe.com/eVq00c3pfer5g4ObXK5c408"
 
       - photo: "/images/merch/pcw-tote-shirt.jpg"
-        photo_alt_text: "alt"
+        photo_alt_text: "A large beige bag with PCW's logo, a bell with a Wi-Fi signal, and PhillyCommunityWireless.org written on it; a t-shirt with a small bell and the words Philly Community Wireless on the left chest."
         item_name: Tote Bag + T-Shirt Bundle
         item_caption: Wear it and carry it with this tote bag and t-shirt bundle!
         item_price: $38
