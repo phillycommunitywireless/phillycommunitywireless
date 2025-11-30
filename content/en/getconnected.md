@@ -2,7 +2,7 @@
 date: 2021-09-30
 title: "Get Connected to Our Wi-Fi"
 header_photo: "/images/Eugene_AP.jpg"
-header_alt: "alt text test"
+header_alt: "A man on a roof smiling while he secures a pole mount with an access point device pointing towards the street and subway tracks."
 header_class: "opos-50-30"
 segments: 
 
@@ -14,7 +14,7 @@ segments:
 
     If you live in these area and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9) and we'll get back to you."
     photo: /images/litebeam-bunnyears.png
-    photo_alt_text: "this is some alt text"
+    photo_alt_text: "On a roof, a structure with a pole and access point device and a LiteBeam device mounted to a chimney."
     button: 
       button_text: "Sign Up for Wi-Fi"
       button_href: "https://tally.so/r/mR8VM9"
@@ -23,13 +23,13 @@ segments:
     title: "Our Service Process"
     images:
     - image: "/images/web updates/PW.jpg"
-      alt: 
+      alt: "Two PhillyWisper staff sitting on a roof looking at a laptop, with a structure and LiteBeam device next to them."
       text: "Philly Community Wireless works with [PhillyWisper](https://phillywisper.com), a local wireless internet service provider, to install rooftop antennas that we use to provide a free Wi-Fi network to neighborhood residents and public spaces."
     - image: "/images/web updates/hart-install.jpg"
-      alt:
+      alt: "3 people on a roof securing an access point device to a pole with a garden in the background at street level."
       text: "The first step in our service process involves assessing whether we can provide our network at your requested location. If we are able to service your location, we will coordinate an installation visit, which may occur in multiple stages over several days."
     - image: "/images/web updates/dan-ap.jpg"
-      alt: ""
+      alt: "A man reaching out of a second floor window with one arm to adjust a device next to an air conditining unit."
       text: "Philly Community Wireless provides network maintenance to improve or repair existing set-ups. If you notice an issue with your connection, please reach out to us.
       
       For more information on what an install involves, visit our [Installation documentation](https://docs.phillycommunitywireless.org/en/latest/installations/installations/)."
