@@ -60,12 +60,12 @@ languages:
           url: "/about/partners"
           parent: about-us
           weight: "3"
-        - name: In the News 
-          url: "/about/news"
+        - name: Funders
+          url: "/about/funders"
           parent: about-us
           weight: "4"
-        - name: Location 
-          url: "/about/location"
+        - name: In the News 
+          url: "/about/news"
           parent: about-us
           weight: "5"
         - name: FAQ
@@ -74,7 +74,7 @@ languages:
           weight: "6"
      
 
-        - name: Map
+        - name: Location
           url: "/networkmap"
           weight: "4"
 
