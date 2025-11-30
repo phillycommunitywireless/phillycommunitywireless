@@ -39,7 +39,7 @@ segments:
         button_href: "https://buy.stripe.com/cNieV6gc13Mr7yi1j65c40b" 
 
       - photo: "/images/merch/pcw-hat-tote.jpg"
-        photo_alt_text: "alt"
+        photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and a large beige bag with PCW's logo, a bell with a Wi-Fi signal, and PhillyCommunityWireless.org written on it."
         item_name: Hat + Tote Bag Bundle
         item_caption: Get all the PCW accessories with this hat and tote bag bundle. 
         item_price: $58
