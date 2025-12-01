@@ -49,7 +49,7 @@
     <meta name="generator" content="Hugo 0.111.3">
 
     
-<link rel="stylesheet" href="/pcw-hugo-theme/css/main.min.b432d86525a685a62d4d799322b22f469d825074033a5143418e7994c7c78fd0.css" >
+<link rel="stylesheet" href="/pcw-hugo-theme/css/main.min.370751dd2e78189ddbe4cd0d23f7b1146de3f3068b799559e0d9898a494b46cb.css" >
 
 
 
@@ -173,7 +173,7 @@
               </li>
             </a>
             
-            <a style="white-space: nowrap;" class="hover-white no-underline white pa0" href="/es/about/getting-here" title="Cómo llegar aquí page">
+            <a style="white-space: nowrap;" class="hover-white no-underline white pa0" href="/es/about/location" title="Cómo llegar aquí page">
               <li class="list f4 fw4 br3 grow dim justify-center pv2 ph2">
                   Cómo llegar aquí
               </li>
@@ -446,8 +446,18 @@
              
         }
 
-        #mc-embedded-subscribe-form{
+        #mc-embedded-subscribe-form {
             margin: unset !important;
+        }
+
+        #mc_embed_signup .mc-field-group {
+            width: 100% !important;
+        }
+
+        #mc-embedded-subscribe {
+            width: 100% !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
         }
 
         #mc_embed_signup .button {
@@ -462,13 +472,15 @@
 
          
     </style>
-    <div id="mc_embed_signup">
+    <div id="mc_embed_signup" style="width: 300px;">
         <form
             action="https://phillycommunitywireless.us5.list-manage.com/subscribe/post?u=7a97e4278a5833f5505a85940&amp;id=6af414f631&amp;f_id=007dbaedf0"
             method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
             target="_blank">
             <div id="mc_embed_signup_scroll">
-                <p class="mv0 f3 fw7" style="color: var(--primary)">Subscribe to our Newsletter!</p>
+
+                
+
                 
                 <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span
                             class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email"
@@ -482,13 +494,12 @@
                     signups */
                     <input type="text" name="b_7a97e4278a5833f5505a85940_6af414f631" tabindex="-1" value="">
                 </div>
-                <div class="optionalParent">
-                    <div class="clear foot">
-                        <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button"
-                            value="Subscribe">
-                        
-                    </div>
+                
+                <div class="clear foot" style="display: flex !important; width: 100% !important;">
+                    <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+                    
                 </div>
+                
             </div>
         </form>
     </div>

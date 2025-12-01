@@ -8,6 +8,28 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Shop PCW Merch</title>
+      <link>https://phillycommunitywireless.org/merch/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/merch/</guid>
+      <description>Check out the latest Philly Community Wireless swag!
+When you purchase your favorite PCW items, all proceeds directly support our work to provide internet access to all. Rep PCW and let people know that you support community-led internet in Philadelphia.
+Items are screen-printed or embroidered locally. If you have any questions about our products, send us an email at info@phillycommunitywireless.org.</description>
+    </item>
+    
+    <item>
+      <title>Support PCW</title>
+      <link>https://phillycommunitywireless.org/support/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/support/</guid>
+      <description>We believe that internet access is a human right.
+Since 2020, our work has proven that when community members come together to construct, expand, and leverage shared wireless internet networks, tens of thousands of people can access the internet in private and public spaces.
+Having internet access is essential to take part in everyday opportunities and activities. Your support for our work ensures that everyone can access online health, education, employment, and civic resources.</description>
+    </item>
+    
+    <item>
       <title>Zoe Kerrich</title>
       <link>https://phillycommunitywireless.org/about/people/zoek/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
@@ -31,18 +53,17 @@
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/about/funders/</guid>
-      <description> Building Digital Resiliency through Community Ambassador Models, Digital Literacy Alliance, 2024 Improving Public Spaces, William Penn Foundation, 2024 Internet For All, IPMF (Independence Public Media Foundation) in Partnership with TLC (Technology Learning Collaborative), 2024 Better Bike Share Partnership Mini Grant, Philadelphia City Fund, 2024 Community Challenge Grant, AARP (American Association of Retired Persons), 2023 Digital Equity Grant and ongoing support from the Independent Public Media Foundation, 2021 to present Digital Literacy Alliance, The Mayor&#39;s Fund for Philadelphia, 2021-2022 Rapid Response Magic Project of the Princeton Humanities Council, 2020 RISE (Recognizing Inequalities and Standing for Equality), Pace Center for Civic Engagement, 2020 </description>
+      <description> KCR Fund, Kensington Community Resilience Fund, 2025 Community Fund, Claneil Foundation, 2025 AARP Community Challenge Demonstration Grant, AARP (American Association of Retired Persons), 2025 Building Digital Resiliency through Community Ambassador Models, Digital Literacy Alliance, 2024 Improving Public Spaces, William Penn Foundation, 2024 Internet For All, IPMF (Independence Public Media Foundation) in Partnership with TLC (Technology Learning Collaborative), 2024 Better Bike Share Partnership Mini Grant, Philadelphia City Fund, 2024 Community Challenge Grant, AARP (American Association of Retired Persons), 2023 Digital Equity Grant and ongoing support from the Independent Public Media Foundation, 2021 to present Digital Literacy Alliance, The Mayor&#39;s Fund for Philadelphia, 2021-2022 Rapid Response Magic Project of the Princeton Humanities Council, 2020 RISE (Recognizing Inequalities and Standing for Equality), Pace Center for Civic Engagement, 2020 </description>
     </item>
     
     <item>
-      <title>Network Coverage Map</title>
-      <link>https://phillycommunitywireless.org/networkmap/</link>
+      <title>Network Location</title>
+      <link>https://phillycommunitywireless.org/networklocation/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://phillycommunitywireless.org/networkmap/</guid>
-      <description>To view the map in fullscreen, visit this webpage.
-Philly Community Wireless Wifi Coverage Map This map focuses on showing the overall network architecture. Points on the map represent outdoor wifi access points primarily. Any area covered by the heatmap should have PCW signal available for a free wifi connection.
-Please keep in mind that the heatmap is not accurate at the street-level, and if you cannot access the wifi network in any given space in the city, you may need to walk around a street corner.</description>
+      <guid>https://phillycommunitywireless.org/networklocation/</guid>
+      <description>Philly Community Wireless Wi-Fi Coverage Map View Map in Fullscreen This map focuses on showing the overall network architecture. Icons on the map show PhillyWisper high sites, Wi-Fi access points, routers, point-to-point equipment, and mesh nodes. Other features show connections between devices, a timeline to see our network&amp;rsquo;s growth over the years, and a heatmap.
+Areas covered by the heatmap should have PCW signal available for a free Wi-Fi connection, but please keep in mind that it may not be accurate at street-level.</description>
     </item>
     
     <item>
@@ -83,18 +104,6 @@ Shortly after graduation, Dylan moved to the Philadelphia suburbs where he took 
     </item>
     
     <item>
-      <title>Getting Here</title>
-      <link>https://phillycommunitywireless.org/about/getting-here/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/about/getting-here/</guid>
-      <description>PCW is located at the Norris Square Neighborhood Project at 2141 N Howard Street, adjacent to Norris Square Park.
-Public Transit NSNP is a quick walk from either the York-Dauphin or Berks Market-Frankford Line SEPTA stops.
-Driving Street parking is available around Norris Square Park; availabiliy is limited.
-Cycling There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Ground Coffee.</description>
-    </item>
-    
-    <item>
       <title>Leanne Przybylowski</title>
       <link>https://phillycommunitywireless.org/about/people/leannep/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
@@ -104,17 +113,27 @@ Cycling There is an Indego stop a ~5 minute walk away at 2nd and Norris next to 
     </item>
     
     <item>
+      <title>Location</title>
+      <link>https://phillycommunitywireless.org/about/location/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/about/location/</guid>
+      <description>Philly Community Wireless’s headquarters is located at the Norris Square Neighborhood Project (NSNP), at 2141 N Howard St. We are on the east side of Norris Square Park.
+If you are looking for information about where our free Wi-Fi network is located, please visit our live map.</description>
+    </item>
+    
+    <item>
       <title>News</title>
       <link>https://phillycommunitywireless.org/about/news/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/about/news/</guid>
-      <description>Tech Policy, America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?, 4/30/2024
+      <description>Billy Penn, Organization pulls Kensington community together by spreading wi-fi outdoors, 7/2/2025.
+Billy Penn, Philly residents take a DIY approach to solving quality of life issues, 12/10/2024.
+Tech Policy, America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?, 4/30/2024
 CNET, Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time, 10/1/2023
 Kensington Voice, Norris Square organization increases community access to free internet, 7/12/2023
-Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of the Year 2022, 12/14/2022
-Al Dia, Bringing Digital Equity to North Philadelphia, 5/13/2022
-Technical.ly Philly, A group of Philly technologists are working on a free, community-based mesh Wi-Fi network, 2/1/2022</description>
+Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of the Year 2022, 12/14/2022</description>
     </item>
     
     <item>
@@ -139,14 +158,13 @@ Mesh networks allow a single Internet connection to be shared among a broader gr
     </item>
     
     <item>
-      <title>Get connected</title>
+      <title>Get Connected to Our Wi-Fi</title>
       <link>https://phillycommunitywireless.org/getconnected/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/getconnected/</guid>
-      <description>Sign Up! If you live in the North Philadelphia neighborhoods of Fairhill, Kensington, and Norris Square, and want to get connected to free wireless internet or host an antenna to connect your neighbors, please fill out our Sign Up Form!
-PCW Antenna in NSNP&amp;rsquo;s Las Parcelas Gardens pointing towards our highsite, Gotham Tower. Grant Wythoff
-The Installation Process Philly Community Wireless works with PhillyWisper, a local wireless internet service provider, to install rooftop antennas that we use to provide a free wifi network to the neighborhood residents and public spaces.</description>
+      <description>Are you looking for affordable, lost cost, or free Internet in Philadelphia? Do you want to make an impact in your community and help your neighbors get connected to the Internet?
+We&amp;rsquo;re not an internet company — we&amp;rsquo;re a community network! By joining us, you&amp;rsquo;ll become a member of our growing network and be part of creating a baseline of internet access for everyone.</description>
     </item>
     
     <item>
@@ -185,20 +203,20 @@ We at Philadelphia Community Wireless Project, a fiscally sponsored project of t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/resources/</guid>
-      <description>Last Updated: November 7th, 2024
-Below are some more materials and resources to help you find digital resources for wifi access, computer use, and more. Check them out!
-Digital Literacy Training and Technical Support - Digital Equity Center at Temple University Description: Provides an on-site open computer lab, digital literacy training, affordable internet options, home computer solutions, and technical support via their hotline.
-Location: 1918 N 11th St, Philadelphia PA 19122.</description>
+      <description>Last Updated: November 25th, 2025
+Below are some resources to help you connect to affordable or free internet access, take digital literacy classes, and more. Check them out!
+Get Digital Resources: Digital Navigators (Multilingual) Location: Over the phone
+Description: Designed to assist local community members in Philadelphia with information on Internet access, digital literacy training, and basic technical support issues. Digital Navigators can also help you enroll for discounted internet when available.</description>
     </item>
     
     <item>
-      <title>Volunteer</title>
+      <title>Volunteer with PCW</title>
       <link>https://phillycommunitywireless.org/volunteer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/volunteer/</guid>
-      <description>We love volunteers! We formed as a grassroots, entirely volunteer-led coalition working to build community controlled wireless internet networks in Philadelphia. We now have a dedicated team of staff and processes for onboarding volunteers from the Philly area and beyond to contribute to the organization and our network&amp;rsquo;s growth in a variety of ways. Below we&amp;rsquo;ve outlined some of the ways that volunteers can contribute.
-If you’re interested in getting involved, please fill out our Volunteer Sign-Up Form.</description>
+      <description>We love volunteers! Use your skills (whatever they are!) to give back to the Philadelphia community and support internet access for all. In-person and remote volunteer opportunities are available — we welcome you to get involved in whatever capacity makes sense for you.
+If you want to support our work but aren&amp;rsquo;t able to volunteer at the moment, check out our Support page for other ways to help.</description>
     </item>
     
   </channel>

@@ -49,7 +49,7 @@
     <meta name="generator" content="Hugo 0.111.3">
 
     
-<link rel="stylesheet" href="/pcw-hugo-theme/css/main.min.b432d86525a685a62d4d799322b22f469d825074033a5143418e7994c7c78fd0.css" >
+<link rel="stylesheet" href="/pcw-hugo-theme/css/main.min.370751dd2e78189ddbe4cd0d23f7b1146de3f3068b799559e0d9898a494b46cb.css" >
 
 
 
@@ -104,9 +104,7 @@
   <body class="ma0 bg-white calibre black production">
     <a href="#main" class="absolute top--2 w-100 bg-white f4 b no-underline black pt1 tc">Skip to content</a>
     <style>[href="#main"]:focus { top: 0; }</style>
-    
-   
-  <header class="flex flex-column">
+    <header class="flex flex-column">
   <nav class="bg-pcw pa2 pl3-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="/es/" class="f3 fw2 hover-white no-underline white flex items-center">
@@ -180,7 +178,7 @@
               </li>
             </a>
             
-            <a style="white-space: nowrap;" class="hover-white no-underline white pa0" href="/es/about/getting-here" title="Cómo llegar aquí page">
+            <a style="white-space: nowrap;" class="hover-white no-underline white pa0" href="/es/about/location" title="Cómo llegar aquí page">
               <li class="list f4 fw4 br3 grow dim justify-center pv2 ph2">
                   Cómo llegar aquí
               </li>
@@ -359,25 +357,25 @@
 
 </header>
 
-
     <main role="main" id="main" tabindex="-1">
       
-  
-  <article class="flex-l flex-wrap justify-between mw8 center ph3">
-    <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked">
-          
-        ACERCA DE NOSOTROS
-      </aside>
-      <h1 class="f1 athelas mt3 mb1">Fundadores</h1>
-      
-      
-      <time class="f6 mv4 dib tracked" datetime="2024-06-14T00:00:00Z">June 14, 2024</time>
+    
+    
 
-      
-      
-    </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><div class="funder-card">
+
+    
+    <div class="flex-l flex-column mt2 mw8 center">
+      <article class="center cf pv5-ns ph3 ph4-ns mw7">
+        <header>
+          
+          
+          <h1 class="f1">Fundadores</h1>
+        </header>
+        
+        <div
+          class="nested-copy-line-height lh-copy f3 nested-links nested-img near-black"
+        >
+          <div class="funder-card">
     <img alt="Better Bike Share Partnership Mini Grant" src="/images/funders/better_bike_share.svg"/>
     <div class="funder-desc">
         <a href="https://betterbikeshare.org/grant/better-bike-share-mini-grants/">Better Bike Share Partnership Mini Grant</a>, Philadelphia City Fund, 2024
@@ -412,25 +410,15 @@
     <div class="funder-desc">
         RISE (Recognizing Inequalities and Standing for Equality), <a href="https://pace.princeton.edu/">Pace Center for Civic Engagement</a>, 2020
     </div>
-</div><ul class="pa0">
-  
-</ul>
-<div class="mt6 instapaper_ignoref">
-      
-      
-      </div>
+</div>
+        </div>
+      </article>
     </div>
-
-    <aside class="w-30-l mt6-l">
-
-
+    
+    
 
 
-</aside>
-    test
-
-  </article>
-
+    
     </main>
     .
 <link href="/fontawesome/css/all.min.css" rel="stylesheet">
@@ -525,8 +513,18 @@
              
         }
 
-        #mc-embedded-subscribe-form{
+        #mc-embedded-subscribe-form {
             margin: unset !important;
+        }
+
+        #mc_embed_signup .mc-field-group {
+            width: 100% !important;
+        }
+
+        #mc-embedded-subscribe {
+            width: 100% !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
         }
 
         #mc_embed_signup .button {
@@ -541,13 +539,15 @@
 
          
     </style>
-    <div id="mc_embed_signup">
+    <div id="mc_embed_signup" style="width: 300px;">
         <form
             action="https://phillycommunitywireless.us5.list-manage.com/subscribe/post?u=7a97e4278a5833f5505a85940&amp;id=6af414f631&amp;f_id=007dbaedf0"
             method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
             target="_blank">
             <div id="mc_embed_signup_scroll">
-                <p class="mv0 f3 fw7" style="color: var(--primary)">Subscribe to our Newsletter!</p>
+
+                
+
                 
                 <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span
                             class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email"
@@ -561,13 +561,12 @@
                     signups */
                     <input type="text" name="b_7a97e4278a5833f5505a85940_6af414f631" tabindex="-1" value="">
                 </div>
-                <div class="optionalParent">
-                    <div class="clear foot">
-                        <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button"
-                            value="Subscribe">
-                        
-                    </div>
+                
+                <div class="clear foot" style="display: flex !important; width: 100% !important;">
+                    <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+                    
                 </div>
+                
             </div>
         </form>
     </div>
