@@ -75,7 +75,7 @@ languages:
      
 
         - name: Location
-          url: "/networkmap"
+          url: "/networklocation"
           weight: "4"
 
         - name: Docs
