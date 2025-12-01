@@ -7,8 +7,8 @@
 
   {{ with .header }}
   <div class="center ph3" style="max-width: calc({{ $maxheight }} * 1.7777777 - 4rem);">
-    <h2 class="f2">
-      {{ . }}:
+    <h2 class="f2 {{ .class }}">
+      {{ .text }}:
     </h2>  
   </div>
   

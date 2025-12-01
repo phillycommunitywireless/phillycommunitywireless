@@ -12,38 +12,46 @@ languages:
     contentDir: content/en
     menu:
       main:
-        - name: Get Connected
-          identifier: get-connected
+        # Programs
+        - name: Programs
+          identifier: Programs
           weight: "1"
-        - name: Connect
+        - name: Get Connected
           url: "/getconnected"
-          parent: get-connected
+          parent: Programs
           weight: "1"
         - name: Volunteer
           url: "/volunteer"
-          parent: get-connected
-          weight: "2"
-        # - name: Network Updates
-        #   url: "/networkupdates"
-        #   parent: get-connected
-        #   weight: "3"
+          parent: Programs
+          weight: "2"        
 
+        # Support
+        - name: Support
+          identifier: support
+          weight: "2"
         - name: Donate
-          url: https://phillycommunitywireless.allyrafundraising.com/
+          url: "https://phillycommunitywireless.allyrafundraising.com/"
           params:
             external: true
+          parent: support
+          weight: "3"
+        - name: Merch
+          url: "/merch"
+          parent: support
           weight: "2"
+        - name: Support Us
+          url: "/support"
+          parent: support
+          weight: "1"
 
-        - name: About Us
+        # About
+        - name: About 
           identifier: about-us
           weight: "3"
-        - name: About
+        - name: About Us
           url: "/about"
           parent: about-us
           weight: "1"
-        - name: In the News 
-          url: "/about/news"
-          parent: about-us
         - name: People
           url: "/about/people"
           parent: about-us
@@ -52,16 +60,21 @@ languages:
           url: "/about/partners"
           parent: about-us
           weight: "3"
-        - name: Getting Here 
-          url: "/about/getting-here"
+        - name: Funders
+          url: "/about/funders"
           parent: about-us
           weight: "4"
+        - name: In the News 
+          url: "/about/news"
+          parent: about-us
+          weight: "5"
         - name: FAQ
           url: "/about/faq"
           parent: about-us
-          weight: "5"
+          weight: "6"
+     
 
-        - name: Map
+        - name: Location
           url: "/networkmap"
           weight: "4"
 
@@ -124,7 +137,7 @@ languages:
           parent: about-us
           weight: "3"
         - name: Cómo llegar aquí
-          url: "/about/getting-here"
+          url: "/about/location"
           parent: about-us
           weight: "4"
         - name: Preguntas Frecuentes
@@ -157,10 +170,11 @@ params:
     name: Addie Barron
     link: https://addieis.online
   featured_image:
-    src: "/images/hero3.jpg"
+    src: "/images/Iglesias_AP_Equipment.jpg"
     alt:
       A photo of an antenna installed on a rooftop, pointing at a receiver tower
       in the distance.
+    class: "opos-70p" 
   featured_text:
     header: "/images/WebLogo_Standard.svg"
   background_color_class: bg-near-white black-60
