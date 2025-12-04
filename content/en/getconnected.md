@@ -56,7 +56,7 @@ segments:
     
 ---
 
-Are you looking for affordable, lost cost, or free Internet in Philadelphia? Do you want to make an impact in your community and help your neighbors get connected to the Internet?
+Are you looking for affordable, low cost, or free Internet in Philadelphia? Do you want to make an impact in your community and help your neighbors get connected to the Internet?
 
 We're not an internet company — **we're a community network!** By joining us, you'll become a member of our growing network and be part of creating a baseline of internet access for everyone.
 
