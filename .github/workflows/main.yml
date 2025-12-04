@@ -22,7 +22,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       - name: build
         uses: jakejarvis/hugo-build-action@v0.111.3
         with:
