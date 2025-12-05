@@ -191,7 +191,7 @@ img.opos-top {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  width: 2rem;
+  /* width: 2rem; */
   height: 2rem;
   position: absolute;
   top: 32px;
