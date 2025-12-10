@@ -5,7 +5,7 @@
     {{ with $.Site.Params.featured_text }}
       <div class="absolute absolute--fill flex flex-column bg-black-50 hero-image">
         {{ if in .header ".svg" }}
-          <img src="{{ .header }}" alt="{{$.Site.Title}}" style="margin: auto;" class="h-75 ma4" role="heading" aria-label="{{$.Site.Title}}">
+          <img src="{{ .header }}" alt="{{ .alt }}" style="margin: auto;" class="h-75 ma4" role="img" aria-label="{{ .alt }}">
         {{ else }}
           <h1 style="margin: auto; font-size: 6rem;" class="tc center f1 white mb0 w-50 lh-solid">{{ markdownify .header }}</h1>
         {{ end }}

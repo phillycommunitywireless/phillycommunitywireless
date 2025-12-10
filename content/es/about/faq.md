@@ -3,6 +3,8 @@ date: 2024-04-02
 title: Preguntas más frecuentes
 toc: true
 layout: "people/people"
+aliases:
+    - /es/faq
 ---
 
 # ¿Quien Somos Nosotros?
