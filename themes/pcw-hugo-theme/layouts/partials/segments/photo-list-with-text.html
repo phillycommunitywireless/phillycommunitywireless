@@ -1,0 +1,50 @@
+<section class="f3 cf center w-50-l w-100 pv4">
+    <h1 class="tc ph3">{{ .title | default "Default Title" }}</h1>
+
+    {{ if .images }}
+        {{ range $i, $img := .images }}
+
+        <div class="w-100 pt2 flex flex-row flex-wrap">
+            <!-- img -->
+            <div class="w-third-l w-100 flex items-center justify-center ph3 pr2-l">
+                <img style="max-height: 50vh; aspect-ratio: 1/1; object-fit: cover;" src="{{$img.image}}" alt="{{$img.alt}}"
+                    class="br3 h-100" />
+            </div>
+
+            <!-- text -->
+            <div class="w-two-thirds-l w-100 ph3 p4-l flex flex-column items-center justify-center">
+                <p class="mv2 lh-copy">
+                    {{ $img.text | markdownify }}
+                </p>
+
+                {{- if $img.button -}}
+                {{ with $img.button }}
+                    <a role="button" href="{{ .button_href }}" class="tc dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .button_text | default "Placeholder link" }}</a>
+                {{- end -}}
+                {{- end -}}
+
+            </div>
+        </div>
+
+        {{ end }}
+    {{ else }}
+
+    <!-- show default -->
+    <div class="w-100 pt2 flex flex-row">
+        <!-- img -->
+        <div class="w-third flex items-center justify-center pr2-l">
+            <img style="aspect-ratio: 1/1; object-fit: cover;" src="/images/wifisign.jpg" alt="Some alt text"
+                class="br3 h5 w-100" />
+        </div>
+
+        <!-- text -->
+        <div class="w-two-thirds db ph2 bg-light-gray">
+            <p class="mv2 lh-copy">
+                This is some placeholder text.
+            </p>
+        </div>
+    </div>
+    {{ end }}
+
+
+</section>

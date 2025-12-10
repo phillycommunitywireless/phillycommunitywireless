@@ -1,0 +1,41 @@
+{{ $reverse := cond (.reverse | default false) "-reverse" "" }}
+
+
+<section class="center cf tl tc-ns f1 pt4 pb4 {{ .class }}">
+    <div class="w-75-l center flex flex-row{{$reverse}}-xl flex-column{{$reverse}} flex-column-reverse items-stretch w-100 h-auto-l f3">
+
+        <!-- left-hand title, text, btn -->
+        <div class="flex flex-column flex-1-l center justify-center pv2 ph4-l ph3">
+            {{- if .title -}}
+            <h1 class="tc mb0">
+                {{ .title | markdownify }}
+            </h1>
+            {{- end -}}
+
+            <!-- text -->
+            <div class="lh-copy tl tc-ns {{ .text_class }}">
+                <!-- <p>
+                    {{ .text | markdownify }}
+                </p> -->
+                {{ .text | markdownify }}
+            </div>
+         
+            <!-- button -->
+            {{- if .button -}}
+            {{ with .button }}
+            <div class="flex items-center">
+                <a {{- if .no_button_arrow -}} role="" {{ else }} role="button" {{ end }} href="{{ .button_href }}" class=" center tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white {{ .class }}">
+                    {{ .button_text | default "Placeholder link" }}
+                </a>
+            </div>
+            {{ end }}
+            {{- end -}}
+
+        </div>
+
+        <!-- right-hand photo -->
+        <div class="flex-1 flex justify-center items-center bg-center pv2 ph3">
+            <img class="br3 ctr-img" src="{{ .photo }}" alt="{{.photo_alt_text}}">
+        </div>
+    </div>
+</section>
