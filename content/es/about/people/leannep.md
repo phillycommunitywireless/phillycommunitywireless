@@ -2,9 +2,11 @@
 date: 2023-10-18
 title: "Leanne Przybylowski"
 layout: "people/single"
+aliases:
+    - /es/leannep
 ---
 
-{{< figure class="figure-center" src="/images/LeannePHeadshot-Square.jpg" width=200 height=200 >}}  
+{{< figure class="figure-center" src="/images/LeannePHeadshot-Square.jpg" width=200 height=200 alt="Foto de rostro de Leanne Przybylowski.">}}  
 
 Leanne, una canadiense, llegó a Filadelfia en 2021 para realizar una Maestría en Ciencias en Comunicación para el Desarrollo y el Cambio Social en la Universidad de Temple. Interesada en la equidad digital y el vínculo entre los espacios digitales y la democracia saludable, Leanne comenzó a trabajar como voluntaria en PCW al final de su tiempo en Temple y rápidamente se volvió muy activa en la organización y apasionada por su visión alternativa para transformar la inclusión digital a través del wifi comunitario.  
 

@@ -1,11 +1,11 @@
 {{/* Include CSS for fonts here since this is HTML, not a markdown template */}}.
 <link href="/fontawesome/css/all.min.css" rel="stylesheet">
 
-<footer class="pv2 ph3 ph5-m ph6-l {{ .Site.Params.background_color_class | default " bg-black-80" }}"
+<footer class="pv2 ph3 ph5-m ph6-l bg-black-80 bg-white bt"
   role="contentinfo">
   <div class="flex f4 p2 m-footer justify-between">
     <span class="self-center" style="margin-right: 2vw" id="footer-logo">
-      <a class="f3 fw2 hover-white no-underline white-90 flex items-center" href="{{ .Site.Home.RelPermalink }}">
+      <a class="f3 fw2 hover-white no-underline white flex items-center" href="{{ .Site.Home.RelPermalink }}">
         <img alt="{{ $.Site.Title }}" height="70" src="{{ $.Site.Params.site_logo_inverted }}" />
       </a>
 

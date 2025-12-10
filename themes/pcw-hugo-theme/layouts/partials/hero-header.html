@@ -1,0 +1,8 @@
+{{ with .Params }}
+{{ if .header_photo }}
+<div class="relative vh-50">
+  <img src="{{ .header_photo }}" alt="{{ .header_alt | default "alt text" }}" class="{{ .header_class | default " opos-left" }}
+    ofit-cover w-100 h-100" />
+</div>
+{{ end }}
+{{ end }}

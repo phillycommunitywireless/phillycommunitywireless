@@ -23,6 +23,16 @@
   background-color: var(--lilac);
   color: white;
 }
+
+.b--pcw-dark-blue {
+  border-color: var(--dark-blue); 
+}
+
+.bg-pcw-salmon {
+  background-color: #FF665A;
+  color: white;
+}
+
 .bg-pcw-dark-blue {
   background-color: var(--dark-blue);
   color: var(--light-gray);
