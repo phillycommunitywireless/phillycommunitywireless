@@ -72,18 +72,12 @@ If you’re interested in getting involved, please fill out our [Volunteer Sign-
     text: "See our calendar to get an idea of upcoming in-person volunteer events and opportunities! Most of our installs are coordinated on Thursdays or Fridays, and we aim to host Volunteer Saturday Sessions 1-2 times per month."
 ---
 
-We love volunteers! We formed as a grassroots, entirely volunteer-led coalition working to build community controlled wireless internet networks in Philadelphia. We now have a dedicated team of staff and processes for onboarding volunteers from the Philly area and beyond to contribute to the organization and our network's growth in a variety of ways. Below we've outlined some of the ways that volunteers can contribute.
-
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). 
 
 {{< button-custom centered="true" href="https://tally.so/r/w2ODaj" text="Sign Up to Volunteer!">}}
 
 {{< figure class="figure-center" src="/images/DJI_0281.JPG" caption="PCW Staff and Volunteers during an install at the rooftop of PCW's HQ" attr="Leanne Przybylowski" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
 
-## Tech Volunteers
-
-{{% notice %}}
-_The Tech Team is actively seeking volunteers to help with our installation process: attending in-person trainings in Norris Square, configuring our networking hardware, and installing equipment in homes and on rooftops throughout Philadelphia. Many of us are in the process of learning these skills, so if these skills are new to you, you'll be trained in a collaborative environment. If you're experienced, we welcome your expertise and training support. Access to a car and/or proximity to Norris Square Park are both ideal. Remote volunteer opportunities are also available. We welcome you to get involved in whatever capacity makes sense for you._{{% /notice %}}
 We love volunteers! Use your skills (whatever they are!) to give back to the Philadelphia community and support internet access for all. In-person and remote volunteer opportunities are available — we welcome you to get involved in whatever capacity makes sense for you.
 
 
@@ -136,7 +130,3 @@ _The Outreach Team is actively seeking volunteers with Spanish language proficie
 
 
 {{< figure class="figure-center" src="/images/voulnteering.jpg" caption="Leanne Przybylowski and a volunteer helping serve food to the elderly community at Somerset Villas after a successful install" attr="Eugene Ryoo" attrlink="#" alt="Photo taken in a community garden, showing an antenna mounted on a roof in the foreground, and in the background, far in the distance, a larger antenna facing it." >}}
-
-## Event Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_ca84146424d3ddad9678df590065af38e3fc78ff3720a41ed05584cd5e7cd7eb%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no" aria-label="Event Calendar"></iframe>
