@@ -114,6 +114,19 @@ Image attribution text. Markdown within the value of `attr` will be rendered.
 
 If the attribution text needs to be hyperlinked, URL of the destination.
 
+### Custom Buttons 
+We've also created a "button-custom" shortcode for adding buttons to Markdown files. 
+```
+{{< button-custom href="#" text="your text here...">}}
+```
+
+Which will render to...
+```
+<a role="button" href="#" class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
+    your text here...    
+</a>
+```
+
 ## Segments
 
 This theme supports a `segments` front matter parameter for all normal pages, which allows for composing layouts from "stackable components". The `segments` param is a YAML list of objects, each of which will correspond to one of these components. Each type of segment uses a pre-written HTML template to render a component, like a full-width photo, a video, or a call-to-action, to the page it's used on. Segments are all full-width and can usually be customized right from the YAML.

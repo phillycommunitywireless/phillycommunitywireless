@@ -41,15 +41,15 @@ En 2022, la Alianza Big Picture completó un documental sobre las primeras etapa
 
 > <p class="f3"><i>"Aproximadamente $200 pueden conectar permanentemente una casa a Internet de alta velocidad, sin facturas mensuales".</i></p>
 
-#### Alojar una antena
+### Alojar una antena
 
 Trabajamos con organizaciones comunitarias y propietarios de edificios en los vecindarios de Fairhill y Kensington que estén dispuestos a alojar antenas de red en sus tejados, y a llevar a cabo actividades de alcance comunitario acerca de esta conexión de red gratuita. [¡Regístrate!](https://tally.so/r/mR8VM9)
 
-#### Voluntarios
+### Voluntarios
 
 Siempre damos la bienvenida a organizaciones comunitarias y residentes interesados en participar en cualquier aspecto del proyecto y aprender mientras contribuyen. Para más información sobre las funciones de los voluntarios y los procesos de incorporación, consulte nuestra [Página de voluntarios](https://phillycommunitywireless.org/es/volunteer/).
 
-#### Recaudación de fondos
+### Recaudación de fondos
 
 Buscamos financiación adicional para comprar más hardware que se donará a los miembros de la comunidad, incluidas tecnologías alternativas que podrían complementar nuestro servicio básico. Visite nuestra página [Allyra](https://phillycommunitywireless.allyrafundraising.com) para contribuir. Si tienes alguna pregunta, envíenos un correo electrónico a info@phillycommunitywireless.com.
 

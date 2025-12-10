@@ -2,6 +2,15 @@
 date: 2021-09-30
 title: Equipo
 layout: "people/people"
+aliases:
+    # pagina web del antiguo personal
+    - /es/people 
+    # ex personal
+    - /es/allang
+    - /es/allang/
+    - /es/about/people/allang
+    - /es/dylanh
+    - /es/dylanh/
 ---
 
 {{< fa hands-helping >}} = organizador \

@@ -1,6 +1,8 @@
 ---
 date: 2024-06-14
 title: "Fundadores"
+aliases:
+    - /es/funders
 ---
 <div class="funder-card">
     <img alt="Better Bike Share Partnership Mini Grant" src="/images/funders/better_bike_share.svg"/>

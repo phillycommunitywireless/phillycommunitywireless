@@ -2,6 +2,17 @@
 date: 2024-07-01
 title: "People"
 layout: "people/people"
+aliases:
+    # old people link
+    - /people 
+    # former staff
+    - /allang
+    - /allang/
+    - /about/people/allang
+    - /dylanh
+    - /dylanh/
+
+
 ---
 
 {{< fa hands-helping >}} = organizer \

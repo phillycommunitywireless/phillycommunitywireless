@@ -3,44 +3,37 @@ layout: single
 title: Resources
 ---
 
-**Last Updated**: November 7th, 2024
+**Last Updated**: November 25th, 2025
 
 *******
-Below are some more materials and resources to help you find digital resources for wifi access, computer use, and more. Check them out!
+Below are some resources to help you connect to affordable or free internet access, take digital literacy classes, and more. Check them out!
 
-## Digital Literacy Training and Technical Support - Digital Equity Center at Temple University
+## Get Digital Resources: Digital Navigators (Multilingual) 
+**Location**: Over the phone  
+**Description**: Designed to assist local community members in Philadelphia with information on Internet access, digital literacy training, and basic technical support issues. Digital Navigators can also help you enroll for discounted internet when available.  
+**Contact**: For contact information about the Digital Navigator program's at Drexel's Excite Center, Beyond Literacy, and SEAMAAC, see the [city's website](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). Alternatively, call 311 to make an appointment with a Digital Navigator.  
+
+## Digital Literacy Training and Technical Support: Digital Access Center at Temple University (English)
 **Description**: Provides an on-site open computer lab, digital literacy training, affordable internet options, home computer solutions, and technical support via their hotline.  
 **Location**: 1918 N 11th St, Philadelphia PA 19122.  
 **Contact and Tech Support Hotline**: Call 215-204-7445 or email techforphilly@temple.edu. 
 
-## TechOWL Community Space 
+## Digital Literacy Training and Technical Support: TechOWL Community Space 
 **Description**: Provides hands-on experience with assistive technology.    
 **Location**: 1392 Cecil B. Moore Avenue, Philadelphia PA 19122.    
 **Contact**: Call 800-204-7428 or email techowl@temple.edu - see [TechOWL's Website](https://techowlpa.org/community-space/) to register for classes. 
 
-## PCs for People
-**Description**: Provides refurbished computers to eligible customers for affordable prices, starting at $0-29. To place an order, you will need photo identification and documentation of current enrollment in an income-based government assistance program OR documentation of current household income (under 200% of the federal poverty line or under 60% of the area median income).  
-**In-person Location and Hours**: 2251 N Broad St, Philadelphia PA 19132. Open Monday – Friday, 10am-4:30pm. Not open on weekends.  
+## Affordable Devices: PCs for People
+**Description**: Provides refurbished computers to eligible customers for affordable prices. To place an order, you will need photo identification and documentation of current enrollment in an income-based government assistance program OR documentation of current household income (under 200% of the federal poverty line or under 60% of the area median income).  
 **Shop online**: [Shop here](https://pcsrefurbished.com/sales/salesHome).  
 **Contact**: Call 215-621-8118 or email philadelphia@pcsforpeople.org.   
 
-## Xiente Digital Literacy Classes
-**Description**: Two levels, Basic and Intermediate, to learn essential tasks such as website navigation, email management, job applications, virtual meeting participation, and more. Classes are in English and in Spanish.  
-**Location and Time**: Norris Square Senior Center (2121 N Howard St, Philadelphia PA 19122) every Monday at 9:30am.  
-**Register**: Call the Xiente main office at 215-426-8734 or [register here](https://xiente.jotform.com/223381334958058).  
-
-## Computer 101 Digital Literacy Classes
-**Organization**: Urban League of Philadelphia and Drexel University Dornsife Center for Neighborhood Partnerships  
-**Description**: Learn computer basics like email, typing, and staying safe online.  
-**Location and Time**: In-person training sessions are available Tuesday – Thursday from 5-7pm at the KEYSPOT computer lab (3509 Spring Garden St, Philadelphia PA 19104) in West Philadelphia.  
-**Register**: Call 215-571-4056 or email bflcdornsifecenter@drexel.edu.  
-
-## Tech Tutoring: Digital Navigators (English and Spanish)  
-**Location**: Online/Over the phone  
-**Description**: Designed to assist the local community members in Philadelphia, with information on Internet access and basic technical support issues. Digital Navigators can also help you enroll for discounted internet when available.  
-**Contact**: For contact information about the Digital Navigator program's at Drexel's Excite Center, Beyond Literacy, and SEAMAAC, see the [city's website](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). Alternatively, call 211 to get connected with a Digital Navigator.  
+## Digital Literacy Training: Beyond Literacy
+**Description**: Join our free, digital skills workshops at convenient locations across Philadelphia. With a variety of workshop offerings, residents can improve computer skills, learn how to send emails, apply for jobs online, and more.
+**Location and Time**: Varies.
+**Register**: Learn more [here](https://beyondliteracy.org/digitalskills/).
   
-## Digital Literacy Training - Generations on Line:     
+## Digital Literacy Training: Generations on Line   
 **Description**: Generations on Line guides individuals or organizations via training tools and tutorials in teaching Senior citizens how to use the Internet, email, texting, photos, apps, videochats, and all the basic tools, including voice recognition, to participate in the cyber world of endless possibilities.  
 **Learn more**: See more information about Generations on Line [here](https://www.generationsonline.com/).  
 **Contact**: Call Katie Burke at 215-222-6400.
@@ -52,8 +45,4 @@ Below are some more materials and resources to help you find digital resources f
 
 ## Public Computing Centers
 **Location**: All over the city.  
-**Description**: For more info, visit the [city website](https://www.phila.gov/2022-02-18-public-computing-center-in-west-philadelphia-is-a-model-for-digital-equity-and-literacy/).  
-
-## OCF Adult Education Hotline
-**Description**: The City of [Philadelphia's Office of Children and Families ](https://www.phila.gov/departments/office-of-children-and-families/) works with several community organizations to offer adult (16+) education classes, including digital skills training.    
-**Contact**: OCF Hotline at 1-833-750-5627 
+**Description**: For more info, visit the [city website](https://www.phila.gov/services/education-learning/get-help-with-technology/find-a-public-computer-center/).  
