@@ -6,6 +6,27 @@ aliases:
     - /funders
 ---
 <div class="funder-card">
+    <img alt="Kensington Community Resilience Fund" src="/images/funders/KensingtonCommunityResilienceFund.webp"/>
+    <div class="funder-desc">
+        <a href="https://kcrfund.org">KCR Fund</a>, Kensington Community Resilience Fund, 2025
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Community Fund, Claneil Foundation" src="/images/funders/ClaneilFoundation.jpg"/>
+    <div class="funder-desc">
+        <a href="https://claneil.org/grantees/philly-community-wireless">Community Fund</a>, Claneil Foundation, 2025
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Community Challenge Grant" src="/images/funders/community_challenge_grant.png"/>
+    <div class="funder-desc">
+        <a href="https://www.aarp.org/livable-communities/community-challenge/info-2025/2025-demonstration-grantees.html">AARP Community Challenge Demonstration Grant</a>, AARP (American Association of Retired Persons), 2025
+    </div>
+</div>
+
+<div class="funder-card">
     <img alt="Digital Literacy Alliance" src="/images/funders/digital_literacy_alliance.jpg"/>
     <div class="funder-desc">
         <a href="https://www.phila.gov/2024-12-12-the-digital-literacy-alliance-announces-recipients-for-its-fall-2024-grant-cycle-to-address-digital-inclusion/">Building Digital Resiliency through Community Ambassador Models</a>, Digital Literacy Alliance, 2024

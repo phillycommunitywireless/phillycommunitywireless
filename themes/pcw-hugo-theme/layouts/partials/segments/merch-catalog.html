@@ -1,0 +1,35 @@
+<section class="cf center w-75-l w-100 pv4">
+    <div class="flex flex-wrap items-stretch mw9 center ph3-ns">
+        {{- if .title -}}
+        <div>
+            <h1 style="padding-bottom:2rem" class="tl f2 f1-ns center ma0 pa2 color-pcw-dark-blue">{{ .title }}</h1>
+        </div>
+        {{- end -}}
+
+        {{ range $i, $section := .sections }}
+        {{ with $section }}
+        <div class="merch-item ns fl w-100 w-50-m w-third-l pv2 ph3">
+            <div class="h-100 bg-white flex flex-column justify-between">
+                <div>
+                    <img src="{{ .photo }}" class="cubed-img br3" alt="{{.photo_alt_text}}">
+                    {{- if .item_name -}}
+                    <h2 class="tc tl-ns">{{ .item_name | markdownify }}</h2>
+                    {{ end }}
+                    <h2 class="black mv0 tc tl-ns">{{ .item_price }}</h2>
+                    <p class="f4 tc tl-ns mv2 lh-copy">{{ .item_caption | markdownify }}</p>
+                </div>
+
+                <div>
+                    <div class="flex items-center">
+                        <a role="button" href="{{ .button_href }}"
+                            class="center tc dib link mv3 pa3 ph4 f3 b bg-pcw white {{ .button_class }}">
+                            {{ .button_text | default "Placeholder link" }}
+                        </a> 
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+    </div>
+</section>

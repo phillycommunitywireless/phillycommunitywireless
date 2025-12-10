@@ -144,6 +144,7 @@ img.opos-top {
   .m-footer .self-center {
     align-self: normal;
   }
+
   #footer-logo {
     margin-bottom: 1em;
   }
@@ -215,7 +216,7 @@ img.opos-top {
     max-width: 50%;
     justify-content: center;
     flex-direction: column;
-    text-align: center;  
+    text-align: center;
     margin-bottom: 0;
     margin-top: 0;
   }
@@ -262,11 +263,86 @@ img.opos-top {
 }
 
 /* alt color on hover for navbar menu items */
-.submenu li:hover, #site-menu li:hover, #translations li:hover {
+.submenu li:hover,
+#site-menu li:hover,
+#translations li:hover {
   background-color: #7a87f5;
   transition: 0.5s;
 }
 
 footer {
   border-color: var(--primary);
+}
+
+/* Extra class with white !important for overriding button text color */
+.bg-pcw-important {
+  background-color: var(--primary);
+  color: white !important;
+}
+
+.display-img-bottom-center {
+  object-position: 50% bottom;
+}
+
+.vh-60 {
+  height: 60vh;
+}
+
+/* not-small (ns) classes */
+@media (min-width: 30em) {
+  .vh-60-ns {
+    height: 60vh;
+  }
+}
+
+/* medium */
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .vh-60-m {
+    height: 60vh;
+  }
+
+}
+
+/* images for three-button-call-to-action */
+.threebutton-img {
+  aspect-ratio: 1.5/1;
+  width: 100%;
+  /* remove based off of image display feedback */
+  object-fit: cover;
+}
+
+/* square images for merch catalog */
+.cubed-img {
+  aspect-ratio: 1.5/1;
+  width: 100%;
+  /* remove based off of image display feedback */
+  object-fit: cover;
+  object-position: center;
+}
+
+/* call-to-action-photo-right */
+@media screen and (min-width: 80em) {
+  .flex-row-xl {
+    flex-direction: row;
+  }
+
+  .flex-row-reverse-xl {
+    flex-direction: row-reverse;
+  }
+}
+
+/* call-to-action-photo-right image css*/
+.ctr-img {
+  max-height: 50vh;
+  min-height: 40vh;
+  object-fit: cover;
+  width: 100%;
+}
+
+.opos-70p {
+  object-position: 70% 70%;
+}
+
+.opos-50-30 {
+  object-position: 50% 30%;
 }
