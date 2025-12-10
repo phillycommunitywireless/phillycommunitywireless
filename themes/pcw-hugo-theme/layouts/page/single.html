@@ -1,5 +1,8 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }} {{ define
 "main" }}
+
+{{ partial "hero-header.html" . }}
+
 <div class="flex-l flex-column mt2 mw8 center">
   <article class="center cf pv5-ns ph3 ph4-ns mw7">
     <header>
@@ -10,11 +13,12 @@
     <div class="nested-list-reset f4 bb mb5 pb4">{{ .TableOfContents }}</div>
     {{ end }}
     <div
-      class="nested-copy-line-height lh-copy f4 nested-links nested-img near-black"
+      class="nested-copy-line-height lh-copy f3 nested-links nested-img near-black"
     >
       {{ .Content }}
     </div>
   </article>
-  {{ partial "segments.html" .Params.segments }}
 </div>
+<!-- moved out to preserve width of new segments -->
+{{ partial "segments.html" .Params.segments }}
 {{ end }}
