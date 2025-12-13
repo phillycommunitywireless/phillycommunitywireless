@@ -44,6 +44,7 @@ chris@phillycommunitywireless.org
 
 **UTP Apprentice**  
 Francisco Oquendo {{< fa cogs >}}{{< fa hands-helping >}}  
+<br/>
 
 ## Board of Directors
 
@@ -103,11 +104,11 @@ _Software Engineer_
 ## Graphic Design
 
 Katie Garth
+<br/>
 
 ## Video Production 
 
 Eli Laban, *Big Picture Alliance*
-
 <br/>
 
 ## Former Staff
@@ -117,6 +118,8 @@ Dylan Hutchinson, Former Installer
 Mir Detre, Former Technician  
 
 Allan Gomez, Former Systems Administrator 
+<br/>
+
 
 ## Former Volunteer Leads  
 
@@ -125,6 +128,8 @@ Addie Barron, Former Tech Lead and Web Designer
 Kate Goodman, Former Outreach Lead  
 
 Heather Lewis-Weber, Former Outreach Lead  
+<br/>
+
 
 ## Former Interns
 Francisco Oquendo, Urban Technology Project, 2024  
@@ -149,4 +154,5 @@ Anika Prakash, University of Pennsylvania, 2021
 ## Legal Support
 
 [Dentons, Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
+<br/>
 
