@@ -45,6 +45,8 @@ chris@phillycommunitywireless.org
 **UTP Apprentice**  
 Francisco Oquendo {{< fa cogs >}}{{< fa hands-helping >}}  
 
+<br/>
+
 ## Board of Directors
 
 Will Dean {{< fa cogs >}} \
@@ -77,6 +79,8 @@ _Director of Community Engagement, Temple University, College of Liberal Arts_
 Grant Wythoff {{< fa vial >}} \
 _Digital Humanities Strategist, Center for Digital Humanities at Princeton University_
 
+<br/>
+
 ## Technical Advisory Board
 Dylan Hutchinson {{< fa cogs >}} \
 _IT Engineer_
@@ -97,12 +101,15 @@ Jonathan Caicedo {{< fa vial >}} \
 _Software Engineer_ 
 
 Dan Feder {{< fa vial >}} \
-<br/>
 _Software Engineer_ 
+
+<br/>
 
 ## Graphic Design
 
 Katie Garth
+
+<br/>
 
 ## Video Production 
 
@@ -118,6 +125,9 @@ Mir Detre, Former Technician
 
 Allan Gomez, Former Systems Administrator 
 
+<br/>
+
+
 ## Former Volunteer Leads  
 
 Addie Barron, Former Tech Lead and Web Designer
@@ -125,6 +135,9 @@ Addie Barron, Former Tech Lead and Web Designer
 Kate Goodman, Former Outreach Lead  
 
 Heather Lewis-Weber, Former Outreach Lead  
+
+<br/>
+
 
 ## Former Interns
 Francisco Oquendo, Urban Technology Project, 2024  
@@ -149,4 +162,6 @@ Anika Prakash, University of Pennsylvania, 2021
 ## Legal Support
 
 [Dentons, Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
+
+<br/>
 
