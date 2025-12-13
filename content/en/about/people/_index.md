@@ -47,7 +47,7 @@ Francisco Oquendo {{< fa cogs >}}{{< fa hands-helping >}}
 
 <br/>
 
-## Board of Directors
+## Board of Advisors
 
 Will Dean {{< fa cogs >}} \
 _Research and Data Services Librarian, Temple University Libraries_
@@ -104,64 +104,3 @@ Dan Feder {{< fa vial >}} \
 _Software Engineer_ 
 
 <br/>
-
-## Graphic Design
-
-Katie Garth
-
-<br/>
-
-## Video Production 
-
-Eli Laban, *Big Picture Alliance*
-
-<br/>
-
-## Former Staff
-
-Dylan Hutchinson, Former Installer  
-
-Mir Detre, Former Technician  
-
-Allan Gomez, Former Systems Administrator 
-
-<br/>
-
-
-## Former Volunteer Leads  
-
-Addie Barron, Former Tech Lead and Web Designer
-
-Kate Goodman, Former Outreach Lead  
-
-Heather Lewis-Weber, Former Outreach Lead  
-
-<br/>
-
-
-## Former Interns
-Francisco Oquendo, Urban Technology Project, 2024  
-
-Isaiah Weakes, Carnegie Mellon University, 2023
-
-Megha Govindu, University of Pennsylvania, 2023
-
-Tejas Gupta, Princeton University, 2020
-
-Amber Whetstone, Temple University (now at Cornell University), 2021
-
-Chris Mehretab, Temple University, 2021
-
-Sarah Fingerhood, University of Pennsylvania, 2021
-
-Anika Prakash, University of Pennsylvania, 2021
-
-<br/>
-
-
-## Legal Support
-
-[Dentons, Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
-
-<br/>
-
