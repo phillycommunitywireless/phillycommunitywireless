@@ -97,8 +97,8 @@ Jonathan Caicedo {{< fa vial >}} \
 _Software Engineer_ 
 
 Dan Feder {{< fa vial >}} \
-<br/>
 _Software Engineer_ 
+<br/>
 
 ## Graphic Design
 
