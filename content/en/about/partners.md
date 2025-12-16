@@ -143,10 +143,6 @@ layout: "people/people"
 
 <br/>
 
-## Funders
-
-For more information on our institutional funders, visit our [Funders page](/about/funders)
-
 ## Graphic Design
 
 Katie Garth
@@ -162,3 +158,7 @@ Eli Laban, *Big Picture Alliance*
 ## Legal Support
 
 [Dentons, Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
+
+## Funders
+
+For more information on our institutional funders, visit our [Funders page](/about/funders)
