@@ -20,7 +20,7 @@ aliases:
 {{< fa graduation-cap >}} = teacher \
 {{< fa vial >}} = researcher
 
-## Administrative Team
+## Staff
 
 **Executive Director**  
 [Alex Wermer-Colan](alexwc) {{< fa cogs >}}{{< fa vial >}}  
@@ -42,6 +42,10 @@ zoe@phillycommunitywireless.org
 [Chris Mehretab](chrism) {{< fa hands-helping >}}  
 chris@phillycommunitywireless.org  
 
+**UTP Apprentice**  
+Francisco Oquendo {{< fa cogs >}}{{< fa hands-helping >}}  
+
+<br/>
 
 ## Board of Directors
 
@@ -49,13 +53,13 @@ Will Dean {{< fa cogs >}} \
 _Research and Data Services Librarian, Temple University Libraries_
 
 Jonathan Latko {{< fa cogs >}} \
-_Computer Recycling Center, Temple University_
+_Assistant Vice President of Business Operations, Information Technology Services, Temple University_
 
 Jessa Lingel {{< fa vial >}}{{< fa graduation-cap >}} \
 _Associate Professor, Annenberg School for Communication, University of Pennsylvania_
 
 Rev. Michael A. Major {{< fa hands-helping >}} \
-_Board President, Called to Serve CDC_
+_Reverend, Zion Baptist Ministry; Board President, Called to Serve CDC_
 
 Sascha Meinrath {{< fa vial >}} \
 _Palmer Chair in Telecommunications, Bellisario College of Communications, Pennsylvania State University_
@@ -64,27 +68,20 @@ Stasia Monteiro {{< fa hands-helping >}} \
 _NAC Program Director, HACE_
 
 Mark Steckel {{< fa cogs >}} \
-_Founder, PhillyWisper_
-
-Hailey Himlin {{< fa cogs >}} \
-_Office Adminstrator, PhillyWisper_
+_CEO, PhillyWisper_
 
 Devren Washington {{< fa hands-helping >}} \
-_Senior Policy Organizer, Movement Alliance Project_
+_Organizing Director, People's Tech Project_
 
 Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
-_Sr. Coordinator of Community Engagement, Temple University, College of Liberal Arts_
+_Director of Community Engagement, Temple University, College of Liberal Arts_
 
 Grant Wythoff {{< fa vial >}} \
 _Digital Humanities Strategist, Center for Digital Humanities at Princeton University_
 
+<br/>
+
 ## Technical Advisory Board
-Addie Barron {{< fa cogs >}} \
-_Technologist and Software Engineer_
-
-Quinn Batten {{< fa cogs >}} \
-_Data Engineer_
-
 Dylan Hutchinson {{< fa cogs >}} \
 _IT Engineer_
 
@@ -92,54 +89,27 @@ John Center {{< fa cogs >}} \
 _Retired Networking Engineer_
 
 Felipe Valdez {{< fa cogs >}} \
-_GIS Specialist_  
+_GIS Specialist, Temple University Libraries_  
 
 Dan Zygmund-Felt {{< fa cogs >}} \
 _Software Engineer_  
 
 David Berman {{< fa vial >}} \
-_Assistant Professor, Seton Hall_  
+_Assistant Professor, Seton Hall University_  
 
+Jonathan Caicedo {{< fa vial >}} \
+_Software Engineer_ 
 
-## Additional Partners
-Adam Bouhmad {{< fa cogs >}} \
-_Project WAVES (Baltimore)_
-
-David L. Johnson {{< fa cogs >}} \
-_iNethi (Cape Town, South Africa)_
-
-Greta Byrum {{< fa cogs >}} \
-_Community Tech NY (New York)_
-
-Andrew Coy {{< fa cogs >}} \
-_Digital Harbor Foundation (Baltimore)_
-
-Raul Enriquez {{< fa cogs >}} \
-_Community Tech NY (New York)_
-
-Colby Hollabaugh {{< fa cogs >}} \
-_Meta Mesh (Pittsburgh)_
-
-Ani Martinez {{< fa hands-helping >}} \
-_Remake Learning (Pittsburgh)_
-
-Franca Muller Paz {{< fa graduation-cap >}} \
-_Baltimore Teachers Union (Baltimore)_
-
-Dave Onion {{< fa cogs >}} \
-_Dialectrician, Holobiont Lab_
-
-Jennifer Oxenford {{< fa cogs >}} \
-_Director, Member Services and NYC Dark Fiber Program at NYSERNet_
-
-Houman Saberi {{< fa cogs >}} \
-_Community Tech NY (New York)_
+Dan Feder {{< fa vial >}} \
+_Software Engineer_ 
 
 <br/>
 
 ## Graphic Design
 
 Katie Garth
+
+<br/>
 
 ## Video Production 
 
@@ -155,13 +125,19 @@ Mir Detre, Former Technician
 
 Allan Gomez, Former Systems Administrator 
 
+<br/>
+
+
 ## Former Volunteer Leads  
 
-Addie Barron, Former Tech Lead  
+Addie Barron, Former Tech Lead and Web Designer
 
 Kate Goodman, Former Outreach Lead  
 
 Heather Lewis-Weber, Former Outreach Lead  
+
+<br/>
+
 
 ## Former Interns
 Francisco Oquendo, Urban Technology Project, 2024  
@@ -182,31 +158,10 @@ Anika Prakash, University of Pennsylvania, 2021
 
 <br/>
 
-## Allied Orgs
-
-[Digital Harbor Foundation](https://www.digitalharbor.org/), Baltimore
-
-[Project WAVES](https://projectwaves.net/), Baltimore
-
-[iNethi](https://www.inethi.org.za/), Cape Town
-
-[KINBER](https://kinber.org/), Harrsiburg
-
-[Community Tech NY](http://communitytechny.org/), New York
-
-[NYC Mesh](https://www.nycmesh.net/), NYC
-
-[X-Lab](https://thexlab.org/), Washington, DC
-
-<br/>
-
-## Fiscal Sponsor
-
-[Movement Alliance Project](https://movementalliance.org/about/)
-
-<br/>
 
 ## Legal Support
 
 [Dentons, Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
+
+<br/>
 
