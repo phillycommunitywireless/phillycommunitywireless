@@ -41,9 +41,9 @@ There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Grou
 
 {{< button-custom href="https://map.phillycommunitywireless.org/" text="View Map in Fullscreen">}}
   
-This map focuses on showing the overall network architecture. Icons on the map show PhillyWisper high sites, Wi-Fi access points, routers, point-to-point equipment, and mesh nodes. Other features show connections between devices, a timeline to see our network's growth over the years, and a heatmap.
+This map shows our community network's span and structure. Icons on the map show the layers of our wireless network, including our WiFi access points that broadcast internet in public and private spaces, as well as the high sites where we access PhillyWisper's backhaul, the point-to-point radios and the routers that bring internet to people's homes. Other features on the map show connections between devices, a timeline to see our network's growth over the years, and a heatmap.
 
-Areas covered by the heatmap should have PCW signal available for a free Wi-Fi connection, but please keep in mind that it may not be accurate at street-level. If you cannot access the Wi-Fi network at a location covered by the heatmap here, you may need to walk around a street corner. Try to find the closest access point visible to ensure a good connection.
+Areas covered by the heatmap should have PCW signal available for a free Wi-Fi connection. Please keep in mind that the heatmap may not be accurate at street-level. If you cannot access the Wi-Fi network at such a location, you may need to walk around a street corner. Try to find the closest Philly Community Wireless access point visible to ensure a good connection.
 
 ## Our Headquarters
 
