@@ -5,20 +5,40 @@ title: "Air Monitoring"
 
 # Act on Air: The Philly Air Monitor Project
 
-Philly Community Wireless is partnering with other organizations around the city, including the Clean Air Council and Temple University's Geography and Urban Studies Program, to deploy Purple Air Monitors on our network. 
+Philly Community Wireless has been working since 2023 to deploy [PurpleAir monitors](https://www2.purpleair.com/) on our public network. Since 2023, we have installed a dozen air monitors in the North Philadelphia neighborhoods of Norris Square, Fairhill, and Kensington.  at several install sites around our network to provide real-time air monitoring.  
 
 # Measuring Air Quality
 
-Purple Air monitors allow residents to asses:
+[Purple air monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods. 
 
 1. If their air quality is good in their area
 2. How it compares to other parts of the city.
 
-# Purple Air Monitors
-[Purple air monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods. 
+<figure style="display: flex; align-items: center; flex-direction: column;">
+    <img src="../../assets/images/installations/airmonitors/am5.jpg"
+         alt="PurpleAir air monitor at KCT Gardens"
+         style="width: 80%; height: 50%;">
+    <figcaption>PurpleAir air monitor at KCT Gardens</figcaption>
+</figure>
 
-# Plans
+Real-time air quality data can be viewed on [PurpleAir's map](https://map.purpleair.com/). 
 
-Philly Community Wireless is installing Purple Air monitors on our network in North Philly.
+<div>
+  <iframe style="width:100%; height: 600px" src="https://map.purpleair.com/1/mAQI/a10/p604800/cC0#13.2/39.99071/-75.12142"></iframe>
+</div>
 
-PCW bought 10 air monitors and will be installing them at the Libraries and garden spaces where we've installed wifi.
+# Air Monitor Installations
+We are grateful to receive support from the EPA's Region 3 Sensor Loan Program, as well as from such organizational partners as the Clean Air Council, Temple University's Geography and Urban Studies Program, led by Prof. Christina Rosan, and Haverford College. 
+
+PCW-installed air monitors are presently at:
+
+* Cesar Andreú Iglesias Community Garden 
+* GALAEI
+* HACE - Caribe Tower
+* HACE - Somerset Villas
+* Kensington Library
+* Lillian Marrero Library
+* Multiple Residential Homes of PCW's Community
+* Norris Square Neighborhood Project
+* The Lighthouse 1893
+* West Kensington Ministry
