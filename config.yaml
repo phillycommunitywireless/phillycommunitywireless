@@ -78,28 +78,29 @@ languages:
           url: "/networklocation"
           weight: "4"
 
-     
-          - name: Docs 
+         # Docs
+        - name: Docs 
           identifier: docs
-          weight: "4"
-          - name: Docs
+          weight: "5"
+         - name: Docs
           url: https://docs.phillycommunitywireless.org/en/latest/
           params:
             external: true
           parent: docs
           weight: "1"
-          - name: Installations
+         - name: Installations
           url: "https://docs.phillycommunitywireless.org/en/latest/installations/installations/"
           params:
             external: true
           parent: docs
           weight: "2"
-            - name: Mesh networks
+         - name: Mesh networks
           url: "hhttps://docs.phillycommunitywireless.org/en/latest/installations/wirelessmesh/"
           params:
             external: true
           parent: support
           weight: "3"
+          
     weight: "1"
     params:
       featured_text:
