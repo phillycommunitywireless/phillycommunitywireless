@@ -83,7 +83,7 @@ languages:
           identifier: docs
           weight: "5"
          - name: Docs
-          url: https://docs.phillycommunitywireless.org/en/latest/
+          url: "https://docs.phillycommunitywireless.org/en/latest/"
           params:
             external: true
           parent: docs
