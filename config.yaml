@@ -88,17 +88,17 @@ languages:
             external: true
           parent: docs
           weight: "1"
-         - name: Installations
+         - name: Installations Overview
           url: "https://docs.phillycommunitywireless.org/en/latest/installations/installations/"
           params:
             external: true
           parent: docs
           weight: "2"
-         - name: Mesh networks
-          url: "hhttps://docs.phillycommunitywireless.org/en/latest/installations/wirelessmesh/"
+         - name: Troubleshooting
+          url: "https://docs.phillycommunitywireless.org/en/latest/device-configuration/troubleshoot-devices/"
           params:
             external: true
-          parent: support
+          parent: docs
           weight: "3"
           
     weight: "1"
