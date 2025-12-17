@@ -82,19 +82,19 @@ languages:
         - name: Docs 
           identifier: Docs
           weight: "5"
-         - name: Docs
+        - name: Docs
           url: "https://docs.phillycommunitywireless.org/en/latest/"
           params:
             external: true
           parent: Docs
           weight: "1"
-         - name: Installations Overview
+        - name: Installations Overview
           url: "https://docs.phillycommunitywireless.org/en/latest/installations/installations/"
           params:
             external: true
           parent: Docs
           weight: "2"
-         - name: Troubleshooting
+        - name: Troubleshooting
           url: "https://docs.phillycommunitywireless.org/en/latest/device-configuration/troubleshoot-devices/"
           params:
             external: true
