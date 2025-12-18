@@ -73,10 +73,22 @@ languages:
           parent: about-us
           weight: "6"
      
-
+          # Location
         - name: Location
-          url: "/networklocation"
+          identifier: Location
           weight: "4"
+        - name: Network Location
+          url: "/networklocation"
+          parent: Location
+          weight: "1"
+        - name: HQ Location
+          url: "/location"
+          parent: Location
+          weight: "2"
+        - name: Air Monitors
+          url: "/airmonitor"
+          parent: Location
+          weight: "3"
 
          # Docs
         - name: Docs 
@@ -88,7 +100,7 @@ languages:
             external: true
           parent: Docs
           weight: "1"
-        - name: Installations Overview
+        - name: Installations
           url: "https://docs.phillycommunitywireless.org/en/latest/installations/installations/"
           params:
             external: true
