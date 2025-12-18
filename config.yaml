@@ -166,15 +166,15 @@ languages:
         - name: Fundadores
           url: "/about/funders"
           parent: about-us
-          weight: "3"
+          weight: "4"
         - name: Novedades
           url: "/about/news"
           parent: about-us
-          weight: "4"
+          weight: "5"
         - name: Preguntas Frecuentes
           url: "/about/faq"
           parent: about-us
-          weight: "5"
+          weight: "6"
 
         - name: Navegacion 
           identifier: location
@@ -191,7 +191,7 @@ languages:
         - name: Documentos 
           identifier: documentos
           weight: "5"
-        - name: Insalacion
+        - name: Instalacion
           url: https://docs.phillycommunitywireless.org/es/latest/Instalaci%C3%B3ndeantenas/
           params:
             external: true
