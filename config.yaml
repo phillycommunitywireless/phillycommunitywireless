@@ -73,16 +73,46 @@ languages:
           parent: about-us
           weight: "6"
      
-
+          # Location
         - name: Location
-          url: "/networklocation"
+          identifier: Location
           weight: "4"
+        - name: Network Location
+          url: "/networklocation"
+          parent: Location
+          weight: "1"
+        - name: HQ Location
+          url: "/location"
+          parent: Location
+          weight: "2"
+        - name: Air Monitors
+          url: "/airmonitor"
+          parent: Location
+          weight: "3"
 
+         # Docs
+        - name: Docs 
+          identifier: Docs
+          weight: "5"
         - name: Docs
-          url: https://docs.phillycommunitywireless.org/en/latest/
+          url: "https://docs.phillycommunitywireless.org/en/latest/"
           params:
             external: true
-          weight: "9"
+          parent: Docs
+          weight: "1"
+        - name: Installations
+          url: "https://docs.phillycommunitywireless.org/en/latest/installations/installations/"
+          params:
+            external: true
+          parent: Docs
+          weight: "2"
+        - name: Troubleshooting
+          url: "https://docs.phillycommunitywireless.org/en/latest/device-configuration/troubleshoot-devices/"
+          params:
+            external: true
+          parent: Docs
+          weight: "3"
+          
     weight: "1"
     params:
       featured_text:
@@ -107,10 +137,6 @@ languages:
           url: "/volunteer"
           parent: get-connected
           weight: "2"
-        # - name: Network Updates # should be deleted
-        #   url: "/networkupdates"
-        #   parent: get-connected
-        #   weight: "3"
 
         - name: Donar
           url: https://phillycommunitywireless.allyrafundraising.com/

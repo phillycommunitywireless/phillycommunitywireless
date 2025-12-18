@@ -4,14 +4,8 @@ title: "People"
 layout: "people/people"
 aliases:
     # old people link
-    - /people 
-    # former staff
-    - /allang
-    - /allang/
-    - /about/people/allang
-    - /dylanh
-    - /dylanh/
-
+    - /people
+ 
 ---
 
 # PCW Project Team
@@ -43,7 +37,7 @@ Francisco Oquendo
 
 <br/>
 
-## Board of Directors
+## Board of Advisors
 
 Will Dean \
 _Research and Data Services Librarian, Temple University Libraries_
@@ -100,4 +94,3 @@ Dan Feder \
 _Software Engineer_ 
 
 <br/>
-
