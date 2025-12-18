@@ -163,6 +163,10 @@ languages:
           url: "/about/partners"
           parent: about-us
           weight: "3"
+        - name: Fundadores
+          url: "/about/funders"
+          parent: about-us
+          weight: "3"
         - name: Novedades
           url: "/about/news"
           parent: about-us
