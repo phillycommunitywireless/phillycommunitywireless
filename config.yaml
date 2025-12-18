@@ -126,7 +126,7 @@ languages:
     contentDir: content/es
     menu:
       main:
-        - name: Conéctate 
+        - name: Programmes 
           identifier: get-connected
           weight: "1"
         - name: Conéctate
@@ -138,12 +138,16 @@ languages:
           parent: get-connected
           weight: "2"
 
+        - name: Donar 
+          identifier: donar
+          weight: "2"
         - name: Donar
           url: https://phillycommunitywireless.allyrafundraising.com/
           params:
             external: true
+          parent: donar
           weight: "2"
-      
+    
         - name: Acerca 
           identifier: about-us
           weight: "3"
@@ -151,9 +155,6 @@ languages:
           url: "/about"
           parent: about-us
           weight: "1"
-        - name: Novedades
-          url: "/about/news"
-          parent: about-us
         - name: Equipo
           url: "/about/people" 
           parent: about-us
@@ -166,10 +167,14 @@ languages:
           url: "/about/location"
           parent: about-us
           weight: "4"
+        - name: Novedades
+          url: "/about/news"
+          parent: about-us
+          weight: "5"
         - name: Preguntas Frecuentes
           url: "/about/faq"
           parent: about-us
-          weight: "5"
+          weight: "6"
 
         - name: Navegacion
           url: "/networkmap"
