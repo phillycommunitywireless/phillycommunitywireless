@@ -146,7 +146,7 @@ languages:
           params:
             external: true
           parent: donar
-          weight: "2"
+          weight: "1"
     
         - name: Acerca 
           identifier: about-us
@@ -178,17 +178,27 @@ languages:
         - name: Navegacion
           url: "/networkmap"
           parent: location
-          weight: "4"
+          weight: "2"
         - name: Cómo llegar aquí
           url: "/about/location"
           parent: location
-          weight: "4"
+          weight: "1"
 
-        - name: Documentos
-          url: https://docs.phillycommunitywireless.org/es/latest/
+        - name: Documentos 
+          identifier: documentos
+          weight: "5"
+        - name: Insalacion
+          url: https://docs.phillycommunitywireless.org/es/latest/Instalaci%C3%B3ndeantenas/
           params:
             external: true
-          weight: "9"
+          parent: documentos
+          weight: "1"
+        - name: Recursos
+          url: https://docs.phillycommunitywireless.org/es/latest/recursos/
+          params:
+            external: true
+          parent: documentos
+          weight: "2"
     weight: "2"
     params:
       featured_text:
