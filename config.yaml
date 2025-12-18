@@ -163,21 +163,25 @@ languages:
           url: "/about/partners"
           parent: about-us
           weight: "3"
-        - name: Cómo llegar aquí
-          url: "/about/location"
-          parent: about-us
-          weight: "4"
         - name: Novedades
           url: "/about/news"
           parent: about-us
-          weight: "5"
+          weight: "4"
         - name: Preguntas Frecuentes
           url: "/about/faq"
           parent: about-us
-          weight: "6"
+          weight: "5"
 
+        - name: Navegacion 
+          identifier: location
+          weight: "4"
         - name: Navegacion
           url: "/networkmap"
+          parent: location
+          weight: "4"
+        - name: Cómo llegar aquí
+          url: "/about/location"
+          parent: location
           weight: "4"
 
         - name: Documentos
