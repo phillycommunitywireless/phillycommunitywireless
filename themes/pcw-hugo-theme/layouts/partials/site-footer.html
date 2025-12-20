@@ -11,15 +11,6 @@
       <span class="flex-1 self-center">
         &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
         <br />
-        <span class="f5">
-          {{ with .Site.Params.attribution }}
-          {{ $name := .name | safeHTML }}
-          Site by
-          {{ if (isset . "link") }} <a target="_blank" href="{{ .link }}">{{ $name }}</a>
-          {{else}} {{$name}}
-          {{end}}
-          {{ end }}
-        </span>
       </span>
 
     </span>
