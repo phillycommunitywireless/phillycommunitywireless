@@ -4,164 +4,93 @@ title: "People"
 layout: "people/people"
 aliases:
     # old people link
-    - /people 
-    # former staff
-    - /allang
-    - /allang/
-    - /about/people/allang
-    - /dylanh
-    - /dylanh/
-
-
+    - /people
+ 
 ---
 
-{{< fa hands-helping >}} = organizer \
-{{< fa cogs >}} = technologist \
-{{< fa graduation-cap >}} = teacher \
-{{< fa vial >}} = researcher
+# PCW Project Team
 
 ## Staff
 
 **Executive Director**  
-[Alex Wermer-Colan](alexwc) {{< fa cogs >}}{{< fa vial >}}  
+[Alex Wermer-Colan](alexwc)
 alex@phillycommunitywireless.org
   
 **Community Outreach Manager**     
-[Leanne Przybylowski](leannep) {{< fa hands-helping >}}  
+[Leanne Przybylowski](leannep) 
 leanne@phillycommunitywireless.org  
 
 **Technician**  
-[Eugene Ryoo](eugener) {{< fa cogs >}}  
+[Eugene Ryoo](eugener)
 eugene@phillycommunitywireless.org  
 
 **Installer**  
-[Zoe Kerrich](zoek) {{< fa cogs >}}  
+[Zoe Kerrich](zoek) 
 zoe@phillycommunitywireless.org  
 
 **Content Coordinator**  
-[Chris Mehretab](chrism) {{< fa hands-helping >}}  
+[Chris Mehretab](chrism)
 chris@phillycommunitywireless.org  
 
 **UTP Apprentice**  
-Francisco Oquendo {{< fa cogs >}}{{< fa hands-helping >}}  
+Francisco Oquendo
 
 <br/>
 
-## Board of Directors
+## Board of Advisors
 
-Will Dean {{< fa cogs >}} \
+Will Dean \
 _Research and Data Services Librarian, Temple University Libraries_
 
-Jonathan Latko {{< fa cogs >}} \
+Jonathan Latko \
 _Assistant Vice President of Business Operations, Information Technology Services, Temple University_
 
-Jessa Lingel {{< fa vial >}}{{< fa graduation-cap >}} \
+Jessa Lingel \
 _Associate Professor, Annenberg School for Communication, University of Pennsylvania_
 
-Rev. Michael A. Major {{< fa hands-helping >}} \
+Rev. Michael A. Major \
 _Reverend, Zion Baptist Ministry; Board President, Called to Serve CDC_
 
-Sascha Meinrath {{< fa vial >}} \
+Sascha Meinrath \
 _Palmer Chair in Telecommunications, Bellisario College of Communications, Pennsylvania State University_
 
-Stasia Monteiro {{< fa hands-helping >}} \
+Stasia Monteiro \
 _NAC Program Director, HACE_
 
-Mark Steckel {{< fa cogs >}} \
+Mark Steckel \
 _CEO, PhillyWisper_
 
-Devren Washington {{< fa hands-helping >}} \
+Devren Washington \
 _Organizing Director, People's Tech Project_
 
-Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
+Heather Lewis-Weber \
 _Director of Community Engagement, Temple University, College of Liberal Arts_
 
-Grant Wythoff {{< fa vial >}} \
+Grant Wythoff \
 _Digital Humanities Strategist, Center for Digital Humanities at Princeton University_
 
 <br/>
 
 ## Technical Advisory Board
-Dylan Hutchinson {{< fa cogs >}} \
+Dylan Hutchinson \
 _IT Engineer_
 
-John Center {{< fa cogs >}} \
+John Center \
 _Retired Networking Engineer_
 
-Felipe Valdez {{< fa cogs >}} \
+Felipe Valdez \
 _GIS Specialist, Temple University Libraries_  
 
-Dan Zygmund-Felt {{< fa cogs >}} \
+Dan Zygmund-Felt \
 _Software Engineer_  
 
-David Berman {{< fa vial >}} \
+David Berman \
 _Assistant Professor, Seton Hall University_  
 
-Jonathan Caicedo {{< fa vial >}} \
+Jonathan Caicedo \
 _Software Engineer_ 
 
-Dan Feder {{< fa vial >}} \
+Dan Feder \
 _Software Engineer_ 
 
 <br/>
-
-## Graphic Design
-
-Katie Garth
-
-<br/>
-
-## Video Production 
-
-Eli Laban, *Big Picture Alliance*
-
-<br/>
-
-## Former Staff
-
-Dylan Hutchinson, Former Installer  
-
-Mir Detre, Former Technician  
-
-Allan Gomez, Former Systems Administrator 
-
-<br/>
-
-
-## Former Volunteer Leads  
-
-Addie Barron, Former Tech Lead and Web Designer
-
-Kate Goodman, Former Outreach Lead  
-
-Heather Lewis-Weber, Former Outreach Lead  
-
-<br/>
-
-
-## Former Interns
-Francisco Oquendo, Urban Technology Project, 2024  
-
-Isaiah Weakes, Carnegie Mellon University, 2023
-
-Megha Govindu, University of Pennsylvania, 2023
-
-Tejas Gupta, Princeton University, 2020
-
-Amber Whetstone, Temple University (now at Cornell University), 2021
-
-Chris Mehretab, Temple University, 2021
-
-Sarah Fingerhood, University of Pennsylvania, 2021
-
-Anika Prakash, University of Pennsylvania, 2021
-
-<br/>
-
-
-## Legal Support
-
-[Dentons, Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
-
-<br/>
-
