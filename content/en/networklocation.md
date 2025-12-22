@@ -35,7 +35,7 @@ There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Grou
 
 ---
 
-## [Philly Community Wireless Wi-Fi Coverage Map](https://map.phillycommunitywireless.org/)
+<!-- ## [Philly Community Wireless Wi-Fi Coverage Map](https://map.phillycommunitywireless.org/) -->
 
 <iframe title="Philly Community Wireless network-hardware deployment map" role="img" aria-label="A map showing currently installed Philly Community Wireless network infrastructure, centered on Norris Square Park."src="https://map.phillycommunitywireless.org/" width="100%" height="400"/></iframe>
 
