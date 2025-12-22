@@ -126,7 +126,7 @@ languages:
     contentDir: content/es
     menu:
       main:
-        - name: Conéctate 
+        - name: Programmes 
           identifier: get-connected
           weight: "1"
         - name: Conéctate
@@ -138,12 +138,16 @@ languages:
           parent: get-connected
           weight: "2"
 
+        - name: Donar 
+          identifier: donar
+          weight: "2"
         - name: Donar
           url: https://phillycommunitywireless.allyrafundraising.com/
           params:
             external: true
-          weight: "2"
-      
+          parent: donar
+          weight: "1"
+    
         - name: Acerca 
           identifier: about-us
           weight: "3"
@@ -151,9 +155,6 @@ languages:
           url: "/about"
           parent: about-us
           weight: "1"
-        - name: Novedades
-          url: "/about/news"
-          parent: about-us
         - name: Equipo
           url: "/about/people" 
           parent: about-us
@@ -162,24 +163,46 @@ languages:
           url: "/about/partners"
           parent: about-us
           weight: "3"
-        - name: Cómo llegar aquí
-          url: "/about/location"
+        - name: Fundadores
+          url: "/about/funders"
           parent: about-us
           weight: "4"
+        - name: Novedades
+          url: "/about/news"
+          parent: about-us
+          weight: "5"
         - name: Preguntas Frecuentes
           url: "/about/faq"
           parent: about-us
-          weight: "5"
+          weight: "6"
 
+        - name: Navegacion 
+          identifier: location
+          weight: "4"
         - name: Navegacion
           url: "/networkmap"
-          weight: "4"
+          parent: location
+          weight: "2"
+        - name: Cómo llegar aquí
+          url: "/about/location"
+          parent: location
+          weight: "1"
 
-        - name: Documentos
-          url: https://docs.phillycommunitywireless.org/es/latest/
+        - name: Documentos 
+          identifier: documentos
+          weight: "5"
+        - name: Instalacion
+          url: https://docs.phillycommunitywireless.org/es/latest/Instalaci%C3%B3ndeantenas/
           params:
             external: true
-          weight: "9"
+          parent: documentos
+          weight: "1"
+        - name: Recursos
+          url: https://docs.phillycommunitywireless.org/es/latest/recursos/
+          params:
+            external: true
+          parent: documentos
+          weight: "2"
     weight: "2"
     params:
       featured_text:
