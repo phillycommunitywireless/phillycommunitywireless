@@ -1,8 +1,7 @@
 {{/* Include CSS for fonts here since this is HTML, not a markdown template */}}.
 <link href="/fontawesome/css/all.min.css" rel="stylesheet">
 
-<footer class="pv2 ph3 ph5-m ph6-l bg-black-80 bg-white bt"
-  role="contentinfo">
+<footer class="pv2 ph3 ph5-m ph6-l bg-white bt {{ .Site.Params.background_color_class | default }}" role="contentinfo">
   <div class="flex f4 p2 m-footer justify-between">
     <span class="self-center" style="margin-right: 2vw" id="footer-logo">
       <a class="f3 fw2 hover-white no-underline white flex items-center" href="{{ .Site.Home.RelPermalink }}">
@@ -12,15 +11,6 @@
       <span class="flex-1 self-center">
         &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
         <br />
-        <span class="f5">
-          {{ with .Site.Params.attribution }}
-          {{ $name := .name | safeHTML }}
-          Site by
-          {{ if (isset . "link") }} <a target="_blank" href="{{ .link }}">{{ $name }}</a>
-          {{else}} {{$name}}
-          {{end}}
-          {{ end }}
-        </span>
       </span>
 
     </span>
@@ -61,32 +51,24 @@
       </li>
     </ul>
 
+    <!-- Location, Contact, FAQ -->
     <div class="flex m-footer">
       <ul class="list db pl0 pr4-l">
         <li class="pb2">
-          Located at <a class="pb0" href="http://myneighborhoodproject.org/">NSNP</a>
-        </li>
-
-        <li class="pb2">
-          <p class="mt0">
-            <span class="fa-solid fa-location-arrow"></span>
-            2141 N Howard Street
-          </p>
-        </li>
-
-        <li class="pb2">
-          <span class="db">
-            Email us at <a class="" href="mailto:info@phillycommunitywireless.org">info@phillycommunitywireless.org</a>
-          </span>
-        </li>
-
-        <li class="pb2">
-          <div style="max-width: 300px;">
-            {{ partial "segments/newsletter.html" . }}
-          </div>
+          <a href="/networklocation" title="">
+            Location
+          </a>
+        </li>   
+         <li class="pb2">
+          <a href="/faq" title="">
+            FAQ
+          </a>
         </li>
       </ul>
+    </div>
 
+    <!-- Legal -->
+    <div class="flex m-footer">
       <ul class="list db pl0 pr4-l">
         <li class="pb2">
           <a href="/code-of-conduct" title="Code of Conduct">

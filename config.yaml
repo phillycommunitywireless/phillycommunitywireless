@@ -216,7 +216,7 @@ params:
   site_logo: "/images/WebLogo_Standard2.svg"
   site_logo_inverted: "/images/WebLogo_Inverted2.svg"
   attribution:
-    name: Addie Barron
+    name: Addie Barron, and mamy volunteers
     link: https://addieis.online
   featured_image:
     src: "/images/Iglesias_AP_Equipment.jpg"
@@ -226,7 +226,7 @@ params:
     class: "opos-70p" 
   featured_text:
     header: "/images/WebLogo_Standard.svg"
-  background_color_class: bg-near-white black-60
+  background_color_class: black-60
   body_classes: calibre black
   custom_css:
     - colors.css
