@@ -61,7 +61,7 @@ segments:
     text: "Our community wireless network currently exists in North Philadelphia, with a focus on **Norris Square, Fairhill, and Kensington**. If you live in the 19122, 19133, or 19134 zip codes, reach out! Check out our map for more details on where you can find us and get connected."
     link:
       text: Where We Are 
-      href: /networkmap
+      href: /networklocation
     class: bg-light-gray
 
   # Video embed
