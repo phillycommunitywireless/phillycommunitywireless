@@ -34,11 +34,10 @@ segments:
       button_text: "Que hacemos"
       button_href: "/es/about/"
       # no_button_arrow: "true"
-
     class: bg-light-gray
 
   - template: call-to-action-map
-    text: "Nuestra red inalámbrica comunitaria existe actualmente en el norte de Filadelfia, centrada en **Norris Square, Fairhill y Kensington**. Si vives en los códigos postales 19122, 19133 o 19134, ¡ponte en contacto con nosotros! Consulta nuestro mapa para obtener más detalles sobre dónde puedes encontrarnos y conectarte.
+    text: "Nuestra red inalámbrica comunitaria existe actualmente en el norte de Filadelfia, centrada en **Norris Square, Fairhill y Kensington**. Si vives en los códigos postales 19122, 19133 o 19134, ¡ponte en contacto con nosotros! Consulta nuestro mapa para obtener más detalles sobre dónde puedes encontrarnos y conectarte."
     link:
       text: Donde estamos
       href: /networklocation
