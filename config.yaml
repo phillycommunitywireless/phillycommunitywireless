@@ -126,28 +126,39 @@ languages:
     contentDir: content/es
     menu:
       main:
-        - name: Programmes 
-          identifier: get-connected
+
+          # Programas
+        - name: Programas
+          identifier: Programas
           weight: "1"
         - name: Conéctate
           url: "/getconnected"
-          parent: get-connected
+          parent: Programas
           weight: "1"
-        - name: Voluntario
+        - name: Ser voluntario
           url: "/volunteer"
-          parent: get-connected
-          weight: "2"
+          parent: Programas
+          weight: "2"  
 
-        - name: Donar 
-          identifier: donar
+          # Apóyanos
+        - name: Apóyanos
+          identifier: Apóyanos
           weight: "2"
-        - name: Donar
-          url: https://phillycommunitywireless.allyrafundraising.com/
+        - name: Donaciones
+          url: "https://phillycommunitywireless.allyrafundraising.com/"
           params:
             external: true
-          parent: donar
+          parent: Apóyanos
+          weight: "3"
+        - name: Artículos en venta
+          url: "/merch"
+          parent: Apóyanos
+          weight: "2"
+        - name: Cómo apoyarnos
+          url: "/support"
+          parent: Apóyanos
           weight: "1"
-    
+
         - name: Acerca 
           identifier: about-us
           weight: "3"
