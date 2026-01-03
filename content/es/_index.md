@@ -5,17 +5,17 @@ title: Home
 # For the supported segment templates and required params, see README.md#segments
 segments:
   - template: three-button-call-to-action
-    title: "Únete a nosotros para crear acceso a Internet para todos."
+    title: "Únete para crear acceso a Internet para todos."
     sections:
       - photo: "/images/IMG_6878.jpg"
         photo_alt_text: "Un dispositivo de punto de acceso blanco en un poste con el cielo de fondo."
         text: "**¡Conéctate!** Únate a nuestra red y utilice nuestro servicio Wi-Fi en su hogar, organización o espacio verde local."
-        button_text: Nuestro Wi-Fi 
+        button_text: Nuestro wi-fi 
         button_href: "/es/getconnected"
       - photo: "/images/pcwvolunteers.png"
         photo_alt_text: "7 personas con camisetas a juego de PCW posando para una foto en una acera."
         text: "**¡Participa!** Ofrece tu ayuda como voluntario para construir nuestras redes de Internet, aprender nuevas habilidades y marcar la diferencia en nuestra comunidad."
-        button_text: Hazte Voluntario
+        button_text: Hazte voluntario
         button_href: "/es/volunteer"
         button_class: "bg-pcw-salmon"
       - photo: "/images/web updates/Signage_Collazo.jpg"
