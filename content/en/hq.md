@@ -1,6 +1,6 @@
 ---
 date: 2023-10-18
-title: "Location"
+title: "PCW Headquarters"
 layout: "single"
 aliases:
     - /location
