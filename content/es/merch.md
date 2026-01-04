@@ -56,7 +56,7 @@ segments:
 
       - photo: "/images/merch/pcw-tote-hat-shirt.jpg"
         photo_alt_text: "Tres artículos, una bolsa grande de color beige con el logotipo de PCW y la inscripción PhillyCommunityWireless.org; una gorra de color azul violáceo con el logotipo de PCW, una campana con una señal Wi-Fi en la parte delantera; y una camiseta con una pequeña campana y las palabras Philly Community Wireless en la parte izquierda del pecho."
-        item_name: Paquete de todo, bolsa tote + gorra + t-shirt
+        item_name: Paquete de todo - bolsa tote + gorra + t-shirt
         item_caption: ¡Conviértete en estilista de PCW y represéntanos con todos los estilos disponibles!
         item_price: $78
         button_text: Comprar
