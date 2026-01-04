@@ -1,14 +1,12 @@
 ---
 date: 2024-07-01
-title: "People"
+title: "Our Team"
 layout: "people/people"
 aliases:
     # old people link
     - /people
  
 ---
-
-# PCW Project Team
 
 ## Staff
 

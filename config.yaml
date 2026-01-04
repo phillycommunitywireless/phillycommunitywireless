@@ -77,12 +77,12 @@ languages:
         - name: Location
           identifier: Location
           weight: "4"
-        - name: Network Location
-          url: "/networklocation"
+        - name: Network Map
+          url: "/networkmap"
           parent: Location
           weight: "1"
         - name: HQ Location
-          url: "/location"
+          url: "/hq"
           parent: Location
           weight: "2"
         - name: Air Monitors
