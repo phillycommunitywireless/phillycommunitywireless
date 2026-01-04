@@ -10,7 +10,7 @@ segments:
       - photo: "/images/IMG_6878.jpg"
         photo_alt_text: "Un dispositivo de punto de acceso blanco en un poste con el cielo de fondo."
         text: "**¡Conéctate!** Únate a nuestra red y utilice nuestro servicio Wi-Fi en su hogar, organización o espacio verde local."
-        button_text: Nuestro wi-fi 
+        button_text: Nuestro Wi-Fi 
         button_href: "/es/getconnected"
       - photo: "/images/pcwvolunteers.png"
         photo_alt_text: "7 personas con camisetas a juego de PCW posando para una foto en una acera."
@@ -20,7 +20,7 @@ segments:
         button_class: "bg-pcw-salmon"
       - photo: "/images/web updates/Signage_Collazo.jpg"
         photo_alt_text: "Un cartel de PCW con el mensaje Wifi gratuito disponible aquí la información de contacto de PCW y los logotipos de las organizaciones asociadas."
-        text: "**¡Apóyanos!** Apoye nuestro trabajo para proporcionar acceso esencial a Internet a personas y familias de Filadelfia."
+        text: "**¡Apóyanos!** Apoya nuestro trabajo para proporcionar acceso esencial a Internet a personas y familias de Filadelfia."
         button_text: Apóyanos
         button_href: "/support"
         button_class: "bg-pcw-lilac"
