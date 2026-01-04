@@ -1,64 +1,15 @@
 ---
 date: 2024-04-02
-title: "Navegacion"
+title: "Ubicación de la red PCW"
+
 ---
 
-## Mapa de la cobertura de Philly Community Wireless
+<!-- ## [Philly Community Wireless Wi-Fi Coverage Map](https://map.phillycommunitywireless.org/) -->
 
-Para ver el mapa en pantalla completa, visite esta [página web](https://map.phillycommunitywireless.org/). 
+<iframe title="Philly Community Wireless network-hardware deployment map" role="img" aria-label="Un mapa que muestra la infraestructura de la red Philly Community Wireless actualmente instalada, centrada en Norris Square Park."src="https://map.phillycommunitywireless.org/" width="100%" height="400"/></iframe>
 
-<iframe title="Mapa de implementación de hardware de red inalámbrica comunitaria de Filadelfia" role="img" aria-label="Un mapa que muestra la infraestructura de red inalámbrica comunitaria de Filadelfia actualmente instalada, centrada en Norris Square Park." src="https://map.phillycommunitywireless.org/" width="100%" height="400"/></iframe>
+{{< button-custom href="https://map.phillycommunitywireless.org/" text="Ver mapa en pantalla completa">}}
   
-Cualquier área cubierta por el mapa de calor debe tener señal PCW disponible para una conexión wifi gratuita. Tenga en cuenta que el mapa de calor no es preciso a nivel de calle, y si no puede acceder a la red wifi en un espacio determinado de la ciudad, es posible que deba caminar por una esquina. Trate de encontrar el punto de acceso visible más cercano para garantizar una buena conexión.
+Este mapa muestra el alcance y la estructura de nuestra red comunitaria. Los iconos del mapa muestran las capas de nuestra red inalámbrica, incluidos nuestros puntos de acceso WiFi que transmiten Internet en espacios públicos y privados, así como los sitios elevados desde donde accedemos al backhaul de PhillyWisper, las radios punto a punto y los enrutadores que llevan Internet a los hogares de las personas. Otras características del mapa muestran las conexiones entre dispositivos, una línea de tiempo para ver el crecimiento de nuestra red a lo largo de los años y un mapa de calor.
 
-## Actualizaciones de la red
-
-PCW está instalando regularmente centros adicionales en el norte de Filadelfia. A continuación puede ver la información de seguimiento de algunas de nuestras grandes instalaciones en varias etapas de planificación e implementación
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [New Kensington CDC](https://nkcdc.org)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Zion Baptist Ministry](https://www.zionbaptphilly.org)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Taller Puertoriqueno](https://tallerpr.org/)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [HACE at Allegheny](https://www.hacecdc.org/)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Kensington Corridor Trust Community Garden](https://kctphilly.org/)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Prevention Point](https://ppponline.org/)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">installed</span> [Lillian Merrero branch of Free Library of Philadelphia](https://libwww.freelibrary.org/locations/lillian-marrero-library)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Xiente](https://www.xiente.org/)  Children's Center  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Xiente](https://www.xiente.org/) St. Boniface School  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Cesar Andreu Iglesias Gardens](https://iglesiasgardens.com/)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Clay Studio](https://www.theclaystudio.org/)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [GALAEI](https://www.galaeiqtbipoc.org/)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Kensington branch of Free Library of Philadelphia](https://libwww.freelibrary.org/locations/kensington-library)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Xiente](https://www.xiente.org/) multidwelling buildings  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Las Parcelas and Colobo Gardens](https://www.philaplace.org/story/349/)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Norris Square Park](https://www.tclf.org/landscapes/norris-square-park)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [Norris Square Neighborhood Project](https://myneighborhoodproject.org/)  
-
-<span class="bg-gold black ph2 pv1 br3 small-caps">instalado</span> [West Kensington Ministries](https://westkensingtonministry.com/)  
-
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">planeando una instalación</span> [Open Kitchen Sculpture Garden](https://theopenkitchensculpturegarden.com/)  
-
-<span class="bg-yellow dark-gray ph2 pv1 br3 small-caps">planeando una instalación</span> [Hace at Rafael Porrata-Doria Place](https://www.hacecdc.org/)  
-
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">en conversación</span> Urban Creators Life Do Grow Farms
-
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">en conversación</span> Impact Services
-
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">en conversación</span> Village of the Arts and Humanities
-
-<span class="bg-light-yellow near-black ph2 pv1 br3 small-caps">en conversación</span> Temple University Main Campus and Hospital
+Las áreas cubiertas por el mapa de calor deben tener señal PCW disponible para una conexión Wi-Fi gratuita. Tengas en cuenta que es posible que el mapa de calor no sea preciso a nivel de calle. Si no puedes acceder a la red Wi-Fi en dicha ubicación, es posible que debas caminar hasta la esquina de la calle. Intentas encontrar el punto de acceso Philly Community Wireless más cercano visible para garantizar una buena conexión.
