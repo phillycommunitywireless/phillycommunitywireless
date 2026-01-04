@@ -56,6 +56,16 @@
   </url><url>
     <loc>https://phillycommunitywireless.org/es/networkmap/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/networkmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/networkmap/"
+                />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/about/faq/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
@@ -98,16 +108,6 @@
   </url><url>
     <loc>https://phillycommunitywireless.org/es/about/location/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/about/location/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/about/location/"
-                />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/about/people/eugener/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>

@@ -58,10 +58,10 @@ Having internet access is essential to take part in everyday opportunities and a
     
     <item>
       <title>Network Location</title>
-      <link>https://phillycommunitywireless.org/networklocation/</link>
+      <link>https://phillycommunitywireless.org/networkmap/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://phillycommunitywireless.org/networklocation/</guid>
+      <guid>https://phillycommunitywireless.org/networkmap/</guid>
       <description>View Map in Fullscreen This map shows our community network&amp;rsquo;s span and structure. Icons on the map show the layers of our wireless network, including our WiFi access points that broadcast internet in public and private spaces, as well as the high sites where we access PhillyWisper&amp;rsquo;s backhaul, the point-to-point radios and the routers that bring internet to people&amp;rsquo;s homes. Other features on the map show connections between devices, a timeline to see our network&amp;rsquo;s growth over the years, and a heatmap.</description>
     </item>
     
@@ -102,16 +102,6 @@ Having internet access is essential to take part in everyday opportunities and a
     </item>
     
     <item>
-      <title>Location</title>
-      <link>https://phillycommunitywireless.org/about/location/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/about/location/</guid>
-      <description>Philly Community Wireless’s headquarters is located at the Norris Square Neighborhood Project (NSNP), at 2141 N Howard St. We are on the east side of Norris Square Park.
-If you are looking for information about where our free Wi-Fi network is located, please visit our live map.</description>
-    </item>
-    
-    <item>
       <title>News</title>
       <link>https://phillycommunitywireless.org/about/news/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
@@ -126,13 +116,23 @@ Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of 
     </item>
     
     <item>
+      <title>PCW Headquarters</title>
+      <link>https://phillycommunitywireless.org/hq/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/hq/</guid>
+      <description>Philly Community Wireless’s headquarters is located at the Norris Square Neighborhood Project (NSNP), at 2141 N Howard St. We are on the east side of Norris Square Park.
+If you are looking for information about where our free Wi-Fi network is located, please visit our live map.</description>
+    </item>
+    
+    <item>
       <title>Air Monitoring</title>
       <link>https://phillycommunitywireless.org/airmonitor/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/airmonitor/</guid>
-      <description>Act on Air: The Philly Air Monitor Project Philly Community Wireless has been working since 2023 to deploy PurpleAir monitors on our public network. Since 2023, we have installed a dozen air monitors in the North Philadelphia neighborhoods of Norris Square, Fairhill, and Kensington. at several install sites around our network to provide real-time air monitoring.
-Measuring Air Quality Purple air monitors enable communities to engage in citizen science around pollution in their neighborhoods.</description>
+      <description>Act on Air: The Philly Air Monitor Project Philly Community Wireless has been working since 2023 to deploy PurpleAir monitors on our public network. Since 2023, we have installed over a dozen air monitors in the North Philadelphia neighborhoods of Norris Square, Fairhill, and Kensington at several install sites around our network to provide real-time air monitoring.
+Measuring Air Quality Purple air monitors enable communities to engage in citizen science around pollution in their neighborhoods, helping folks understand:</description>
     </item>
     
     <item>
