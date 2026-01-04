@@ -28,7 +28,7 @@ Si está interesado en participar, rellene nuestro [formulario de inscripción p
         Muchos de nosotros estamos aprendiendo estas habilidades, por lo que, si son nuevas para ti, recibirás formación en un entorno colaborativo. Si tienes experiencia, agradecemos tus conocimientos y tu apoyo en la formación.
         
         
-        Estas son algunas de las áreas de habilidades relevantes para nuestro trabajo:
+        ## Estas son algunas de las áreas de habilidades relevantes para nuestro trabajo:
 
         * Instalación: acceso a tejados, subir escaleras, perforar ladrillos, fijar cables
 
@@ -45,7 +45,7 @@ Si está interesado en participar, rellene nuestro [formulario de inscripción p
         * Documentación técnica
         "
     right:
-        title: "Comunicación y participación comunitaria"
+        title: "Participación comunitaria"
         text: "
         Ofrece tus servicios como voluntario para realizar tareas de comunicación y participación comunitaria con PCW, lo que incluye participar en eventos comunitarios, hacer campaña y repartir volantes, marketing y diseño gráfico, entre otras cosas. Si hablas español, agradeceremos tu apoyo con las traducciones y la participación comunitaria en general.
 
