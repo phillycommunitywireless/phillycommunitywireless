@@ -5,6 +5,31 @@
 {{ $button_name := default "Submit" (index $params 1 | default nil) }}
 {{ $redirect := index $params 2 | default "" }}
 
+<div id="form-success"
+    style="position: fixed; top: 0;; width: 100%"
+     class="dn bg-washed-green dark-green pa3 br2 mb3 justify-between items-start">
+  <span>✅ Thanks! Your message has been sent.</span>
+  <button class="bn bg-transparent pointer"
+          onclick="this.parentElement.remove()"
+          aria-label="Dismiss">
+    ×
+  </button>
+</div>
+
+<script>
+    (function () {
+        var params = new URLSearchParams(window.location.search)
+
+        if (params.has("sent")) {
+            var el = document.getElementById("form-success")
+            if (el) {
+                el.classList.remove("dn")
+                el.classList.add("flex")
+            }
+        }
+    })()
+</script>
+
 <section class="w-75-l w-100 center cf tl tc-ns f1 pt4 pb4 {{ .class }}">
 
     <style>
@@ -14,10 +39,9 @@
         }
     </style>
 
-
-    <h1 class="f2 tc f1-ns ph3 ma0-ns pa2-ns color-pcw-dark-blue">Reach out!</h1>
+    <h1 class="f2 tc f1-ns ph3 ma0-ns pa2-ns color-pcw-dark-blue">{{ .title | default "Contact Form Title"}}</h1>
     <p class="f3 tc lh-copy ph3 mv0 mv3-ns">
-        For inquiries and more!
+        {{ .help_text | default "Default Help Text" }}
     </p>
 
 
@@ -28,21 +52,21 @@
             <div class="flex flex-column items-start" style="flex: 1;">
                 <label for="name" class="f5 b db mb2">First Name </label>
                 <!-- <input class="input-reset w-100" name="fname" type="text" placeholder="First Name"> -->
-                <input class="w-100" name="fname" type="text" placeholder="First Name">
+                <input required class="w-100" name="fname" type="text" placeholder="First Name">
 
             </div>
 
             <div class="flex flex-column items-start" style="flex: 1;">
                 <label for="name" class="f5 b db mb2">Last Name</label>
                 <!-- <input class="input-reset w-100" type="text" placeholder="Last Name"> -->
-                <input class="w-100" name="lname" type="text" placeholder="Last Name">
+                <input required class="w-100" name="lname" type="text" placeholder="Last Name">
             </div>
         </div>
 
         <div class="flex flex-column items-start">
             <label for="name" class="f5 b db mb2">Email</label>
             <!-- <input class="w-100 input-reset" type="email" name="email" placeholder="name@example.com"> -->
-            <input class="w-100" type="email" name="email" placeholder="name@example.com">
+            <input required class="w-100" type="email" name="email" placeholder="name@example.com">
 
         </div>
 
@@ -50,17 +74,17 @@
         <div class="flex flex-column items-start">
             <label for="name" class="f5 b db mb2">Phone <span class="normal black-60">(optional)</span></label>
             <!-- <input class="input-reset w-100" type="text" placeholder="Phone Number"> -->
-            <input class="w-100" type="text" placeholder="Phone Number">
+            <input class="w-100" type="text" name="phone_number" placeholder="Phone Number">
         </div>
 
         <div class="flex flex-column items-start">
             <label for="name" class="f5 b db mb2">Subject</label>
             <!-- <input class="input-reset w-100" type="text" placeholder="Subject"> -->
-            <input class="w-100" type="text" placeholder="Subject">
+            <input required class="w-100" type="text" name="subject" placeholder="Subject">
 
             <label for="name" class="f5 b db mb2">Message</label>
             <!-- <textarea class="input-reset w-100" name="" id="" placeholder="Message"></textarea> -->
-            <textarea class="w-100" name="" id="" placeholder="Message"></textarea>
+            <textarea required class="w-100" name="" id="" name="message" placeholder="Message"></textarea>
         </div>
 
         <input type="hidden" name="utf8" value="✓">

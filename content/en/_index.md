@@ -4,12 +4,6 @@ title: Home
 # The `segments` param will generate homepage segments (vertically stacked sections of the page).
 # For the supported segment templates and required params, see README.md#segments
 segments:
-  - template: contact-form
-    form_params:
-      # - formkeep id, button name, redirect 
-      - 
-      - Submit form!
-      - https://pcw.fi
   - template: three-button-call-to-action
     title: "Join us in building Internet access for everyone."
     sections:

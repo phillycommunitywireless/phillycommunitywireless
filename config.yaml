@@ -112,6 +112,10 @@ languages:
             external: true
           parent: Docs
           weight: "3"
+
+        - name: Contact
+          identifier: Contact
+          weight: "6"
           
     weight: "1"
     params:
