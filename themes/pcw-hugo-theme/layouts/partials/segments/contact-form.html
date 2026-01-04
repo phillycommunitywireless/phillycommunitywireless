@@ -1,0 +1,85 @@
+<!-- more 
+ info at https://support.formkeep.com/creating-a-form-in-hugo-using-shortcodes -->
+{{ $params := .form_params | default (slice) }}
+{{ $id := default "exampletoken" (index $params 0 | default nil) }}
+{{ $button_name := default "Submit" (index $params 1 | default nil) }}
+{{ $redirect := index $params 2 | default "" }}
+
+<section class="w-75-l w-100 center cf tl tc-ns f1 pt4 pb4 {{ .class }}">
+
+    <style>
+        #max-width-600 {
+            max-width: 600px;
+            width: 100%;
+        }
+    </style>
+
+
+    <h1 class="f2 tc f1-ns ph3 ma0-ns pa2-ns color-pcw-dark-blue">Reach out!</h1>
+    <p class="f3 tc lh-copy ph3 mv0 mv3-ns">
+        For inquiries and more!
+    </p>
+
+
+    <form id="max-width-600" class="f3 center ph3 ph0-l" accept-charset="UTF-8" action="https://formkeep.com/f/{{ $id }}"
+        method="POST">
+
+        <div class="flex flex-row flex-wrap flex-nowrap-l justify-between" style="gap: 0.5rem">
+            <div class="flex flex-column items-start" style="flex: 1;">
+                <label for="name" class="f5 b db mb2">First Name </label>
+                <!-- <input class="input-reset w-100" name="fname" type="text" placeholder="First Name"> -->
+                <input class="w-100" name="fname" type="text" placeholder="First Name">
+
+            </div>
+
+            <div class="flex flex-column items-start" style="flex: 1;">
+                <label for="name" class="f5 b db mb2">Last Name</label>
+                <!-- <input class="input-reset w-100" type="text" placeholder="Last Name"> -->
+                <input class="w-100" type="text" placeholder="Last Name">
+            </div>
+        </div>
+
+        <div class="flex flex-column items-start">
+            <label for="name" class="f5 b db mb2">Email</label>
+            <!-- <input class="w-100 input-reset" type="email" name="email" placeholder="name@example.com"> -->
+            <input class="w-100" type="email" name="email" placeholder="name@example.com">
+
+        </div>
+
+
+        <div class="flex flex-column items-start">
+            <label for="name" class="f5 b db mb2">Phone <span class="normal black-60">(optional)</span></label>
+            <!-- <input class="input-reset w-100" type="text" placeholder="Phone Number"> -->
+            <input class="w-100" type="text" placeholder="Phone Number">
+        </div>
+
+        <div class="flex flex-column items-start">
+            <label for="name" class="f5 b db mb2">Subject</label>
+            <!-- <input class="input-reset w-100" type="text" placeholder="Subject"> -->
+            <input class="w-100" type="text" placeholder="Subject">
+
+            <label for="name" class="f5 b db mb2">Message</label>
+            <!-- <textarea class="input-reset w-100" name="" id="" placeholder="Message"></textarea> -->
+            <textarea class="w-100" name="" id="" placeholder="Message"></textarea>
+        </div>
+
+        <input type="hidden" name="utf8" value="✓">
+        {{ if $redirect }}<input type="hidden" name="_redirect_url" value="{{ $redirect }}"> {{ end }}
+        {{.Inner}}
+
+        <style>
+            #form_submit_button::after {
+                content: " →"
+            }
+        </style>
+
+        <div class="flex items-center">
+            <button id="form_submit_button" class="center tc dib link mv3 pa3 ph4 f3 b bg-pcw white" type="submit">{{ $button_name }}</button>
+        </div>
+
+    </form>
+
+
+
+
+</section>
