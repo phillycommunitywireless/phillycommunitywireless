@@ -30,7 +30,7 @@ segments:
       text: "El primer paso de nuestro proceso de servicio consiste en evaluar si podemos proporcionar nuestra red en la ubicación solicitada. Si podemos instalar nuestra red en tu ubicación, coordinaremos una visita de instalación, que puede realizarse en varias etapas a lo largo de varios días."
     - image: "/images/web updates/dan-ap.jpg"
       alt: "Un hombre asomado por la ventana del segundo piso con un brazo para ajustar un dispositivo junto a una unidad de aire acondicionado."
-      text: "Philly Community Wireless ofrece servicios de mantenimiento de redes para mejorar o reparar las instalaciones existentes. Si detecta algún problema con su conexión, póngase en contacto con nosotros."
+      text: "Philly Community Wireless ofrece servicios de mantenimiento de redes para mejorar o reparar las instalaciones existentes. Si detectas algún problema con tu conexión, ponte en contacto con nosotros."
 
   - template: text-lr
     title: "some title"
