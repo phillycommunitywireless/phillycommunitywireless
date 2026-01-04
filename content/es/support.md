@@ -16,8 +16,8 @@ segments:
       sections:
         - photo: "/images/web updates/LB_AP_KCT Garden_Alex.jpg"
           photo_alt_text: "Un hombre sonriente de pie junto a una estructura con un LiteBeam y un dispositivo de punto de acceso en un tejado, con las vías del metro y la calle a sus espaldas."
-          text: "Hagas una donación para apoyar directamente nuestra misión de reducir la brecha digital en las comunidades de Filadelfia. Para procesar las donaciones, utilizamos Allyra, una plataforma de recaudación de fondos utilizada por organizaciones sin ánimo de lucro y asociaciones profesionales de todo el país. Puedes hacer donaciones de una vez o periódicas."
-          button_text: Donas aquí
+          text: "Haz una donación para apoyar directamente nuestra misión de reducir la brecha digital en las comunidades de Filadelfia. Para procesar las donaciones, utilizamos Allyra, una plataforma de recaudación de fondos utilizada por organizaciones sin ánimo de lucro y asociaciones profesionales de todo el país. Puedes hacer donaciones de una vez o periódicas."
+          button_text: Dona aquí
           button_href: "https://phillycommunitywireless.allyrafundraising.com"
         - photo: "/images/web updates/Group_Power Up.png"
           photo_alt_text: "5 personas sonrientes posando para una foto con camisetas a juego de PCW."
@@ -27,8 +27,8 @@ segments:
           button_class: "bg-pcw-salmon"
         - photo: "/images/web updates/AP-Gotham.jpg"
           photo_alt_text: "Un dispositivo de punto de acceso instalado en el borde de un tejado apuntando hacia las casas y un edificio alto al fondo."
-          text: "Únate directamente a nuestro esfuerzo por conectar a los miembros de la comunidad con acceso gratuito a Internet alojando nuestro equipo de red en tu propiedad y compartiendo la conectividad con tus vecinos. Obtengas más información sobre cómo registrarse en nuestra página Conéctete."
-          button_text: Alojas la red
+          text: "Únate directamente a nuestro esfuerzo por conectar a los miembros de la comunidad con acceso gratuito a Internet alojando nuestro equipo de red en tu propiedad y compartiendo la conectividad con tus vecinos. Obten más información sobre cómo registrarte en nuestra página Conéctete."
+          button_text: Aloja la red
           button_href: "/getconnected" 
           button_class: "bg-pcw-lilac"
 
@@ -46,10 +46,10 @@ segments:
     - template: text-lr
       left:
         title: Socios y colaboradores
-        text: "Nos asociamos con varios propietarios de inmuebles en todo el norte de Filadelfia para construir nuestra red Wi-Fi. Nuestra prioridad es establecer relaciones con organizaciones de vivienda asequible y otros grupos locales centrados en invertir en las comunidades existentes. Otros socios de PCW incluyen organizaciones comunitarias afines que ofrecen programas y servicios de acceso digital. [Haga clic aquí](https://phillycommunitywireless.org/es/about/partners/) para ver nuestra lista de valiosos socios comunitarios."
+        text: "Nos asociamos con varios propietarios de inmuebles en todo el norte de Filadelfia para construir nuestra red Wi-Fi. Nuestra prioridad es establecer relaciones con organizaciones de vivienda asequible y otros grupos locales centrados en invertir en las comunidades existentes. Otros socios de PCW incluyen organizaciones comunitarias afines que ofrecen programas y servicios de acceso digital. [Haz clic aquí](https://phillycommunitywireless.org/es/about/partners/) para ver nuestra lista de valiosos socios comunitarios."
       right:
         title: Patrocinadores
-        text: "Nuestros patrocinadores hacen posible que PCW proporcione acceso gratuito a Internet a decenas de miles de miembros de la comunidad. ¡Les agradecemos su apoyo para hacer realidad nuestra misión! [Haga clic aquí](https://phillycommunitywireless.org/es/about/funders/) para obtener más información sobre los patrocinadores que han invertido en PCW y en nuestra comunidad."
+        text: "Nuestros patrocinadores hacen posible que PCW proporcione acceso gratuito a Internet a decenas de miles de miembros de la comunidad. ¡Les agradecemos su apoyo para hacer realidad nuestra misión! [Haz clic aquí](https://phillycommunitywireless.org/es/about/funders/) para obtener más información sobre los patrocinadores que han invertido en PCW y en nuestra comunidad."
 
   # newsletter 
     - template: newsletter-verbose
