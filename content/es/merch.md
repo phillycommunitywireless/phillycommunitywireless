@@ -41,7 +41,7 @@ segments:
       - photo: "/images/merch/pcw-hat-tote.jpg"
         photo_alt_text: "Una gorra azul violáceo con el logotipo de PCW, una campana con una señal Wi-Fi en la parte delantera y una gran bolsa beige con el logotipo de PCW, una campana con una señal Wi-Fi y la inscripción PhillyCommunityWireless.org."
         item_name: Paquete de gorra + bolsa tote
-        item_caption: Consigues todos los accesorios de PCW con este paquete de gorra y bolso tote. 
+        item_caption: Consigue todos los accesorios de PCW con este paquete de gorra y bolso tote. 
         item_price: $58
         button_text: Comprar 
         button_href: "https://buy.stripe.com/cNidR26Brdn12dY6Dq5c40c" 
