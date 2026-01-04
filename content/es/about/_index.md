@@ -1,72 +1,66 @@
 ---
-date: 2021-09-30
-title: "Acerca de Nosotros"
-layout: "people/people"
+date: 2023-10-18
+title: "Acerca de PCW"
+layout: "single"
+header_photo: "/images/Drone_HartLane_Active.JPG"
+header_alt: "Imagen tomada desde un dron que muestra a cinco personas en el techo de una casa adosada, cuatro de ellas trabajando en una pequeña estructura con un dispositivo de punto de acceso."
+segments: 
+- template: call-to-action-photo-right
+  class: bg-pcw
+  title: "Nuestra misión"  
+  text: "Nuestra misión es reducir la brecha digital mediante la creación de redes Wi-Fi a gran escala y sin costo en espacios públicos y privados de los barrios desfavorecidos de Filadelfia. Nuestro objetivo es proporcionar un acceso básico a Internet para todos, mejorando la calidad de vida actual y posicionando a las comunidades para un futuro más saludable y próspero."
+  photo: "/images/web updates/NSNProof1.JPG"
+  photo_alt_text: "Voluntarios de PCW posando para una foto grupal en la azotea del NSNP."
+  class: "bg-pcw"
+  reverse: true
+
+  # Responsive three-column icons
+  # - template: icons
+  #  icons:
+  #    - icon: fas fa-wifi
+  #      text: Expanding internet access
+  #    - icon: fas fa-laptop-code
+  #      text: Growing tech literacy
+  #    - icon: fas fa-people-carry
+  #      text: Building community autonomy
+    # class: pv4 dn # Hide on mobile
+
+- template: text-lr
+  left:
+    title: Nuestra visión
+    text: "Philly Community Wireless se formó en 2020, al inicio de la pandemia de COVID-19, un momento que puso de relieve la necesidad de contar con recursos públicos sólidos y acceso a Internet. Nuestro trabajo se centra en construir nuestra red y una comunidad más amplia para proporcionar acceso gratuito a Internet y apoyar la adopción de Internet en las zonas del norte de Filadelfia donde las investigaciones han demostrado sistemáticamente que el acceso digital es menor.
+
+
+Imaginamos un futuro justo en el que todos puedan acceder a Internet de manera significativa, independientemente de sus ingresos o situación de vivienda. Creemos en el establecimiento de un acceso básico a Internet para todos que no pretenda únicamente proporcionar a cada «casa» o «hogar» su propia red Wi-Fi independiente, sino que extienda el acceso Wi-Fi a grandes áreas de una ciudad. Este enfoque ofrece una alternativa viable al paradigma actual de acceso privado a Internet y muestra lo que el suministro compartido de servicios de Internet puede hacer posible en un entorno urbano importante."
+  right:
+    title: Nuestros valores
+    text: "**Creemos** que el acceso a Internet es un derecho humano fundamental y que las redes inalámbricas independientes, de propiedad y gestión comunitaria, son un medio sostenible y escalable de inclusión digital.
+
+
+**Apoyamos** los principios de neutralidad de la red y creemos que Internet debe proporcionarse sin restricciones, sin tarifas cero y sin seguimiento ni monetización del comportamiento de los usuarios.
+
+
+**Afirmamos** que las personas son más importantes que las ganancias y que los principios de cooperación y ayuda mutua pueden hacer crecer un tipo de red digital fundamentalmente diferente.
+
+
+**Nos comprometemos** a empezar poco a poco, aprender de nuestros errores e invitar a profesores, organizadores, usuarios y tecnólogos a que aporten sus opiniones y puntos de vista para construir esta red."
+
+# Video embed
+- template: video
+  src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
+  title: Video documental sobre Philly Community Wireless producido por Big Picture Alliance.
+  text: None.
+  header: 
+    text: "Mira el tráiler de nuestro documental (2022)"
+    class: tc
+
+# newsletter 
+- template: newsletter-verbose
+
+
+
 ---
 
+Philly Community Wireless se compromete a ampliar el acceso a Internet, aumentar los conocimientos tecnológicos y fomentar la autonomía de la comunidad con nuestros vecinos. A través de nuestro modelo único de Internet comunitario, nos asociamos con organizaciones locales y vecinos para ampliar el acceso digital donde más se necesita.
 
-
-Nuestro equipo incluye seis personal y mas de 50 voluntarios de una amplia gama de organizaciones locales y nacionales. Para obtener más información, [visite nuestra página Equipo](/es/about/people).  
-
-## La Meta
-
-Justo antes del golpe de la pandemia COVID-19, un estudio detallado publicado por el Banco de la Reserva Federal de Filadelfia encontró que apenas el 53% de los residentes negros y el 44% de los residentes de Latinx en Filadelfia tienen conexiones de banda ancha (Álvaro 2020). La pandemia ha demostrado dramáticamente las implicaciones de esta brecha digital y ha exacerbado las desigualdades existentes para estudiantes, dueños de negocios, buscadores de empleo, y muchos otros.
-
-Estamos aquí para presentar un modelo alternativo de acceso a Internet, una red basada en el aporte comunitario y la educación. Nuestro objetivo es transformar la forma en que las ciudades piensan de Internet como una utilidad, involucrando a nuestros usuarios en la construcción de la red: De estudiantes a propietarios de negocios, de proveedores médicos a personas que trabajan desde casa. Este proyecto es producto de la pandemia, pero nuestra visión se extiende más allá de esa crisis. Buscamos un Internet a largo plazo, sostenible y asequible para todos en Philadelphia.
-
-Nuestro objetivo es capacitar a las personas que han estado más expuestas a los daños de la tecnología a través de la vigilancia y el sesgo algorítmico con alfabetismo digital crítico. Formaremos a los usuarios en los principios básicos de la ingeniería de redes y la alfabetización digital para que puedan ser administradores de la tecnología, en lugar de simples receptores. El PCW también trabajará para desarrollar los servicios y actividades que la red permite, a través del diseño participativo y la aportación de la comunidad.  
-
-## Los Valores
-
-**Creemos** que el acceso a Internet es un derecho humano fundamental y que la tecnología inalámbrica independiente, de propiedad comunitaria y operada es un medio sostenible y escalable de inclusión digital.
-
-**Somos compatibles** con los principios de neutralidad de la red y creemos que Internet debe proporcionarse sin necesidad de limitación, calificación cero y seguimiento y monetización del comportamiento de los usuarios.
-
-**Creemos** que las personas importan más que los beneficios y que los principios de cooperación y ayuda mutua pueden hacer crecer un tipo de red digital fundamentalmente diferente.
-
-Por último, **creemos** en empezar a trabajar con poco, aprender de nuestros errores e invitar a los profesores, organizadores, usuarios y tecnólogos a que creen esta red.
-
-## Tecnología comunitaria  
-
-En las dos últimas décadas han surgido por todo Estados Unidos redes inalámbricas de propiedad y gestión comunitaria. Philly Community Wireless se inspira en proyectos similares de Nueva York, Detroit, Baltimore, Pittsburgh, Cleveland y otras ciudades de Estados Unidos. Estamos en deuda con el trabajo y la documentación disponibles en [el sitio web de NYC Mesh](https://www.nycmesh.net/).  
-
-Visite nuestros [documentos](https://docs.phillycommunitywireless.org/es/latest/) para obtener más información sobre la infraestructura técnica y el proceso.  
-
-En 2022, la Alianza Big Picture completó un documental sobre las primeras etapas del proyecto PCW y la misión más amplia de la tecnología comunitaria y el trabajo de equidad digital en la actualidad. Descúbrelo en [YouTube](https://www.youtube.com/watch?v=FcReKkPl-6M).  
-
-{{< youtube FcReKkPl-6M >}}  
-
-
-## Lo que necesitamos
-
-> <p class="f3"><i>"Aproximadamente $200 pueden conectar permanentemente una casa a Internet de alta velocidad, sin facturas mensuales".</i></p>
-
-### Alojar una antena
-
-Trabajamos con organizaciones comunitarias y propietarios de edificios en los vecindarios de Fairhill y Kensington que estén dispuestos a alojar antenas de red en sus tejados, y a llevar a cabo actividades de alcance comunitario acerca de esta conexión de red gratuita. [¡Regístrate!](https://tally.so/r/mR8VM9)
-
-### Voluntarios
-
-Siempre damos la bienvenida a organizaciones comunitarias y residentes interesados en participar en cualquier aspecto del proyecto y aprender mientras contribuyen. Para más información sobre las funciones de los voluntarios y los procesos de incorporación, consulte nuestra [Página de voluntarios](https://phillycommunitywireless.org/es/volunteer/).
-
-### Recaudación de fondos
-
-Buscamos financiación adicional para comprar más hardware que se donará a los miembros de la comunidad, incluidas tecnologías alternativas que podrían complementar nuestro servicio básico. Visite nuestra página [Allyra](https://phillycommunitywireless.allyrafundraising.com) para contribuir. Si tienes alguna pregunta, envíenos un correo electrónico a info@phillycommunitywireless.com.
-
-## Cobertura de noticias locales
-
-Tech Policy, [America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?](https://www.techpolicy.press/america-disconnected-whats-bidens-plan-for-averting-digital-disaster/), 4/30/2024   
-
-CNET, [Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time](https://www.cnet.com/home/internet/features/alternative-broadband-networks-affordable-internet-for-the-people-one-rooftop-at-a-time/), 10/1/2023  
-
-Kensington Voice, [Norris Square organization increases community access to free internet](https://kensingtonvoice.com/en/norris-square-organization-increases-community-access-to-free-internet/), 7/12/2023  
-
-Technical.ly Philly, [Alex Wermer-Colan and PCW awarded Community Tech Leader of the Year 2022](https://technical.ly/startups/philly-2022-technically-awards-winners/), 12/14/2022  
-
-Al Dia, [Bringing Digital Equity to North Philadelphia](https://aldianews.com/local/philadelphia/digital-equity-day), 5/13/2022  
-
-Technical.ly Philly, [A group of Philly technologists are working on a free, community-based mesh Wi-Fi network](https://technical.ly/2022/01/12/philly-community-wireless-phillywisper-mesh-wifi/), 2/1/2022  
-
-Temple Now, [Philly Community Wireless offers internet for the community, by the community](https://news.temple.edu/news/2021-10-07/philly-community-wireless-offers-internet-community-community), 10/7/2021   
-
-The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progressive.org/latest/urban-digital-divide-rosen-210916/), 9/16/2021  
+Para obtener más información sobre nuestro personal, juntas directivas y otras personas involucradas en nuestro trabajo, visite nuestra página [Equipo](https://phillycommunitywireless.org/es/about/people/). Para recibir actualizaciones sobre nuestro trabajo, suscríbate a nuestro boletín informativo (https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) y síganos en las redes sociales @phillycommunitywireless.
