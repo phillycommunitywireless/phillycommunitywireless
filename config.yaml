@@ -114,6 +114,7 @@ languages:
           weight: "3"
 
         - name: Contact
+          url: /contact
           identifier: Contact
           weight: "6"
           
