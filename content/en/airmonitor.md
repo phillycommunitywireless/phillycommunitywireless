@@ -3,11 +3,11 @@ date: 2023-09-12
 title: "Air Monitoring"
 ---
 
-# Act on Air: The Philly Air Monitor Project
+## Act on Air: The Philly Air Monitor Project
 
-Philly Community Wireless has been working since 2023 to deploy [PurpleAir monitors](https://www2.purpleair.com/) on our public network. Since 2023, we have installed a dozen air monitors in the North Philadelphia neighborhoods of Norris Square, Fairhill, and Kensington.  at several install sites around our network to provide real-time air monitoring.  
+Philly Community Wireless has been working since 2023 to deploy [PurpleAir monitors](https://www2.purpleair.com/) on our public network. Since 2023, we have installed over a dozen air monitors in the North Philadelphia neighborhoods of Norris Square, Fairhill, and Kensington  at several install sites around our network to provide real-time air monitoring.  
 
-# Measuring Air Quality
+## Measuring Air Quality
 
 [Purple air monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods. 
 
@@ -28,7 +28,7 @@ Real-time air quality data can be viewed on [PurpleAir's map](https://map.purple
 </div>
 
 # Air Monitor Installations
-We are grateful to receive support from the EPA's Region 3 Sensor Loan Program, as well as from such organizational partners as the Clean Air Council, Temple University's Geography and Urban Studies Program, led by Prof. Christina Rosan, and Haverford College. 
+We are grateful to receive support from the EPA's Region 3 Sensor Loan Program, as well as from such organizational partners as the Clean Air Council, Temple University's Geography and Urban Studies Program led by Prof. Christina Rosan, and Haverford College. 
 
 PCW-installed air monitors are presently at:
 
@@ -37,6 +37,8 @@ PCW-installed air monitors are presently at:
 * HACE - Caribe Tower
 * HACE - Somerset Villas
 * Kensington Library
+* Las Parcelas Garden - NSNP
+* Raíces Garden - NSNP
 * Lillian Marrero Library
 * Multiple Residential Homes of PCW's Community
 * Norris Square Neighborhood Project
