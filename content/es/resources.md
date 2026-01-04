@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Resources
+title: Recursos
 ---
 
-**Last Updated**: El 25 de noviembre 2025
+**Última actualización**: El 25 de noviembre 2025
 
 *******
 Te ofrecemos algunos recursos que te ayudarán a conectarte a Internet de forma asequible o gratuita, tomar clases de alfabetización digital y mucho más. ¡Échales un vistazo!
@@ -31,4 +31,5 @@ Te ofrecemos algunos recursos que te ayudarán a conectarte a Internet de forma 
 ## Centros públicos de computación  
 **Ubicación**: Por toda la ciudad.  
 **Descripción**: Para obtener más información, visita el [sitio web de la ciudad](https://www.phila.gov/services/education-learning/get-help-with-technology/find-a-public-computer-center/).  
+
 
