@@ -9,10 +9,10 @@ Philly Community Wireless has been working since 2023 to deploy [PurpleAir monit
 
 ## Measuring Air Quality
 
-[Purple air monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods. 
+[Purple air monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods, helping folks understand: 
 
-1. If their air quality is good in their area
-2. How it compares to other parts of the city.
+1. If the air quality is good or not good in their area
+2. How it compares to other parts of the city
 
 <figure style="display: flex; align-items: center; flex-direction: column;">
     <img src="../../assets/images/installations/airmonitors/am5.jpg"
