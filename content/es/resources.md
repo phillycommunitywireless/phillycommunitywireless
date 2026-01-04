@@ -8,7 +8,7 @@ title: Resources
 *******
 Te ofrecemos algunos recursos que te ayudarán a conectarte a Internet de forma asequible o gratuita, tomar clases de alfabetización digital y mucho más. ¡Échales un vistazo!
 
-## Obtenga recursos digitales: Navegadores digitales (multilingües)
+## Obten recursos digitales: Navegadores digitales (multilingües)
 **Ubicación**: Por teléfono
 **Descripción**: Diseñado para ayudar a los miembros de la comunidad local de Filadelfia con información sobre el acceso a Internet, capacitación en alfabetización digital y cuestiones básicas de soporte técnico. Los navegadores digitales también pueden ayudarle a inscribirse para obtener descuentos en Internet cuando estén disponibles.  
 **Contacto**: Para obtener información de contacto sobre el programa Navegadores digitales en el Drexel's Excite Center, Beyond Literacy y SEAMAAC, consulte el [sitio web de la ciudad](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). También puede llamar al 311 para concertar una cita con un navegador digital.
@@ -31,3 +31,4 @@ Te ofrecemos algunos recursos que te ayudarán a conectarte a Internet de forma 
 ## Centros públicos de computación
 **Ubicación**: Por toda la ciudad.  
 **Descripción**: Para obtener más información, visita el [sitio web de la ciudad](https://www.phila.gov/services/education-learning/get-help-with-technology/find-a-public-computer-center/).
+
