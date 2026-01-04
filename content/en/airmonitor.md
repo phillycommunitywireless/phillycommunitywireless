@@ -22,7 +22,7 @@ Real-time air quality data can be viewed on [PurpleAir's map](https://map.purple
   <iframe style="width:100%; height: 600px" src="https://map.purpleair.com/1/mAQI/a10/p604800/cC0#13.2/39.99071/-75.12142"></iframe>
 </div>
 
-# Air Monitor Installations
+## Air Monitor Installations
 We are grateful to receive support from the EPA's Region 3 Sensor Loan Program, as well as from such organizational partners as the Clean Air Council, Temple University's Geography and Urban Studies Program led by Prof. Christina Rosan, and Haverford College. 
 
 PCW-installed air monitors are presently at:
