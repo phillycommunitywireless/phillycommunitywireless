@@ -4,9 +4,29 @@
   <url>
     <loc>https://phillycommunitywireless.org/merch/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/merch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/merch/"
+                />
   </url><url>
     <loc>https://phillycommunitywireless.org/support/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/support/"
+                />
   </url><url>
     <loc>https://phillycommunitywireless.org/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
@@ -166,6 +186,16 @@
   </url><url>
     <loc>https://phillycommunitywireless.org/hq/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/hq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/hq/"
+                />
   </url><url>
     <loc>https://phillycommunitywireless.org/airmonitor/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
