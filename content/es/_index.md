@@ -22,7 +22,7 @@ segments:
         photo_alt_text: "Un cartel de PCW con el mensaje Wifi gratuito disponible aquí la información de contacto de PCW y los logotipos de las organizaciones asociadas."
         text: "**¡Apóyanos!** Apoya nuestro trabajo para proporcionar acceso esencial a Internet a personas y familias de Filadelfia."
         button_text: Apóyanos
-        button_href: "/support"
+        button_href: "/es/support"
         button_class: "bg-pcw-lilac"
 
   # Volunteer CTA
