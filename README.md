@@ -231,17 +231,20 @@ A responsive layout featuring three font-awesome icons with optional text labels
 
 ![A screenshot of the call-to-action-image template on a website.](./assets/readme/icons.png)
 
-#### `call to action map`
+#### `call-to-action-map`
 A version of `call-to-action` with the Philly Commmnity Wireless webmap embedded. 
 ```yml
   - template: call-to-action-map
-    heading: North Philadelphia Network
-    text: 
+    # heading: North Philadelphia Network (Optional)
+    text: Our community wireless network currently exists in North Philadelphia, with a focus on **Norris Square, Fairhill, and Kensington**. If you live in the 19122, 19133, or 19134 zip codes, reach out! Check out our map for more details on where you can find us and get connected. 
     link:
       text: Where We Are 
       href: /networkmap
+      # class: (Optional) 
     class: bg-light-gray
 ```
+
+![A screenshot of the call-to-action map template on a website](./assets/readme/call-to-action-map.png)
 
 #### `call-to-action-photo-right`
 A version of `call-to-action` with the photo on the right by default 
@@ -253,25 +256,78 @@ A version of `call-to-action` with the photo on the right by default
     button: 
       button_text: "What We Do"
       button_href: "about/"
-      no_button_arrow: "true"
+      # no_button_arrow: "true" # Toggle visibility of arrow element inside button
 ```
 
-#### `call-to-action-vertical` 
+![alt text](./assets/readme/call-to-action-right.png)
 
+#### `call-to-action-vertical` 
+A version of the call-to-action with a vertical divider 
+```yaml
+  - template: call-to-action-vertical
+    heading1: "Join our volunteer team"
+    text1: "Volunteers can handle anything from antenna installations to network management, software development, community outreach, and much more" 
+    link1: 
+      text: "Get involved"
+      href: "volunteer/"
+    heading2: "Support the project"
+    text2: "Your money will go toward networking equipment, tools, training materials, and paying our staff." 
+    link2: 
+      text: "Donate"
+      href: "#"
+      class: bg-green white
+```
+
+![alt text](./assets/readme/call-to-action-vertical.png)
 
 #### `eventcalendar` 
+Shows the event calendar
+
+```yaml
+  - template: eventcalendar
+    heading: "Upcoming Events"
+    text: "See our calendar to get an idea of upcoming in-person volunteer events and opportunities! Most of our installs are coordinated on Thursdays or Fridays, and we aim to host Volunteer Saturday Sessions 1-2 times per month."
+```
+
+![alt text](./assets/readme/eventcalendar.png)
 
 #### `merch-catalog` 
 
-#### newsletter fname lname 
+shows the merch catalog 
 
-#### newsletter-verbose 
+```yaml
+  - template: merch-catalog
+    # title: "Currently Available"
+    sections:
+      - photo: "/images/merch/pcwhat.jpg"
+        photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
+        item_name: PCW Hat
+        item_caption: Our embroidered 6-panel PCW hat in vintage wash is perfect for a relaxed wear. Made from 100% cotton twill, with an adjustable leather strap.
+        item_price: $40
+        button_text: Purchase 
+        button_href: "https://buy.stripe.com/5kQ3co8Jz6YD3i25zm5c409"
 
-#### photo-list-with-text
+      # add sections as needed for the amount of items in the catalog
+```
 
-#### text-lr 
+![alt text](./assets/readme/merch-catalog.png)
 
-#### three-button-call-to-action
+#### `newsletter-fname-lname` and `newsletter-verbose`
+
+`newsletter-verbose` is the container element displaying the newsletter signup form, while `newsletter-fname-lname` is the actual embed from MailChimp
+
+This was done so that the newsletter embed itself can be left in other pages - i.e, the footer. 
+
+
+
+
+#### `photo-list-with-text`
+
+
+#### `text-lr` 
+
+
+#### `three-button-call-to-action`
 
 
 ### Adding new segment templates
