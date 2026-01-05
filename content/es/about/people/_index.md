@@ -1,217 +1,94 @@
 ---
-date: 2021-09-30
-title: Equipo
+date: 2024-07-01
+title: "Nuestro Equipo"
 layout: "people/people"
 aliases:
-    # pagina web del antiguo personal
-    - /es/people 
-    # ex personal
-    - /es/allang
-    - /es/allang/
-    - /es/about/people/allang
-    - /es/dylanh
-    - /es/dylanh/
+    # old people link
+    - /people
+ 
 ---
 
-{{< fa hands-helping >}} = organizador \
-{{< fa cogs >}} = tecnólogo \
-{{< fa graduation-cap >}} = maestros \
-{{< fa vial >}} = investigador
+## Personal
 
-## Equipo administrativo
-
-**Director ejecutivo**  
-[Alex Wermer-Colan](/es/alexwc) {{< fa cogs >}}{{< fa vial >}}  
+**Director Ejecutivo**  
+[Alex Wermer-Colan](alexwc)
 alex@phillycommunitywireless.org
-
-**Administrador de sistemas**   
-[Allan Gomez](/es/allang) {{< fa cogs >}}  
-allan@phillycommunitywireless.org
-
-**Administradora de relaciones comuntarias**     
-[Leanne Przybylowski](/es/leannep) {{< fa hands-helping >}}  
-leanne@phillycommunitywireless.org    
+  
+**Administradora de relaciones comunitarias**     
+[Leanne Przybylowski](leannep) 
+leanne@phillycommunitywireless.org  
 
 **Técnico**  
-[Eugene Ryoo](/es/eugener) {{< fa cogs >}}  
+[Eugene Ryoo](eugener)
 eugene@phillycommunitywireless.org  
 
-**Instaladora**     
-[Zoe Kerrich](/es/zoek) {{< fa cogs >}}  
+**Instaladora**  
+[Zoe Kerrich](zoek) 
 zoe@phillycommunitywireless.org  
 
-**Coordinador de contenidos**  
-[Chris Mehretab](/es/chrism) {{< fa hands-helping >}}  
+**Coordinador de contenido**  
+[Chris Mehretab](chrism)
 chris@phillycommunitywireless.org  
 
-<br>
+**Aprendiz del Urban Technology Project**  
+Francisco Oquendo
 
-## Junta directiva
+<br/>
 
-Will Dean {{< fa cogs >}} \
-_Bibliotecario de Servicios de Investigación y Datos, Temple University Libraries_
+## Consejo de asesores
 
-Jonathan Latko {{< fa cogs >}} \
-_Centro de Reciclaje de Computadoras, Temple University_
+Will Dean \
+_Bibliotecario de investigación y servicios de datos, Bibliotecas de la Universidad de Temple_
 
-Jessa Lingel {{< fa vial >}}{{< fa graduation-cap >}} \
-_Profesora Titular, Annenberg School for Communication, University of Pennsylvania_
+Jonathan Latko \
+_Subdirector de operaciones comerciales, Servicios de tecnología de la información, Universidad de Temple_
 
-Rev. Michael A. Major {{< fa hands-helping >}} \
-_Presidente de la Junta, Called to Serve CDC_
+Jessa Lingel \
+_Profesor asociado, escuela Annenberg de comunicación, Universidad de Pensilvania_
 
-Sascha Meinrath {{< fa vial >}} \
-_Cátedra Palmer en Telecomunicaciones, Bellisario College of Communications, Pennsylvania State University_
+Rev. Michael A. Major \
+_Pastor, Zion Baptist Ministry; presidente de la junta directiva, Called to Serve CDCP_
 
-Stasia Monteiro {{< fa hands-helping >}} \
-_Director del Programa NAC, HACE_
+Sascha Meinrath \
+_Cátedra Palmer en telecomunicaciones, facultad de comunicaciones Bellisario, Universidad Estatal de Pensilvania_
 
-Mark Steckel {{< fa cogs >}} \
-_Fundador, PhillyWisper_
+Stasia Monteiro \
+_Directore del programa NAC, HACE_
 
-Hailey Himlin {{< fa cogs >}} \
-_Administradora de oficina, PhillyWisper_
+Mark Steckel \
+_Director general, PhillyWisper_
 
-Devren Washington {{< fa hands-helping >}} \
-_Organizador Senior de Políticas, Movement Alliance Project_
+Devren Washington \
+_Director de organización, People's Tech Project_
 
-Heather Lewis-Weber {{< fa hands-helping >}}{{< fa graduation-cap >}} \
-_Sr. Coordinador de Participación Comunitaria, Temple University, College of Liberal Arts_
+Heather Lewis-Weber \
+_Director de participación comunitaria, facultad de Artes Liberales, Universidad de Temple_
 
-Grant Wythoff {{< fa vial >}} \
-_Estratega de Humanidades Digitales, Center for Digital Humanities at Princeton University_
+Grant Wythoff \
+_Estratega de humanidades digitales, Centro de humanidades digitales de la Universidad de Princeton_
 
-## Junta de asesoramiento técnico
+<br/>
 
-Addie Barron {{< fa cogs >}} \
-_Tecnóloga e Ingeniera de Software_
-
-Quinn Batten {{< fa cogs >}} \
-_Ingeniero de datos_
-
-Dillon Bergin {{< fa cogs >}} \
-_Periodista de datos_
-
-Dylan Hutchinson {{< fa cogs >}} \
+## Consejo Asesor Técnico
+Dylan Hutchinson \
 _Ingeniero informático_
 
-John Center {{< fa cogs >}} \
-_Ingeniero de redes, retirado_
+John Center \
+_Ingeniero de redes jubilado_
 
-Felipe Valdez {{< fa cogs >}} \
-_Especialista de GIS_  
+Felipe Valdez \
+_Especialista en SIG, Bibliotecas de la Universidad de Temple_  
 
-Dan Zygmund-Felt {{< fa cogs >}} \
-_Ingeniero de redes_  
+Dan Zygmund-Felt \
+_Ingeniero de software_  
 
-David Berman {{< fa vial >}} \
-_Profesor Asistente, Seton Hall_  
+David Berman \
+_Profesor adjunto, Universidad Seton Hall_  
 
-## Socios adicionales
+Jonathan Caicedo \
+_Ingeniero de software_ 
 
-Adam Bouhmad {{< fa cogs >}} \
-_Project WAVES (Baltimore)_
-
-David L. Johnson {{< fa cogs >}} \
-_iNethi (Cape Town, South Africa)_
-
-Greta Byrum {{< fa cogs >}} \
-_Community Tech NY (New York)_
-
-Andrew Coy {{< fa cogs >}} \
-_Digital Harbor Foundation (Baltimore)_
-
-Raul Enriquez {{< fa cogs >}} \
-_Community Tech NY (New York)_
-
-Colby Hollabaugh {{< fa cogs >}} \
-_Meta Mesh (Pittsburgh)_
-
-Ani Martinez {{< fa hands-helping >}} \
-_Remake Learning (Pittsburgh)_
-
-Franca Muller Paz {{< fa graduation-cap >}} \
-_Sindicato de maestros de Baltimore_
-
-Dave Onion {{< fa cogs >}} \
-_Dialectólogo, Holobiont Lab_
-
-Jennifer Oxenford {{< fa cogs >}} \
-_Directora, Member Services and NYC Dark Fiber Program at NYSERNet_
-
-Houman Saberi {{< fa cogs >}} \
-_Community Tech NY (New York)_  
-
-## Diseño gráfico
-
-Katie Garth
-
-## Producción de vídeo 
-
-Eli Laban, *Big Picture Alliance*
+Dan Feder \
+_Ingeniero de software_ 
 
 <br/>
-
-## Antiguo Personal
-
-Dylan Hutchinson, Antiguo instalador
-
-Mir Detre, Antiguo técnico
-
-## Antiguos líderes voluntarios  
-
-Addie Barron, Tech Lead  
-
-Kate Goodman, Outreach Lead  
-
-Heather Lewis-Weber, Outreach Lead 
-
-## Antiguos internos
-
-Francisco Oquendo, Urban Technology Project, 2024  
-
-Isaiah Weakes, Carnegie Mellon University, 2023
-
-Megha Govindu, Unviersity of Pennsylvania, 2023
-
-Tejas Gupta, Princeton University, 2020
-
-Amber Whetstone, Temple University (ahora Cornell University), 2021
-
-Chris Mehretab, Temple University, 2021
-
-Sarah Fingerhood, University of Pennsylvania, 2021
-
-Anika Prakash, University of Pennsylvania, 2021
-
-<br/>
-
-## Organizaciones aliadas
-
-[Digital Harbor Foundation](https://www.digitalharbor.org/), Baltimore
-
-[Project WAVES](https://projectwaves.net/), Baltimore
-
-[iNethi](https://www.inethi.org.za/), Cape Town
-
-[KINBER](https://kinber.org/), Harrsiburg
-
-[Community Tech NY](http://communitytechny.org/), New York
-
-[NYC Mesh](https://www.nycmesh.net/), NYC
-
-[MetaMesh](https://www.metamesh.org/), Pittsburgh
-
-[X-Lab](https://thexlab.org/), Washington, DC
-
-<br/>
-
-## Patrocinador fiscal
-
-[Movement Alliance Project](https://movementalliance.org/about/)
-
-<br/>
-
-## Apoyo jurídico
-
-[Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  

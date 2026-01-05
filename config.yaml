@@ -126,32 +126,43 @@ languages:
     contentDir: content/es
     menu:
       main:
-        - name: Programmes 
-          identifier: get-connected
+
+          # Programas
+        - name: Programas
+          identifier: Programas
           weight: "1"
         - name: Conéctate
           url: "/getconnected"
-          parent: get-connected
+          parent: Programas
           weight: "1"
-        - name: Voluntario
+        - name: Ser voluntario
           url: "/volunteer"
-          parent: get-connected
-          weight: "2"
+          parent: Programas
+          weight: "2"  
 
-        - name: Donar 
-          identifier: donar
+          # Apóyanos
+        - name: Apóyanos
+          identifier: Apóyanos
           weight: "2"
-        - name: Donar
-          url: https://phillycommunitywireless.allyrafundraising.com/
+        - name: Donaciones
+          url: "https://phillycommunitywireless.allyrafundraising.com/"
           params:
             external: true
-          parent: donar
+          parent: Apóyanos
+          weight: "3"
+        - name: Artículos en venta
+          url: "/merch"
+          parent: Apóyanos
+          weight: "2"
+        - name: Cómo apoyarnos
+          url: "/support"
+          parent: Apóyanos
           weight: "1"
-    
+
         - name: Acerca 
           identifier: about-us
           weight: "3"
-        - name: Acerca 
+        - name: Acerca PCW
           url: "/about"
           parent: about-us
           weight: "1"
@@ -163,7 +174,7 @@ languages:
           url: "/about/partners"
           parent: about-us
           weight: "3"
-        - name: Fundadores
+        - name: Patrocinadores
           url: "/about/funders"
           parent: about-us
           weight: "4"
@@ -176,17 +187,21 @@ languages:
           parent: about-us
           weight: "6"
 
-        - name: Navegacion 
+        - name: Ubicación
           identifier: location
           weight: "4"
-        - name: Navegacion
+        - name: Mapa de red PCW
           url: "/networkmap"
           parent: location
-          weight: "2"
+          weight: "1"
         - name: Cómo llegar aquí
           url: "/about/location"
           parent: location
-          weight: "1"
+          weight: "2"
+        - name: Monitores de aire
+          url: "/airmonitor"
+          parent: location
+          weight: "3"
 
         - name: Documentos 
           identifier: documentos
