@@ -195,7 +195,7 @@ languages:
           parent: location
           weight: "1"
         - name: Cómo llegar aquí
-          url: "/about/location"
+          url: "/hq"
           parent: location
           weight: "2"
         - name: Monitores de aire
