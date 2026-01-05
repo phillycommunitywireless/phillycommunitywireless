@@ -4,79 +4,51 @@ title: Home
 # The `segments` param will generate homepage segments (vertically stacked sections of the page).
 # For the supported segment templates and required params, see README.md#segments
 segments:
-# Responsive three-column icons
-- template: icons
-  icons:
-    - icon: fas fa-laptop-code
-      text: Aumento de la alfabetización tecnológica
-    - icon: fas fa-wifi
-      text: Ampliar el acceso a Internet
-    - icon: fas fa-people-carry
-      text: Construcción de la autonomía comunitaria
-      class: dn # Hide on mobile
+  - template: three-button-call-to-action
+    title: "Únete para crear acceso a Internet para todos."
+    sections:
+      - photo: "/images/IMG_6878.jpg"
+        photo_alt_text: "Un dispositivo de punto de acceso blanco en un poste con el cielo de fondo."
+        text: "**¡Conéctate!** Únate a nuestra red y utilice nuestro servicio Wi-Fi en su hogar, organización o espacio verde local."
+        button_text: Nuestro Wi-Fi 
+        button_href: "/es/getconnected"
+      - photo: "/images/pcwvolunteers.png"
+        photo_alt_text: "7 personas con camisetas a juego de PCW posando para una foto en una acera."
+        text: "**¡Participa!** Ofrece tu ayuda como voluntario para construir nuestras redes de Internet, aprender nuevas habilidades y marcar la diferencia en nuestra comunidad."
+        button_text: Hazte voluntario
+        button_href: "/es/volunteer"
+        button_class: "bg-pcw-salmon"
+      - photo: "/images/web updates/Signage_Collazo.jpg"
+        photo_alt_text: "Un cartel de PCW con el mensaje Wifi gratuito disponible aquí la información de contacto de PCW y los logotipos de las organizaciones asociadas."
+        text: "**¡Apóyanos!** Apoya nuestro trabajo para proporcionar acceso esencial a Internet a personas y familias de Filadelfia."
+        button_text: Apóyanos
+        button_href: "/support"
+        button_class: "bg-pcw-lilac"
 
-# Divider
-- template: divider
+  # Volunteer CTA
+  - template: call-to-action-photo-right
+    text: "**Philly Community Wireless** está construyendo redes inalámbricas de Internet controladas por la comunidad en Filadelfia. Nuestro objetivo es proporcionar un acceso básico a Internet para todos, mejorando la calidad de vida actual y posicionando a las comunidades para un futuro más saludable y próspero."
+    photo: "/images/web updates/clearfield-install.jpg"
+    photo_alt_text: "4 voluntarios de PCW en un tejado, uno de ellos utilizando un taladro para fijar un poste en el que se encuentra el dispositivo de punto de acceso."
+    button: 
+      button_text: "Que hacemos"
+      button_href: "/es/about/"
+      # no_button_arrow: "true"
+    class: bg-light-gray
 
-# Simple heading
-- template: heading
-  text: Trabajos en curso
+  - template: call-to-action-map
+    text: "Nuestra red inalámbrica comunitaria existe actualmente en el norte de Filadelfia, centrada en **Norris Square, Fairhill y Kensington**. Si vives en los códigos postales 19122, 19133 o 19134, ¡ponte en contacto con nosotros! Consulta nuestro mapa para obtener más detalles sobre dónde puedes encontrarnos y conectarte."
+    link:
+      text: Donde estamos
+      href: /networklocation
+    class: bg-light-gray
 
-# Norris Square project
-- template: call-to-action-map
-  heading: La Red en el norte de Filadelfia
-  text: Estamos construyendo una red inalámbrica comunitaria en el norte de Filadelfia, con un enfoque en las áreas al norte de [<i class="fa fa-map-marker"></i> Norris Square Park](https://goo.gl/maps/e4dJb3ghqgnNP53e8). Si vives en los códigos postales 19122, 19133 o 19134, ¡comunícate para conectarte!
-  link:
-    text: Conéctate
-    href: getconnected/
+  # newsletter 
+  - template: newsletter-verbose
 
-# Video embed
-- template: video
-  src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
-  title: Philly Community Wireless promo video produced by the Big Picture Alliance.
-  text: Más información sobre el proyecto
-
-# Volunteer CTA
-- template: call-to-action
-  heading: Únete a nuestro equipo de voluntarios
-  text: Los voluntarios pueden encargarse de cualquier cosa, desde la instalación de antenas hasta la gestión de redes, el desarrollo de software, el alcance comunitario y mucho más.
-  link:
-    text: Involúcrate
-    href: volunteer/
-  class: color-pcw-dark-blue
-
-# Divider
-- template: divider
-  narrow: true
-
-# Donate
-- template: call-to-action
-  heading: Apoya el proyecto
-  text: Su dinero se destinará a equipos de redes, herramientas, materiales de capacitación y al pago de nuestro personal.
-  link:
-    text: Donar
-    href: https://phillycommunitywireless.wedid.it
-    class: bg-green white
-  class: color-pcw-dark-blue
-
-# Image
-- template: image
-  src: /images/hero.jpg
-  alt: A Philly Community Wireless sign amongst some flowers in Norris Square Park
-  class: opos-left
-
-# Contact info
-- template: markdown
-  url: contact.md
-  class: contact
+  # Image
+  - template: image
+    src: "/images/nkcdc-drone.jpg"
+    alt: Imagen aérea de tres personas instalando equipos en el tejado de un edificio, con el barrio al fondo.
+    class: display-img-bottom-center
 ---
-
-Somos una coalición liderada por tecnólogos y organizadores que trabajamos para construir redes inalámbricas de internet controladas por la comunidad en Filadelfia.  
-
-Estamos comprometidos con el crecimiento de la alfabetización tecnológica, la amplicación del acceso a Internet y la construcción de la autonomía comunitaria con nuestros vecinos. Colaboramos activamente con organizaciones de vivienda asequible y otros grupos locales centrados en invertir en las comunidades existentes. **Creemos que el acceso a Internet es un derecho humano.**
-
-Al desarrollar un modelo alternativo para ampliar el acceso y la adopción de la banda ancha, PCW capacita a las comunidades para que participen en la construcción, el mantenimiento y el diseño de un servicio público que proporcione una conectividad sostenible para todos los habitantes del barrio.
-
-Para mantenerte actualizado sobre las nuevas oportunidades y el crecimiento de nuestra red comunitaria, [Suscríbete a nuestro boletín](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
-
-¿Preguntas? Echa un vistazo a nuestro [FAQ](/about/faq).
