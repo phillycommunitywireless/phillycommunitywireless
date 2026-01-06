@@ -259,7 +259,7 @@ A version of `call-to-action` with the photo on the right by default
       # no_button_arrow: "true" # Toggle visibility of arrow element inside button
 ```
 
-![alt text](./assets/readme/call-to-action-right.png)
+![A screenshot of the call-to-action-photo-right element on a website](./assets/readme/call-to-action-right.png)
 
 #### `call-to-action-vertical` 
 A version of the call-to-action with a vertical divider 
@@ -278,7 +278,7 @@ A version of the call-to-action with a vertical divider
       class: bg-green white
 ```
 
-![alt text](./assets/readme/call-to-action-vertical.png)
+![A screenshot of the call-to-action-vertical element on a website](./assets/readme/call-to-action-vertical.png)
 
 #### `eventcalendar` 
 Shows the event calendar
@@ -289,7 +289,7 @@ Shows the event calendar
     text: "See our calendar to get an idea of upcoming in-person volunteer events and opportunities! Most of our installs are coordinated on Thursdays or Fridays, and we aim to host Volunteer Saturday Sessions 1-2 times per month."
 ```
 
-![alt text](./assets/readme/eventcalendar.png)
+![A screenshot of the eventcalendar element on a website](./assets/readme/eventcalendar.png)
 
 #### `merch-catalog` 
 
@@ -307,28 +307,102 @@ shows the merch catalog
         button_text: Purchase 
         button_href: "https://buy.stripe.com/5kQ3co8Jz6YD3i25zm5c409"
 
-      # add sections as needed for the amount of items in the catalog
+      # ...add sections as needed for the amount of items in the catalog
 ```
 
-![alt text](./assets/readme/merch-catalog.png)
+![A screenshot of the merch-catalog element on a website](./assets/readme/merch-catalog.png)
 
 #### `newsletter-fname-lname` and `newsletter-verbose`
 
-`newsletter-verbose` is the container element displaying the newsletter signup form, while `newsletter-fname-lname` is the actual embed from MailChimp
+The newsletter signup form is separated into two partials: 
+* `newsletter-verbose` - partial with section formatting, padding, etc. - serves as a container for the actual newsletter signup embed 
+* `newsletter-fname-lname` - contains the actual mailing list signup form   
 
-This was done so that the newsletter embed itself can be left in other pages - i.e, the footer. 
+This was done so that the newsletter embed itself can be left in other pages without worrying about the container's styling - i.e, the footer. 
 
-
+```yaml
+  - template: newsletter-verbose
+```
+```html
+  <!-- Contents of newsletter-verbose.html -->
+   ...
+  <div class="">
+      {{ partial "segments/newsletter-fname-lname.html" . }}
+  </div>
+```
+![a screenshot of the newsletter-verbose element on a website](./assets/readme/newsletter.png)
 
 
 #### `photo-list-with-text`
 
+A list of photos with text 
+
+```yaml
+  - template: photo-list-with-text
+    title: "Our Service Process"
+    images:
+    - image: "/images/web updates/PW.jpg"
+      alt: "Two PhillyWisper staff sitting on a roof looking at a laptop, with a structure and LiteBeam device next to them."
+      text: "Philly Community Wireless works with [PhillyWisper](https://phillywisper.com), a local wireless internet service provider, to install rooftop antennas that we use to provide a free Wi-Fi network to neighborhood residents and public spaces."
+
+    ... add the desired # of images 
+```
+
+![A screenshot of the photo-list-with-text element on a website](./assets/readme/photo-list-with-text.png)
+
 
 #### `text-lr` 
+Displays two columns of text 
+
+```yaml
+  - template: text-lr
+    title: "some title"
+    left:
+      title: "How Long Does It Take?"
+      text: "Installations can sometimes take an extended period of time to schedule and complete, up to several months. We are expanding our network coverage every week, but we have more demand than we can meet and a variety of obstacles, including line of sight, can impede our network's reach. 
+      
+      We will work with you to provide you and your neighbors with free Wi-Fi service as soon as we can. We appreciate your patience and assistance as we build out and maintain our network."
+      class: tl
+    
+    right: 
+      title: "Resources"
+      text: "If you are in need of more immediate access to internet and other digital resources, please visit our [resource page](https://phillycommunitywireless.org/resources/). There, you will find information about accessing affordable internet, computers, and training in digital skills.
+
+
+      If you are outside our service area, we encourage you to still reach out if you need help accessing digital resources."
+      class: tl
+```
+
+![A screenshot of the text-lr element on a website](./assets/readme/text-lr.png)
 
 
 #### `three-button-call-to-action`
+A call to action that displays as many cards as there are inputs 
 
+```yaml
+- template: three-button-call-to-action
+  title: "Join us in building Internet access for everyone."
+  sections:
+    - photo: "/images/IMG_6878.jpg"
+      photo_alt_text: "A white access point device on a pole with the sky in the background."
+      text: "**Get connected!** Join our network and use our Wi-Fi service at your home, organization, or local green space."
+      button_text: Our Wi-Fi 
+      button_href: "/getconnected"
+    - photo: "/images/pcwvolunteers.png"
+      photo_alt_text: "7 people in matching PCW t-shirts posing for a photo on a sidewalk."
+      text: "**Get involved!** Volunteer to help build our internet networks, learn new skills, and make a difference in our community."
+      button_text: Volunteer 
+      button_href: "/volunteer"
+      button_class: "bg-pcw-salmon"
+    - photo: "/images/web updates/Signage_Collazo.jpg"
+      photo_alt_text: "A PCW sign saying Free Wifi Available Here with PCW's contact information and logos of partner organizations."
+      text: "**Get behind us!** Support our work in providing essential internet access to individuals and families in Philadephia."
+      button_text: Support 
+      button_href: "/support" 
+      button_class: "bg-pcw-lilac"
+```
+
+![A screenshot of the three-button-call-to-action element on a website](./assets/readme/three-button-call-to-action.png)
 
 ### Adding new segment templates
 
