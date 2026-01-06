@@ -114,6 +114,8 @@ segments:
 
   # newsletter 
   - template: newsletter-verbose
+    title: Stay in Touch
+    subtitle: To stay up-to-date on new opportunities and growth of our community network, **sign up for our newsletter**! 
 
   # Image
   - template: image

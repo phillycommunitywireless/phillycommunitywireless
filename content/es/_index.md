@@ -45,6 +45,8 @@ segments:
 
   # newsletter 
   - template: newsletter-verbose
+    title: Mantente en contacto
+    subtitle: Para estar al día de las nuevas oportunidades y el crecimiento de nuestra red comunitaria, **¡suscríbase a nuestro boletín informativo!**
 
   # Image
   - template: image
