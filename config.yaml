@@ -68,10 +68,14 @@ languages:
           url: "/about/news"
           parent: about-us
           weight: "5"
+        - name: Resources
+          url: "/resources"
+          parent: about-us
+          weight: "6"
         - name: FAQ
           url: "/about/faq"
           parent: about-us
-          weight: "6"
+          weight: "7"
      
           # Location
         - name: Location
