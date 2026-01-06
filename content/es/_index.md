@@ -46,7 +46,7 @@ segments:
   # newsletter 
   - template: newsletter-verbose
     title: Mantente en contacto
-    subtitle: Para estar al día de las nuevas oportunidades y el crecimiento de nuestra red comunitaria, **¡suscríbase a nuestro boletín informativo!**
+    subtitle: Regístrete para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
 
   # Image
   - template: image
