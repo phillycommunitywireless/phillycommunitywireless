@@ -114,8 +114,8 @@ segments:
 
   # newsletter 
   - template: newsletter-verbose
-    title: Stay in Touch
-    subtitle: **Sign up** to stay up-to-date on Philly Community Wireless and digital resources in Philadelphia.
+    title: Stay in Touch  
+    subtitle: **Sign up** to stay up-to-date on Philly Community Wireless and digital resources in Philadelphia.  
 
   # Image
   - template: image
