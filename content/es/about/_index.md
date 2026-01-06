@@ -56,7 +56,8 @@ Imaginamos un futuro justo en el que todos puedan acceder a Internet de manera s
 
 # newsletter 
 - template: newsletter-verbose
-
+  title: Mantente en contacto
+  subtitle: Regístrete para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
 
 
 ---
