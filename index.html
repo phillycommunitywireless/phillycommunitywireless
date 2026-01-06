@@ -608,6 +608,32 @@
         }
 
          
+        #mc_embed_signup .indicates-required{
+            margin-right: 0;
+        }
+
+        #mc_embed_signup .mc-field-group {
+            width: 100%;
+        }
+
+        #mc_embed_signup .button{
+            background-color: var(--primary);   
+            margin-bottom: 0; 
+            margin-right: 0;
+            font-size: 1.5rem; 
+            font-weight: 700;
+            text-align: center;
+            border-radius: 0;
+            width: 150px;
+            height: 50px;
+        }
+
+        #mc_embed_signup .button:hover{
+            background-color: var(--primary);
+            text-decoration: underline;
+        }
+
+         
     </style>
     <div id="mc_embed_signup" class="flex flex-row center ph3">
         <form
@@ -632,11 +658,13 @@
                     </div>
                 </div>
 
-
-                <div class="mc-field-group pb0">
-                    <label class="calibre f4" for="mce-EMAIL">Email Address <span class="asterisk">*</span>
-                    </label>
-                    <input type="email" name="EMAIL" class="required email" id="mce-EMAIL" value="" required="">
+                
+                <div class="flex flex-column">
+                    <div class="mc-field-email mc-field-group pb0">
+                        <label class="calibre f4" for="mce-EMAIL">Email Address <span class="asterisk">*</span>
+                        </label>
+                        <input type="email" name="EMAIL" class="required email" id="mce-EMAIL" value="" required="">
+                    </div>
                 </div>
 
                 <div id="mce-responses" class="clear foot">
@@ -653,12 +681,9 @@
                 
                         
                         
-                        <div  class="flex flex-column items-center justify-center">
-                            <a href="#" class="center tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
-                                <input role="button" style="margin-bottom: 0px; font-size: 1.5rem !important; font-weight: 700 !important; text-align: center;" type="submit" name="subscribe" id="mc-embedded-subscribe" class="button"
-                                value="Subscribe">
-                            </a>
-                        </div>
+                        <input role="button" type="submit" name="subscribe" id="mc-embedded-subscribe" 
+                        class="button"
+                        value="Subscribe">
 
                         
                         
