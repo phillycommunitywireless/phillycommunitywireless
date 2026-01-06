@@ -186,10 +186,14 @@ languages:
           url: "/about/news"
           parent: about-us
           weight: "5"
+        - name: Recursos
+          url: "/resources"
+          parent: about-us
+          weight: "6"
         - name: Preguntas Frecuentes
           url: "/about/faq"
           parent: about-us
-          weight: "6"
+          weight: "7"
 
         - name: Ubicación
           identifier: location
