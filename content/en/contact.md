@@ -9,14 +9,6 @@ segments:
   - template: contact-form
     title: "Reach out!"
     help_text: "For inquiries and more!"
-    form_params:
-      # - formkeep id, button name, redirect 
-      - exampletoken
-      - Submit (this text is changed in the front matter)
-      # Redirect to separate page 
-      - http://127.0.0.1:1313/contact_success
-      # Redirect to current page w/ url parameter to show success alert 
-    #   - http://127.0.0.1:1313/contact/?sent=1
 ---
 
 
