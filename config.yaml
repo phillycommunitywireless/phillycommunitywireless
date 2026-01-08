@@ -68,10 +68,14 @@ languages:
           url: "/about/news"
           parent: about-us
           weight: "5"
+        - name: Resources
+          url: "/resources"
+          parent: about-us
+          weight: "6"
         - name: FAQ
           url: "/about/faq"
           parent: about-us
-          weight: "6"
+          weight: "7"
      
           # Location
         - name: Location
@@ -112,6 +116,11 @@ languages:
             external: true
           parent: Docs
           weight: "3"
+
+        - name: Contact
+          url: /contact
+          identifier: Contact
+          weight: "6"
           
     weight: "1"
     params:
@@ -182,10 +191,14 @@ languages:
           url: "/about/news"
           parent: about-us
           weight: "5"
+        - name: Recursos
+          url: "/resources"
+          parent: about-us
+          weight: "6"
         - name: Preguntas Frecuentes
           url: "/about/faq"
           parent: about-us
-          weight: "6"
+          weight: "7"
 
         - name: Ubicación
           identifier: location
@@ -195,7 +208,7 @@ languages:
           parent: location
           weight: "1"
         - name: Cómo llegar aquí
-          url: "/about/location"
+          url: "/hq"
           parent: location
           weight: "2"
         - name: Monitores de aire
@@ -218,6 +231,10 @@ languages:
             external: true
           parent: documentos
           weight: "2"
+        - name: Contact
+          url: /contact
+          identifier: Contact
+          weight: "6"
     weight: "2"
     params:
       featured_text:

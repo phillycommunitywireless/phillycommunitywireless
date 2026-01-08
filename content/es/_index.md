@@ -22,7 +22,7 @@ segments:
         photo_alt_text: "Un cartel de PCW con el mensaje Wifi gratuito disponible aquí la información de contacto de PCW y los logotipos de las organizaciones asociadas."
         text: "**¡Apóyanos!** Apoya nuestro trabajo para proporcionar acceso esencial a Internet a personas y familias de Filadelfia."
         button_text: Apóyanos
-        button_href: "/support"
+        button_href: "/es/support"
         button_class: "bg-pcw-lilac"
 
   # Volunteer CTA
@@ -40,11 +40,13 @@ segments:
     text: "Nuestra red inalámbrica comunitaria existe actualmente en el norte de Filadelfia, centrada en **Norris Square, Fairhill y Kensington**. Si vives en los códigos postales 19122, 19133 o 19134, ¡ponte en contacto con nosotros! Consulta nuestro mapa para obtener más detalles sobre dónde puedes encontrarnos y conectarte."
     link:
       text: Donde estamos
-      href: /networklocation
+      href: /es/networkmap
     class: bg-light-gray
 
   # newsletter 
   - template: newsletter-verbose
+    title: Mantente en contacto
+    subtitle: Regístrete para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
 
   # Image
   - template: image
