@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://phillycommunitywireless.org/es/contact/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/contact/"
+                />
+  </url><url>
     <loc>https://phillycommunitywireless.org/es/support/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -235,9 +248,6 @@
                 hreflang="es"
                 href="https://phillycommunitywireless.org/es/getconnected/"
                 />
-  </url><url>
-    <loc>https://phillycommunitywireless.org/es/contact/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://phillycommunitywireless.org/es/privacy/</loc>
     <xhtml:link

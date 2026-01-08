@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact</title>
+      <link>https://phillycommunitywireless.org/contact/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thanks for reaching out!</title>
+      <link>https://phillycommunitywireless.org/contact_success/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/contact_success/</guid>
+      <description>We&amp;rsquo;ll be in contact shortly.</description>
+    </item>
+    
+    <item>
       <title>Shop PCW Merch</title>
       <link>https://phillycommunitywireless.org/merch/</link>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
