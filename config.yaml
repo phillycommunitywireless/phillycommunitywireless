@@ -116,6 +116,11 @@ languages:
             external: true
           parent: Docs
           weight: "3"
+
+        - name: Contact
+          url: /contact
+          identifier: Contact
+          weight: "6"
           
     weight: "1"
     params:
@@ -226,6 +231,10 @@ languages:
             external: true
           parent: documentos
           weight: "2"
+        - name: Contact
+          url: /contact
+          identifier: Contact
+          weight: "6"
     weight: "2"
     params:
       featured_text:
