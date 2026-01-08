@@ -1,13 +1,28 @@
-<section class="w-75-l w-100 center cf tl tc-ns f1 pt4 pb4 {{ .class }}">
+<section class="w-75-l w-100 center cf tl tc-ns f1 {{ .class }}">
 
-    <h1 class="f1 tl-l tc ph3 ma0-ns color-pcw-dark-blue">{{ .title | default "Contact Form Title"}}</h1>
-    
-    <div class="f3 tl-ns tc lh-copy ph3 mv0 mv3-ns">
-        {{ .help_text | markdownify | default "Default Help Text" }}
+    <div class="flex-l flex-column mt2 mw8 center">
+        <div class="center cf pv5-ns ph3 ph4-ns mw7">
+            <p class="f6 b helvetica tracked"></p>
+
+            <h1 class="f1 tl-l tc ph3 ma0-ns color-pcw-dark-blue">{{ .title | default "Contact Form Title"}}</h1>
+
+            <div class="f3 tl-ns tc lh-copy ph3 mv0 mv3-ns">
+                {{ .help_text | markdownify | default "Default Help Text" }}
+            </div>
+
+            <div>
+                <iframe
+                    data-tally-src="https://tally.so/embed/XxJAPP?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
+                    loading="lazy" width="100%" height="542" frameborder="0" marginheight="0" marginwidth="0"
+                    title="Contact Form Template"></iframe>
+                <script>var d = document, w = "https://tally.so/widgets/embed.js", v = function () { "undefined" != typeof Tally ? Tally.loadEmbeds() : d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function (e) { e.src = e.dataset.tallySrc })) }; if ("undefined" != typeof Tally) v(); else if (d.querySelector('script[src="' + w + '"]') == null) { var s = d.createElement("script"); s.src = w, s.onload = v, s.onerror = v, d.body.appendChild(s); }</script>
+            </div>
+
+        </div>
+
+
+
+
     </div>
 
-    <div>        
-        <iframe data-tally-src="https://tally.so/embed/XxJAPP?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="542" frameborder="0" marginheight="0" marginwidth="0" title="Contact Form Template"></iframe>
-<script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
-    </div>
 </section>
