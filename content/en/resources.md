@@ -3,7 +3,7 @@ layout: single
 title: Resources
 ---
 
-**Last Updated**: November 25th, 2025
+**Last Updated**: January 10, 2026
 
 *******
 Below are some resources to help you connect to affordable or free internet access, take digital literacy classes, and more. Check them out!
@@ -32,6 +32,11 @@ Below are some resources to help you connect to affordable or free internet acce
 **Description**: Join our free, digital skills workshops at convenient locations across Philadelphia. With a variety of workshop offerings, residents can improve computer skills, learn how to send emails, apply for jobs online, and more.
 **Location and Time**: Varies.
 **Register**: Learn more [here](https://beyondliteracy.org/digitalskills/).
+
+## Digital Literacy Training: Esperanza Hope Digital Skills (English and Spanish)
+**Description**: Esperanza’s Hope Digital Skills Literacy Project is designed to equip you with the tools you need to accomplish personal, educational, and professional goals. From workshops on how to use a computer and Google Suite, to digital skills for small business owners, the program offers a range of options for jumpstarting or enhancing your ability to use a computer for everyday life, education, and work.
+**Location and Time**: Varies.
+**Register**: Call 215-297-4641 and learn more [here](https://esperanza.eastern.edu/portfolio/hope-digital-skills-program/).
   
 ## Digital Literacy Training: Generations on Line   
 **Description**: Generations on Line guides individuals or organizations via training tools and tutorials in teaching Senior citizens how to use the Internet, email, texting, photos, apps, videochats, and all the basic tools, including voice recognition, to participate in the cyber world of endless possibilities.  
