@@ -16,7 +16,7 @@ segments:
       If you are interested in volunteering with PCW, please fill in our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj).
 
 
-      For other inquiries, please use the form below or leave us a voicemail at [(215)-316-5761](#). We’ll respond as soon as we can. 
+      For other inquiries, please use the form below or leave us a voicemail at [(215)-316-5761](#). You can also email us at info@phillycommunitywireless.org. We’ll respond as soon as we can. 
       
       
       Looking forward to connecting with you!
