@@ -17,7 +17,7 @@ segments:
       Si estás interesado en ser un voluntario con PCW, por favor, completa [nuestro formulario de inscripción para voluntarios].
 
 
-      Para cualquier otra pregunta, por favor usa el siguiente formulario de abajo o déjanos un mensaje de voz al número (215) 316-5761. Te responderemos lo más pronto posible. 
+      Para cualquier otra pregunta, por favor usa el siguiente formulario de abajo o déjanos un mensaje de voz al número (215) 316-5761. También puedes enviarnos un correo electrónico a info@phillycommunitywireless.org. Te responderemos lo más pronto posible. 
       
       
       ¡Esperemos conectar contigo!
