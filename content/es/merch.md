@@ -3,7 +3,7 @@ date: 2025-11-20
 title: "Artículos PCW en venta"
 
 segments: 
-  - template: merch-catalog
+  - template: image-catalog
     # title: "Currently Available"
     sections:
       - photo: "/images/merch/pcwhat.jpg"

@@ -171,26 +171,26 @@ Shows the event calendar
 
 ![A screenshot of the eventcalendar element on a website](./assets/readme/eventcalendar.png)
 
-#### `merch-catalog` 
+#### `image-catalog` 
 
-shows the merch catalog 
+Shows a catalog of images. Originally used to display the merch catalog, but made generic to show any image and some text. 
 
 ```yaml
-  - template: merch-catalog
-    # title: "Currently Available"
+  - template: image-catalog
     sections:
       - photo: "/images/merch/pcwhat.jpg"
         photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
-        item_name: PCW Hat
-        item_caption: Our embroidered 6-panel PCW hat in vintage wash is perfect for a relaxed wear. Made from 100% cotton twill, with an adjustable leather strap.
-        item_price: $40
+        heading_1: PCW Hat  
+        subheading: $40 
+        description_text: Our embroidered 6-panel PCW hat in vintage wash is perfect for a relaxed wear. Made from 100% cotton twill, with an adjustable leather strap.
         button_text: Purchase 
         button_href: "https://buy.stripe.com/5kQ3co8Jz6YD3i25zm5c409"
+
 
       # ...add sections as needed for the amount of items in the catalog
 ```
 
-![A screenshot of the merch-catalog element on a website](./assets/readme/merch-catalog.png)
+![A screenshot of the image-catalog element on a website](./assets/readme/image-catalog.png)
 
 #### `newsletter-fname-lname` and `newsletter-verbose`
 

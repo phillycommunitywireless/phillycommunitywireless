@@ -12,20 +12,22 @@
             <div class="h-100 bg-white flex flex-column justify-between">
                 <div>
                     <img src="{{ .photo }}" class="cubed-img br3" alt="{{.photo_alt_text}}">
-                    {{- if .item_name -}}
-                    <h2 class="tc tl-ns">{{ .item_name | markdownify }}</h2>
+                    {{- if .heading_1 -}}
+                    <h2 class="tc tl-ns">{{ .heading_1 | markdownify }}</h2>
                     {{ end }}
-                    <h2 class="black mv0 tc tl-ns">{{ .item_price }}</h2>
-                    <p class="f4 tc tl-ns mv2 lh-copy">{{ .item_caption | markdownify }}</p>
+                    <h2 class="black mv0 tc tl-ns">{{ .subheading }}</h2>
+                    <p class="f4 tc tl-ns mv2 lh-copy">{{ .description_text | markdownify }}</p>
                 </div>
 
                 <div>
+                    {{- if .button_text -}}
                     <div class="flex items-center">
                         <a role="button" href="{{ .button_href }}"
                             class="center tc dib link mv3 pa3 ph4 f3 b bg-pcw white {{ .button_class }}">
-                            {{ .button_text | default "Placeholder link" }}
+                            {{ .button_text }}
                         </a> 
                     </div>
+                    {{- end -}}
                 </div>
             </div>
         </div>
