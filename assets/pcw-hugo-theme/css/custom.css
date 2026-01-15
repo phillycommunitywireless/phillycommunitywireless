@@ -320,6 +320,15 @@ footer {
   object-position: center;
 }
 
+/* square images for merch catalog */
+.square-img {
+  aspect-ratio: 1/1;
+  width: 100%;
+  /* remove based off of image display feedback */
+  object-fit: cover;
+  object-position: center;
+}
+
 /* call-to-action-photo-right */
 @media screen and (min-width: 80em) {
   .flex-row-xl {

@@ -5,7 +5,9 @@
 
 {{ define "main" }}
 <div class="flex-l flex-column mt2 mw8 center">
-  <article class="center cf pv5-ns ph3 ph4-ns mw7">
+  {{ partial "segments.html" .Params.segments }}
+
+  <article class="center cf pb5-ns ph3 ph4-ns mw7">
     <header>
       <h1 class="f1">{{ .Title }}</h1>
     </header>
@@ -18,6 +20,5 @@
       {{ .Content }}
     </div>
   </article>
-  {{ partial "segments.html" .Params.segments }}
 </div>
 {{ end }}
