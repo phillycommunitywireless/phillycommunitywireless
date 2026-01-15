@@ -1,17 +1,17 @@
+{{ $class := .class }}
 <section class="cf center w-75-l w-100 pv4">
+    {{- if .title -}}
+    <div>
+        <h1 style="padding-bottom:2rem" class="tl f2 f1-ns center ma0 pa2 color-pcw-dark-blue">{{ .title }}</h1>
+    </div>
+    {{- end -}}
     <div class="flex flex-wrap items-stretch mw9 center ph3-ns">
-        {{- if .title -}}
-        <div>
-            <h1 style="padding-bottom:2rem" class="tl f2 f1-ns center ma0 pa2 color-pcw-dark-blue">{{ .title }}</h1>
-        </div>
-        {{- end -}}
-
         {{ range $i, $section := .sections }}
         {{ with $section }}
-        <div class="merch-item ns fl w-100 w-50-m w-third-l pv2 ph3">
+        <div class="merch-item ns fl pv2 ph3 {{ $class }}">
             <div class="h-100 bg-white flex flex-column justify-between">
                 <div>
-                    <img src="{{ .photo }}" class="cubed-img br3" alt="{{.photo_alt_text}}">
+                    <img src="{{ .photo }}" class="{{ .class }}" alt="{{.photo_alt_text}}">
                     {{- if .heading_1 -}}
                     <h2 class="tc tl-ns">{{ .heading_1 | markdownify }}</h2>
                     {{ end }}

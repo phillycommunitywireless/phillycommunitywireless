@@ -5,6 +5,7 @@ title: "Shop PCW Merch"
 segments: 
   - template: image-catalog
     # title: "Currently Available"
+    class: "w-100 w-50-m w-third-l"
     sections:
       - photo: "/images/merch/pcwhat.jpg"
         photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
@@ -13,6 +14,7 @@ segments:
         description_text: Our embroidered 6-panel PCW hat in vintage wash is perfect for a relaxed wear. Made from 100% cotton twill, with an adjustable leather strap.
         button_text: Purchase 
         button_href: "https://buy.stripe.com/5kQ3co8Jz6YD3i25zm5c409"
+        class: "cubed-img br3"
 
       - photo: "/images/merch/pcwtote.png"
         photo_alt_text: "A large beige bag with PCW's logo, a bell with a Wi-Fi signal, and PhillyCommunityWireless.org written on it; the back of the bag is plain."
