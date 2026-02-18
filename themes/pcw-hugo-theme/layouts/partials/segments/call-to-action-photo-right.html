@@ -4,7 +4,6 @@
 <section class="center cf tl tc-ns f1 pt4 pb4 {{ .class }}">
     <div class="w-75-l center flex flex-row{{$reverse}}-xl flex-column{{$reverse}} flex-column-reverse items-stretch w-100 h-auto-l f3">
 
-        <!-- left-hand title, text, btn -->
         <div class="flex flex-column flex-1-l center justify-center pv2 ph4-l ph3">
             {{- if .title -}}
             <h1 class="tc mb0">
@@ -12,15 +11,10 @@
             </h1>
             {{- end -}}
 
-            <!-- text -->
             <div class="lh-copy tl tc-ns {{ .text_class }}">
-                <!-- <p>
-                    {{ .text | markdownify }}
-                </p> -->
                 {{ .text | markdownify }}
             </div>
          
-            <!-- button -->
             {{- if .button -}}
             {{ with .button }}
             <div class="flex items-center">

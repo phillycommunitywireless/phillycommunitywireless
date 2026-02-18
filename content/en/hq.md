@@ -19,19 +19,15 @@ segments:
     
   - template: call-to-action-photo-right
     title: "Getting Here"
-    text: "## Public Transit 
-
-Our headquarters at NSNP is a quick walk from either the York-Dauphin or Berks Market-Frankford Line SEPTA stops. 
-
-
-## Driving 
-
-Street parking is available around Norris Square Park; availabiliy is limited. 
-
-
-## Cycling 
-
-There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Ground Coffee. "
+    text: |
+      ## Public Transit{class="top-1 relative mb0"}
+      Our headquarters at NSNP is a quick walk from either the York-Dauphin or Berks Market-Frankford Line SEPTA stops.
+      
+      ## Driving{class="top-1 relative mb0"}
+      Street parking is available around Norris Square Park; availabiliy is limited. 
+      
+      ## Cycling{class="top-1 relative mb0"}
+      There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Ground Coffee.
     photo: /images/hq-location-map.jpg
     photo_alt_text: "Map of Norris Square Park and the surrounding streets with marker for 2141 Howard Street, the Norris Square Neighborhood Project, SEPTA MFL stops York-Dauphin and Berks, and Indego Bike station at 2nd and Norris."
     reverse: true
