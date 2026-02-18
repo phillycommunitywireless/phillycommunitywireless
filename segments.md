@@ -130,7 +130,10 @@ A version of `call-to-action` with the Philly Commmnity Wireless webmap embedded
 A version of `call-to-action` with the photo on the right by default 
 ```yml
   - template: call-to-action-photo-right
+    # title: "..." (Optional)
+    # title_class: "..." (Optional)
     text: "**Philly Community Wireless** is building community-controlled wireless internet networks in Philadelphia. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
+    # text_class "..." (Optional)
     photo: "/images/web updates/clearfield-install.jpg"
     photo_alt_text: "4 PCW Volunteers on a roof, with one using a drill to secure a pole that the access point device is on."
     button: 
