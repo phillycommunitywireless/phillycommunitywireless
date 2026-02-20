@@ -50,7 +50,7 @@ segments:
         class: "square-img br3 w-100"
         flex_basis: 33%
 
-      - photo: "/images/ChrisMTabling-Square.jpg"
+      - photo: "/images/ChrisMHeadshot-Square.jpg"
         photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
         heading_1: Chris Mehretab  
         subheading: Content Coordinator
@@ -60,11 +60,11 @@ segments:
         class: "square-img br3 w-100"
         flex_basis: 33%
 
-      - photo: "/images/EugeneRHeadshot-Square.jpg"
+      - photo: "/images/FranciscoOHeadshot-Square.jpg"
         # photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
         heading_1:  Francisco Oquendo
         subheading: UTP Apprentice
-        description_text: eugene@phillycommunitywireless.org
+        description_text: foquendo@launchphilly.org
         class: "square-img br3 w-100"
         flex_basis: 33%
 
