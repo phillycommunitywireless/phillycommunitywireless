@@ -19,19 +19,15 @@ segments:
     
   - template: call-to-action-photo-right
     title: "Cómo llegar"
-    text: "## Transporte público 
+    text: |
+      ## Transporte público 
+      Nuestra sede central en el edificio de NSNP se encuentra a pocos pasos de las paradas de SEPTA de las líneas York-Dauphin o Berks Market-Frankford. 
 
-Nuestra sede central en el edificio de NSNP se encuentra a pocos pasos de las paradas de SEPTA de las líneas York-Dauphin o Berks Market-Frankford. 
+      ## En automóvil
+      Hay estacionamiento disponible en las calles alrededor del parque Norris Square, pero a veces las plazas son limitadas. 
 
-
-## En automóvil
-
-Hay estacionamiento disponible en las calles alrededor del parque Norris Square, pero a veces las plazas son limitadas. 
-
-
-## En bicicelta
-
-Hay una parada de Indego a unos 5 minutos a pie, en la esquina de 2nd y Norris, junto a The Ground Coffee."
+      ## En bicicelta
+      Hay una parada de Indego a unos 5 minutos a pie, en la esquina de 2nd y Norris, junto a The Ground Coffee.
     photo: /images/hq-location-map.jpg
     photo_alt_text: "Mapa del parque Norris Square y las calles circundantes con marcador para el 2141 de Howard Street, el proyecto Norris Square Neighborhood, las paradas York-Dauphin y Berks del metro ligero SEPTA MFL y la estación de bicicletas Indego en la 2ª y Norris."
     reverse: true
