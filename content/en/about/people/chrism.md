@@ -7,6 +7,6 @@ aliases:
 
 ---
 
-{{< figure class="figure-center" src="/images/ChrisMTabling-Square.jpg" width=200 height=200 alt="Headshot of Chris Mehretab." >}}  
+{{< figure class="figure-center" src="/images/ChrisMHeadshot-Square.jpg" width=200 height=200 alt="Headshot of Chris Mehretab." >}}  
 
 Originally from Harrisburg, PA, Chris initially joined the PCW team as an Intern in the Summer of 2021. From there, his work grew as the Community Engagement Liaison, into his current role as Content Coordinator. He has assisted in multiple outreach forums including canvassing, tabling for community events, and operating all PCW related social media channels. Outside of PCW, Chris works at a law firm in the city and enjoys DJing and playing with his cat Puffin.

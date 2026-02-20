@@ -4,7 +4,7 @@ title: "Shop PCW Merch"
 
 segments: 
   - template: image-catalog
-    # title: "Currently Available"
+    class: "w-100 w-50-m w-third-l"
     sections:
       - photo: "/images/merch/pcwhat.jpg"
         photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
@@ -13,6 +13,8 @@ segments:
         description_text: Our embroidered 6-panel PCW hat in vintage wash is perfect for a relaxed wear. Made from 100% cotton twill, with an adjustable leather strap.
         button_text: Purchase 
         button_href: "https://buy.stripe.com/5kQ3co8Jz6YD3i25zm5c409"
+        class: "cubed-img br3"
+        flex_basis: 33%
 
       - photo: "/images/merch/pcwtote.png"
         photo_alt_text: "A large beige bag with PCW's logo, a bell with a Wi-Fi signal, and PhillyCommunityWireless.org written on it; the back of the bag is plain."
@@ -21,6 +23,7 @@ segments:
         subheading: $18
         button_text: Purchase 
         button_href: "https://buy.stripe.com/5kQfZa5xn1Ej9Gq3re5c40a" 
+        flex_basis: 33%
         
       - photo: "/images/merch/pcwshirt.png"
         photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest. The back of the t-shirt has the text Philly Community Wireless Get Connected in a circle around PCW's logo, a bell with a Wi-Fi signal."
@@ -29,6 +32,8 @@ segments:
         subheading: "$20"
         button_text: Purchase 
         button_href: "https://buy.stripe.com/eVq00c3pfer5g4ObXK5c408"
+        flex_basis: 33%
+
 
       - photo: "/images/merch/pcw-tote-shirt.jpg"
         photo_alt_text: "A large beige bag with PCW's logo, a bell with a Wi-Fi signal, and PhillyCommunityWireless.org written on it; a t-shirt with a small bell and the words Philly Community Wireless on the left chest."
@@ -37,6 +42,8 @@ segments:
         subheading: $38
         button_text: Purchase 
         button_href: "https://buy.stripe.com/cNieV6gc13Mr7yi1j65c40b" 
+        flex_basis: 33%
+
 
       - photo: "/images/merch/pcw-hat-tote.jpg"
         photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and a large beige bag with PCW's logo, a bell with a Wi-Fi signal, and PhillyCommunityWireless.org written on it."
@@ -45,6 +52,8 @@ segments:
         subheading: $58
         button_text: Purchase 
         button_href: "https://buy.stripe.com/cNidR26Brdn12dY6Dq5c40c" 
+        flex_basis: 33%
+
 
       - photo: "/images/merch/pcw-shirt-hat.jpg"
         photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest; a purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front."
@@ -53,6 +62,8 @@ segments:
         subheading: $60
         button_text: Purchase 
         button_href: "https://buy.stripe.com/3cI28k5xn2In2dYf9W5c40d" 
+        flex_basis: 33%
+
 
       - photo: "/images/merch/pcw-tote-hat-shirt.jpg"
         photo_alt_text: "Three items: a large beige bag with PCW's logo, a bell with a Wi-Fi signal, and PhillyCommunityWireless.org written on it; a purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front; and a t-shirt with a small bell and the words Philly Community Wireless on the left chest."
@@ -61,6 +72,8 @@ segments:
         subheading: $78
         button_text: Purchase 
         button_href: "https://buy.stripe.com/fZueV69NDer53i27Hu5c40e" 
+        flex_basis: 33%
+
 
 ---
 
