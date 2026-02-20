@@ -1,56 +1,73 @@
 ---
 date: 2024-07-01
-# title: "Our Team"
+title: "People"
 layout: "people/people"
 aliases:
     # old people link
     - /people
 segments:
     - template: image-catalog
-      class: "w-50"
-      title: "Our Team"
+      class: "w-100 w-50-m w-third-l"
+      title: "Staff"
       sections:
       - photo: "/images/AlexWC_Portrait.jpg"
         photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
         heading_1: "[Alex Wermer-Colan](alexwc)"
         subheading: Executive Director
         description_text: alex@phillycommunitywireless.org
+        # description_text: |
+            #### alex@phillycommunitywireless.org{.mv0 .di .email-address}
         class: "square-img br3 w-100"
+        flex_basis: 33%
 
       - photo: "/images/LeannePHeadshot-Square.jpg"
         photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
         heading_1: "Leanne Przybylowski"
         subheading: Community Outreach Manager 
         description_text: leanne@phillycommunitywireless.org
+        # description_text: |
+            #### leanne@phillycommunitywireless.org{.mv0 .di .email-address}
         class: "square-img br3 w-100"
+        flex_basis: 33%
 
       - photo: "/images/EugeneRHeadshot-Square.jpg"
         photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
         heading_1: Eugene Ryoo  
         subheading: Technician
         description_text: eugene@phillycommunitywireless.org
+        # description_text: |
+            #### eugene@phillycommunitywireless.org{.mv0 .di .email-address}
         class: "square-img br3 w-100"
+        flex_basis: 33%
 
       - photo: "/images/ZoeKHeadshot-Square.jpg"
         photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
         heading_1: Zoe Kerrich  
         subheading: Installer
         description_text: zoe@phillycommunitywireless.org
+        # description_text: |
+            #### zoe@phillycommunitywireless.org{.mv0 .di .email-address}
         class: "square-img br3 w-100"
+        flex_basis: 33%
 
       - photo: "/images/ChrisMTabling-Square.jpg"
         photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
         heading_1: Chris Mehretab  
         subheading: Content Coordinator
         description_text: chris@phillycommunitywireless.org
+        # description_text: |
+            #### chris@phillycommunitywireless.org{.mv0 .di .email-address}
         class: "square-img br3 w-100"
+        flex_basis: 33%
 
-      - photo: "/static/fontawesome/svgs/solid/horse-head.svg"
+      - photo: "/images/EugeneRHeadshot-Square.jpg"
         # photo_alt_text: "A purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front, and the words Philly Community Wireless at the back."
         heading_1:  Francisco Oquendo
         subheading: UTP Apprentice
+        description_text: eugene@phillycommunitywireless.org
         class: "square-img br3 w-100"
-     
+        flex_basis: 33%
+
 ---
 
 <!-- ## Staff -->

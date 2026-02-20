@@ -1,14 +1,34 @@
 {{ $class := .class }}
-<section class="cf center w-75-l w-100 pv4">
+
+<section class="cf center w-75-l w-100 ">
     {{- if .title -}}
     <div>
-        <h1 style="padding-bottom:2rem" class="tl f2 f1-ns center ma0 pa2 color-pcw-dark-blue">{{ .title }}</h1>
+        <h1 class="tl f2 f1-ns center ma0 pt5 pb2 ph2 color-pcw-dark-blue">{{ .title }}</h1>
     </div>
     {{- end -}}
-    <div class="flex flex-wrap items-stretch mw9 center ph3-ns">
+    <div style="row-gap: 1rem; column-gap: 0.5rem;"
+        class="flex justify-center justify-around-ns justify-between-xl flex-wrap items-stretch mw9 center ph2-ns">
         {{ range $i, $section := .sections }}
         {{ with $section }}
-        <div class="merch-item ns fl pv2 ph3 {{ $class }}">
+        <style>
+            .merch-item {
+                flex-basis: calc({{.flex_basis}} - 0.5rem);
+            }
+
+            @media (max-width: 959px) {
+                .merch-item {
+                    flex-basis: calc(40% - 0.5rem);
+                }
+            }
+
+            @media (max-width: 400px) {
+                .merch-item {
+                    flex-basis: calc(80% - 0.5rem);
+                }
+            }
+        </style>
+
+        <div class="merch-item ns fl pv2 {{ $class }}">
             <div class="h-100 bg-white flex flex-column justify-between">
                 <div>
                     <img src="{{ .photo }}" class="{{ .class }}" alt="{{.photo_alt_text}}">
@@ -16,7 +36,8 @@
                     <h2 class="tc tl-ns">{{ .heading_1 | markdownify }}</h2>
                     {{ end }}
                     <h2 class="black mv0 tc tl-ns">{{ .subheading }}</h2>
-                    <p class="f4 tc tl-ns mv2 lh-copy">{{ .description_text | markdownify }}</p>
+                    <p style="overflow: hidden; text-overflow: ellipsis; display: block;"
+                        class="f4 tc tl-ns mv2 lh-copy">{{ .description_text }}</p>
                 </div>
 
                 <div>
@@ -25,7 +46,7 @@
                         <a role="button" href="{{ .button_href }}"
                             class="center tc dib link mv3 pa3 ph4 f3 b bg-pcw white {{ .button_class }}">
                             {{ .button_text }}
-                        </a> 
+                        </a>
                     </div>
                     {{- end -}}
                 </div>
