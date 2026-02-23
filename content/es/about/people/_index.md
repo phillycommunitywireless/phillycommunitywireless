@@ -5,35 +5,59 @@ layout: "people/people"
 aliases:
     # old people link
     - /people
- 
+segments:
+    - template: image-catalog
+      class: "w-100 w-50-m w-third-l"
+      title: "Personal"
+      sections:
+      - photo: "/images/AlexWC_Portrait.jpg"
+        photo_alt_text: ""
+        heading_1: "[Alex Wermer-Colan](alexwc)"
+        subheading: Director Ejecutivo
+        description_text: alex@phillycommunitywireless.org
+        class: "square-img br3 w-100"
+        flex_basis: 33%
+
+      - photo: "/images/LeannePHeadshot-Square.jpg"
+        photo_alt_text: ""
+        heading_1: "[Leanne Przybylowski](leannep)"
+        subheading: Administradora de relaciones comunitarias 
+        description_text: leanne@phillycommunitywireless.org
+        class: "square-img br3 w-100"
+        flex_basis: 33%
+
+      - photo: "/images/EugeneRHeadshot-Square.jpg"
+        photo_alt_text: ""
+        heading_1: "[Eugene Ryoo](eugener)"
+        subheading: Técnico
+        description_text: eugene@phillycommunitywireless.org
+        class: "square-img br3 w-100"
+        flex_basis: 33%
+
+      - photo: "/images/ChrisMHeadshot-Square.jpg"
+        photo_alt_text: ""
+        heading_1: "[Chris Mehretab](chrism)"  
+        subheading: Coordinador de contenido
+        description_text: chris@phillycommunitywireless.org
+        class: "square-img br3 w-100"
+        flex_basis: 33%
+
+      - photo: "/images/ZoeKHeadshot-Square.jpg"
+        photo_alt_text: ""
+        heading_1: "[Zoe Kerrich](zoek)"  
+        subheading: Instaladora
+        description_text: zoe@phillycommunitywireless.org
+        class: "square-img br3 w-100"
+        flex_basis: 33%
+
+      - photo: "/images/FranciscoOHeadshot-Square.jpg"
+        photo_alt_text: ""
+        heading_1:  Francisco Oquendo
+        subheading: Aprendiz del Urban Technology Project
+        description_text: foquendo@launchphilly.org
+        class: "square-img br3 w-100"
+        flex_basis: 33%
 ---
-
-## Personal
-
-**Director Ejecutivo**  
-[Alex Wermer-Colan](alexwc)
-alex@phillycommunitywireless.org
-  
-**Administradora de relaciones comunitarias**     
-[Leanne Przybylowski](leannep) 
-leanne@phillycommunitywireless.org  
-
-**Técnico**  
-[Eugene Ryoo](eugener)
-eugene@phillycommunitywireless.org  
-
-**Instaladora**  
-[Zoe Kerrich](zoek) 
-zoe@phillycommunitywireless.org  
-
-**Coordinador de contenido**  
-[Chris Mehretab](chrism)
-chris@phillycommunitywireless.org  
-
-**Aprendiz del Urban Technology Project**  
-Francisco Oquendo
-
-<br/>
 
 ## Consejo de asesores
 
