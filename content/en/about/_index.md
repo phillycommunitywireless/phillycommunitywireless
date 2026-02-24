@@ -47,7 +47,7 @@ We envision a just future where everyone can meaningfully access the internet, r
 
 # Video embed
 - template: video
-  src: https://www.youtube.com/watch?v=FcReKkPl-6M&t=75s
+  src: "https://www.youtube-nocookie.com/embed/FcReKkPl-6M"
   title: Philly Community Wireless documentary video produced by the Big Picture Alliance.
   text: None.
   header: 
