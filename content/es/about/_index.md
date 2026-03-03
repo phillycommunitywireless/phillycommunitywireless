@@ -43,7 +43,7 @@ Imaginamos un futuro justo en el que todos puedan acceder a Internet de manera s
 **Afirmamos** que las personas son más importantes que las ganancias y que los principios de cooperación y ayuda mutua pueden hacer crecer un tipo de red digital fundamentalmente diferente.
 
 
-**Nos comprometemos** a empezar poco a poco, aprender de nuestros errores e invitar a profesores, organizadores, usuarios y tecnólogos a que aporten sus opiniones y puntos de vista para construir esta red."
+**Nos comprometemos** a empezar poco a poco, aprender de nuestros errores e invitar a profesores, organizadores, tecnólogos y miembros de la comunidad a que aporten sus opiniones y puntos de vista para construir esta red."
 
 # Video embed
 - template: video
