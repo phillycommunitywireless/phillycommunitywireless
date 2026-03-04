@@ -2,163 +2,134 @@
 date: 2024-07-03
 title: "Partners"
 layout: "people/people"
+segments:
+
+    # PW feature 
+    - template: call-to-action-photo-right
+      title: "PhillyWisper"
+      text: |
+        PhillyWisper is ...  
+      photo: "/images/web updates/PW.jpg"
+      photo_alt_text: ""
+    #   button: 
+    #     button_text: "What We Do"
+    #     button_href: "about/"
+      # no_button_arrow: "true"
+      class: bg-light-gray
+
+    - template: call-to-action-photo-right
+      title: "Norris Square Neighborhood Project"
+      text: |
+        Norris Square Neighborhood Project is ...  
+      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSviPWfPknqzCKhDD9S_33kZeUToFUOwHRMRA&s"
+      photo_alt_text: ""
+    #   button: 
+    #     button_text: "What We Do"
+    #     button_href: "about/"
+      # no_button_arrow: "true"
+      class: bg-light-gray
+      reverse: true
+
+    # Norris Square
+    - template: partner-card-container
+      title: Norris Square Community Partners
+      sections:
+        - partner:
+            partner_name: "Friends of Norris Square Park"
+            partner_link: "https://www.facebook.com/friendsofnorrissquarepark"
+            img_src: "/images/partners/fnsp.png"
+            img_alt: "Friends of Norris Square Park"
+        - partner:
+            partner_name: "GALAEI"
+            partner_link: "https://www.galaeiqtbipoc.org/"
+            img_src: "/images/partners/galaei.png"
+            img_alt: "GALAEI"
+        - partner:
+            partner_name: "Kensington Branch of the Free Library"
+            partner_link: "https://libwww.freelibrary.org/locations/kensington-library"
+            img_src: "/images/partners/flp.png"
+            img_alt: "Kensington Branch of the Free Library"
+        - partner:
+            partner_name: "Xiente (formerly Norris Square Community Alliance)"
+            partner_link: "https://www.xiente.org/"
+            img_src: "/images/partners/xiente.png"
+            img_alt: "Xiente"
+        - partner:
+            partner_name: "Norris Square Neighborhood Project"
+            partner_link: "https://myneighborhoodproject.org/"
+            img_src: "/images/partners/nsnp.svg"
+            img_alt: "Norris Square Neighborhood Project"
+        - partner:
+            partner_name: "Open Kitchen Sculpture Garden"
+            partner_link: "https://www.facebook.com/theopenkitchensculpturegarden"
+            img_src: "/images/partners/oksg.jpg"
+            img_alt: "Open Kitchen Sculpture Garden"
+        - partner:
+            partner_name: "West Kensington Ministries"
+            partner_link: "https://westkensingtonministry.com/"
+            img_src: "/images/partners/wkm.png"
+            img_alt: "West Kensington Ministries"
+        - partner:
+            partner_name: "Cesar Andreu Iglesias Gardens"
+            partner_link: "https://iglesiasgardens.com/"
+            img_src: "/images/partners/caig.png"
+            img_alt: "Open Kitchen Sculpture Garden"
+    
+    # Philly Community Partners
+    - template: partner-card-container
+      title: Philly Community Partners
+      sections:
+        - partner:
+            partner_name: "PhillyWisper"
+            partner_link: "https://phillywisper.net/"
+            img_src: "/images/partners/wisper.png"
+            img_alt: "PhillyWisper"
+        - partner:
+            partner_name: "Called to Serve"
+            partner_link: "https://calledtoservecdc.org/"
+            img_src: "/images/partners/cts.png"
+            img_alt: "Called to Serve"
+        - partner:
+            partner_name: "Free Library of Philadelphia"
+            partner_link: "https://www.freelibrary.org/"
+            img_src: "/images/partners/flp.png"
+            img_alt: "Free Library of Philadelphia"
+        - partner:
+            partner_name: "HACE"
+            partner_link: "https://www.hacecdc.org/"
+            img_src: "/images/partners/hace.png"
+            img_alt: "HACE"
+        - partner:
+            partner_name: "Holobiont Lab"
+            partner_link: "https://holobiontlab.org/"
+            img_src: "/images/partners/holobiont.png"
+            img_alt: "Holobiont Lab"
+        - partner:
+            partner_name: "Village of the Arts and Humanities"
+            partner_link: "http://spaces.villagearts.org/"
+            img_src: "/images/partners/voah.png"
+            img_alt: "Village of the Arts and Humanities"
+        - partner:
+            partner_name: "Philly Tech Justice"
+            partner_link: "https://movementalliance.org/blog/project/philly-tech-justice/"
+            img_src: "/images/partners/ptj.png"
+            img_alt: "Philly Tech Justice"
+        - partner:
+            partner_name: "Temple University, Digital Access Center"
+            partner_link: "https://lenfestcenter.temple.edu/Digital-Equality-Center/"
+            img_src: "/images/partners/temple.svg"
+            img_alt: "Temple University logo"
+        - partner:
+            partner_name: "Kensington Corridor Trust"
+            partner_link: "https://kctphilly.org/"
+            img_src: "/images/partners/kct.png"
+            img_alt: "Kensington Corridor Trustlogo"
+
+    - template: markdown
+      url: other_partners.md
+      class: | 
+        center cf ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img near-black
+
 ---
 
-## Norris Square Community Partners
-
-<div class="partner-section">
-
-<div class="partner-card">
-    <img alt="Friends of Norris Square Park" src="/images/partners/fnsp.png"/>
-    <div class="partner-desc">
-        <a href="https://www.facebook.com/friendsofnorrissquarepark/">Friends of Norris Square Park</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="GALAEI" src="/images/partners/galaei.png"/>
-    <div class="partner-desc">
-        <a href="https://www.galaeiqtbipoc.org/">GALAEI</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Kensington Branch of the Free Library" src="/images/partners/flp.png"/>
-    <div class="partner-desc">
-        <a href="https://libwww.freelibrary.org/locations/kensington-library">Kensington Branch of the Free Library</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Xiente" src="/images/partners/xiente.png"/>
-    <div class="partner-desc">
-        <a href="https://www.xiente.org/">Xiente</a> (formerly Norris Square Community Alliance)
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Norris Square Neighborhood Project" src="/images/partners/nsnp.svg"/>
-    <div class="partner-desc">
-        <a href="https://myneighborhoodproject.org/">Norris Square Neighborhood Project</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Open Kitchen Sculpture Garden" src="/images/partners/oksg.jpg"/>
-    <div class="partner-desc">
-        <a href="https://www.facebook.com/theopenkitchensculpturegarden">Open Kitchen Sculpture Garden</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="West Kensington Ministries" src="/images/partners/wkm.png"/>
-    <div class="partner-desc">
-        <a href="https://westkensingtonministry.com/">West Kensington Ministries</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Cesar Andreu Iglesias Gardens" src="/images/partners/caig.png"/>
-    <div class="partner-desc">
-        <a href="https://iglesiasgardens.com/">Cesar Andreu Iglesias Gardens</a>
-    </div>
-</div>
-
-<!-- insert new Norris Square Community Partner above this line -->
-
-</div>
-
-<br/>
-
-## Philly Community Partners
-
-<div class="partner-section">
-
-<div class="partner-card">
-    <img alt="PhillyWisper" src="/images/partners/wisper.png"/>
-    <div class="partner-desc">
-        <a href="https://phillywisper.net/">PhillyWisper</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Called to Serve" src="/images/partners/cts.png"/>
-    <div class="partner-desc">
-        <a href="https://calledtoservecdc.org/">Called to Serve</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Free Library of Philadelphia" src="/images/partners/flp.png"/>
-    <div class="partner-desc">
-        <a href="https://www.freelibrary.org/">Free Library of Philadelphia</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="HACE" src="/images/partners/hace.png"/>
-    <div class="partner-desc">
-        <a href="https://www.hacecdc.org/">HACE</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Holobiont Lab" src="/images/partners/holobiont.png"/>
-    <div class="partner-desc">
-        <a href="https://holobiontlab.org/">Holobiont Lab</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Village of the Arts and Humanities" src="/images/partners/voah.png"/>
-    <div class="partner-desc">
-        <a href="http://spaces.villagearts.org/">Village of the Arts and Humanities</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Philly Tech Justice" src="/images/partners/ptj.png"/>
-    <div class="partner-desc">
-        <a href="https://movementalliance.org/blog/project/philly-tech-justice/">Philly Tech Justice</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Temple University logo" src="/images/partners/temple.svg"/>
-    <div class="partner-desc">
-        <a href="https://lenfestcenter.temple.edu/Digital-Equality-Center">Temple University, Digital Equity Center</a>
-    </div>
-</div>
-
-<div class="partner-card">
-    <img alt="Kensington Corridor Trust" src="/images/partners/kct.png"/>
-    <div class="partner-desc">
-        <a href="https://kctphilly.org/">Kensington Corridor Trust</a>
-    </div>
-</div>
-
-<!-- insert new Philly Community Partner above this line -->
-
-</div>
-
-<br/>
-
-## Graphic Design
-
-Katie Garth
-
-<br/>
-
-## Video Production 
-
-Eli Laban, *Big Picture Alliance*
-
-<br/>
-
-## Legal Support
-
-[Dentons, Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
-
-## Funders
-
-For more information on our institutional funders, visit our [Funders page](/about/funders)
+Some intro text about our partners... Some intro text about our partners...Some intro text about our partners...Some intro text about our partners...Some intro text about our partners...Some intro text about our partners...

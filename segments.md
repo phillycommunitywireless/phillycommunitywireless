@@ -310,3 +310,33 @@ Contact form - displays an iframe with a Tally form embed.
 ```
 
 ![A screenshot of the contact form element on a website](/assets/readme/contact-form.png)
+
+#### `partner-card-container`
+Contains frames of images 
+```yaml
+    - template: partner-card-container
+      title: Socios comunitarios de Norris Square
+      sections:
+        - partner:
+            partner_name: "Friends of Norris Square Park"
+            partner_link: "https://www.facebook.com/friendsofnorrissquarepark"
+            img_src: "/images/partners/fnsp.png"
+            img_alt: "Friends of Norris Square Park"
+        - partner:
+            partner_name: "GALAEI"
+            partner_link: "https://www.galaeiqtbipoc.org/"
+            img_src: "/images/partners/galaei.png"
+            img_alt: "GALAEI"
+```
+
+#### Adding partner logos / new partners to Partners page
+
+After navigating to `static/images`, you can add partner logos in PNG, JPG/JPEG, or SVG formats to the folder titled `partners`.
+
+Then, you can create a new "partner card" on the Partners page (located in `content/en/partners.md` or `content/es/partners.md`) by adding a new entry to the yaml "sections" list of the `partner-card-container` partial
+
+#### Adding funder logos / new funders to Funders page
+
+After navigating to `static/images`, you can add funder logos in PNG, JPG/JPEG, or SVG formats to the folder titled `funders`.
+
+Then, you can create a new "funder card" on the Funders page (located in `content/en/funders.md` or `content/es/funders.md`) by adding a new entry to the yaml "sections" list of the `partner-card-container` partial
