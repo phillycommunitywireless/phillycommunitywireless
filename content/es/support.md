@@ -21,7 +21,7 @@ segments:
           button_href: "https://phillycommunitywireless.allyrafundraising.com"
         - photo: "/images/web updates/Group_Power Up.png"
           photo_alt_text: "5 personas sonrientes posando para una foto con camisetas a juego de PCW."
-          text: "¡Echas un vistazo a los productos de PCW! Vendemos camisetas, bolsos y gorras de PCW. Los ingresos de tu compra se destinarán directamente a apoyar nuestro trabajo. Además, al representar a Philly Community Wireless, ¡puedes ayudar a difundir nuestro trabajo! Haznos saber qué productos te gustaría ver próximamente."
+          text: "¡Echas un vistazo a los productos de PCW! Vendemos camisetas y gorras de PCW. Los ingresos de tu compra se destinarán directamente a apoyar nuestro trabajo. Además, al representar a Philly Community Wireless, ¡puedes ayudar a difundir nuestro trabajo! Haznos saber qué productos te gustaría ver próximamente."
           button_text: En venta
           button_href: "/es/merch"
           button_class: "bg-pcw-salmon"
