@@ -76,6 +76,10 @@ languages:
           url: "/about/faq"
           parent: about-us
           weight: "7"
+        - name: Our story
+          url: "/about/our_story"
+          parent: about-us
+          weight: "8"
      
           # Location
         - name: Location
