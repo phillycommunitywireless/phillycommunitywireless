@@ -16,8 +16,8 @@ segments:
          button_href: "https://phillywisper.net"
          no_button_arrow: "true"
         
-      class: bg-light-gray
-
+      class: bg-light-gray  
+      
     # Norris Square
     - template: partner-card-container
       title: Norris Square Community Partners
