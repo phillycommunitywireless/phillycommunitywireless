@@ -11,9 +11,9 @@ segments:
         PhillyWisper is ...  
       photo: "/images/web updates/PW.jpg"
       photo_alt_text: ""
-        button: 
-          button_text: "Learn more about PhillyWisper"
-          button_href: "https://phillywisper.net"
+      button: 
+        button_text: "Learn more about PhillyWisper"
+        button_href: "https://phillywisper.net"
         no_button_arrow: "true"
       class: bg-light-gray
 
