@@ -11,29 +11,21 @@ segments:
         PhillyWisper is ...  
       photo: "/images/web updates/PW.jpg"
       photo_alt_text: ""
-    #   button: 
-    #     button_text: "What We Do"
-    #     button_href: "about/"
-      # no_button_arrow: "true"
+       button: 
+         button_text: "Learn more about PhillyWisper"
+         button_href: "https://phillywisper.net"
+       no_button_arrow: "true"
       class: bg-light-gray
-
-    - template: call-to-action-photo-right
-      title: "Norris Square Neighborhood Project"
-      text: |
-        Norris Square Neighborhood Project is ...  
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSviPWfPknqzCKhDD9S_33kZeUToFUOwHRMRA&s"
-      photo_alt_text: ""
-    #   button: 
-    #     button_text: "What We Do"
-    #     button_href: "about/"
-      # no_button_arrow: "true"
-      class: bg-light-gray
-      reverse: true
 
     # Norris Square
     - template: partner-card-container
       title: Norris Square Community Partners
       sections:
+         - partner:
+            partner_name: "Norris Square Neighborhood Project"
+            partner_link: "https://www.myneighborhoodproject.org"
+            img_src: "/images/partners/nsnp.svg"
+            img_alt: "Norris Square Neighborhood Project"
         - partner:
             partner_name: "Friends of Norris Square Park"
             partner_link: "https://www.facebook.com/friendsofnorrissquarepark"
@@ -55,11 +47,6 @@ segments:
             img_src: "/images/partners/xiente.png"
             img_alt: "Xiente"
         - partner:
-            partner_name: "Norris Square Neighborhood Project"
-            partner_link: "https://myneighborhoodproject.org/"
-            img_src: "/images/partners/nsnp.svg"
-            img_alt: "Norris Square Neighborhood Project"
-        - partner:
             partner_name: "Open Kitchen Sculpture Garden"
             partner_link: "https://www.facebook.com/theopenkitchensculpturegarden"
             img_src: "/images/partners/oksg.jpg"
@@ -80,20 +67,10 @@ segments:
       title: Philly Community Partners
       sections:
         - partner:
-            partner_name: "PhillyWisper"
-            partner_link: "https://phillywisper.net/"
-            img_src: "/images/partners/wisper.png"
-            img_alt: "PhillyWisper"
-        - partner:
             partner_name: "Called to Serve"
             partner_link: "https://calledtoservecdc.org/"
             img_src: "/images/partners/cts.png"
             img_alt: "Called to Serve"
-        - partner:
-            partner_name: "Free Library of Philadelphia"
-            partner_link: "https://www.freelibrary.org/"
-            img_src: "/images/partners/flp.png"
-            img_alt: "Free Library of Philadelphia"
         - partner:
             partner_name: "HACE"
             partner_link: "https://www.hacecdc.org/"
@@ -104,16 +81,6 @@ segments:
             partner_link: "https://holobiontlab.org/"
             img_src: "/images/partners/holobiont.png"
             img_alt: "Holobiont Lab"
-        - partner:
-            partner_name: "Village of the Arts and Humanities"
-            partner_link: "http://spaces.villagearts.org/"
-            img_src: "/images/partners/voah.png"
-            img_alt: "Village of the Arts and Humanities"
-        - partner:
-            partner_name: "Philly Tech Justice"
-            partner_link: "https://movementalliance.org/blog/project/philly-tech-justice/"
-            img_src: "/images/partners/ptj.png"
-            img_alt: "Philly Tech Justice"
         - partner:
             partner_name: "Temple University, Digital Access Center"
             partner_link: "https://lenfestcenter.temple.edu/Digital-Equality-Center/"
