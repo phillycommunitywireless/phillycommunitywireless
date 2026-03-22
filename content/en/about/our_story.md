@@ -16,10 +16,6 @@ segments:
 # our history
 - template: markdown
   url: our_history
-  <!-- # Scrollytelling map  -->
-  For an interactive map of our history, please view our [Scrollytelling map](https://hawc2.github.io/pcw-scrollytelling-map/)!
-
-  
 
 # community tech 
 - template: markdown
@@ -28,6 +24,9 @@ segments:
 ---
 
 Founded in 2020 during the COVID-19 pandemic, Philly Community Wireless started as a volunteer-led project made up of librarians and teachers, organizers, technologists, and community leaders. 
+
+<!-- # Scrollytelling map  -->
+For an interactive map of our history, please view our [Scrollytelling map](https://hawc2.github.io/pcw-scrollytelling-map/)!
 
 
 
