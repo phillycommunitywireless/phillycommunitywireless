@@ -21,16 +21,10 @@ segments:
 - template: markdown
   url: community_tech
 
-- template: video
-  src: "https://www.youtube-nocookie.com/embed/FcReKkPl-6M"
-  title: Philly Community Wireless documentary video produced by the Big Picture Alliance.
-  text: | 
-    Created by the Big Picture Alliance, this documentary depicts… 
-  header: 
-    text: "Watch our documentary:"
-    class: tc f1
-
 ---
+
+Founded in 2020 during the COVID-19 pandemic, Philly Community Wireless started as a volunteer-led project made up of librarians and teachers, organizers, technologists, and community leaders. 
+
 <!-- # Scrollytelling map  -->
 For an interactive map of our history, please view our [Scrollytelling map](https://hawc2.github.io/pcw-scrollytelling-map/)!
 
