@@ -21,7 +21,7 @@ segments:
           button_href: "https://phillycommunitywireless.allyrafundraising.com"
         - photo: "/images/web updates/Group_Power Up.png"
           photo_alt_text: "5 smiling people posing for a photo in matching PCW t-shirts."
-          text: "Check out PCW's Merch! We sell PCW t-shirts, tote bags, and hats. The proceeds from your purchase will direclty support our work — plus, by repping Philly Community Wireless, you can help spread the word about our work! Let us know what merch you want to see next."
+          text: "Check out PCW's Merch! We sell PCW t-shirts and hats. The proceeds from your purchase will directly support our work — plus, by repping Philly Community Wireless, you can help spread the word about our work! Let us know what merch you want to see next."
           button_text: Rep PCW
           button_href: "/merch"
           button_class: "bg-pcw-salmon"

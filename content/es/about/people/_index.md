@@ -42,14 +42,6 @@ segments:
         class: "square-img br3 w-100"
         flex_basis: 33%
 
-      - photo: "/images/ZoeKHeadshot-Square.jpg"
-        photo_alt_text: ""
-        heading_1: "[Zoe Kerrich](zoek)"  
-        subheading: Instaladora
-        description_text: zoe@phillycommunitywireless.org
-        class: "square-img br3 w-100"
-        flex_basis: 33%
-
       - photo: "/images/FranciscoOHeadshot-Square.jpg"
         photo_alt_text: ""
         heading_1:  Francisco Oquendo
@@ -71,7 +63,7 @@ Jessa Lingel \
 _Profesor asociado, escuela Annenberg de comunicación, Universidad de Pensilvania_
 
 Rev. Michael A. Major \
-_Pastor, Zion Baptist Ministry; presidente de la junta directiva, Called to Serve CDCP_
+_Pastor, Zion Baptist Church; fundador y presidente de la junta directiva, Called to Serve CDC_
 
 Sascha Meinrath \
 _Cátedra Palmer en telecomunicaciones, facultad de comunicaciones Bellisario, Universidad Estatal de Pensilvania_

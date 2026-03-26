@@ -42,14 +42,6 @@ segments:
         class: "square-img br3 w-100"
         flex_basis: 33%
 
-      - photo: "/images/ZoeKHeadshot-Square.jpg"
-        photo_alt_text: ""
-        heading_1: "[Zoe Kerrich](zoek)"  
-        subheading: Installer
-        description_text: zoe@phillycommunitywireless.org
-        class: "square-img br3 w-100"
-        flex_basis: 33%
-
       - photo: "/images/FranciscoOHeadshot-Square.jpg"
         photo_alt_text: ""
         heading_1:  Francisco Oquendo

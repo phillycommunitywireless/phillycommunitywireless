@@ -43,15 +43,15 @@ We envision a just future where everyone can meaningfully access the internet, r
 **We affirm** that people matter more than profit and that the principles of cooperation and mutual aid can grow a fundamentally different kind of digital network.
 
 
-**We commit** to starting small, learning from our mistakes, and inviting the input and perspectives of teachers, organizers, users, and technologists alike in building this network."
+**We commit** to starting small, learning from our mistakes, and inviting the input and perspectives of teachers, organizers, technologists, and community members alike in building this network."
 
 # Video embed
 - template: video
-  src: https://www.youtube-nocookie.com/embed/aQjLMLvahMk
+  src: "https://www.youtube-nocookie.com/embed/FcReKkPl-6M"
   title: Philly Community Wireless documentary video produced by the Big Picture Alliance.
   text: None.
   header: 
-    text: "Watch Our Documentary Trailer (2022)"
+    text: "Watch Our Documentary (2022)"
     class: tc
 
 # newsletter 
