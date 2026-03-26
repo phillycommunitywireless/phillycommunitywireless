@@ -16,6 +16,7 @@ segments:
 # our history
 - template: markdown
   url: our_history
+  class: bg-light-gray
 
 # community tech 
 - template: markdown
