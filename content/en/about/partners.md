@@ -22,7 +22,7 @@ segments:
     - template: partner-card-container
       title: Norris Square Community Partners
       sections:
-         - partner:
+        - partner:
             partner_name: "Norris Square Neighborhood Project"
             partner_link: "https://www.myneighborhoodproject.org"
             img_src: "/images/partners/nsnp.svg"
