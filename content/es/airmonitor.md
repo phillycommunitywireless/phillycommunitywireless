@@ -28,15 +28,16 @@ Agradecemos el apoyo recibido del Programa de Préstamo de Sensores de la Regió
 
 Los monitores de aire instalados por PCW se encuentran actualmente en:  
 
+* Biblioteca Kensington
+* Biblioteca Lillian Marrero
 * Cesar Andreú Iglesias Community Garden 
 * GALAEI
 * HACE - Caribe Tower
 * HACE - Somerset Villas
-* Kensington Library
-* Lillian Marrero Library
-* Multiple Residential Homes of PCW's Community
+* NKCDC Kensington Engagement Center
 * Norris Square Neighborhood Project
 * NSNP - Las Parcelas Garden
 * NSNP - Raíces Garden
 * The Lighthouse 1893
+* Viviendas residenciales de la comunidad de PCW
 * West Kensington Ministry
