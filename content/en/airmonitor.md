@@ -35,6 +35,7 @@ PCW-installed air monitors are presently at:
 * Kensington Library
 * Lillian Marrero Library
 * Multiple Residential Homes of PCW's Community
+* NKCDC's Kensington Engagement Center
 * Norris Square Neighborhood Project
 * NSNP - Las Parcelas Garden
 * NSNP - Raíces Garden
