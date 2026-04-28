@@ -28,7 +28,7 @@ segments:
       - photo: "/images/merch/pcwsweater.png"
         photo_alt_text: "A grey crew sweatshirt with the words Philly Community Wireless and a Liberty Bell projecting Wi-Fi signal over the left chest in front. The back shows the words INTERNET ACCESS IS A HUMAN RIGHT! and a cityscape embedded into arched bands that signal Wi-Fi connnection."
         heading_1: PCW Crew Sweatshirt
-        description_text: Designed by local mediamaker Badlandz Media House, our lightweight crew sweatshirt tells the world where your values are when it comes to internet access. Made with US-grown cotton, this fits true-to-size. 
+        description_text: Designed by local mediamaker [Badlandz Media House](https://www.instagram.com/badlandzmediahouse), our lightweight crew sweatshirt tells the world where your values are when it comes to internet access. Made with US-grown cotton, this fits true-to-size, and designs are purple on both sides.
         subheading: "$46"
         button_text: Purchase 
         button_href: "https://buy.stripe.com/eVq00c3pfer5g4ObXK5c408"
@@ -37,7 +37,16 @@ segments:
       - photo: "/images/merch/pcw-shirt-hat.jpg"
         photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest; a purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front."
         heading_1: T-Shirt + Hat Bundle
-        description_text: Stay comfy in our most wearable bundle of a t-shirt and hat.
+        description_text: Nothing says PCW summer like a t-shirt and hat bundle!
+        subheading: $60
+        button_text: Purchase 
+        button_href: "https://buy.stripe.com/3cI28k5xn2In2dYf9W5c40d" 
+        flex_basis: 33%
+
+      - photo: "/images/merch/pcw-shirt-hat-sweater.png"
+        photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest; a purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front."
+        heading_1: T-Shirt, Hat, + Sweatshirt Bundle
+        description_text: Stay comfy in our most wearable bundle of a t-shirt, hat, and crew sweatshirt.
         subheading: $60
         button_text: Purchase 
         button_href: "https://buy.stripe.com/3cI28k5xn2In2dYf9W5c40d" 
