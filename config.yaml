@@ -220,7 +220,7 @@ languages:
           identifier: documentos
           weight: "5"
         - name: Instalacion
-          url: https://docs.phillycommunitywireless.org/es/latest/Instalaci%C3%B3ndeantenas/
+          url: https://docs.phillycommunitywireless.org/es/latest/instalacion-de-antenas/
           params:
             external: true
           parent: documentos
@@ -231,7 +231,7 @@ languages:
             external: true
           parent: documentos
           weight: "2"
-        - name: Contact
+        - name: Contacto
           url: /contact
           identifier: Contact
           weight: "6"
@@ -248,7 +248,7 @@ params:
   site_logo: "/images/WebLogo_Standard2.svg"
   site_logo_inverted: "/images/WebLogo_Inverted2.svg"
   attribution:
-    name: Addie Barron, and mamy volunteers
+    name: Addie Barron, and many volunteers
     link: https://addieis.online
   featured_image:
     src: "/images/Iglesias_AP_Equipment.jpg"
