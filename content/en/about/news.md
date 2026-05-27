@@ -1,6 +1,6 @@
 ---
 date: 2023-10-18
-title: "News"
+title: "In the News"
 layout: "people/people"
 ---
 
