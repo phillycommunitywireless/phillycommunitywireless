@@ -161,19 +161,6 @@
                 href="https://phillycommunitywireless.org/about/people/eugener/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/about/people/leannep/</loc>
-    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/about/people/leannep/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/about/people/leannep/"
-                />
-  </url><url>
     <loc>https://phillycommunitywireless.org/about/news/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -185,6 +172,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://phillycommunitywireless.org/about/news/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/about/people/leannep/</loc>
+    <lastmod>2023-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/about/people/leannep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/about/people/leannep/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/hq/</loc>
