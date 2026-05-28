@@ -2,7 +2,7 @@
 date: 2025-11-20
 title: "Tienda PCW"
 
-segments: 
+segments:
   - template: image-catalog
     class: "w-100 w-50-m w-third-l"
     sections:
