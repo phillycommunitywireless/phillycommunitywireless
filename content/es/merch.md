@@ -4,7 +4,6 @@ title: "Artículos PCW en venta"
 
 segments: 
   - template: image-catalog
-    class: "w-100 w-50-m w-third-l"
     sections:
       - photo: "/images/merch/pcwhat.jpg"
         photo_alt_text: "Una gorra azul violácea con el logotipo de PCW, una campana con una señal Wi-Fi en la parte delantera y las palabras Philly Community Wireless en la parte trasera."
