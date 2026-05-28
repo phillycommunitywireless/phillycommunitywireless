@@ -33,11 +33,11 @@
           </ul>
         </li>
         {{ else }}
-        <li class="list f4 fw4 dib br3 mr4-l pt2 pb1 justify-center">
-          <a class="hover-black no-underline white" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
-            {{ .Name }}
-          </a>
-        </li>
+          <li class="list f4 fw4 dib br3 mr4-l justify-center {{ if .Params.Button}}pa2 nav-button{{ else }}pt2 pb1{{end}}">
+            <a class="hover-black no-underline white" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+              {{ .Name }}
+            </a>
+          </li>
         {{ end }}
         {{ end }}
       </ul>
