@@ -22,7 +22,7 @@ segments:
         button_text: Comprar
         button_href: "https://buy.stripe.com/4gM00caRH82H9Gqge05c40j"
 
-     - photo: "/images/merch/pcwsweater.png"
+      - photo: "/images/merch/pcwsweater.png"
         photo_alt_text: "Una sudadera gris de cuello redondo con las palabras «Philly Community Wireless» y una Campana de la Libertad que emite una señal de Wi-Fi en la parte superior izquierda del pecho, en la parte delantera. En la espalda se leen las palabras ¡EL ACCESO A INTERNET ES UN DERECHO HUMANO! y un paisaje urbano integrado en bandas arqueadas que simbolizan la conexión Wi-Fi."
         heading_1: PCW suéter
         description_text: Diseñada por la productora local Badlandz Media House, nuestra sudadera ligera de cuello redondo le dice al mundo que valoras el acceso a Internet para todos. Se ajusta a la talla habitual y los diseños son de color morado por ambos lados.
@@ -31,7 +31,7 @@ segments:
         button_href: "https://buy.stripe.com/dRmaEQ0d3gzd5qa5zm5c40l"
         flex_basis: 33%
 
-        - photo: "/images/merch/pcw-shirt-hat.jpg"
+      - photo: "/images/merch/pcw-shirt-hat.jpg"
         photo_alt_text: "Una camiseta con una campanilla y las palabras Philly Community Wireless en el lado izquierdo del pecho; una gorra de color azul violáceo con el logotipo de PCW que es una campanilla con una señal de Wi-Fi en la parte delantera."
         heading_1: PCW camiseta y gorra
         description_text: ¡Nada representa mejor el verano de PCW que un paquete de camiseta y gorra!
