@@ -15,8 +15,13 @@ div.hero-image a {
   Giving the nav items some breathing room
   */
 nav a {
-  padding: 0.2rem;
+  padding: 0.15rem;
 }
+
+nav li.nav-button {
+  border: dashed 1px white;
+}
+
 
 /* Contact section */
 /*
