@@ -18,7 +18,7 @@
             {{- if .button -}}
             {{ with .button }}
             <div class="flex items-center">
-                <a {{- if .no_button_arrow -}} role="" {{ else }} role="button" {{ end }} href="{{ .button_href }}" class=" center tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white {{ .class }}">
+                <a {{ if .no_button_arrow }} role="" {{ else }} role="button" {{ end }} href="{{ .button_href }}" class=" center tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white {{ .class }}">
                     {{ .button_text | default "Placeholder link" }}
                 </a>
             </div>

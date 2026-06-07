@@ -1,0 +1,22 @@
+<div class="flex-l flex-column mt2 mw8 center">
+    <article class="center cf pb5-ns ph3 ph4-ns mw7">
+        {{- if .title -}}
+        <div>
+            <h1 class="tl f2 f2-ns center ma0 pt5 pb2 ph2 color-pcw">{{ .title }}</h1>
+        </div>
+        {{- end -}}
+
+        <div class="partner-section">
+            {{ range $i, $partner := .sections }}
+                {{ with $partner }}
+                    {{ $partial := (printf "segments/%s.html" "partner-card") }}
+                    {{ if templates.Exists (printf "partials/%s" $partial) }}
+                        {{ partial $partial $partner }}
+                    {{ else }}
+                        {{ warnf "There is no file named \"%s.html\" in the layouts/partials/segments directory." .template }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </div>
+    </article>
+</div>

@@ -3,6 +3,7 @@
 {{ partial "page-header.html" . }}
 {{ end }} 
 {{ define "main" }}
+{{ if .Content }}
 <div class="flex-l flex-column mt2 mw8 center">
     <article class="center cf pv5-ns ph3 ph4-ns mw7">
         <header>
@@ -17,6 +18,7 @@
             {{ .Content }}
         </div>
     </article>
-    {{ partial "segments.html" .Params.segments }}
 </div>
+{{ end }}
+{{ partial "segments.html" .Params.segments }}
 {{ end }}
