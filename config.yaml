@@ -129,7 +129,7 @@ languages:
         subtitle: Building community-controlled networks in Philadelphia
         link: Learn more &rarr;
         alt: "The Philly Community Wireless logo - a vector graphic of the Liberty Bell 
-             facing northeast, with radio waves emmitting from the top-right."
+             facing northeast, with radio waves emitting from the top-right."
   es:
     languageName: Español
     contentDir: content/es
@@ -231,7 +231,7 @@ languages:
             external: true
           parent: documentos
           weight: "2"
-        - name: Contact
+        - name: Contacto
           url: /contact
           identifier: Contact
           weight: "6"
@@ -248,7 +248,7 @@ params:
   site_logo: "/images/WebLogo_Standard2.svg"
   site_logo_inverted: "/images/WebLogo_Inverted2.svg"
   attribution:
-    name: Addie Barron, and mamy volunteers
+    name: Addie Barron, and many volunteers
     link: https://addieis.online
   featured_image:
     src: "/images/Iglesias_AP_Equipment.jpg"

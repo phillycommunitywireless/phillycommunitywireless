@@ -125,7 +125,7 @@ You can create a new segment template by creating a `<type-name>.html` file in t
 
 After navigating to `static/images`, you can add funder logos in PNG, JPG/JPEG, or SVG formats to the folder titled `funders`.
 
-Then, you can create a new "funder card" on the Funders page (located in `content/en/funders.md` or `content/es/funders.md`) by following the format below and pasting it to the top of the `funders.md` file below the 2nd `---` divider:
+Then, you can create a new "funder card" on the Funders page (located in `content/en/about/funders.md` or `content/es/about/funders.md`) by following the format below and pasting it to the top of the `funders.md` file below the 2nd `---` divider:
 
 (Parentheses here represent what should be replaced, for example: `(Organization Name)` -> `PCW`.)
 
@@ -153,7 +153,7 @@ or, if the grant has a logo/website:
 
 After navigating to `static/images`, you can add partner logos in PNG, JPG/JPEG, or SVG formats to the folder titled `partners`.
 
-Then, you can create a new "partner card" on the Partners page (located in `content/en/partners.md` or `content/es/partners.md`) by following the format below and pasting it above the line saying `<!-- insert new Norris Square Community Partner above this line -->` if you are inserting a new Norris Square Community Partner, or `<!-- insert new Philly Community Partner above this line -->` if you are inserting a new Philly Community Partner.
+Then, you can create a new "partner card" on the Partners page (located in `content/en/about/partners.md` or `content/es/about/partners.md`) by following the format below and pasting it above the line saying `<!-- insert new Norris Square Community Partner above this line -->` if you are inserting a new Norris Square Community Partner, or `<!-- insert new Philly Community Partner above this line -->` if you are inserting a new Philly Community Partner.
 
 (Parentheses here represent what should be replaced, for example: `(Organization Name)` -> `PCW`.)
 
