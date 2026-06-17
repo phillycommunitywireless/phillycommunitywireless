@@ -13,7 +13,7 @@ segments:
         description_text: 5 GHz PtMP LTU Client, functions in a PtMP environment with the LTU-Rocket as the BaseStation. See more at [the Ubiquiti Store](https://store.ui.com/us/en/products/ltu-lite-us).
         button_text: Purchase 
         button_href: "https://buy.stripe.com/7sYaEQ1h76YDbOy9PC5c40g"
-        class: "cubed-img br3"
+        class: "br3"
         flex_basis: 33%
         
       - photo: "/images/merch/ltu_lr.png"
@@ -23,7 +23,7 @@ segments:
         subheading: $99
         button_text: Purchase 
         button_href: "https://buy.stripe.com/5kQ8wIgc1dn1aKu8Ly5c40f"
-        class: "cubed-img br3"
+        class: "br3"
         flex_basis: 33%
 ---
 
