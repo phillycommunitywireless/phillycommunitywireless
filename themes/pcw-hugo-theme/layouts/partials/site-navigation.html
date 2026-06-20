@@ -33,17 +33,23 @@
           </ul>
         </li>
         {{ else }}
-          <li class="list f4 fw4 dib br3 mr4-l justify-center {{ if .Params.Button}}pa2 nav-button{{ else }}pt2 pb1{{end}}">
+          {{ if not .Params.Button }}
+          <li class="list f4 fw4 dib br3 mr4-l justify-center pt2 pb1">
             <a class="hover-black no-underline white" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
               {{ .Name }}
             </a>
           </li>
+          {{ end }}
         {{ end }}
         {{ end }}
       </ul>
       {{ end }}
       {{ partial "i18nlist.html" . }}
     </div>
+    {{/* Donate renders as a standalone CTA outside the menu list (styled #donate-button) */}}
+    {{ range .Site.Menus.main }}{{ if .Params.Button }}
+    <a id="donate-button" class="no-underline" href="{{ .URL }}" title="{{ .Name }} page">{{ .Name }}</a>
+    {{ end }}{{ end }}
   </div>
 </nav>
 

@@ -18,8 +18,43 @@ nav a {
   padding: 0.15rem;
 }
 
-nav li.nav-button {
-  border: dashed 1px white;
+/* Donate CTA — standalone button: far-right end-cap on desktop, always visible on mobile */
+#donate-button {
+  display: inline-block;
+  background: var(--lilac);
+  color: var(--dark-blue);
+  text-decoration: none;
+  border-radius: 6px;
+  padding: 0.4rem 1.1rem;
+  font-size: 1.25rem; /* match the nav links */
+  line-height: 1.4;
+  transition: background 0.12s ease;
+}
+
+#donate-button:hover {
+  background: #c46cf5;
+  color: var(--dark-blue);
+  text-decoration: none; /* beat the global a:hover underline */
+}
+
+#donate-button:active {
+  background: #b35be0;
+}
+
+#donate-button:focus-visible {
+  outline: 2px solid var(--dark-blue);
+  outline-offset: 2px;
+}
+
+/* on phones the nav collapses to a hamburger — pin Donate beside it, always visible */
+@media (max-width: 959px) {
+  #donate-button {
+    position: absolute;
+    top: 24px;
+    right: 64px;
+    padding: 0.7rem 0.95rem; /* keeps a 44px+ tap target */
+    font-size: 1rem;
+  }
 }
 
 
