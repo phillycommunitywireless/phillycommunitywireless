@@ -11,7 +11,7 @@ jobs:
       HUGO_ENV: production
     steps:
       - name: checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
       - name: build
         uses: jakejarvis/hugo-build-action@v0.111.3
         with:
