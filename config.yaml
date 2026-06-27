@@ -271,3 +271,29 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+# Global image-processing defaults (Hugo Pipes).
+imaging:
+  quality: 80
+  resampleFilter: Lanczos
+# Mount the existing static/images dir into assets/ so Hugo's image pipeline
+# (resources.Get -> .Resize/webp) can process the originals in place. Files do
+# not move and every existing /images/... reference keeps working unchanged.
+# NOTE: declaring module.mounts replaces Hugo's default component mounts, so the
+# standard ones are re-declared here. Per-language content is still handled by
+# the languages.*.contentDir settings above.
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: static
+      target: static
+    - source: layouts
+      target: layouts
+    - source: data
+      target: data
+    - source: i18n
+      target: i18n
+    - source: archetypes
+      target: archetypes
+    - source: static/images
+      target: assets/images

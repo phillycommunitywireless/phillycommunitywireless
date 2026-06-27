@@ -31,7 +31,7 @@
         <div class="merch-item ns fl pv2 {{ $class }}">
             <div class="h-100 bg-white flex flex-column justify-between">
                 <div>
-                    <img src="{{ .photo }}" class="{{ .class }}" alt="{{.photo_alt_text}}">
+                    {{ partial "responsive-image.html" (dict "src" .photo "alt" .photo_alt_text "class" .class "sizes" "(min-width: 60em) 33vw, 100vw") }}
                     {{- if .heading_1 -}}
                     <h2 class="tc tl-ns">{{ .heading_1 | markdownify }}</h2>
                     {{ end }}
