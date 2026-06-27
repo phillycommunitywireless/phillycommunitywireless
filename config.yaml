@@ -6,6 +6,7 @@ title: Philly Community Wireless
 author: Philly Community Wireless
 theme: pcw-hugo-theme
 enableRobotsTXT: true
+timeout: 120s
 languages:
   en:
     languageName: English
