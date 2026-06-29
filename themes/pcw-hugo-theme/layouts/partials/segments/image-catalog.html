@@ -37,7 +37,7 @@
                     {{ end }}
                     <h2 class="black mv0 tc tl-ns">{{ .subheading }}</h2>
                     <p style="overflow: hidden; text-overflow: ellipsis; display: block;"
-                        class="f4 tc tl-ns mv2 lh-copy">{{ .description_text }}</p>
+                        class="f4 tc tl-ns mv2 lh-copy">{{ .description_text | markdownify }}</p>
                 </div>
 
                 <div>
