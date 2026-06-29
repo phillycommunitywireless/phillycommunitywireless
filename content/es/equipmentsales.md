@@ -27,8 +27,8 @@ segments:
         flex_basis: 33%
 ---
 
-We sell donated Wi-Fi and networking equipment that isn't compatible with our network. These are items that we have received from other community internet initiatives and partners.
+Vendemos equipos de Wi-Fi y redes donados que no son compatibles con nuestra red. Hemos recibido estos dispositivos de otras iniciativas comunitarias de Internet y de nuestros socios.
 
-Your equipment purchase from us helps support our mission to make internet access available to all.
+La compra de estos equipos con nosotros ayuda a apoyar nuestra misión de hacer que el acceso a Internet esté disponible para todos.
 
-If you have any questions about these products or bulk purchases, send us an email at info@phillycommunitywireless.org.
+Si tiene alguna pregunta sobre estos productos o deseas comprar en cantidades más grandes, envíenos un correo electrónico a info@phillycommunitywireless.org.

@@ -171,7 +171,7 @@ languages:
           url: "/support"
           parent: Apóyanos
           weight: "1"
-        - name: Equipment for Sale 
+        - name: Equipos en venta
           url: "/equipmentsales"
           parent: Apóyanos
           weight: "3"
