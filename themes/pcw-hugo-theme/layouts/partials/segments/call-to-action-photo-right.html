@@ -29,7 +29,7 @@
 
         <!-- right-hand photo -->
         <div class="flex-1 flex justify-center items-center bg-center pv2 ph3">
-            <img class="br3 ctr-img" src="{{ .photo }}" alt="{{.photo_alt_text}}">
+            {{ partial "responsive-image.html" (dict "src" .photo "alt" .photo_alt_text "class" "br3 ctr-img" "sizes" "(min-width: 60em) 50vw, 100vw") }}
         </div>
     </div>
 </section>

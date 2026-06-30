@@ -1,8 +1,13 @@
+<!-- hero image header for subpages -->
 {{ with .Params }}
 {{ if .header_photo }}
 <div class="relative vh-50">
-  <img src="{{ .header_photo }}" alt="{{ .header_alt | default "alt text" }}" class="{{ .header_class | default " opos-left" }}
-    ofit-cover w-100 h-100" />
+  <!-- <img src="{{ .header_photo }}" alt="{{ .header_alt | default "alt text" }}" class="{{ .header_class | default "opos-left" }}
+    ofit-cover w-100 h-100" /> -->
+
+    <!-- concat default class + user inputs to preserve class styling -->
+    {{ $class := printf "br3 ctr-img %s" .header_class }}
+    {{ partial "responsive-image.html" (dict "src" .header_photo "alt" .header_alt "class" $class "sizes" "(min-width: 60em) 50vw, 100vw") }}
 </div>
 {{ end }}
 {{ end }}

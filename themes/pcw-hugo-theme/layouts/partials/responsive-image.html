@@ -1,0 +1,54 @@
+{{- /*
+  responsive-image.html — run an image through Hugo Pipes and emit a
+  responsive, lazy-loaded <img> with a webp srcset.
+
+  Originals live in static/images (mounted into assets/images in config.yaml),
+  so resources.Get can find and process them in place — no files move and every
+  existing /images/... reference keeps working.
+
+  Params (dict):
+    src     (string, required) e.g. "/images/foo.jpg" or "images/foo.jpg"
+    alt     (string)
+    class   (string)
+    style   (string)  optional inline style passthrough (e.g. object-fit)
+    sizes   (string)  the <img sizes> attribute; default "100vw"
+    loading (string)  "lazy" (default) or "eager" for above-the-fold imagery
+    ctx     (Page)    optional, enables page-bundle resource lookup first
+
+  Vector (.svg), animated (.gif), external, and missing images are passed
+  through untouched so nothing can break — processing is best-effort.
+*/ -}}
+{{- $src := .src -}}
+{{- $alt := .alt | default "" -}}
+{{- $class := .class | default "" -}}
+{{- $style := .style | default "" -}}
+{{- $sizes := .sizes | default "100vw" -}}
+{{- $loading := .loading | default "lazy" -}}
+
+{{- $u := urls.Parse $src -}}
+{{- $path := strings.TrimPrefix "/" $u.Path -}}
+{{- $ext := strings.ToLower (path.Ext $path) -}}
+{{- $processable := and (not $u.IsAbs) (in (slice ".jpg" ".jpeg" ".png" ".tif" ".tiff" ".bmp") $ext) -}}
+
+{{- $res := false -}}
+{{- if $processable -}}
+  {{- with .ctx -}}{{- $res = .Resources.Get $path -}}{{- end -}}
+  {{- if not $res -}}{{- $res = resources.Get $path -}}{{- end -}}
+{{- end -}}
+
+{{- if $res -}}
+  {{- $w := $res.Width -}}
+  {{- $h := $res.Height -}}
+  {{- $srcset := slice -}}
+  {{- range (slice 480 768 1024 1600) -}}
+    {{- if lt . $w -}}
+      {{- $r := $res.Resize (printf "%dx webp q80" .) -}}
+      {{- $srcset = $srcset | append (printf "%s %dw" $r.RelPermalink .) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $full := $res.Resize (printf "%dx webp q80" $w) -}}
+  {{- $srcset = $srcset | append (printf "%s %dw" $full.RelPermalink $w) -}}
+  <img src="{{ $full.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $w }}" height="{{ $h }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . }}"{{ end }}>
+{{- else -}}
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . }}"{{ end }}>
+{{- end -}}

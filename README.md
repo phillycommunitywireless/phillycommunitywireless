@@ -91,6 +91,63 @@ Which will render to...
 </a>
 ```
 
+## Partials
+
+### `responsive-image`
+
+Partial that converts raster images to WebP, generates a `srcset` for common breakpoints, and emits a lazy-loaded `<img>` with explicit `width`/`height` attributes to prevent layout shift. SVGs, GIFs, external URLs, and any image that can't be located are passed through unchanged, so it is always safe to use in place of a bare `<img>` tag.
+
+Use this partial anywhere you would otherwise write a raw `<img>` tag inside a layout or segment template:
+
+Images can live in `static/images` or `assets/images` since `static/images` is mounted to `assets/images`
+
+```html
+{{ partial "responsive-image.html" (dict
+    "src"  "/images/foo.jpg"
+    "alt"  "A description of the image"
+) }}
+```
+
+All parameters are passed as a `dict`:
+
+| Parameter | Required | Default | Description |
+| --------- | -------- | ------- | ----------- |
+| `src` | **yes** | — | Path to the image, e.g. `"/images/foo.jpg"` or `"images/foo.jpg"`. |
+| `alt` | no | `""` | Alt text for the `<img>`. |
+| `class` | no | `""` | CSS class(es) to add to the `<img>` element. |
+| `style` | no | `""` | Inline style passthrough, e.g. `"height: auto"`. |
+| `sizes` | no | `"100vw"` | The [`sizes`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes) attribute. Set this whenever the image doesn't fill the full viewport width. |
+| `loading` | no | `"lazy"` | Set to `"eager"` for above-the-fold images (e.g. heroes) to avoid a render-blocking delay. |
+| `ctx` | no | — | A Hugo `Page` object. When provided, page-bundle resources are checked first before falling back to the global asset mount. |
+
+#### Choosing a `sizes` value
+
+The `sizes` attribute tells the browser how wide the image will render at various viewport widths, so it can pick the right entry from the `srcset`. A few common patterns used across this site:
+
+```html
+{{/* Full-width image */}}
+{{ partial "responsive-image.html" (dict "src" .src "alt" .alt "sizes" "100vw") }}
+
+{{/* Two-column layout: full width on mobile, half width on large screens */}}
+{{ partial "responsive-image.html" (dict "src" .src "alt" .alt "sizes" "(min-width: 60em) 50vw, 100vw") }}
+
+{{/* Three-column layout */}}
+{{ partial "responsive-image.html" (dict "src" .src "alt" .alt "sizes" "(min-width: 60em) 33vw, 100vw") }}
+```
+
+#### Above-the-fold images
+
+Pass `"loading" "eager"` for hero images and anything else that is visible immediately on page load, so the browser doesn't defer fetching it:
+
+```html
+{{ partial "responsive-image.html" (dict
+    "src"     .header_photo
+    "alt"     .header_alt
+    "loading" "eager"
+    "sizes"   "100vw"
+) }}
+```
+
 ## Segments
 
 This theme supports a `segments` front matter parameter for all normal pages, which allows for composing layouts from "stackable components" (partials). The `segments` param is a YAML list of objects, each of which will correspond to one of these components. Each type of segment uses a pre-written HTML template to render a component, like a full-width photo, a video, or a call-to-action, to the page it's used on. Segments are all full-width and can usually be customized right from the YAML.

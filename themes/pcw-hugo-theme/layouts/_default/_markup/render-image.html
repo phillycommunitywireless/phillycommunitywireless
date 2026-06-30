@@ -1,0 +1,13 @@
+{{- /*
+  Image render hook: every markdown image ![alt](/images/foo.jpg) is routed
+  through the responsive-image partial, so content authors get webp + srcset +
+  lazy-loading for free, with no shortcode and no edits to existing content.
+*/ -}}
+{{- partial "responsive-image.html" (dict
+  "src" .Destination
+  "alt" .Text
+  "ctx" .Page
+  "class" .class
+  "style" .style
+  "sizes" "(min-width: 60em) 75vw, 100vw"
+) -}}
