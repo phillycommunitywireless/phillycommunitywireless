@@ -95,9 +95,11 @@ Which will render to...
 
 ### `responsive-image`
 
-partial that converts raster images to WebP, generates a `srcset` for common breakpoints, and emits a lazy-loaded `<img>` with explicit `width`/`height` attributes to prevent layout shift. SVGs, GIFs, external URLs, and any image that can't be located are passed through unchanged, so it is always safe to use in place of a bare `<img>` tag.
+Partial that converts raster images to WebP, generates a `srcset` for common breakpoints, and emits a lazy-loaded `<img>` with explicit `width`/`height` attributes to prevent layout shift. SVGs, GIFs, external URLs, and any image that can't be located are passed through unchanged, so it is always safe to use in place of a bare `<img>` tag.
 
 Use this partial anywhere you would otherwise write a raw `<img>` tag inside a layout or segment template:
+
+Images can live in `static/images` or `assets/images` since `static/images` is mounted to `assets/images`
 
 ```html
 {{ partial "responsive-image.html" (dict
