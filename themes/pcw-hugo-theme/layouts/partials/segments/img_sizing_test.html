@@ -1,0 +1,43 @@
+{{ $reverse := cond (.reverse | default false) "-reverse" "" }}
+{{ $photo_alt_text := .photo_alt_text}}
+
+<section class="center cf tl tc-ns f1 pt4 pb4 {{ .class }}">
+    <div
+        class="w-75-l center flex flex-row{{$reverse}}-xl flex-column{{$reverse}} flex-column-reverse items-stretch w-100 h-auto-l f3">
+
+        <!-- image as is from call-to-action-photo-right -->
+        <div class="flex-1 flex-column flex justify-center items-center bg-center pv2 ph3">
+            <p>Img as-is currently</p>
+            <img class="br3 ctr-img" src="{{ .photo }}" alt="{{.photo_alt_text}}">
+        </div>
+
+        <div class="flex-1 flex-column flex justify-center items-center bg-center pv2 ph3">
+            <p>Img w/ quality reduced to 50% + casted to webp</p>
+
+            {{- $imagePath := .photo -}}
+            {{- with $imagePath -}}
+
+            {{- $image := resources.Get $imagePath -}}
+            {{- if $image -}}
+                {{/* get the image's width/height */}}
+                 {{ $width := $image.Width }}
+                 {{ $height := $image.Height }}
+
+                {{/* 
+                    Squash the image using the Hugo "resize" method: 
+                    https://gohugo.io/content-management/image-processing/#resize 
+                    https://gohugo.io/content-management/image-processing/#image-processing-options 
+                */}}
+                {{/* - $jpeg := ($image.Resize (printf "%dx%d q50 webp" $width $height)).RelPermalink - */}}
+                {{- $jpeg := ($image.Resize (printf "%dx%d webp" $width $height)).RelPermalink -}}
+                <img class="br3 ctr-img" src="{{ $jpeg }}" alt="{{ $photo_alt_text }}">
+
+            {{- else -}}
+            {{/* Handle case where the image file is not found */}}
+            <p>Image not found at: {{ $imagePath }}</p>
+            {{- end -}}
+            {{- end -}}
+            
+        </div>
+    </div>
+</section>
