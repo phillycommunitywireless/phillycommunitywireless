@@ -14,7 +14,7 @@ Philly Community Wireless has been working since 2023 to deploy [PurpleAir monit
 1. If the air quality is good or not good in their area
 2. How it compares to other parts of the city
 
-{{< figure class="figure-center" src="/images/Air-Monitor-WKM.jpg" alt="An ariel view of a white circular device with stickers saying Purple Air and Philly Community Wireless attached to a house">}}
+{{< figure class="figure-center" src="/images/Air-Monitor-WKM.jpg" alt="An arial view of a white circular device with stickers saying Purple Air and Philly Community Wireless attached to a house" style="height: auto">}}
 
 Real-time air quality data can be viewed on [PurpleAir's map](https://map.purpleair.com/). 
 

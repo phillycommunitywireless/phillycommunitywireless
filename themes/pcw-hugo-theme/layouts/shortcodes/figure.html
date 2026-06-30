@@ -9,6 +9,7 @@
     "alt" $alt
     "ctx" .Page
     "loading" (or (.Get "loading") "lazy")
+    "style" (.Get "style")
   ) -}}
   {{- if .Get "link" }}</a>{{ end -}}
   {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}

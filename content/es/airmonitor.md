@@ -14,7 +14,7 @@ Philly Community Wireless lleva trabajando desde 2023 para instalar monitores Pu
 1. Si la calidad del aire es buena o mala en su zona
 2. Cómo se compara con otras partes de la ciudad
 
-{{< figure class="figure-center" src="/images/Air-Monitor-WKM.jpg" alt="Vista aérea de un dispositivo circular blanco pegada a una casa con pegatinas que dicen Purple Air y Philly Community Wireless.">}}
+{{< figure class="figure-center" src="/images/Air-Monitor-WKM.jpg" alt="Vista aérea de un dispositivo circular blanco pegada a una casa con pegatinas que dicen Purple Air y Philly Community Wireless." style="height: auto">}}
 
 Los datos sobre la calidad del aire en tiempo real se pueden consultar en [el mapa de PurpleAir](https://map.purpleair.com/). 
 
