@@ -40,15 +40,17 @@
   {{- $w := $res.Width -}}
   {{- $h := $res.Height -}}
   {{- $srcset := slice -}}
-  {{- range (slice 480 768 1024 1600) -}}
+  {{- range (slice 480 768 1024 1600 1920 2560 3840) -}}
     {{- if lt . $w -}}
-      {{- $r := $res.Resize (printf "%dx webp q80" .) -}}
+      {{- $r := $res.Resize (printf "%dx webp q90" .) -}}
       {{- $srcset = $srcset | append (printf "%s %dw" $r.RelPermalink .) -}}
     {{- end -}}
   {{- end -}}
-  {{- $full := $res.Resize (printf "%dx webp q80" $w) -}}
-  {{- $srcset = $srcset | append (printf "%s %dw" $full.RelPermalink $w) -}}
-  <img src="{{ $full.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $w }}" height="{{ $h }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . }}"{{ end }}>
+  {{- $capW := $w -}}
+  {{- if gt $w 3840 -}}{{- $capW = 3840 -}}{{- end -}}
+  {{- $full := $res.Resize (printf "%dx webp q90" $capW) -}}
+  {{- $srcset = $srcset | append (printf "%s %dw" $full.RelPermalink $capW) -}}
+  <img src="{{ $full.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $full.Width }}" height="{{ $full.Height }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . }}"{{ end }}>
 {{- else -}}
   <img src="{{ $src }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . }}"{{ end }}>
 {{- end -}}
