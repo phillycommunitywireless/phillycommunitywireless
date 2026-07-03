@@ -104,19 +104,19 @@ languages:
           identifier: Docs
           weight: "5"
         - name: Docs
-          url: "https://docs.phillycommunitywireless.org/en/latest/"
+          url: "https://docs.phillycommunitywireless.org"
           params:
             external: true
           parent: Docs
           weight: "1"
         - name: Installations
-          url: "https://docs.phillycommunitywireless.org/en/latest/installations/installations/"
+          url: "https://docs.phillycommunitywireless.org/installations/installations/"
           params:
             external: true
           parent: Docs
           weight: "2"
         - name: Troubleshooting
-          url: "https://docs.phillycommunitywireless.org/en/latest/device-configuration/troubleshoot-devices/"
+          url: "https://docs.phillycommunitywireless.org/device-configuration/troubleshoot-devices/"
           params:
             external: true
           parent: Docs
@@ -229,17 +229,22 @@ languages:
           identifier: documentos
           weight: "5"
         - name: Instalacion
-          url: https://docs.phillycommunitywireless.org/es/latest/Instalaci%C3%B3ndeantenas/
+          url: https://docs.phillycommunitywireless.org/es/installations/installations/
           params:
             external: true
           parent: documentos
           weight: "1"
         - name: Recursos
-          url: https://docs.phillycommunitywireless.org/es/latest/recursos/
+          url: https://docs.phillycommunitywireless.org/es/resources/
           params:
             external: true
           parent: documentos
           weight: "2"
+        - name: Solución de problemas
+          url: "https://docs.phillycommunitywireless.org/es/device-configuration/troubleshoot-devices/"
+          params:
+            external: true
+
         - name: Contacto
           url: /contact
           identifier: Contact
