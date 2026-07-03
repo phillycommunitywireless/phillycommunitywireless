@@ -45,7 +45,7 @@ Traditional internet service providers rely on a one-way, centralized hub that t
 
 The technical shape of mesh networks (interconnected, resilient) thus reflect the social connections that PCW seeks to amplify (democratic, participatory, decentralized).
 
-For technical information on the project, please see our [Docs page](https://docs.phillycommunitywireless.org/en/latest/).
+For technical information on the project, please see our [Docs page](https://docs.phillycommunitywireless.org).
 
 ## Is the wifi actually free?
 
@@ -81,11 +81,11 @@ If you have any questions, or would like to volunteer with Philly Community Wire
 
 ## What does a rooftop antenna installation involve?
 
-A normal installation takes a few hours, and requires cabling power to the roof, and installing a non-penetrating roof mount with line of sight to a PhillyWisper "high site." A router can be installed inside the house, and we often try to install one relay antenna on the roof or side of the building to share the signal around the area. See our [Installations page](https://docs.phillycommunitywireless.org/en/latest/installations/) for more info.
+A normal installation takes a few hours, and requires cabling power to the roof, and installing a non-penetrating roof mount with line of sight to a PhillyWisper "high site." A router can be installed inside the house, and we often try to install one relay antenna on the roof or side of the building to share the signal around the area. See our [Installations page](https://docs.phillycommunitywireless.org/installations/installations) for more info.
 
 ## If I host an antenna on my roof, how does this affect the structural integrity of my house? Will extra drilling be involved?
 
-Some homes will only need an indoor mesh antenna, plugged into a wall outlet. For homes that require a rooftop installation, an antenna will be attached to a chimney, existing pole, or secured between cement blocks etc. Whenever possible, we use non-penetrating roof mounts. Cables can be run into existing holes in your house. For more information, see our [Docs page on rooftop installations](https://docs.phillycommunitywireless.org/en/latest/rooftop%20installation/).
+Some homes will only need an indoor mesh antenna, plugged into a wall outlet. For homes that require a rooftop installation, an antenna will be attached to a chimney, existing pole, or secured between cement blocks etc. Whenever possible, we use non-penetrating roof mounts. Cables can be run into existing holes in your house. See our [Installations page](https://docs.phillycommunitywireless.org/installations/installations) for more info.
 
 ## How much will the electricity cost to keep the radio powered?
 

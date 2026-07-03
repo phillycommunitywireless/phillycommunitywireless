@@ -33,7 +33,7 @@ Philly Community Wireless
 
 # ¿Cómo funciona?
 
-Para obtener información técnica sobre el proyecto, consulte nuestra [página de Documentos.](https://docs.phillycommunitywireless.org/es/latest/)
+Para obtener información técnica sobre el proyecto, consulte nuestra [página de Documentos.](https://docs.phillycommunitywireless.org/es/)
 
 ## ¿Es esto realmente gratis? ¿Será siempre gratis?
 
@@ -67,7 +67,7 @@ Si tienes alguna pregunta o quieres ser voluntario de Philly Community Wireless,
 
 ## Si alopón una antena en mi techo, ¿cómo afecta esto a la integridad estructural de mi casa? ¿Se involucraría una perforación adicional?
 
-Algunas casas sólo necesitan una antena de malla interior, enchufada a una toma de pared. Para las casas que requieren una instalación en la azotea, una antena será conectada a una chimenea, o asegurada entre bloques de cemento etc. Siempre que sea posible usamos montajes de techo no penetrantes. Los cables pueden entrar en los agujeros existentes de su casa. Para obtener más información, consulte nuestra [página Docs sobre instalaciones en tejados.](https://docs.phillycommunitywireless.org/en/latest/rooftop%20installation/)
+Algunas casas sólo necesitan una antena de malla interior, enchufada a una toma de pared. Para las casas que requieren una instalación en la azotea, una antena será conectada a una chimenea, o asegurada entre bloques de cemento etc. Siempre que sea posible usamos montajes de techo no penetrantes. Los cables pueden entrar en los agujeros existentes de su casa. Para obtener más información, consulte nuestra [página Docs sobre instalaciones en tejados.](https://docs.phillycommunitywireless.org/es/installations/installations)
 
 ## ¿Cuánto costará la electricidad para mantener la radio encendida?
 
