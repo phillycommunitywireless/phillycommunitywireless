@@ -234,16 +234,18 @@ languages:
             external: true
           parent: documentos
           weight: "1"
+        - name: Solución de problemas
+          url: "https://docs.phillycommunitywireless.org/es/device-configuration/troubleshoot-devices/"
+          params:
+            external: true
+          parent: documentos
+          weight: "2"
         - name: Recursos
           url: https://docs.phillycommunitywireless.org/es/resources/
           params:
             external: true
           parent: documentos
-          weight: "2"
-        - name: Solución de problemas
-          url: "https://docs.phillycommunitywireless.org/es/device-configuration/troubleshoot-devices/"
-          params:
-            external: true
+          weight: "3"
 
         - name: Contacto
           url: /contact
