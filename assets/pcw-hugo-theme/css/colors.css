@@ -6,7 +6,7 @@
   --orange: rgb(255, 128, 0);
 
   --blue: #5262ed;
-  --lilac: #d48aff;
+  --lilac: #8B3DBD;
   --dark-blue: #123248;
   --light-gray: #e6e6e6;
 
@@ -29,7 +29,7 @@
 }
 
 .bg-pcw-salmon {
-  background-color: #FF665A;
+  background-color: #C23D32;
   color: white;
 }
 
