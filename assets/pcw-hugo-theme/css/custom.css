@@ -21,24 +21,26 @@ nav a {
 /* Donate CTA — standalone button: far-right end-cap on desktop, always visible on mobile */
 #donate-button {
   display: inline-block;
-  background: var(--lilac);
+  background: #fff;
   color: var(--dark-blue);
   text-decoration: none;
+  border: 2px solid var(--dark-blue);
   border-radius: 6px;
   padding: 0.4rem 1.1rem;
   font-size: 1.25rem; /* match the nav links */
   line-height: 1.4;
-  transition: background 0.12s ease;
+  transition: background 0.12s ease, color 0.12s ease;
 }
 
 #donate-button:hover {
-  background: #c46cf5;
-  color: var(--dark-blue);
+  background: var(--dark-blue);
+  color: #fff;
   text-decoration: none; /* beat the global a:hover underline */
 }
 
 #donate-button:active {
-  background: #b35be0;
+  background: var(--dark-blue);
+  color: #fff;
 }
 
 #donate-button:focus-visible {

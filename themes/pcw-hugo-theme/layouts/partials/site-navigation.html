@@ -12,6 +12,8 @@
 
     <i id="hamburger-menu" class="fa-solid fa-bars fa-2x"></i>
 
+    {{/* group the menu + donate CTA so the nav sits together on the right (fixes the off-center flex artifact, PR #230) */}}
+    <div class="flex items-center">
     <div id="site-menu-container" class="flex items-center justify-center flex-column flex-row-l">
       {{ if .Site.Menus.main }}
       <ul id="site-menu" class="ph0 mb0-s lh-copy dn-l">
@@ -50,6 +52,7 @@
     {{ range .Site.Menus.main }}{{ if .Params.Button }}
     <a id="donate-button" class="no-underline" href="{{ .URL }}" title="{{ .Name }} page">{{ .Name }}</a>
     {{ end }}{{ end }}
+    </div>
   </div>
 </nav>
 
