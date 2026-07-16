@@ -18,6 +18,30 @@ nav a {
   padding: 0.15rem;
 }
 
+/* Nav side zones — centre the menu.
+   The nav is a flex row on desktop with justify-between, which splits the spare
+   space into equal GAPS. Equal gaps only centre the menu if the logo and the
+   Donate button are the same width, and they aren't (the logo is ~83px wider),
+   so the menu used to land ~41px right of centre. Giving each side its own
+   flex:1 zone makes the two ZONES equal instead, which centres the menu no
+   matter what the logo or button measure. */
+@media (min-width: 960px) {
+  .nav-side {
+    flex: 1 1 0;
+    display: flex;
+    align-items: center;
+    /* Never squash the logo or the button. If the nav runs out of room the
+       zones stop matching and it degrades to the old off-centre layout. */
+    min-width: max-content;
+  }
+
+  /* Keep Donate as a right-hand end-cap; without this the zone would stretch
+     the button across the whole side. */
+  .nav-side-end {
+    justify-content: flex-end;
+  }
+}
+
 /* Donate CTA — standalone button: far-right end-cap on desktop, always visible on mobile */
 #donate-button {
   display: inline-block;
