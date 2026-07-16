@@ -72,12 +72,49 @@ nav a {
   outline-offset: 2px;
 }
 
-/* on phones the nav collapses to a hamburger — pin Donate beside it, always visible */
+/* Mobile nav row — logo | Donate | hamburger, on one flex line.
+   Below 960px the outer div isn't a flex container (Tachyons' flex-l only kicks in at
+   60em), so Donate and the hamburger used to be pulled out of flow with position:absolute
+   and hardcoded offsets. Those offsets resolved against <body>, not the nav — they only
+   lined up because the nav happens to sit at the top of the page — and the numbers were
+   picked by eye, so the button sat ~1.6px off the hamburger and drifted with any change
+   to its padding or font. Worse, a fixed `right` offset meant that on a narrow screen the
+   button slid over the logo (at 320px the Spanish "Donaciones" covered it almost entirely).
+   Making the row an actual flex line aligns all three on one centre line for free and lets
+   narrow screens wrap instead of overlap. */
 @media (max-width: 959px) {
+  nav > div.flex-l {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    /* only matters once it wraps: keeps the hamburger on the right rather than
+       stranding it at the left of its own line */
+    justify-content: flex-end;
+  }
+
+  /* the logo soaks up the spare space, pushing Donate + hamburger to the right */
+  .nav-side:not(.nav-side-end) {
+    margin-right: auto;
+  }
+
+  /* DOM order is logo, hamburger, menu, Donate — reorder to put Donate before the
+     hamburger, matching the desktop layout */
+  .nav-side-end {
+    order: 2;
+    margin-right: 0.5rem;
+  }
+
+  #hamburger-menu {
+    order: 3;
+  }
+
+  /* the expanded menu drops onto its own line below the row */
+  #site-menu-container {
+    flex-basis: 100%;
+    order: 4;
+  }
+
   #donate-button {
-    position: absolute;
-    top: 24px;
-    right: 64px;
     padding: 0.7rem 0.95rem; /* keeps a 44px+ tap target */
     font-size: 1rem;
   }
@@ -253,15 +290,14 @@ img.opos-top {
 }
 
 /*Hamburger style menu for mobile devices*/
+/* No position/offsets here: it's display:none above 960px, and below that it rides in the
+   nav's flex row (see the mobile nav block above), which aligns it with Donate + the logo. */
 #hamburger-menu {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   /* width: 2rem; */
   height: 2rem;
-  position: absolute;
-  top: 32px;
-  right: 16px;
   cursor: pointer;
 }
 
