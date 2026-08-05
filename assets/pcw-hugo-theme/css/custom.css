@@ -18,30 +18,6 @@ nav a {
   padding: 0.15rem;
 }
 
-/* Nav side zones — centre the menu.
-   The nav is a flex row on desktop with justify-between, which splits the spare
-   space into equal GAPS. Equal gaps only centre the menu if the logo and the
-   Donate button are the same width, and they aren't (the logo is ~83px wider),
-   so the menu used to land ~41px right of centre. Giving each side its own
-   flex:1 zone makes the two ZONES equal instead, which centres the menu no
-   matter what the logo or button measure. */
-@media (min-width: 960px) {
-  .nav-side {
-    flex: 1 1 0;
-    display: flex;
-    align-items: center;
-    /* Never squash the logo or the button. If the nav runs out of room the
-       zones stop matching and it degrades to the old off-centre layout. */
-    min-width: max-content;
-  }
-
-  /* Keep Donate as a right-hand end-cap; without this the zone would stretch
-     the button across the whole side. */
-  .nav-side-end {
-    justify-content: flex-end;
-  }
-}
-
 /* Donate CTA — standalone button: far-right end-cap on desktop, always visible on mobile */
 #donate-button {
   display: inline-block;
@@ -50,11 +26,19 @@ nav a {
   text-decoration: none;
   border: 2px solid var(--dark-blue);
   border-radius: 6px;
-  padding: 0.4rem 1.1rem;
-  font-size: 1.25rem; /* match the nav links */
+  padding: 0.2rem 0.6rem;
+  font-size: 1rem;
   line-height: 1.4;
   transition: background 0.12s ease, color 0.12s ease;
 }
+
+@media screen and (min-width: 30em) {
+  #donate-button {
+    padding: 0.4rem 1.1rem;
+    font-size: 1.25rem;
+  }
+}
+
 
 #donate-button:hover {
   background: var(--dark-blue);
@@ -72,54 +56,79 @@ nav a {
   outline-offset: 2px;
 }
 
-/* Mobile nav row — logo | Donate | hamburger, on one flex line.
-   Below 960px the outer div isn't a flex container (Tachyons' flex-l only kicks in at
-   60em), so Donate and the hamburger used to be pulled out of flow with position:absolute
-   and hardcoded offsets. Those offsets resolved against <body>, not the nav — they only
-   lined up because the nav happens to sit at the top of the page — and the numbers were
-   picked by eye, so the button sat ~1.6px off the hamburger and drifted with any change
-   to its padding or font. Worse, a fixed `right` offset meant that on a narrow screen the
-   button slid over the logo (at 320px the Spanish "Donaciones" covered it almost entirely).
-   Making the row an actual flex line aligns all three on one centre line for free and lets
-   narrow screens wrap instead of overlap. */
-@media (max-width: 959px) {
-  nav > div.flex-l {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    /* only matters once it wraps: keeps the hamburger on the right rather than
-       stranding it at the left of its own line */
-    justify-content: flex-end;
-  }
+.nav-side-end {
+	column-gap: 10px;
+}
 
-  /* the logo soaks up the spare space, pushing Donate + hamburger to the right */
-  .nav-side:not(.nav-side-end) {
-    margin-right: auto;
-  }
 
-  /* DOM order is logo, hamburger, menu, Donate — reorder to put Donate before the
-     hamburger, matching the desktop layout */
-  .nav-side-end {
-    order: 2;
-    margin-right: 0.5rem;
-  }
 
-  #hamburger-menu {
-    order: 3;
+.site-nav {
+  --side-w: 150px;
+  --logo-w: 150px;
+  @media screen and (min-width: 30em) {
+    --logo-w: 180px;
   }
-
-  /* the expanded menu drops onto its own line below the row */
-  #site-menu-container {
-    flex-basis: 100%;
-    order: 4;
+  @media screen and (min-width: 60em) {
+    --logo-w: 160px;
+  	--side-w: 170px;
   }
-
-  #donate-button {
-    padding: 0.7rem 0.95rem; /* keeps a 44px+ tap target */
-    font-size: 1rem;
+  @media screen and (min-width: 80em) {
+    --logo-w: 170px;
   }
 }
 
+.nav-side-logo img {
+  width: var(--logo-w);
+  min-width: var(--logo-w);
+  height: auto;
+}
+
+.site-menu-container {
+	background-color: var(--primary);
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 100%;
+	z-index: 99;
+}
+
+@media screen and (min-width: 60em) {
+  .site-menu-container {
+    background-color: transparent;
+    position: static;
+    top: auto;
+    left: auto;
+    width: unset;
+    z-index: unset;
+  }
+
+  .site-nav-wrap {
+    display: grid;
+    grid-template-columns: minmax(var(--side-w), 1fr) auto minmax(var(--side-w), 1fr);
+  }
+
+  .nav-side {
+  	flex: 1; 
+  	min-width: max-content;
+  }
+
+	.site-menu-container, #donate-button {
+    /* fluid type - font grows from 1-1.25rem between screen width 960-1280px */
+		font-size: clamp(1rem, calc(0.25rem + 1.25vw), 1.25rem);
+	}
+
+  .site-menu-list li {
+    column-gap: 12px;
+    margin-right: 12px;
+  }  
+}
+
+@media screen and (min-width: 74em) {
+  .site-menu-list {
+    column-gap: 14px;
+    margin-right: 14px;
+  }
+}
 
 /* Contact section */
 /*
@@ -296,9 +305,9 @@ img.opos-top {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  /* width: 2rem; */
   height: 2rem;
   cursor: pointer;
+  transition: transform 0.3s ease-in-out;
 }
 
 #hamburger-menu div {
@@ -307,36 +316,10 @@ img.opos-top {
   background: white;
 }
 
-/*Show hamburger menu on small screens*/
-@media (max-width: 959px) {
-  #hamburger-menu {
-    display: flex;
-    transition: transform 0.3s ease-in-out;
-  }
-
-  #site-menu {
-    max-width: 50%;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-    margin-bottom: 0;
-    margin-top: 0;
-  }
-
-  #site-menu li {
-    display: flex;
-  }
-}
-
 /*Hide hamburger menu on large screens*/
-@media (min-width: 960px) {
-  #site-menu {
-    display: block !important;
-    /*automatically displays nav items if width becomes >600px*/
-  }
-
+@media (min-width: 60em) {
   #hamburger-menu {
-    display: none !important;
+    display: none;
   }
 }
 
