@@ -58,6 +58,14 @@ nav a {
 
 .nav-side-end {
 	column-gap: 10px;
+	padding-right: 8px;
+}
+
+@media screen and (min-width: 30em) {
+	.nav-side-end {
+		padding-right: 16px;
+		column-gap: 16px;
+	}
 }
 
 
