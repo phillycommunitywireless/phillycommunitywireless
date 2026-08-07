@@ -15,7 +15,127 @@ div.hero-image a {
   Giving the nav items some breathing room
   */
 nav a {
-  padding: 0.2rem;
+  padding: 0.15rem;
+}
+
+/* Donate CTA — standalone button: far-right end-cap on desktop, always visible on mobile */
+#donate-button {
+  display: inline-block;
+  background: #fff;
+  color: var(--dark-blue);
+  text-decoration: none;
+  border: 2px solid var(--dark-blue);
+  border-radius: 6px;
+  padding: 0.2rem 0.6rem;
+  font-size: 1rem;
+  line-height: 1.4;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+
+@media screen and (min-width: 30em) {
+  #donate-button {
+    padding: 0.4rem 1.1rem;
+    font-size: 1.25rem;
+  }
+}
+
+
+#donate-button:hover {
+  background: var(--dark-blue);
+  color: #fff;
+  text-decoration: none; /* beat the global a:hover underline */
+}
+
+#donate-button:active {
+  background: var(--dark-blue);
+  color: #fff;
+}
+
+#donate-button:focus-visible {
+  outline: 2px solid var(--dark-blue);
+  outline-offset: 2px;
+}
+
+.nav-side-end {
+	column-gap: 10px;
+	padding-right: 8px;
+}
+
+@media screen and (min-width: 30em) {
+	.nav-side-end {
+		padding-right: 16px;
+		column-gap: 16px;
+	}
+}
+
+
+
+.site-nav {
+  --side-w: 150px;
+  --logo-w: 150px;
+  @media screen and (min-width: 30em) {
+    --logo-w: 180px;
+  }
+  @media screen and (min-width: 60em) {
+    --logo-w: 160px;
+  	--side-w: 170px;
+  }
+  @media screen and (min-width: 80em) {
+    --logo-w: 170px;
+  }
+}
+
+.nav-side-logo img {
+  width: var(--logo-w);
+  min-width: var(--logo-w);
+  height: auto;
+}
+
+.site-menu-container {
+	background-color: var(--primary);
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 100%;
+	z-index: 99;
+}
+
+@media screen and (min-width: 60em) {
+  .site-menu-container {
+    background-color: transparent;
+    position: static;
+    top: auto;
+    left: auto;
+    width: unset;
+    z-index: unset;
+  }
+
+  .site-nav-wrap {
+    display: grid;
+    grid-template-columns: minmax(var(--side-w), 1fr) auto minmax(var(--side-w), 1fr);
+  }
+
+  .nav-side {
+  	flex: 1; 
+  	min-width: max-content;
+  }
+
+	.site-menu-container, #donate-button {
+    /* fluid type - font grows from 1-1.25rem between screen width 960-1280px */
+		font-size: clamp(1rem, calc(0.25rem + 1.25vw), 1.25rem);
+	}
+
+  .site-menu-list li {
+    column-gap: 12px;
+    margin-right: 12px;
+  }  
+}
+
+@media screen and (min-width: 74em) {
+  .site-menu-list {
+    column-gap: 14px;
+    margin-right: 14px;
+  }
 }
 
 /* Contact section */
@@ -187,16 +307,15 @@ img.opos-top {
 }
 
 /*Hamburger style menu for mobile devices*/
+/* No position/offsets here: it's display:none above 960px, and below that it rides in the
+   nav's flex row (see the mobile nav block above), which aligns it with Donate + the logo. */
 #hamburger-menu {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  /* width: 2rem; */
   height: 2rem;
-  position: absolute;
-  top: 32px;
-  right: 16px;
   cursor: pointer;
+  transition: transform 0.3s ease-in-out;
 }
 
 #hamburger-menu div {
@@ -205,36 +324,10 @@ img.opos-top {
   background: white;
 }
 
-/*Show hamburger menu on small screens*/
-@media (max-width: 959px) {
-  #hamburger-menu {
-    display: flex;
-    transition: transform 0.3s ease-in-out;
-  }
-
-  #site-menu {
-    max-width: 50%;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-    margin-bottom: 0;
-    margin-top: 0;
-  }
-
-  #site-menu li {
-    display: flex;
-  }
-}
-
 /*Hide hamburger menu on large screens*/
-@media (min-width: 960px) {
-  #site-menu {
-    display: block !important;
-    /*automatically displays nav items if width becomes >600px*/
-  }
-
+@media (min-width: 60em) {
   #hamburger-menu {
-    display: none !important;
+    display: none;
   }
 }
 

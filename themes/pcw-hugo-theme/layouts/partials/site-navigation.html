@@ -1,8 +1,12 @@
-<nav class="bg-pcw pa2 pl3-ns" role="navigation">
-  <div class="flex-l justify-between items-center center">
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-black no-underline white flex items-center">
-      <img height="70" src="{{ $.Site.Params.site_logo }}" alt="{{ $.Site.Title }}" />
-    </a>
+<nav class="bg-pcw pa2 pl3-ns relative site-nav" role="navigation">
+  <div class="site-nav-wrap flex justify-between items-center center">
+    {{/* Left zone. Pairs with the matching zone around Donate: the two are equal
+         width, so the menu between them sits dead centre in the nav. */}}
+    <div class="nav-side nav-side-logo">
+      <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-black no-underline white flex items-center">
+        <img height="57" width="150" src="{{ $.Site.Params.site_logo }}" alt="{{ $.Site.Title }}" />
+      </a>
+    </div>
     <!-- Hamburger style menu. Only applies to devices with <=600px width -->
     <!-- <div id="hamburger-menu" class="dn db-l">
       <div></div>
@@ -10,86 +14,100 @@
       <div></div>
     </div> -->
 
-    <i id="hamburger-menu" class="fa-solid fa-bars fa-2x"></i>
-
-    <div id="site-menu-container" class="flex items-center justify-center flex-column flex-row-l">
-      {{ if .Site.Menus.main }}
-      <ul id="site-menu" class="ph0 mb0-s lh-copy dn-l">
-        {{ range .Site.Menus.main }}
-        {{ if .HasChildren }}
-        <li class="list br3 f4 fw4 dib mr4-l pt2 pb1 relative d-flex justify-center">
-          <a class="no-underline white hover-black dropdown-toggle" href="javascript:void(0)"
-            title="{{ .Name }} page">
-            {{ .Name }} <span class="dropdown-arrow fa-solid fa fa-caret-down"></span>
-          </a>
-          <ul style="top: 40px" class="absolute shadow-1 dn submenu bg-pcw br3 ph2">
-            {{ range .Children }}
-            <a style="white-space: nowrap;" class="hover-black no-underline white pa0" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
-              <li class="list f4 fw4 br3 grow justify-center pv2 ph2">
-                  {{ .Name }}
-              </li>
+    <div id="site-menu-container" class="site-menu-container f4 pb4 pb0-l">
+      <div class="site-menu-container-inner flex items-center justify-center flex-column flex-row-l">
+        {{ if .Site.Menus.main }}
+        <ul id="site-menu" class="site-menu-list ph0 mv0 lh-copy tc flex flex-column flex-row-l items-center">
+          {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+          <li class="list br3 fw4 pt2 pb1 relative">
+            <a class="no-underline white hover-black nowrap dropdown-toggle" href="javascript:void(0)"
+              title="{{ .Name }} page">
+              {{ .Name }} <span class="dropdown-arrow fa-solid fa fa-caret-down"></span>
             </a>
+            <ul style="top: 40px" class="absolute shadow-1 dn submenu bg-pcw br3 ph2">
+              {{ range .Children }}
+              <a style="white-space: nowrap;" class="hover-black no-underline white pa0" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+                <li class="list fw4 br3 grow justify-center pv2 ph2">
+                    {{ .Name }}
+                </li>
+              </a>
+              {{ end }}
+            </ul>
+          </li>
+          {{ else }}
+            {{ if not .Params.Button }}
+            <li class="list fw4 br3 pt2 pb1">
+              <a class="hover-black no-underline white" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+                {{ .Name }}
+              </a>
+            </li>
             {{ end }}
-          </ul>
-        </li>
-        {{ else }}
-        <li class="list f4 fw4 dib br3 mr4-l pt2 pb1 justify-center">
-          <a class="hover-black no-underline white" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
-            {{ .Name }}
-          </a>
-        </li>
+          {{ end }}
+          {{ end }}
+        </ul>
         {{ end }}
-        {{ end }}
-      </ul>
-      {{ end }}
-      {{ partial "i18nlist.html" . }}
+        {{ partial "i18nlist.html" . }}
+      </div>
     </div>
+
+    {{/* Donate renders as a standalone CTA outside the menu list (styled #donate-button).
+       Its zone mirrors the logo's so the menu above stays centred; the button
+       itself is pushed to the right edge rather than stretched. */}}
+    <div class="nav-side nav-side-end flex items-center">
+      {{ range .Site.Menus.main }}{{ if .Params.Button }}
+      	<a id="donate-button" class="no-underline ml-auto-l" href="{{ .URL }}" title="{{ .Name }} page">{{ .Name }}</a>
+      {{ end }}{{ end }}
+	  	<i id="hamburger-menu" class="fa-solid fa-bars fa-2x dn-l"></i>
+    </div>
+
   </div>
 </nav>
 
 <!--Script to show/hide navigation content-->
 <script>
   //stores the most recent status of the hamburger menu for mobile nav
-  var siteMenu = document.getElementById('site-menu');
   var siteMenuContainer = document.getElementById('site-menu-container');
   var hamburgerMenu = document.getElementById('hamburger-menu');
-  var translations = document.getElementById('translations')
+
+  // matches tachyons lg breakpoint 60em
+  // (safer than using a px value since em size can change depending on user preferences)
+  const desktopBreakpoint = window.matchMedia('(min-width: 60em)')
 
   //Hide menu content on small screens by default
-  if (window.innerWidth <= 959) {
-    siteMenu.classList.add('dn');
-    siteMenuContainer.classList.add('dn')
-    translations.classList.add('dn')
+  if (!desktopBreakpoint.matches) {
+    hideNavMenu()
+  }
+
+  function showNavMenu() {
+    siteMenuContainer.style.display = ''
+    hamburgerMenu.classList.add('rotate')
+    localStorage.setItem('menuShown', 'true');
+  }
+
+  function hideNavMenu() {
+    siteMenuContainer.style.display = 'none'
+    hamburgerMenu.classList.remove('rotate')
+    localStorage.setItem('menuShown', 'false');
   }
 
   //Update state when hamburger menu is clicked
   hamburgerMenu.addEventListener('click', function () {
-    var isNavVisible = getComputedStyle(siteMenu).display !== 'none';
+    var isNavVisible = getComputedStyle(siteMenuContainer).display !== 'none';
     if (isNavVisible) {
-      siteMenu.classList.add('dn');
-      siteMenu.classList.remove('flex')
-      translations.classList.add('dn')
-      hamburgerMenu.classList.remove('rotate');
-      localStorage.setItem('menuShown', 'false');
+      hideNavMenu()
     } else {
-      siteMenu.classList.remove('dn');
-      siteMenu.classList.add('flex')
-      translations.classList.remove('dn')
-      hamburgerMenu.classList.add('rotate');
-      localStorage.setItem('menuShown', 'true');
+      showNavMenu()
     }
   });
 
-  // auto show/hide menu items on screen resize
-  addEventListener("resize", (event) => {
-    if (window.innerWidth <= 959) {
-      // set display-style to none, reset menu rotation
-      siteMenu.classList.add('dn')
-      siteMenu.classList.remove('flex')
-      hamburgerMenu.classList.remove('rotate');
-      translations.classList.add('dn')
+  desktopBreakpoint.addEventListener('change', (e) => {
+	  if (!e.matches) {      
+      hideNavMenu()
+	  } else {
+      showNavMenu()
     }
-  });
+  })
 
   document.addEventListener('DOMContentLoaded', function () {
     var dropdownToggles = document.querySelectorAll('.dropdown-toggle');
