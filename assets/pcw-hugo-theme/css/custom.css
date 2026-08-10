@@ -68,8 +68,6 @@ nav a {
 	}
 }
 
-
-
 .site-nav {
   --side-w: 150px;
   --logo-w: 150px;
@@ -108,6 +106,7 @@ nav a {
     left: auto;
     width: unset;
     z-index: unset;
+    grid-area: 1 / 2;
   }
 
   .site-nav-wrap {
@@ -120,22 +119,37 @@ nav a {
   	min-width: max-content;
   }
 
+  .nav-side-logo {
+    grid-area: 1 / 1;
+  }
+
+  .nav-side-end {
+    grid-area: 1 / 3;
+  }
+
 	.site-menu-container, #donate-button {
-    /* fluid type - font grows from 1-1.25rem between screen width 960-1280px */
+	/* fluid type - font grows from 1-1.25rem between screen width 960-1280px */
 		font-size: clamp(1rem, calc(0.25rem + 1.25vw), 1.25rem);
 	}
 
-  .site-menu-list li {
+  .site-menu-list {
     column-gap: 12px;
+  }
+
+  .site-menu-list:where(:not(:last-child)) {
     margin-right: 12px;
-  }  
+  }
 }
 
 @media screen and (min-width: 74em) {
   .site-menu-list {
-    column-gap: 14px;
-    margin-right: 14px;
+    column-gap: 24px;
+    /* margin-right: 24px; */
   }
+  .site-menu-list:where(:not(:last-child)) {
+    margin-right: 24px;
+  }
+
 }
 
 /* Contact section */
@@ -337,7 +351,7 @@ img.opos-top {
 
 .submenu {
   z-index: 1000;
-  margin-top: 10px;
+  top: calc(100% + 10px);
 }
 
 .submenu:not(.dn) {
@@ -355,12 +369,43 @@ img.opos-top {
   transform: rotate(180deg);
 }
 
-/* alt color on hover for navbar menu items */
-.submenu li:hover,
-#site-menu li:hover,
-ul#translations li:hover {
+.menu-link {
+  border-radius: 0.5rem;
+  display: inline-block;
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  white-space: nowrap;
+  padding: 0.3rem;
+  transition: 0.3s;
+  will-change: transform;
+}
+
+.menu-link:hover, 
+.menu-link:focus-visible {
+  text-decoration: underline;
+  text-decoration-color: #000;
   background-color: #7a87f5;
-  transition: 0.5s;
+  color: #000;
+}
+
+.menu-link:focus-visible {
+  outline: 2px solid white;
+  outline-offset: 2px;
+}
+
+.menu-link-sub {
+  width: 100%;
+}
+
+.menu-item-sub {
+	margin-bottom: 0.15rem;
+}
+
+@media screen and (min-width: 60em) {
+  .menu-link-top {
+    padding: 0.3rem 0.15rem 0.3rem;
+  }
 }
 
 footer {

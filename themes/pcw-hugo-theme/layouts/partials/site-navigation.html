@@ -1,18 +1,20 @@
 <nav class="bg-pcw pa2 pl3-ns relative site-nav" role="navigation">
   <div class="site-nav-wrap flex justify-between items-center center">
-    {{/* Left zone. Pairs with the matching zone around Donate: the two are equal
-         width, so the menu between them sits dead centre in the nav. */}}
+
     <div class="nav-side nav-side-logo">
       <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-black no-underline white flex items-center">
         <img height="57" width="150" src="{{ $.Site.Params.site_logo }}" alt="{{ $.Site.Title }}" />
       </a>
     </div>
-    <!-- Hamburger style menu. Only applies to devices with <=600px width -->
-    <!-- <div id="hamburger-menu" class="dn db-l">
-      <div></div>
-      <div></div>
-      <div></div>
-    </div> -->
+
+    <div class="nav-side nav-side-end flex items-center">
+      {{ range .Site.Menus.main }}{{ if .Params.Button }}
+      	<a id="donate-button" class="no-underline ml-auto-l" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}{{ end }}
+      <button id="hamburger-menu" class="input-reset button-reset bn bg-transparent pa0 ma0 pointer color-inherit" aria-controls="site-menu-container" aria-expanded="false" aria-label="Toggle Navigation">
+	  	  <i class="fa-solid fa-bars fa-2x dn-l"></i>
+      </button>
+    </div>
 
     <div id="site-menu-container" class="site-menu-container f4 pb4 pb0-l">
       <div class="site-menu-container-inner flex items-center justify-center flex-column flex-row-l">
@@ -20,25 +22,25 @@
         <ul id="site-menu" class="site-menu-list ph0 mv0 lh-copy tc flex flex-column flex-row-l items-center">
           {{ range .Site.Menus.main }}
           {{ if .HasChildren }}
-          <li class="list br3 fw4 pt2 pb1 relative">
-            <a class="no-underline white hover-black nowrap dropdown-toggle" href="javascript:void(0)"
+          <li class="menu-item menu-item-top list relative">
+            <a class="menu-link menu-link-top dropdown-toggle" href="javascript:void(0)"
               title="{{ .Name }} page">
               {{ .Name }} <span class="dropdown-arrow fa-solid fa fa-caret-down"></span>
             </a>
-            <ul style="top: 40px" class="absolute shadow-1 dn submenu bg-pcw br3 ph2">
+            <ul class="absolute shadow-1 dn submenu bg-pcw br3 ph3 pv1">
               {{ range .Children }}
-              <a style="white-space: nowrap;" class="hover-black no-underline white pa0" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
-                <li class="list fw4 br3 grow justify-center pv2 ph2">
-                    {{ .Name }}
-                </li>
-              </a>
+			        <li class="menu-item menu-item-sub list">
+                <a class="menu-link menu-link-sub grow" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+                  {{ .Name }}
+				        </a>
+				      </li>
               {{ end }}
             </ul>
           </li>
           {{ else }}
             {{ if not .Params.Button }}
-            <li class="list fw4 br3 pt2 pb1">
-              <a class="hover-black no-underline white" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+            <li class="menu-item menu-item-top list">
+              <a class="menu-link menu-link-top" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
                 {{ .Name }}
               </a>
             </li>
@@ -51,28 +53,24 @@
       </div>
     </div>
 
-    {{/* Donate renders as a standalone CTA outside the menu list (styled #donate-button).
-       Its zone mirrors the logo's so the menu above stays centred; the button
-       itself is pushed to the right edge rather than stretched. */}}
-    <div class="nav-side nav-side-end flex items-center">
-      {{ range .Site.Menus.main }}{{ if .Params.Button }}
-      	<a id="donate-button" class="no-underline ml-auto-l" href="{{ .URL }}" title="{{ .Name }} page">{{ .Name }}</a>
-      {{ end }}{{ end }}
-	  	<i id="hamburger-menu" class="fa-solid fa-bars fa-2x dn-l"></i>
-    </div>
-
   </div>
 </nav>
 
 <!--Script to show/hide navigation content-->
 <script>
-  //stores the most recent status of the hamburger menu for mobile nav
   var siteMenuContainer = document.getElementById('site-menu-container');
   var hamburgerMenu = document.getElementById('hamburger-menu');
+  const navElement = document.querySelector('.site-nav[role="navigation"]')
 
   // matches tachyons lg breakpoint 60em
   // (safer than using a px value since em size can change depending on user preferences)
   const desktopBreakpoint = window.matchMedia('(min-width: 60em)')
+
+  // helper fn to determine if the nav is shown atm
+  const navIsVisible = () => getComputedStyle(siteMenuContainer).display !== 'none'
+
+  // helper fn to determine if we are at desktop width
+  const isDesktop = () => desktopBreakpoint.matches
 
   //Hide menu content on small screens by default
   if (!desktopBreakpoint.matches) {
@@ -82,19 +80,18 @@
   function showNavMenu() {
     siteMenuContainer.style.display = ''
     hamburgerMenu.classList.add('rotate')
-    localStorage.setItem('menuShown', 'true');
+    hamburgerMenu.setAttribute('aria-expanded', 'true')
   }
 
   function hideNavMenu() {
     siteMenuContainer.style.display = 'none'
     hamburgerMenu.classList.remove('rotate')
-    localStorage.setItem('menuShown', 'false');
+    hamburgerMenu.setAttribute('aria-expanded', 'false')
   }
 
   //Update state when hamburger menu is clicked
   hamburgerMenu.addEventListener('click', function () {
-    var isNavVisible = getComputedStyle(siteMenuContainer).display !== 'none';
-    if (isNavVisible) {
+    if (navIsVisible()) {
       hideNavMenu()
     } else {
       showNavMenu()
@@ -106,6 +103,22 @@
       hideNavMenu()
 	  } else {
       showNavMenu()
+    }
+  })
+
+  document.addEventListener('click', (e) => {
+    if (desktopBreakpoint.matches) return 
+    const isClickInsideNav = navElement.contains(e.target)
+    if (!isClickInsideNav && navIsVisible()) {
+      hideNavMenu()
+    }
+  })
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !isDesktop() && navIsVisible()) {
+      let shouldFocusButton = siteMenuContainer.contains(e.target)
+      hideNavMenu()
+      if (shouldFocusButton) hamburgerMenu.focus()
     }
   })
 
