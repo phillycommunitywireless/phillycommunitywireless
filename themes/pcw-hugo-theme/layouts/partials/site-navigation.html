@@ -11,7 +11,7 @@
       {{ range .Site.Menus.main }}{{ if .Params.Button }}
       	<a id="donate-button" class="no-underline ml-auto-l" href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}{{ end }}
-      <button id="hamburger-menu" class="input-reset button-reset bn bg-transparent pa0 ma0 pointer color-inherit" aria-controls="site-menu-container" aria-expanded="false" aria-label="Toggle Navigation">
+      <button id="hamburger-menu" type="button" class="input-reset button-reset bn bg-transparent pa0 ma0 pointer color-inherit" aria-controls="site-menu-container" aria-expanded="false" aria-label="{{ .Site.Params.navName | default "Menu" }}">
 	  	  <i class="fa-solid fa-bars fa-2x dn-l"></i>
       </button>
     </div>
@@ -22,15 +22,15 @@
         <ul id="site-menu" class="site-menu-list ph0 mv0 lh-copy tc flex flex-column flex-row-l items-center">
           {{ range .Site.Menus.main }}
           {{ if .HasChildren }}
+          {{ $id := printf "submenu-%s" (.Identifier | urlize) }}
           <li class="menu-item menu-item-top list relative">
-            <a class="menu-link menu-link-top dropdown-toggle" href="javascript:void(0)"
-              title="{{ .Name }} page">
-              {{ .Name }} <span class="dropdown-arrow fa-solid fa fa-caret-down"></span>
-            </a>
-            <ul class="absolute shadow-1 dn submenu bg-pcw br3 ph3 pv1">
+            <button type="button" class="menu-link menu-link-top dropdown-toggle" aria-controls="{{ $id }}" aria-expanded="false">
+              {{ .Name }} <span aria-hidden="true" class="dropdown-arrow fa-solid fa fa-caret-down"></span>
+            </button>
+            <ul class="absolute shadow-1 dn submenu bg-pcw br3 ph3 pv1" id="{{ $id }}">
               {{ range .Children }}
 			        <li class="menu-item menu-item-sub list">
-                <a class="menu-link menu-link-sub grow" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+                <a class="menu-link menu-link-sub grow" href="{{ .URL | relLangURL }}">
                   {{ .Name }}
 				        </a>
 				      </li>
@@ -40,7 +40,7 @@
           {{ else }}
             {{ if not .Params.Button }}
             <li class="menu-item menu-item-top list">
-              <a class="menu-link menu-link-top" href="{{ .URL | relLangURL }}" title="{{ .Name }} page">
+              <a class="menu-link menu-link-top" href="{{ .URL | relLangURL }}">
                 {{ .Name }}
               </a>
             </li>
@@ -65,14 +65,13 @@
   // matches tachyons lg breakpoint 60em
   // (safer than using a px value since em size can change depending on user preferences)
   const desktopBreakpoint = window.matchMedia('(min-width: 60em)')
+  // helper fn to determine if we are at desktop width
+  const isDesktop = () => desktopBreakpoint.matches
 
   // helper fn to determine if the nav is shown atm
   const navIsVisible = () => getComputedStyle(siteMenuContainer).display !== 'none'
 
-  // helper fn to determine if we are at desktop width
-  const isDesktop = () => desktopBreakpoint.matches
-
-  //Hide menu content on small screens by default
+  // Hide menu content on small screens by default
   if (!desktopBreakpoint.matches) {
     hideNavMenu()
   }
@@ -122,64 +121,62 @@
     }
   })
 
-  document.addEventListener('DOMContentLoaded', function () {
-    var dropdownToggles = document.querySelectorAll('.dropdown-toggle');
+  // Collect all the dropdowns (and their associated pieces) into objects for easier access
+  const dropdowns = [...document.querySelectorAll('.dropdown-toggle')].map((toggle)=> {
+    const id = toggle.getAttribute('aria-controls')
+    const submenu = document.getElementById(id)
+    const arrow = toggle.querySelector('.dropdown-arrow')
+    return { toggle, id, submenu, arrow }
+  })
 
-    // Add click event listener to each dropdown toggle
-    dropdownToggles.forEach(function (toggle) {
-      toggle.addEventListener('click', function (event) {
-        event.preventDefault(); // Prevent default link behavior
+  function openDropdown(dropdown) {
+    const { toggle, submenu, arrow } = dropdown 
+    if (!toggle || !submenu) return
+    submenu.classList.remove('dn')
+    if (arrow) arrow.classList.add('rotate-arrow')
+    toggle.setAttribute('aria-expanded', 'true')
+  }
 
-        var parentLi = this.closest('li');
-        var submenu = parentLi.querySelector('.submenu');
-        var arrow = this.querySelector('.dropdown-arrow'); // Get the arrow element
+  function closeDropdown(dropdown) {
+    const { toggle, submenu, arrow } = dropdown
+    if (!toggle || !submenu) return
+    submenu.classList.add('dn')
+    if (arrow) arrow.classList.remove('rotate-arrow')
+    toggle.setAttribute('aria-expanded', 'false')
+  }
 
-        // Toggle the visibility of the submenu
-        if (submenu) {
-          submenu.classList.toggle('dn'); // Toggle 'dn' class to show/hide submenu
-          arrow.classList.toggle('rotate-arrow'); // Toggle rotation of the arrow
-        }
+  dropdowns.forEach((dropdown) => {
+    const { toggle } = dropdown
+    toggle.addEventListener('click', function() {
+      const isOpen = toggle.getAttribute('aria-expanded') === 'true' 
 
-        // Close other open dropdowns
-        closeOtherDropdowns(this);
-      });
-    });
-
-    // Function to close other open dropdowns
-    function closeOtherDropdowns(currentToggle) {
-      dropdownToggles.forEach(function (toggle) {
-        if (toggle !== currentToggle) {
-          var otherSubmenu = toggle.closest('li').querySelector('.submenu');
-          var otherArrow = toggle.querySelector('.dropdown-arrow');
-          if (otherSubmenu) {
-            otherSubmenu.classList.add('dn'); // Hide other submenus
-          }
-          if (otherArrow) {
-            otherArrow.classList.remove('rotate-arrow'); // Reset other arrows
-          }
-        }
-      });
-    }
-
-    // Close dropdowns when clicking outside
-    document.addEventListener('click', function (event) {
-      var isClickInsideMenu = event.target.closest('.dropdown-toggle') || event.target.closest('.submenu');
-
-      if (!isClickInsideMenu) {
-        // Close all dropdowns if the click is outside the dropdowns
-        dropdownToggles.forEach(function (toggle) {
-          var submenu = toggle.closest('li').querySelector('.submenu');
-          var arrow = toggle.querySelector('.dropdown-arrow');
-          if (submenu) {
-            submenu.classList.add('dn'); // Ensure it's hidden
-          }
-          if (arrow) {
-            arrow.classList.remove('rotate-arrow'); // Reset arrow rotation
-          }
-        });
+      if (isOpen) {
+        closeDropdown(dropdown)
+      } else {
+        openDropdown(dropdown)
+        closeOtherDropdowns(toggle)
       }
-    });
+    })
+  })
+
+  // Function to close other open dropdowns
+  function closeOtherDropdowns(currentToggle = null) {
+
+    dropdowns.forEach((dropdown) => {
+      if (dropdown.toggle === currentToggle) return 
+      closeDropdown(dropdown)
+    })
+  }
+
+  // Close dropdowns when clicking outside
+  document.addEventListener('click', function (event) {
+    var isClickInsideMenu = event.target.closest('.dropdown-toggle') || event.target.closest('.submenu');
+
+    if (!isClickInsideMenu) {
+      closeOtherDropdowns()
+    }
   });
+
 
 
   // listeners for showing dropdowns on hover 

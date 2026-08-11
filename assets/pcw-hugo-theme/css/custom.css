@@ -211,6 +211,10 @@ nav a {
   padding: 0.3rem;
   transition: 0.3s;
   will-change: transform;
+  line-height: 1.5;
+  background-color: unset;
+  border: none;
+  cursor: pointer;
 }
 
 .menu-link:hover, 
