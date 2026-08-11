@@ -71,11 +71,6 @@
   // helper fn to determine if the nav is shown atm
   const navIsVisible = () => getComputedStyle(siteMenuContainer).display !== 'none'
 
-  // Hide menu content on small screens by default
-  if (!desktopBreakpoint.matches) {
-    hideNavMenu()
-  }
-
   function showNavMenu() {
     siteMenuContainer.style.display = ''
     hamburgerMenu.classList.add('rotate')
@@ -86,6 +81,7 @@
     siteMenuContainer.style.display = 'none'
     hamburgerMenu.classList.remove('rotate')
     hamburgerMenu.setAttribute('aria-expanded', 'false')
+    closeOtherDropdowns()
   }
 
   //Update state when hamburger menu is clicked
@@ -102,22 +98,6 @@
       hideNavMenu()
 	  } else {
       showNavMenu()
-    }
-  })
-
-  document.addEventListener('click', (e) => {
-    if (desktopBreakpoint.matches) return 
-    const isClickInsideNav = navElement.contains(e.target)
-    if (!isClickInsideNav && navIsVisible()) {
-      hideNavMenu()
-    }
-  })
-
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !isDesktop() && navIsVisible()) {
-      let shouldFocusButton = siteMenuContainer.contains(e.target)
-      hideNavMenu()
-      if (shouldFocusButton) hamburgerMenu.focus()
     }
   })
 
@@ -159,23 +139,38 @@
     })
   })
 
-  // Function to close other open dropdowns
   function closeOtherDropdowns(currentToggle = null) {
-
     dropdowns.forEach((dropdown) => {
-      if (dropdown.toggle === currentToggle) return 
+      if (dropdown.toggle === currentToggle) return
       closeDropdown(dropdown)
     })
   }
 
-  // Close dropdowns when clicking outside
-  document.addEventListener('click', function (event) {
-    var isClickInsideMenu = event.target.closest('.dropdown-toggle') || event.target.closest('.submenu');
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.dropdown-toggle, .submenu')) closeOtherDropdowns()
+    if (isDesktop()) return
+    if (!navElement.contains(e.target) && navIsVisible()) hideNavMenu()
+  })
 
-    if (!isClickInsideMenu) {
-      closeOtherDropdowns()
+  document.addEventListener('keydown', (e) => {
+    if (e.key !== 'Escape') return
+
+    const expanded = dropdowns.find(({ toggle }) => toggle.getAttribute('aria-expanded') === 'true')
+    if (expanded) {
+      const shouldFocusToggle = expanded.toggle.contains(e.target) || expanded.submenu.contains(e.target)
+      closeDropdown(expanded)
+      if (shouldFocusToggle) expanded.toggle.focus()
+      return
     }
-  });
+
+    if (!isDesktop() && navIsVisible()) {
+      const shouldFocusButton = siteMenuContainer.contains(e.target)
+      hideNavMenu()
+      if (shouldFocusButton) hamburgerMenu.focus()
+    }
+  })
+
+  if (!isDesktop()) hideNavMenu()
 
 
 
