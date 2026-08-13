@@ -5,8 +5,8 @@ title: "Development and Communications Manager"
 
 __Position__: Development & Communications Manager  
 __Location__:  Hybrid (75% on-site and 25% remote)  
-__Position type__: Full time, 40 hours/week. 
-__Salary__:  $52,000/year + benefits. 
+__Position type__: Full time, 40 hours/week.  
+__Salary__:  $52,000/year + benefits.  
 __Benefits__: 14 days paid time off (10 vacation, 4 floating), plus federally recognized holidays and paid winter holiday break. 15 days sick time. Health care and dental (employer pays 90%). 401(k) plan with 2% employer match after 4 months of employment. Employees working more than 25hrs/week qualify for health and dental insurance.   
 
 ## Who We Are and What We Do
