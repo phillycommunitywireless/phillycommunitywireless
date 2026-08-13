@@ -1,7 +1,7 @@
-+++
-title = "Development and Communications Manager"
-
-+++
+---
+date: 2026-08-12
+title: "Development and Communications Manager"
+---
 
 __Position__: Development & Communications Manager  
 __Location__:  Hybrid (75% on-site and 25% remote)  
