@@ -1,8 +1,8 @@
 {{ if .IsTranslated }}
-<ul id="translations" class="ph0 mv0 lh-copy tc flex flex-column flex-row-l items-center">
+<ul id="translations" class="site-menu-list ph0 mv0 lh-copy tc flex flex-column flex-row-l items-center">
     {{ range .Translations }}
-    <li class="list fw4 dib br3 pt2 pb1">
-        <a class="hover-black no-underline white" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    <li class="menu-item menu-item-top list relative">
+        <a class="menu-link menu-link-top" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
     </li>
     {{ end}}
 </ul>
