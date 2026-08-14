@@ -184,6 +184,7 @@ nav a {
 .submenu {
   z-index: 1000;
   top: calc(100% + 10px);
+  text-align: left;
 }
 
 .submenu:not(.dn) {
@@ -231,7 +232,7 @@ nav a {
 }
 
 .menu-link-sub {
-  width: 100%;
+  width: 100%;;
 }
 
 .menu-item-sub {
@@ -241,6 +242,9 @@ nav a {
 @media screen and (min-width: 60em) {
   .menu-link-top {
     padding: 0.3rem 0.15rem 0.3rem;
+  }
+  .menu-link-sub {
+	padding: 0.3rem 0.4rem;
   }
 }
 

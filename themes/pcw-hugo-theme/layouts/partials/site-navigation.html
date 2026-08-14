@@ -27,7 +27,7 @@
             <button type="button" class="menu-link menu-link-top dropdown-toggle" aria-controls="{{ $id }}" aria-expanded="false">
               {{ .Name }} <span aria-hidden="true" class="dropdown-arrow fa-solid fa fa-caret-down"></span>
             </button>
-            <ul class="absolute shadow-1 dn submenu bg-pcw br3 ph3 pv1" id="{{ $id }}">
+            <ul class="absolute shadow-1 dn submenu bg-pcw br3 ph2 pv1" id="{{ $id }}">
               {{ range .Children }}
 			        <li class="menu-item menu-item-sub list">
                 <a class="menu-link menu-link-sub grow" href="{{ .URL | relLangURL }}">
