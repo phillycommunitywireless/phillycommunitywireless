@@ -142,6 +142,10 @@ languages:
         link: Learn more &rarr;
         alt: "The Philly Community Wireless logo - a vector graphic of the Liberty Bell 
              facing northeast, with radio waves emitting from the top-right."
+      banner:
+        text: "We're hiring!"
+        link: "/dev-comms-manager"
+        show: true
   es:
     languageName: Español
     contentDir: content/es
@@ -273,7 +277,7 @@ languages:
         link: Aprende más &rarr;
         alt: "El logotipo de Philly Community Wireless: un gráfico vectorial de la 
               Campana de la Libertad orientada al noreste, con ondas de radio emitiéndose 
-              desde la esquina superior derecha."
+              desde la esquina superior derecha."            
 params:
   site_logo: "/images/WebLogo_Standard2.svg"
   site_logo_inverted: "/images/WebLogo_Inverted2.svg"
