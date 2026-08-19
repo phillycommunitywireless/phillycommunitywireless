@@ -153,6 +153,7 @@ nav a {
     left: auto;
     width: unset;
     z-index: unset;
+    grid-area: 1 / 2;
   }
 
   .site-nav-wrap {
@@ -165,21 +166,132 @@ nav a {
   	min-width: max-content;
   }
 
+  .nav-side-logo {
+    grid-area: 1 / 1;
+  }
+
+  .nav-side-end {
+    grid-area: 1 / 3;
+  }
+
 	.site-menu-container, #donate-button {
-    /* fluid type - font grows from 1-1.25rem between screen width 960-1280px */
+	/* fluid type - font grows from 1-1.25rem between screen width 960-1280px */
 		font-size: clamp(1rem, calc(0.25rem + 1.25vw), 1.25rem);
 	}
 
-  .site-menu-list li {
+  .site-menu-list {
     column-gap: 12px;
+  }
+
+  .site-menu-list:where(:not(:last-child)) {
     margin-right: 12px;
-  }  
+  }
 }
 
 @media screen and (min-width: 74em) {
   .site-menu-list {
-    column-gap: 14px;
-    margin-right: 14px;
+    column-gap: 24px;
+    /* margin-right: 24px; */
+  }
+  .site-menu-list:where(:not(:last-child)) {
+    margin-right: 24px;
+  }
+
+}
+
+/*Hamburger style menu for mobile devices*/
+/* No position/offsets here: it's display:none above 960px, and below that it rides in the
+   nav's flex row (see the mobile nav block above), which aligns it with Donate + the logo. */
+#hamburger-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 2rem;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+#hamburger-menu div {
+  width: 2rem;
+  height: 0.25rem;
+  background: white;
+}
+
+/*Hide hamburger menu on large screens*/
+@media (min-width: 60em) {
+  #hamburger-menu {
+    display: none;
+  }
+}
+
+.rotate {
+  transform: rotate(90deg);
+}
+
+.submenu {
+  z-index: 1000;
+  top: calc(100% + 10px);
+  text-align: left;
+}
+
+.submenu:not(.dn) {
+  display: block;
+}
+
+.dropdown-arrow {
+  margin-left: 5px;
+  font-size: 0.8em;
+  transition: transform 0.2s ease;
+  display: inline-block;
+}
+
+.rotate-arrow {
+  transform: rotate(180deg);
+}
+
+.menu-link {
+  border-radius: 0.5rem;
+  display: inline-block;
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  white-space: nowrap;
+  padding: 0.3rem;
+  transition: 0.3s;
+  will-change: transform;
+  line-height: 1.5;
+  background-color: unset;
+  border: none;
+  cursor: pointer;
+}
+
+.menu-link:hover, 
+.menu-link:focus-visible {
+  text-decoration: underline;
+  text-decoration-color: #000;
+  background-color: #7a87f5;
+  color: #000;
+}
+
+.menu-link:focus-visible {
+  outline: 2px solid white;
+  outline-offset: 2px;
+}
+
+.menu-link-sub {
+  width: 100%;;
+}
+
+.menu-item-sub {
+	margin-bottom: 0.15rem;
+}
+
+@media screen and (min-width: 60em) {
+  .menu-link-top {
+    padding: 0.3rem 0.15rem 0.3rem;
+  }
+  .menu-link-sub {
+	padding: 0.3rem 0.4rem;
   }
 }
 
@@ -349,63 +461,6 @@ img.opos-top {
   width: 100px;
   height: 100px;
   object-fit: contain;
-}
-
-/*Hamburger style menu for mobile devices*/
-/* No position/offsets here: it's display:none above 960px, and below that it rides in the
-   nav's flex row (see the mobile nav block above), which aligns it with Donate + the logo. */
-#hamburger-menu {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  height: 2rem;
-  cursor: pointer;
-  transition: transform 0.3s ease-in-out;
-}
-
-#hamburger-menu div {
-  width: 2rem;
-  height: 0.25rem;
-  background: white;
-}
-
-/*Hide hamburger menu on large screens*/
-@media (min-width: 60em) {
-  #hamburger-menu {
-    display: none;
-  }
-}
-
-.rotate {
-  transform: rotate(90deg);
-}
-
-.submenu {
-  z-index: 1000;
-  margin-top: 10px;
-}
-
-.submenu:not(.dn) {
-  display: block;
-}
-
-.dropdown-arrow {
-  margin-left: 5px;
-  font-size: 0.8em;
-  transition: transform 0.2s ease;
-  display: inline-block;
-}
-
-.rotate-arrow {
-  transform: rotate(180deg);
-}
-
-/* alt color on hover for navbar menu items */
-.submenu li:hover,
-#site-menu li:hover,
-ul#translations li:hover {
-  background-color: #7a87f5;
-  transition: 0.5s;
 }
 
 footer {

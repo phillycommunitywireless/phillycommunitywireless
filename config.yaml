@@ -136,6 +136,7 @@ languages:
           
     weight: "1"
     params:
+      navName: Menu
       featured_text:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Building community-controlled networks in Philadelphia
@@ -271,6 +272,7 @@ languages:
           weight: "7"
     weight: "2"
     params:
+      navName: Menú
       featured_text:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Construyendo redes controladas por la comunidad en Filadelfia
