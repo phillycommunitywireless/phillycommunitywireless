@@ -3,7 +3,7 @@ date: 2026-08-12
 title: "Development and Communications Manager"
 ---
 
-__Position__: Development & Communications Manager  
+__Position__: Development and Communications Manager  
 __Location__:  Hybrid (75% on-site and 25% remote)  
 __Position type__: Full time, 40 hours/week.  
 __Salary__:  $52,000/year + benefits.  
@@ -11,7 +11,7 @@ __Benefits__: 14 days paid time off (10 vacation, 4 floating), plus federally re
 
 ## Who We Are and What We Do
 
-Philly Community Wireless (PCW) is building community-controlled wireless internet networks in Philadelphia. We believe that internet access is a human right, and our aim is to provide a baseline of internet access for everyone, regardless of their financial or housing circumstances. Community is at the center of our work: our close-knit team works alongside residents, local organizations, and grassroots groups to increase digital access in our city. PCW is fiscally sponsored by the [Movement Alliance Project](https://movementalliance.org).
+Philly Community Wireless (PCW) is building community-controlled wireless internet networks in Philadelphia. We believe that internet access is a human right, and our aim is to provide a baseline of internet access for everyone, regardless of their financial or housing circumstances. Community is at the center of our work: our close-knit team works alongside residents, local organizations, and grassroots groups to increase digital access in our city. PCW is fiscally sponsored by [Movement Alliance Project](https://movementalliance.org).
 
 ## About The Role
 
@@ -21,9 +21,9 @@ You’ll need to have proficient time management skills, have exceptional attent
 
 ## Required Skills For This Role
 
-* You have 3 years of professional experience in development and/or community organizing
-* You exhibit strong written and verbal communication skills, with the ability to build strong relationships, facilitate complex conversations, and collaborate effectively on written materials
-* You have experience maintaining accurate and detail-oriented records, CRMs, and/or financial information with a high level of confidentiality
+* You have 3 years of professional experience in development, fundraising, and community organizing
+* You exhibit strong written and verbal communication skills, with the ability to build strong relationships, facilitate complex conversations, and collaborate effectively on written materials geared towards fundraising and marketing
+* You have experience maintaining accurate and detail-oriented records, CRMs, donor databases, and/or financial information
 * You have a demonstrated capacity to work well both independently and within a small cooperative team
 * You bring a curious, proactive approach to your work, exhibiting a willingness to ask questions and an ability to give and receive clear and generative feedback
 * You are comfortable exercising leadership skills, particularly when leading meetings and directing activities in line with [PCW’s Code of Conduct](https://phillycommunitywireless.org/code-of-conduct) and safety policies
@@ -81,9 +81,9 @@ Philly Community Wireless offers, upon request, accommodations for candidates wi
 
 ## Benefits and Compensation
 
-__Salary:__ $52,000/year pending experience + benefits. Exempt, full time, 40 hours per week
+__Salary:__ $52,000/year + benefits. Exempt, full time, 40 hours per week.
 
-__Benefits:__ Health care and dental (employer pays 90%). 401(k) plan with 2% employer match after 4 months of employment. $15/pay period bonus to staff who use their own internet or cell phone for work. $500 computing resources for a home office setup. As a fiscally sponsored project that values wellness, we distribute quarterly wellness bonuses of $200 to full-time employees.
+__Benefits:__ Health care and dental (employer pays 90%). 401(k) plan with 2% employer match after 4 months of employment. $15/pay period bonus to staff for using their internet and phone service to work. $500 bonus for a home office setup. As a fiscally sponsored project that values wellness, we distribute quarterly wellness bonuses of $200 to full-time employees.
 
 Note these benefits are for a full-time position; benefits are subject to change if not full-time.
 
@@ -93,13 +93,13 @@ Movement Alliance Project and Philly Community Wireless is an at-will employer.
 
 ## Our Hiring Process and Timeline
 
-__To apply:__  Please send your resume and a cover letter to info@phillycommunitywireless.org with the subject line: Development and Communications Position Application.
+__To apply:__  Please send your resume and a cover letter to info@phillycommunitywireless.org with the subject line: Development and Communications Manager Application.
 
-__Application deadline:__ We will accept applications on a rolling basis until October 15, 2026.
+__Application deadline:__ We are accepting applications on a rolling basis, with priority given to applications submitted before October 15, 2026.
 
 __Hiring process:__ We will begin scheduling screening interviews by October. After screening interviews, we will invite candidates moving forward to engage in a 2 to 3 round interview process, including a brief in-person component. 
 
-__Target start date:__ We would like to have the selected candidate start by January 5, 2027.
+__Target start date:__ We aim for the selected candidate to start by January 5, 2027.
 
 __Please apply:__ We value a diverse workforce and an inclusive culture, because we believe that communities impacted by structural racism and capitalism are best positioned to make powerful interventions to transform our society. If your experience doesn’t exactly match the qualifications listed but you believe you would shine in this role, we want to hear from you! Please apply and tell us why you’re the right person for the job.
 
