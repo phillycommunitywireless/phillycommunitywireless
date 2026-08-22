@@ -7,7 +7,7 @@ segments:
     class: "w-100 w-50-m w-third-l"
     sections:
       - photo: "/images/merch/ltu_lite.png"
-        photo_alt_text: "Insert"
+        photo_alt_text: "UniFi LTU Lite device"
         heading_1: UniFi LTU Lite
         subheading: $99
         description_text: 5 GHz PtMP LTU Client, functions in a PtMP environment with the LTU-Rocket as the BaseStation. See more at [the Ubiquiti Store](https://store.ui.com/us/en/products/ltu-lite-us).
@@ -17,7 +17,7 @@ segments:
         flex_basis: 33%
         
       - photo: "/images/merch/ltu_lr.png"
-        photo_alt_text: "Insert"
+        photo_alt_text: "UniFi LTU Long-Range (LR) device"
         heading_1: UniFi LTU Long-Range (LR)
         description_text: 5 GHz PtMP LTU Long-Range Client, functions in a PtMP environment with the LTU-Rocket as the BaseStation. See more at [the Ubiquiti Store](https://store.ui.com/us/en/products/ltu-lr).
         subheading: $99
