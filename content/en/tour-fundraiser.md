@@ -1,10 +1,7 @@
 ---
-date: 2021-09-30
-title: "Get Connected to Our Wi-Fi"
-header_photo: "/images/Eugene_AP.jpg"
-header_alt: "A man on a roof smiling while he secures a pole mount with an access point device pointing towards the street and subway tracks."
-header_class: "opos-50-30"
-
+date: 2023-10-18
+title: "PCW Network Tour Fundraiser"
+layout: "single"
     
 ---
 
