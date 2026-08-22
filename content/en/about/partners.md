@@ -72,6 +72,11 @@ segments:
             partner_link: "https://calledtoservecdc.org/"
             img_src: "/images/partners/cts.png"
             img_alt: "Called to Serve"
+        - partner:  
+            partner_name: "Free Library of Philadelphia"
+            partner_link: "https://www.freelibrary.org/"
+            img_src: "/images/partners/flp.png"
+            img_alt: "Free Library of Philadelphia"
         - partner:
             partner_name: "HACE"
             partner_link: "https://www.hacecdc.org/"
@@ -81,6 +86,16 @@ segments:
             partner_name: "Holobiont Lab"
             partner_link: "https://holobiontlab.org/"
             img_src: "/images/partners/holobiont.png"
+            img_alt: "Holobiont Lab"
+        - partner:
+            partner_name: "Village of the Arts and Humanities"
+            partner_link: "https://villagearts.org/"
+            img_src: "/images/partners/voah.png"
+            img_alt: "Village of the Arts and Humanities"        
+        - partner:
+            partner_name: "Philly Tech Justice"
+            partner_link: "https://movementalliance.org/blog/project/philly-tech-justice/"
+            img_src: "/images/partners/voah.png"
             img_alt: "Holobiont Lab"
         - partner:
             partner_name: "Temple University, Digital Access Center"
