@@ -54,7 +54,7 @@ Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of 
     <meta name="generator" content="Hugo 0.111.3">
 
     
-<link rel="stylesheet" href="/pcw-hugo-theme/css/main.min.2dc9cc0b3f1fb5bef70aee1b3ba2c4156800d49538f32b86398829e327b25f15.css" >
+<link rel="stylesheet" href="/pcw-hugo-theme/css/main.min.7372f4ac7ee7042de926eadeebb763d7fa2a06378dccb9e17a84ae56990775a9.css" >
 
 
 
@@ -127,7 +127,8 @@ Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of 
     
 
 <header class="flex flex-column">
-  <nav class="bg-pcw pa2 pl3-ns relative site-nav" role="navigation">
+  
+<nav class="bg-pcw pa2 pl3-ns relative site-nav" role="navigation">
   <div class="site-nav-wrap flex justify-between items-center center">
 
     <div class="nav-side nav-side-logo">
@@ -460,6 +461,21 @@ Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of 
 
   if (!isDesktop()) hideNavMenu()
 
+  function bannerAnnouncement() {
+    const banner = document.querySelector('.banner-link-wrap') 
+    const closeButton = document.querySelector('.banner-link-close')
+    if (!banner || !closeButton) return
+
+    const hasDismissed = window.sessionStorage.getItem('dismissed-banner') === 'true'
+    if (hasDismissed) banner.remove()
+
+    closeButton.addEventListener('click', () => {
+      window.sessionStorage.setItem('dismissed-banner', 'true')
+      banner.remove()
+    })
+  }
+
+  bannerAnnouncement()
 
 
   
@@ -515,7 +531,7 @@ Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of 
 </div>
 
     </main>
-    .
+    
 <link href="/fontawesome/css/all.min.css" rel="stylesheet">
 
 <footer class="pv2 ph3 ph5-m ph6-l bg-white bt black-60" role="contentinfo">
@@ -586,6 +602,9 @@ Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of 
             Contact
           </a>
         </li>
+    		<li>
+    			<a href="/dev-comms-manager">We're Hiring!</a>
+    		</li>
       </ul>
     </div>
 

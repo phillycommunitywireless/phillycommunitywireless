@@ -50,7 +50,7 @@ No somos una empresa de Internet, ¡somos una red comunitaria! Al unirte a nosot
     <meta name="generator" content="Hugo 0.111.3">
 
     
-<link rel="stylesheet" href="/pcw-hugo-theme/css/main.min.2dc9cc0b3f1fb5bef70aee1b3ba2c4156800d49538f32b86398829e327b25f15.css" >
+<link rel="stylesheet" href="/pcw-hugo-theme/css/main.min.7372f4ac7ee7042de926eadeebb763d7fa2a06378dccb9e17a84ae56990775a9.css" >
 
 
 
@@ -109,7 +109,8 @@ No somos una empresa de Internet, ¡somos una red comunitaria! Al unirte a nosot
     <a href="#main" class="absolute top--2 w-100 bg-white f4 b no-underline black pt1 tc">Skip to content</a>
     <style>[href="#main"]:focus { top: 0; }</style>
     <header class="flex flex-column">
-  <nav class="bg-pcw pa2 pl3-ns relative site-nav" role="navigation">
+  
+<nav class="bg-pcw pa2 pl3-ns relative site-nav" role="navigation">
   <div class="site-nav-wrap flex justify-between items-center center">
 
     <div class="nav-side nav-side-logo">
@@ -442,6 +443,21 @@ No somos una empresa de Internet, ¡somos una red comunitaria! Al unirte a nosot
 
   if (!isDesktop()) hideNavMenu()
 
+  function bannerAnnouncement() {
+    const banner = document.querySelector('.banner-link-wrap') 
+    const closeButton = document.querySelector('.banner-link-close')
+    if (!banner || !closeButton) return
+
+    const hasDismissed = window.sessionStorage.getItem('dismissed-banner') === 'true'
+    if (hasDismissed) banner.remove()
+
+    closeButton.addEventListener('click', () => {
+      window.sessionStorage.setItem('dismissed-banner', 'true')
+      banner.remove()
+    })
+  }
+
+  bannerAnnouncement()
 
 
   
@@ -1204,7 +1220,7 @@ Trabajaremos contigo para ofrecerte a ti y a tus vecinos un servicio Wi-Fi gratu
 
 
     </main>
-    .
+    
 <link href="/fontawesome/css/all.min.css" rel="stylesheet">
 
 <footer class="pv2 ph3 ph5-m ph6-l bg-white bt black-60" role="contentinfo">
@@ -1275,6 +1291,9 @@ Trabajaremos contigo para ofrecerte a ti y a tus vecinos un servicio Wi-Fi gratu
             Contact
           </a>
         </li>
+    		<li>
+    			<a href="/dev-comms-manager">We're Hiring!</a>
+    		</li>
       </ul>
     </div>
 
