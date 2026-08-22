@@ -10,9 +10,9 @@ header_class: "opos-50"
     
 ---
 
-Come take a behind-the-scenes walking tour of Philly Community Wireless (PCW) — Philadelphia's ONLY community internet network! The tour will give you the inside scoop on how community internet works, who makes it happen, and where PCW is today.  
+On August 29 from 1-3pm, come take a behind-the-scenes walking tour of Philly Community Wireless (PCW) — Philadelphia's ONLY community internet network! The tour will give you the inside scoop on how community internet works, who makes it happen, and where PCW is today.  
 
-We'll start off by touring PCW's headquarters, checking out the equipment and tools needed to build our Wi-Fi network. Then, during a 75-minute walk around the historically rich neighborhood of Norris Square, we'll check out 9 PCW Wi-Fi sites across Norris Square, plus a "high site" where the network's internet connection comes from. These sites will show how lightweight equipment installed at one building can serve up to an entire city block with public internet access!
+We'll start off by touring PCW's headquarters, checking out the equipment and tools needed to build our Wi-Fi network. Then, during a 75-minute walk around the historically rich neighborhood of Norris Square, we'll walk by 9 PCW Wi-Fi sites and a "high site" where the network's internet connection comes from. These sites will show how lightweight equipment installed at one building can serve up to an entire city block with public internet access!
 
 Near the end of the tour, we'll spend time in two of Norris Square Neighborhood Project's [iconic community gardens](https://myneighborhoodproject.org/our-gardens) where our public Wi-Fi supports garden programming and an AR/VR art installation, [Termite TV's Places of Power](https://termite.org/mound/villa-africana-colobo-garden/). We'll also pass various murals and art installations, including Amor Del Bueno and a mural and mosiac tribute to Grupo Alegría.
 
