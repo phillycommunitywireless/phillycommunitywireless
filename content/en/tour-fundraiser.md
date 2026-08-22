@@ -3,8 +3,8 @@ date: 2023-10-18
 title: "PCW Network Tour Fundraiser"
 layout: "single"
 
-header_photo: "/images/volunteers_first_stop_recovery.jpg"
-header_alt: "A wide panorama photo with 4 PCW volunteers on a roof."
+header_photo: "/images/PCWTourGroupPhoto.jpg"
+header_alt: "A group photo of women in a garden space."
 header_class: "opos-50"
 
     
