@@ -12,9 +12,8 @@ Near the end of the tour, we'll spend time in two of Norris Square Neighborhood 
 Snacks and drinks will be available to all participants, before and after the walking tour. PCW will also be selling our merch at our headquarters at a discounted rate! 🥤🍪🧢
 All proceeds will directly benefit PCW's mission.  
 
-BUY YOUR $20 TICKET TODAY HERE
+{{< button-custom href="https://buy.stripe.com/cNiaEQbVLdn1f0K5zm5c40r" text="BUY YOUR $20 TICKET TODAY HERE">}}
 
-**EUGENE INSERTS BUTTON with this link https://buy.stripe.com/cNiaEQbVLdn1f0K5zm5c40r**
 
 
 TOUR WAIVER: For everyone's safety, we require tour participants to sign a waiver. You can review the waiver and an optional media release [by clicking here](https://drive.google.com/file/d/1_y_B2I6-R9vOzs-L80s9yglogM_EOqjW/view?usp=sharing). We will have waivers on site to sign in-person before leaving for our walk. Participants under 18 must have a guardian co-sign the waiver.
@@ -22,4 +21,6 @@ If you have any questions, please email outreach@phillycommunitywireless.org.
 
 Can't come but want to support community internet in Philly, making free Wi-Fi available to tens of thousands of residents? Make a donation ❤️
 
-**EUGENE INSERTS BUTTON to our donate page**
+{{< button-custom href="https://phillycommunitywireless.allyrafundraising.com/" text="BDonate today!">}}
+
+
