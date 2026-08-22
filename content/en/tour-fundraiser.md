@@ -12,7 +12,7 @@ header_class: "opos-50"
 
 On August 29 from 1-3pm, come take a behind-the-scenes walking tour of Philly Community Wireless (PCW) — Philadelphia's ONLY community internet network! The tour will give you the inside scoop on how community internet works, who makes it happen, and where PCW is today. 
 
-{{< figure class="figure-center" src="/images/TourFundraiserNEWEST.png" alt="Network Tour Flyer.">}}  
+{{< figure class="figure-center" src="/images/Tour-Fundraiser-NEWEST.png" alt="Flyer." width=200 height=400 style="height: auto" >}}. 
 
 We'll start off by touring PCW's headquarters, checking out the equipment and tools needed to build our Wi-Fi network. Then, during a 75-minute walk around the historically rich neighborhood of Norris Square, we'll walk by 9 PCW Wi-Fi sites and a "high site" where the network's internet connection comes from. These sites will show how lightweight equipment installed at one building can serve up to an entire city block with public internet access!
 
