@@ -24,7 +24,7 @@ Snacks and drinks will be available to all participants, before and after the wa
 
 
 
-TOUR WAIVER: For everyone's safety, we require tour participants to sign a waiver. You can review the waiver and an optional media release [by clicking here](https://drive.google.com/file/d/1_y_B2I6-R9vOzs-L80s9yglogM_EOqjW/view?usp=sharing). We will have waivers on site to sign in-person before leaving for our walk. Participants under 18 must have a guardian co-sign the waiver.
+**TOUR WAIVER**: For everyone's safety, we require tour participants to sign a waiver. You can review the waiver and an optional media release [by clicking here](https://drive.google.com/file/d/1_y_B2I6-R9vOzs-L80s9yglogM_EOqjW/view?usp=sharing). We will have waivers on site to sign in-person before leaving for our walk. Participants under 18 must have a guardian co-sign the waiver.
 If you have any questions, please email outreach@phillycommunitywireless.org.
 
 Can't come but want to support community internet in Philly, making free Wi-Fi available to tens of thousands of residents? Make a donation ❤️
