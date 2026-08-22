@@ -5,17 +5,31 @@ layout: "people/people"
 segments:
 
     # PW feature 
-    # - template: call-to-action-photo-right
-    #   title: "PhillyWisper"
-    #   text: |
-    #     PhillyWisper is ...  
-    #   photo: "/images/web updates/PW.jpg"
-    #   photo_alt_text: ""
-    #   button: 
-    #      button_text: "Learn more about PhillyWisper"
-    #      button_href: "https://phillywisper.net"
-    #      no_button_arrow: "true"
-    #   class: bg-light-gray  
+    - template: call-to-action-photo-right
+      title: "PhillyWisper"
+      text: |
+        Philly Community Wireless colabora con PhillyWisper, un proveedor local de servicios de Internet inalámbrico, para instalar antenas en los tejados que utilizamos para proporcionar una red Wi-Fi gratuita a los residentes del barrio y a los espacios públicos.
+      photo: "/images/web updates/PW.jpg"
+      photo_alt_text: "Dos empleados de PhillyWisper sentados en un tejado mirando un ordenador portátil, con una estructura y un dispositivo LiteBeam a su lado."
+      button: 
+         button_text: "Más información sobre PhillyWisper"
+         button_href: "https://phillywisper.net"
+         no_button_arrow: "true"
+      class: bg-light-gray  
+
+    # UTP feature
+    # TODO: Spanish translation of the text below — asking Leanne during PR review
+    - template: call-to-action-photo-right
+      title: "Urban Technology Project"
+      text: |
+        We partner with Urban Technology Project to host Apprentices who have the unique work opportunity to learn what it means to contribute to the growth of a community network.
+      photo: "/images/partners/utp.png"
+      photo_alt_text: "Logotipo del Urban Technology Project: el horizonte de Filadelfia en silueta contra un sol amarillo, sobre las letras UTP."
+      button: 
+         button_text: "Más información sobre el Urban Technology Project"
+         button_href: "https://utp-philly.org/"
+         no_button_arrow: "true"
+      class: bg-light-gray  
       
     # Norris Square
     - template: partner-card-container
@@ -60,7 +74,7 @@ segments:
             partner_name: "Cesar Andreu Iglesias Gardens"
             partner_link: "https://iglesiasgardens.com/"
             img_src: "/images/partners/caig.png"
-            img_alt: "Open Kitchen Sculpture Garden"
+            img_alt: "Cesar Andreu Iglesias Gardens"
     
     # Philly Community Partners
     - template: partner-card-container
@@ -94,8 +108,8 @@ segments:
         - partner:
             partner_name: "Philly Tech Justice"
             partner_link: "https://movementalliance.org/blog/project/philly-tech-justice/"
-            img_src: "/images/partners/voah.png"
-            img_alt: "Holobiont Lab"
+            img_src: "/images/partners/ptj.png"
+            img_alt: "Philly Tech Justice"
         - partner:
             partner_name: "Temple University, Digital Access Center"
             partner_link: "https://lenfestcenter.temple.edu/Digital-Equality-Center/"
@@ -105,7 +119,17 @@ segments:
             partner_name: "Kensington Corridor Trust"
             partner_link: "https://kctphilly.org/"
             img_src: "/images/partners/kct.png"
-            img_alt: "Kensington Corridor Trustlogo"
+            img_alt: "Kensington Corridor Trust"
+        - partner:
+            partner_name: "Philly Mesh"
+            partner_link: "https://phillymesh.net/"
+            img_src: "/images/partners/phillymesh.png"
+            img_alt: "Philly Mesh"
+        - partner:
+            partner_name: "Princeton University, Center for Digital Humanities"
+            partner_link: "https://cdh.princeton.edu/"
+            img_src: "/images/partners/cdh.svg"
+            img_alt: "Center for Digital Humanities at Princeton"
 
     - template: markdown
       url: other_partners.md
@@ -114,4 +138,3 @@ segments:
 
 ---
 
-Un poco de texto introductorio sobre nuestros socios... Un poco de texto introductorio sobre nuestros socios...Un poco de texto introductorio sobre nuestros socios...Un poco de texto introductorio sobre nuestros socios...Un poco de texto introductorio sobre nuestros socios...Un poco de texto introductorio sobre nuestros socios...
