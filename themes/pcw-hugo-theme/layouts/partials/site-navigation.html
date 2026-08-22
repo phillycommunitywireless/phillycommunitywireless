@@ -1,3 +1,16 @@
+{{ with .Site.Params.banner }}
+{{ if .show }}
+  <aside class="db banner-link-wrap">
+    <a class="db tc pv2 no-underline banner-link" href="{{ .link | relLangURL }}">
+      {{ .text }}
+      <span class="banner-link-arrow">&rarr;</span>
+    </a>
+    <button class="absolute top-0 right-0 pa2 bn bg-transparent pointer banner-link-close" aria-label="hide announcement">
+      <i class="fa fa-times"></i>
+    </button>
+  </aside>
+ {{ end }}
+ {{ end }}
 <nav class="bg-pcw pa2 pl3-ns relative site-nav" role="navigation">
   <div class="site-nav-wrap flex justify-between items-center center">
 
@@ -172,6 +185,21 @@
 
   if (!isDesktop()) hideNavMenu()
 
+  function bannerAnnouncement() {
+    const banner = document.querySelector('.banner-link-wrap') 
+    const closeButton = document.querySelector('.banner-link-close')
+    if (!banner || !closeButton) return
+
+    const hasDismissed = window.sessionStorage.getItem('dismissed-banner') === 'true'
+    if (hasDismissed) banner.remove()
+
+    closeButton.addEventListener('click', () => {
+      window.sessionStorage.setItem('dismissed-banner', 'true')
+      banner.remove()
+    })
+  }
+
+  bannerAnnouncement()
 
 
   // listeners for showing dropdowns on hover 

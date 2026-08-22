@@ -68,6 +68,53 @@ nav a {
 	}
 }
 
+.banner-link-wrap {
+	background-color: var(--lilac);
+	transition: background-color 150ms ease-out;
+	color: #000;
+}
+
+.banner-link {
+	color: inherit;
+	transition: color 150ms ease-out;
+	text-decoration: none;
+	position: relative;
+}
+
+.banner-link-wrap:hover, .banner-link-wrap:focus-within {
+	background-color: var(--dark-blue);
+	color: #fff;
+}
+.banner-link-wrap:hover .banner-link, .banner-link-wrap:focus-within .banner-link {
+	color: #fff;
+	text-decoration: none;
+}
+
+.banner-link:focus-visible {
+	/* outline: 2px solid #fff; */
+	box-shadow: inset 0 0 0 2px #fff;
+}
+
+.banner-link-arrow {
+	display: inline-block;
+	position: relative;
+	transition: transform 150ms ease-out;
+}
+
+.banner-link:hover .banner-link-arrow {
+	transform: translateX(4px);
+}
+
+.banner-link-close {
+	color: inherit;
+	display: inline-block;
+	transition: transform 150ms ease-out;
+}
+
+.banner-link-close:hover, .banner-link-close:focus {
+	transform: scale(1.1);
+}
+
 .site-nav {
   --side-w: 150px;
   --logo-w: 150px;
