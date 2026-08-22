@@ -1,0 +1,7 @@
+<div class="funder-card nested-copy-line-height lh-copy f3 nested-links nested-img near-black">
+    <img alt="{{ .img_alt }}" src="{{ .img_src }}"/>
+    <div class="funder-desc">
+        {{- with .prefix }}{{ . }} {{ end -}}
+        <a href="{{ .link }}">{{ .link_text }}</a>{{ .suffix }}
+    </div>
+</div>

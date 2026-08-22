@@ -311,8 +311,15 @@ Contact form - displays an iframe with a Tally form embed.
 
 ![A screenshot of the contact form element on a website](/assets/readme/contact-form.png)
 
+
+#### Adding partner logos / new partners to Partners page
+
+After navigating to `static/images`, you can add partner logos in PNG, JPG/JPEG, or SVG formats to the folder titled `partners`.
+
+Then, you can create a new "partner card" on the Partners page (located in `content/en/partners.md` or `content/es/partners.md`) by adding a new entry to the yaml "sections" list of the `partner-card-container` partial
+
 #### `partner-card-container`
-Contains frames of images 
+Container for `partner-card` segments. 
 ```yaml
     - template: partner-card-container
       title: Socios comunitarios de Norris Square
@@ -329,14 +336,21 @@ Contains frames of images
             img_alt: "GALAEI"
 ```
 
-#### Adding partner logos / new partners to Partners page
-
-After navigating to `static/images`, you can add partner logos in PNG, JPG/JPEG, or SVG formats to the folder titled `partners`.
-
-Then, you can create a new "partner card" on the Partners page (located in `content/en/partners.md` or `content/es/partners.md`) by adding a new entry to the yaml "sections" list of the `partner-card-container` partial
-
 #### Adding funder logos / new funders to Funders page
 
 After navigating to `static/images`, you can add funder logos in PNG, JPG/JPEG, or SVG formats to the folder titled `funders`.
 
-Then, you can create a new "funder card" on the Funders page (located in `content/en/funders.md` or `content/es/funders.md`) by adding a new entry to the yaml "sections" list of the `partner-card-container` partial
+Then, you can create a new "funder card" on the Funders page (located in `content/en/funders.md` or `content/es/funders.md`) by adding a new entry to the yaml "sections" list of the `funder-card-container` partial
+
+#### `funder-card-container`
+Container for `funder-card` segments. 
+
+```yaml
+    - template: funder-card-container
+      sections:
+        - img_alt: "GALAEI"
+          img_src: "/images/funders/galaei.png"
+          link: "https://www.galaeiqtbipoc.org/"
+          link_text: "GALAEI"
+          suffix: ", 2025"
+```

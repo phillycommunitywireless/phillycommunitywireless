@@ -2,39 +2,30 @@
 date: 2024-07-03
 title: "Socios"
 layout: "people/people"
-
 segments:
 
     # PW feature 
-    - template: call-to-action-photo-right
-      title: "PhillyWisper"
-      text: |
-        PhillyWisper is ...  
-      photo: "/images/web updates/PW.jpg"
-      photo_alt_text: ""
+    # - template: call-to-action-photo-right
+    #   title: "PhillyWisper"
+    #   text: |
+    #     PhillyWisper is ...  
+    #   photo: "/images/web updates/PW.jpg"
+    #   photo_alt_text: ""
     #   button: 
-    #     button_text: "What We Do"
-    #     button_href: "about/"
-      # no_button_arrow: "true"
-      class: bg-light-gray
-
-    - template: call-to-action-photo-right
-      title: "Norris Square Neighborhood Project"
-      text: |
-        Norris Square Neighborhood Project is ...  
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSviPWfPknqzCKhDD9S_33kZeUToFUOwHRMRA&s"
-      photo_alt_text: ""
-    #   button: 
-    #     button_text: "What We Do"
-    #     button_href: "about/"
-      # no_button_arrow: "true"
-      class: bg-light-gray
-      reverse: true
-
+    #      button_text: "Learn more about PhillyWisper"
+    #      button_href: "https://phillywisper.net"
+    #      no_button_arrow: "true"
+    #   class: bg-light-gray  
+      
     # Norris Square
     - template: partner-card-container
       title: Socios comunitarios de Norris Square
       sections:
+        - partner:
+            partner_name: "Norris Square Neighborhood Project"
+            partner_link: "https://www.myneighborhoodproject.org"
+            img_src: "/images/partners/nsnp.svg"
+            img_alt: "Norris Square Neighborhood Project"
         - partner:
             partner_name: "Friends of Norris Square Park"
             partner_link: "https://www.facebook.com/friendsofnorrissquarepark"
@@ -56,11 +47,6 @@ segments:
             img_src: "/images/partners/xiente.png"
             img_alt: "Xiente"
         - partner:
-            partner_name: "Norris Square Neighborhood Project"
-            partner_link: "https://myneighborhoodproject.org/"
-            img_src: "/images/partners/nsnp.svg"
-            img_alt: "Norris Square Neighborhood Project"
-        - partner:
             partner_name: "Open Kitchen Sculpture Garden"
             partner_link: "https://www.facebook.com/theopenkitchensculpturegarden"
             img_src: "/images/partners/oksg.jpg"
@@ -76,21 +62,16 @@ segments:
             img_src: "/images/partners/caig.png"
             img_alt: "Open Kitchen Sculpture Garden"
     
-    # ## Socios de la comunidad de Philadelphia
+    # Philly Community Partners
     - template: partner-card-container
       title: Socios de la comunidad de Philadelphia
       sections:
-        - partner:
-            partner_name: "PhillyWisper"
-            partner_link: "https://phillywisper.net/"
-            img_src: "/images/partners/wisper.png"
-            img_alt: "PhillyWisper"
         - partner:
             partner_name: "Called to Serve"
             partner_link: "https://calledtoservecdc.org/"
             img_src: "/images/partners/cts.png"
             img_alt: "Called to Serve"
-        - partner:
+        - partner:  
             partner_name: "Free Library of Philadelphia"
             partner_link: "https://www.freelibrary.org/"
             img_src: "/images/partners/flp.png"
@@ -107,14 +88,14 @@ segments:
             img_alt: "Holobiont Lab"
         - partner:
             partner_name: "Village of the Arts and Humanities"
-            partner_link: "http://spaces.villagearts.org/"
+            partner_link: "https://villagearts.org/"
             img_src: "/images/partners/voah.png"
-            img_alt: "Village of the Arts and Humanities"
+            img_alt: "Village of the Arts and Humanities"        
         - partner:
             partner_name: "Philly Tech Justice"
             partner_link: "https://movementalliance.org/blog/project/philly-tech-justice/"
-            img_src: "/images/partners/ptj.png"
-            img_alt: "Philly Tech Justice"
+            img_src: "/images/partners/voah.png"
+            img_alt: "Holobiont Lab"
         - partner:
             partner_name: "Temple University, Digital Access Center"
             partner_link: "https://lenfestcenter.temple.edu/Digital-Equality-Center/"
@@ -124,12 +105,13 @@ segments:
             partner_name: "Kensington Corridor Trust"
             partner_link: "https://kctphilly.org/"
             img_src: "/images/partners/kct.png"
-            img_alt: "Kensington Corridor Trust logo"
+            img_alt: "Kensington Corridor Trustlogo"
 
-
+    - template: markdown
+      url: other_partners.md
+      class: | 
+        center cf ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img near-black
 
 ---
 
-## Fundadores
-
-Para más información sobre nuestros financiadores institucionales, visite nuestra página [Fundadores](https://phillycommunitywireless.org/es/funders/).
+Un poco de texto introductorio sobre nuestros socios... Un poco de texto introductorio sobre nuestros socios...Un poco de texto introductorio sobre nuestros socios...Un poco de texto introductorio sobre nuestros socios...Un poco de texto introductorio sobre nuestros socios...Un poco de texto introductorio sobre nuestros socios...
