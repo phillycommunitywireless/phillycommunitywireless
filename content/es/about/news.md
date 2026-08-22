@@ -19,3 +19,9 @@ Technical.ly Philly, [Alex Wermer-Colan and PCW awarded Community Tech Leader of
 Al Dia, [Bringing Digital Equity to North Philadelphia](https://aldianews.com/local/philadelphia/digital-equity-day), 5/13/2022
 
 Technical.ly Philly, [A group of Philly technologists are working on a free, community-based mesh Wi-Fi network](https://technical.ly/2022/01/12/philly-community-wireless-phillywisper-mesh-wifi/), 2/1/2022  
+
+<br/>
+
+## Publicaciones académicas
+
+Alex Wermer-Colan, Grant Wythoff, Allan Gomez y Devren Washington, ["Alternative Infrastructures for Digital Equity: Community-Based Internet Access"](https://dhdebates.gc.cuny.edu/read/critical-infrastructure-studies-and-digital-humanities/section/7f3c5cef-8fdf-4956-915c-f1b1b2e8ab51#ch08), en *Critical Infrastructure Studies and Digital Humanities*, eds. Alan Liu, Urszula Pawlicka-Deger y James Smithies, University of Minnesota Press, 2023.

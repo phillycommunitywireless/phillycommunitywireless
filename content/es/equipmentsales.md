@@ -7,7 +7,7 @@ segments:
     class: "w-100 w-50-m w-third-l"
     sections:
       - photo: "/images/merch/ltu_lite.png"
-        photo_alt_text: "Insert"
+        photo_alt_text: "Dispositivo UniFi LTU Lite"
         heading_1: UniFi LTU Lite
         subheading: $99
         description_text: Cliente LTU PtMP de 5 GHz, funciona en un ambiente PtMP con el LTU-Rocket como estación base. Ver más en la [tienda de Ubiquiti](https://store.ui.com/us/en/products/ltu-lite-us).
@@ -17,9 +17,9 @@ segments:
         flex_basis: 33%
         
       - photo: "/images/merch/ltu_lr.png"
-        photo_alt_text: "Insert"
+        photo_alt_text: "Dispositivo UniFi LTU Long-Range (LR)"
         heading_1: UniFi LTU Long-Range (LR)
-        description_text: Cliente LTU PtMP de 5 GHz, funciona en un ambiente PtMP con el LTU-Rocket como estación base. Ver más en la. Ver más en la [tienda de Ubiquiti](https://store.ui.com/us/en/products/ltu-lr).
+        description_text: Cliente LTU PtMP de 5 GHz, funciona en un ambiente PtMP con el LTU-Rocket como estación base. Ver más en la [tienda de Ubiquiti](https://store.ui.com/us/en/products/ltu-lr).
         subheading: $99
         button_text: Comprar
         button_href: "https://buy.stripe.com/5kQ8wIgc1dn1aKu8Ly5c40f"

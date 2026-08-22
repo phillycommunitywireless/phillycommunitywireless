@@ -23,3 +23,9 @@ Technical.ly Philly, [A group of Philly technologists are working on a free, com
 Temple Now, [Philly Community Wireless offers internet for the community, by the community](https://news.temple.edu/news/2021-10-07/philly-community-wireless-offers-internet-community-community), 10/7/2021  
 
 The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progressive.org/latest/urban-digital-divide-rosen-210916/), 9/16/2021
+
+<br/>
+
+## Scholarly Publications
+
+Alex Wermer-Colan, Grant Wythoff, Allan Gomez, and Devren Washington, ["Alternative Infrastructures for Digital Equity: Community-Based Internet Access"](https://dhdebates.gc.cuny.edu/read/critical-infrastructure-studies-and-digital-humanities/section/7f3c5cef-8fdf-4956-915c-f1b1b2e8ab51#ch08), in *Critical Infrastructure Studies and Digital Humanities*, eds. Alan Liu, Urszula Pawlicka-Deger, and James Smithies, University of Minnesota Press, 2023.
