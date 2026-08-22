@@ -6,6 +6,7 @@ title: Philly Community Wireless
 author: Philly Community Wireless
 theme: pcw-hugo-theme
 enableRobotsTXT: true
+timeout: 120s
 languages:
   en:
     languageName: English
@@ -34,7 +35,7 @@ languages:
           params:
             external: true
           parent: support
-          weight: "3"
+          weight: "4"
         - name: Merch
           url: "/merch"
           parent: support
@@ -43,6 +44,10 @@ languages:
           url: "/support"
           parent: support
           weight: "1"
+        - name: Equipment for Sale
+          url: "/equipmentsales"
+          parent: support
+          weight: "3"
 
         # About
         - name: About 
@@ -99,19 +104,19 @@ languages:
           identifier: Docs
           weight: "5"
         - name: Docs
-          url: "https://docs.phillycommunitywireless.org/en/latest/"
+          url: "https://docs.phillycommunitywireless.org"
           params:
             external: true
           parent: Docs
           weight: "1"
         - name: Installations
-          url: "https://docs.phillycommunitywireless.org/en/latest/installations/installations/"
+          url: "https://docs.phillycommunitywireless.org/installations/installations/"
           params:
             external: true
           parent: Docs
           weight: "2"
         - name: Troubleshooting
-          url: "https://docs.phillycommunitywireless.org/en/latest/device-configuration/troubleshoot-devices/"
+          url: "https://docs.phillycommunitywireless.org/device-configuration/troubleshoot-devices/"
           params:
             external: true
           parent: Docs
@@ -121,15 +126,23 @@ languages:
           url: /contact
           identifier: Contact
           weight: "6"
+
+        - name: Donate
+          url: "https://phillycommunitywireless.allyrafundraising.com/"
+          params:
+            external: true
+            button: true
+          weight: "7"
           
     weight: "1"
     params:
+      navName: Menu
       featured_text:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Building community-controlled networks in Philadelphia
         link: Learn more &rarr;
         alt: "The Philly Community Wireless logo - a vector graphic of the Liberty Bell 
-             facing northeast, with radio waves emmitting from the top-right."
+             facing northeast, with radio waves emitting from the top-right."
   es:
     languageName: Español
     contentDir: content/es
@@ -158,7 +171,7 @@ languages:
           params:
             external: true
           parent: Apóyanos
-          weight: "3"
+          weight: "4"
         - name: Artículos en venta
           url: "/merch"
           parent: Apóyanos
@@ -167,6 +180,10 @@ languages:
           url: "/support"
           parent: Apóyanos
           weight: "1"
+        - name: Equipos en venta
+          url: "/equipmentsales"
+          parent: Apóyanos
+          weight: "3"
 
         - name: Acerca 
           identifier: about-us
@@ -220,23 +237,38 @@ languages:
           identifier: documentos
           weight: "5"
         - name: Instalacion
-          url: https://docs.phillycommunitywireless.org/es/latest/Instalaci%C3%B3ndeantenas/
+          url: https://docs.phillycommunitywireless.org/es/installations/installations/
           params:
             external: true
           parent: documentos
           weight: "1"
-        - name: Recursos
-          url: https://docs.phillycommunitywireless.org/es/latest/recursos/
+        - name: Solución de problemas
+          url: "https://docs.phillycommunitywireless.org/es/device-configuration/troubleshoot-devices/"
           params:
             external: true
           parent: documentos
           weight: "2"
-        - name: Contact
+        - name: Recursos
+          url: https://docs.phillycommunitywireless.org/es/resources/
+          params:
+            external: true
+          parent: documentos
+          weight: "3"
+
+        - name: Contacto
           url: /contact
           identifier: Contact
           weight: "6"
+
+        - name: Donaciones
+          url: "https://phillycommunitywireless.allyrafundraising.com/"
+          params:
+            external: true
+            button: true
+          weight: "7"
     weight: "2"
     params:
+      navName: Menú
       featured_text:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Construyendo redes controladas por la comunidad en Filadelfia
@@ -248,7 +280,7 @@ params:
   site_logo: "/images/WebLogo_Standard2.svg"
   site_logo_inverted: "/images/WebLogo_Inverted2.svg"
   attribution:
-    name: Addie Barron, and mamy volunteers
+    name: Addie Barron, and many volunteers
     link: https://addieis.online
   featured_image:
     src: "/images/Iglesias_AP_Equipment.jpg"
@@ -271,3 +303,32 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+# Global image-processing defaults 
+imaging:
+  quality: 80
+  resampleFilter: Lanczos
+# Mount the existing static/images dir into assets/ so Hugo's image pipeline
+# (resources.Get -> .Resize/webp) can process the originals in place. Files do
+# not move and every existing /images/... reference keeps working unchanged.
+# NOTE: declaring module.mounts replaces Hugo's default component mounts, so the
+# standard ones are re-declared here. Per-language content is still handled by
+# the languages.*.contentDir settings above.
+module:
+  mounts:
+    # standard mounts
+    - source: assets
+      target: assets
+    - source: static
+      target: static
+    - source: layouts
+      target: layouts
+    - source: data
+      target: data
+    - source: i18n
+      target: i18n
+    - source: archetypes
+      target: archetypes
+    # mount static/images into assets/images
+    - source: static/images
+      target: assets/images

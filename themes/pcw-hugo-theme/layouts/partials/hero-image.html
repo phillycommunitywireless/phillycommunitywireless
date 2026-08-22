@@ -1,7 +1,7 @@
 {{ with $.Site.Params.featured_image }}
 
   <div class="relative vh-75">
-    <img src="{{ .src }}" alt="{{ .alt }}" class="{{ .class | default "opos-left" }} ofit-cover w-100 h-100"/>
+    {{ partial "responsive-image.html" (dict "src" .src "alt" .alt "class" (printf "%s ofit-cover w-100 h-100" (.class | default "opos-left")) "sizes" "100vw" "loading" "eager") }}
     {{ with $.Site.Params.featured_text }}
       <div class="absolute absolute--fill flex flex-column bg-black-50 hero-image">
         {{ if in .header ".svg" }}

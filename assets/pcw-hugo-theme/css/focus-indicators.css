@@ -20,3 +20,8 @@ nav a.hover-white:focus {
   background-color: var(--light-gray);
   transition: color 0.10s ease-in;
 }
+
+#hamburger-menu:focus-visible {
+  outline: 2px solid white;
+  outline-offset: 2px;
+}

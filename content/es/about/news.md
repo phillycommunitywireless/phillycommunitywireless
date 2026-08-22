@@ -1,7 +1,7 @@
 ---
 date: 2023-10-18
 title: "Novedades"
-layout: "people/people"
+layout: "people/single"
 ---
 
 Billy Penn, [Organization pulls Kensington community together by spreading wi-fi outdoors](https://billypenn.com/2025/07/02/philly-community-wireless-outdoor-wifi-importance/), 7/2/2025.

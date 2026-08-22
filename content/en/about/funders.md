@@ -4,71 +4,108 @@ title: "Funders"
 layout: "people/single"
 aliases:
     - /funders
-
-segments:
-    - template: partner-card-container
-      title: 
-      sections:
-        - partner:
-            partner_name: "Kensington Community Resilience Fund, 2025"
-            partner_link: "https://kcrfund.org"
-            img_src: "/images/funders/KensingtonCommunityResilienceFund.webp"
-            img_alt: "Kensington Community Resilience Fund, 2025"
-        - partner:
-            partner_name: "Community Fund, Claneil Foundation, 2025"
-            partner_link: "https://claneil.org/grantees/philly-community-wireless"
-            img_src: "/images/funders/ClaneilFoundation.jpg"
-            img_alt: "Community Fund, Claneil Foundation"
-        - partner:
-            partner_name: "AARP Community Challenge Demonstration Grant, AARP (American Association of Retired Persons), 2025"
-            partner_link: "https://www.aarp.org/livable-communities/community-challenge/info-2025/2025-demonstration-grantees.html"
-            img_src: "/images/funders/community_challenge_grant.png"
-            img_alt: "Community Challenge Grant"
-        - partner:
-            partner_name: "Building Digital Resiliency through Community Ambassador Models, Digital Literacy Alliance, 2024"
-            partner_link: "https://www.phila.gov/2024-12-12-the-digital-literacy-alliance-announces-recipients-for-its-fall-2024-grant-cycle-to-address-digital-inclusion/"
-            img_src: "/images/funders/digital_literacy_alliance.jpg"
-            img_alt: "Digital Literacy Alliance"
-        - partner:
-            partner_name: "Improving Public Spaces, William Penn Foundation, 2024"
-            partner_link: "https://williampennfoundation.org/awarded-grants-november-2024/"
-            img_src: "/images/funders/WPF logo.jpeg"
-            img_alt: "Internet For All Grant Program"
-        - partner:
-            partner_name: "Internet For All, IPMF (Independence Public Media Foundation) in Partnership with TLC (Technology Learning Collaborative), 2024"
-            partner_link: "https://www.independencemedia.org/news/independence-public-media-foundation-announces-final-grants-2024"
-            img_src: "/images/funders/ipmf.jpg"
-            img_alt: "Internet For All Grant Program"
-        - partner:
-            partner_name: "Better Bike Share Partnership Mini Grant, Philadelphia City Fund, 2024"
-            partner_link: "https://betterbikeshare.org/grant/better-bike-share-mini-grants/"
-            img_src: "/images/funders/better_bike_share.svg"
-            img_alt: "Better Bike Share Partnership Mini Grant"
-        - partner:
-            partner_name: "Community Challenge Grant, AARP (American Association of Retired Persons), 2023"
-            partner_link: "https://www.aarp.org/livable-communities/community-challenge/"
-            img_src: "/images/funders/community_challenge_grant.png"
-            img_alt: "Community Challenge Grant"
-        - partner:
-            partner_name: | 
-                Digital Equity Grant and ongoing support from the Independent Public Media Foundation, 2021 to present
-            partner_link: "https://independencemedia.org/2021-community-voices-and-digital-equity-grants/"
-            img_src: "/images/funders/ipmf.jpg"
-            img_alt: "Independent Public Media Foundation"
-        - partner:
-            partner_name: Digital Literacy Alliance, The Mayor's Fund for Philadelphia, 2021-2022
-            partner_link: "http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/"
-            img_src: "/images/funders/digital_literacy_alliance.jpg"
-            img_alt: "Digital Literacy Alliance"
-        - partner:
-            partner_name: Rapid Response Magic Project of the Princeton Humanities Council, 2020
-            partner_link: "https://humanities.princeton.edu/"
-            img_src: "/images/funders/humanities_council.png"
-            img_alt: "Princeton Humanities Council"
-        - partner:
-            partner_name: RISE (Recognizing Inequalities and Standing for Equality), Pace Center for Civic Engagement, 2020
-            partner_link: "https://pace.princeton.edu/"
-            img_src: "/images/funders/civic_engagement.jpg"
-            img_alt: "Pace Center for Civic Engagement"
 ---
-Grant recieved by PCW... Grant recieved by PCW... Grant recieved by PCW... Grant recieved by PCW... 
+<div class="funder-card">
+    <img alt="People's Media Fund" src="/images/funders/PMF-logo.png"/>
+    <div class="funder-desc">
+        <a href="https://www.peoplesmediafund.org/news/43-million-grants-44-organizations-and-projects">Narrative Shift for Movement Building</a>, People's Media Fund (formerly Independence Public Media Foundation), 2026
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Patricia Kind Family Foundation" src="/images/funders/patriciakind-logo.png"/>
+    <div class="funder-desc">
+        <a href="https://pkindfamilyfoundation.org/index.php/partners-fund-grants-awarded">Partners Fund</a>, Patricia Kind Family Fund, 2026
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Impact100 Philly" src="/images/funders/impact100-circle-logo.jpeg"/>
+    <div class="funder-desc">
+        <a href="https://impact100philly.org/grantees/philly-community-wireless/">Impact100 Philly Grant</a>, Impact100 Philly, 2026
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Kensington Community Resilience Fund" src="/images/funders/kcrfund-logo.png"/>
+    <div class="funder-desc">
+        <a href="https://kcrfund.org">KCR Fund</a>, Kensington Community Resilience Fund, 2025
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Community Fund, Claneil Foundation" src="/images/funders/claneil-logo.jpg"/>
+    <div class="funder-desc">
+        <a href="https://claneil.org/grantees/philly-community-wireless">Community Fund</a>, Claneil Foundation, 2025
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="AARP Community Challenge Grant" src="/images/funders/aarp-communitychallenge-logo.png"/>
+    <div class="funder-desc">
+        <a href="https://www.aarp.org/livable-communities/community-challenge/info-2025/2025-demonstration-grantees.html">AARP Community Challenge Demonstration Grant</a>, AARP (American Association of Retired Persons), 2025
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Digital Literacy Alliance" src="/images/funders/DLA-logo.jpg"/>
+    <div class="funder-desc">
+        <a href="https://www.phila.gov/2024-12-12-the-digital-literacy-alliance-announces-recipients-for-its-fall-2024-grant-cycle-to-address-digital-inclusion/">Building Digital Resiliency through Community Ambassador Models</a>, Digital Literacy Alliance, 2024
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="William Penn Foundation" src="/images/funders/WPF-logo.jpeg"/>
+    <div class="funder-desc">
+        <a href="https://williampennfoundation.org/awarded-grants-november-2024">Improving Public Spaces</a>, William Penn Foundation, 2024
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="IPMF" src="/images/funders/ipmf-logo.jpg"/>
+    <div class="funder-desc">
+        <a href="https://www.independencemedia.org/news/independence-public-media-foundation-announces-final-grants-2024">Internet For All</a>, IPMF (Independence Public Media Foundation) in Partnership with TLC (Technology Learning Collaborative), 2024
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Better Bike Share Partnership Mini Grant" src="/images/funders/betterbikeshare-logo.svg"/>
+    <div class="funder-desc">
+        <a href="https://betterbikeshare.org/grant/better-bike-share-mini-grants/">Better Bike Share Partnership Mini Grant</a>, Philadelphia City Fund, 2024
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Community Challenge Grant" src="/images/funders/aarp-communitychallenge-logo.png"/>
+    <div class="funder-desc">
+        <a href="https://www.aarp.org/livable-communities/community-challenge/">Community Challenge Grant</a>, AARP (American Association of Retired Persons), 2023
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Independent Public Media Foundation" src="/images/funders/ipmf-logo.jpg"/>
+    <div class="funder-desc">
+        Digital Equity Grant and ongoing support from the <a href="https://independencemedia.org/2021-community-voices-and-digital-equity-grants/">Independent Public Media Foundation</a>, 2021 to present
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Digital Literacy Alliance" src="/images/funders/DLA-logo.jpg"/>
+    <div class="funder-desc">
+        <a href="http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/">Digital Literacy Alliance</a>, The Mayor's Fund for Philadelphia, 2021-2022
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Princeton Humanities Council" src="/images/funders/princeton-humanities-logo.png"/>
+    <div class="funder-desc">
+        Rapid Response Magic Project of the <a href="https://humanities.princeton.edu/">Princeton Humanities Council</a>, 2020
+    </div>
+</div>
+
+<div class="funder-card">
+    <img alt="Pace Center for Civic Engagement" src="/images/funders/pacecenter-logo.jpg"/>
+    <div class="funder-desc">
+        RISE (Recognizing Inequalities and Standing for Equality), <a href="https://pace.princeton.edu/">Pace Center for Civic Engagement</a>, 2020
+    </div>
+</div>

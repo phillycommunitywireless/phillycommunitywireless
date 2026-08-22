@@ -11,7 +11,8 @@
         <div class="fl w-100 w-50-m w-third-l pv2 ph3">
             <div class="h-100 bg-white flex flex-column justify-between">
                 <div>
-                    <img src="{{ .photo }}" class="threebutton-img br3" alt="{{.photo_alt_text}}">
+                    <!-- <img src="{{ .photo }}" class="threebutton-img br3" alt="{{.photo_alt_text}}"> -->
+                    {{ partial "responsive-image.html" (dict "style" "height: auto" "src" .photo "alt" .photo_alt_text "class" "threebutton-img br3" "sizes" "(min-width: 60em) 33vw, 100vw") }}
                     {{- if .text -}}
                     <p class="f3 tl tc-ns mv3 lh-copy">{{ .text | markdownify }}</p>
                 </div>

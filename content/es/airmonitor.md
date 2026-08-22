@@ -14,7 +14,7 @@ Philly Community Wireless lleva trabajando desde 2023 para instalar monitores Pu
 1. Si la calidad del aire es buena o mala en su zona
 2. Cómo se compara con otras partes de la ciudad
 
-{{< figure class="figure-center" src="/images/Air-Monitor-WKM.jpg" alt="Vista aérea de un dispositivo circular blanco pegada a una casa con pegatinas que dicen Purple Air y Philly Community Wireless.">}}
+{{< figure class="figure-center" src="/images/Air-Monitor-WKM.jpg" alt="Vista aérea de un dispositivo circular blanco pegada a una casa con pegatinas que dicen Purple Air y Philly Community Wireless." style="height: auto">}}
 
 Los datos sobre la calidad del aire en tiempo real se pueden consultar en [el mapa de PurpleAir](https://map.purpleair.com/). 
 
@@ -28,15 +28,16 @@ Agradecemos el apoyo recibido del Programa de Préstamo de Sensores de la Regió
 
 Los monitores de aire instalados por PCW se encuentran actualmente en:  
 
+* Biblioteca Kensington
+* Biblioteca Lillian Marrero
 * Cesar Andreú Iglesias Community Garden 
 * GALAEI
 * HACE - Caribe Tower
 * HACE - Somerset Villas
-* Kensington Library
-* Lillian Marrero Library
-* Multiple Residential Homes of PCW's Community
+* NKCDC Kensington Engagement Center
 * Norris Square Neighborhood Project
 * NSNP - Las Parcelas Garden
 * NSNP - Raíces Garden
 * The Lighthouse 1893
+* Viviendas residenciales de la comunidad de PCW
 * West Kensington Ministry

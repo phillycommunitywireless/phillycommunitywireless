@@ -32,7 +32,7 @@ segments:
       alt: "A man reaching out of a second floor window with one arm to adjust a device next to an air conditining unit."
       text: "Philly Community Wireless provides network maintenance to improve or repair existing set-ups. If you notice an issue with your connection, please reach out to us.
       
-      For more information on what an install involves, visit our [Installation documentation](https://docs.phillycommunitywireless.org/en/latest/installations/installations/)."
+      For more information on what an install involves, visit our [Installation documentation](https://docs.phillycommunitywireless.org/installations/installations/)."
 
   - template: text-lr
     title: "some title"

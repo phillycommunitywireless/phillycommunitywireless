@@ -11,10 +11,10 @@ segments:
 
     help_text: 
       "
-      Si deseas inscribirte para Wi-Fi gratis en tu hogar, organización comunitaria o espacio verde, por favor usa [nuestro formulario de inscripción para la red PCW].
+      Si deseas inscribirte para Wi-Fi gratis en tu hogar, organización comunitaria o espacio verde, por favor usa [nuestro formulario de inscripción para la red PCW](https://tally.so/r/mR8VM9).
 
 
-      Si estás interesado en ser un voluntario con PCW, por favor, completa [nuestro formulario de inscripción para voluntarios].
+      Si estás interesado en ser un voluntario con PCW, por favor, completa [nuestro formulario de inscripción para voluntarios](https://tally.so/r/w2ODaj).
 
 
       Para cualquier otra pregunta, por favor usa el siguiente formulario de abajo o déjanos un mensaje de voz al número (215) 316-5761. También puedes enviarnos un correo electrónico a info@phillycommunitywireless.org. Te responderemos lo más pronto posible. 

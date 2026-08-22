@@ -103,7 +103,7 @@ Nuestros socios comerciales, proveedores, proveedores, proveedores de servicios 
 
 Compartimos información personal con estos terceros para ayudarnos a:
 
-* con los usos descritos en el [Como Utilizamos La Información Personal]() sección anterior;
+* con los usos descritos en el [Como Utilizamos La Información Personal](#j94hd7) sección anterior;
 * en la operación, gestión, mejora, investigación y análisis de nuestros Servicios; y
 * cumplir con sus instrucciones o cualquier consentimiento que nos haya proporcionado.
 

@@ -31,13 +31,13 @@
         <div class="merch-item ns fl pv2 {{ $class }}">
             <div class="h-100 bg-white flex flex-column justify-between">
                 <div>
-                    <img src="{{ .photo }}" class="{{ .class }}" alt="{{.photo_alt_text}}">
+                    {{ partial "responsive-image.html" (dict "src" .photo "alt" .photo_alt_text "class" .class "sizes" "(min-width: 60em) 33vw, 100vw" "style" "height: auto") }}
                     {{- if .heading_1 -}}
                     <h2 class="tc tl-ns">{{ .heading_1 | markdownify }}</h2>
                     {{ end }}
                     <h2 class="black mv0 tc tl-ns">{{ .subheading }}</h2>
                     <p style="overflow: hidden; text-overflow: ellipsis; display: block;"
-                        class="f4 tc tl-ns mv2 lh-copy">{{ .description_text }}</p>
+                        class="f4 tc tl-ns mv2 lh-copy">{{ .description_text | markdownify }}</p>
                 </div>
 
                 <div>

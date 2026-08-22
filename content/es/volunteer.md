@@ -10,7 +10,7 @@ segments:
     text: "Nos constituimos como una coalición de base dirigida por voluntarios, y nuestro dedicado equipo de personal incorpora regularmente a nuevos voluntarios del área de Filadelfia para ayudar a construir y mantener nuestra red. ¡Te invitamos a unirte y participar en nuestra organización!
 
 
-Si está interesado en participar, rellene nuestro [formulario de inscripción para voluntarios].(https://tally.so/r/w2ODaj). "
+Si está interesado en participar, rellene nuestro [formulario de inscripción para voluntarios](https://tally.so/r/w2ODaj). "
     photo: "/images/pcwvolunteers2.jpg"
     photo_alt_text: "7 personas posando para una foto grupal en un tejado con un dispositivo y árboles altos detrás de ellas."
     button: 
