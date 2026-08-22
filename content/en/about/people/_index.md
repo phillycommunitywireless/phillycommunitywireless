@@ -10,8 +10,8 @@ segments:
       class: "w-100 w-50-m w-third-l"
       title: "Staff"
       sections:
-      - photo: "/images/AlexWC_Portrait.jpg"
-        photo_alt_text: ""
+      - photo: "/images/AlexWCHeadshot-Square.jpg"
+        photo_alt_text: "Headshot of Alex Wermer-Colan."
         heading_1: "[Alex Wermer-Colan](alexwc)"
         subheading: Executive Director
         description_text: alex@phillycommunitywireless.org
@@ -19,7 +19,7 @@ segments:
         flex_basis: 33%
 
       - photo: "/images/LeannePHeadshot-Square.jpg"
-        photo_alt_text: ""
+        photo_alt_text: "Headshot of Leanne Przybylowski."
         heading_1: "[Leanne Przybylowski](leannep)"
         subheading: Community Outreach Manager 
         description_text: leanne@phillycommunitywireless.org
@@ -27,7 +27,7 @@ segments:
         flex_basis: 33%
 
       - photo: "/images/EugeneRHeadshot-Square.jpg"
-        photo_alt_text: ""
+        photo_alt_text: "Headshot of Eugene Ryoo."
         heading_1: "[Eugene Ryoo](eugener)"
         subheading: Technician
         description_text: eugene@phillycommunitywireless.org
@@ -35,7 +35,7 @@ segments:
         flex_basis: 33%
 
       - photo: "/images/ChrisMHeadshot-Square.jpg"
-        photo_alt_text: ""
+        photo_alt_text: "Headshot of Chris Mehretab."
         heading_1: "[Chris Mehretab](chrism)"  
         subheading: Content Coordinator
         description_text: chris@phillycommunitywireless.org
@@ -43,7 +43,7 @@ segments:
         flex_basis: 33%
 
       - photo: "/images/FranciscoOHeadshot-Square.jpg"
-        photo_alt_text: ""
+        photo_alt_text: "Headshot of Francisco Oquendo."
         heading_1:  Francisco Oquendo
         subheading: UTP Apprentice
         description_text: foquendo@launchphilly.org
