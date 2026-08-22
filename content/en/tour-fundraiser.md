@@ -13,11 +13,14 @@ header_class: "opos-50"
 Come take a behind-the-scenes walking tour of Philly Community Wireless (PCW) — Philadelphia's ONLY community internet network! The tour will give you the inside scoop on how community internet works, who makes it happen, and where PCW is today.  
 
 We'll start off by touring PCW's headquarters, checking out the equipment and tools needed to build our Wi-Fi network. Then, during a 75-minute walk around the historically rich neighborhood of Norris Square, we'll check out 9 PCW Wi-Fi sites across Norris Square, plus a "high site" where the network's internet connection comes from. These sites will show how lightweight equipment installed at one building can serve up to an entire city block with public internet access!
-Near the end of the tour, we'll spend time in two of Norris Square Neighborhood Project's iconic community gardens where our public Wi-Fi supports garden programming and an AR/VR art installation, Termite TV's Places of Power. We'll also pass various murals and art installations, including Amor Del Bueno and a mural and mosiac tribute to Grupo Alegría.
-Snacks and drinks will be available to all participants, before and after the walking tour. PCW will also be selling our merch at our headquarters at a discounted rate! 🥤🍪🧢
-All proceeds will directly benefit PCW's mission.  
 
-{{< button-custom href="https://buy.stripe.com/cNiaEQbVLdn1f0K5zm5c40r" text="BUY YOUR $20 TICKET TODAY HERE">}}
+Near the end of the tour, we'll spend time in two of Norris Square Neighborhood Project's [iconic community gardens](https://myneighborhoodproject.org/our-gardens) where our public Wi-Fi supports garden programming and an AR/VR art installation, [Termite TV's Places of Power](https://termite.org/mound/villa-africana-colobo-garden/). We'll also pass various murals and art installations, including Amor Del Bueno and a mural and mosiac tribute to Grupo Alegría.
+
+Snacks and drinks will be available to all participants, before and after the walking tour. PCW will also be selling [our merch](https://phillycommunitywireless.org/merch/) at our headquarters at a discounted rate! 🥤🍪🧢
+
+**All proceeds will directly benefit PCW's mission.** Limited tickets available, buy your $20 ticket today!
+
+{{< button-custom href="https://buy.stripe.com/cNiaEQbVLdn1f0K5zm5c40r" text="Purchase a Ticket">}}
 
 
 
@@ -26,6 +29,6 @@ If you have any questions, please email outreach@phillycommunitywireless.org.
 
 Can't come but want to support community internet in Philly, making free Wi-Fi available to tens of thousands of residents? Make a donation ❤️
 
-{{< button-custom href="https://phillycommunitywireless.allyrafundraising.com/" text="BDonate today!">}}
+{{< button-custom href="https://phillycommunitywireless.allyrafundraising.com/" text="Donate to PCW Here">}}
 
 
