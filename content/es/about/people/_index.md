@@ -2,6 +2,7 @@
 date: 2024-07-01
 title: "Nuestro Equipo"
 layout: "people/people"
+show_title: true
 aliases:
     # old people link
     - /people
@@ -49,62 +50,24 @@ segments:
         description_text: foquendo@launchphilly.org
         class: "square-img br3 w-100"
         flex_basis: 33%
+
+      # TODO: swap in Amaris's headshot once we have one — placeholder logo for now
+      - photo: "/images/Circular Logo-RGB.png"
+        photo_alt_text: "Logotipo de Philly Community Wireless, en lugar de una foto de rostro."
+        heading_1:  Amaris Chen
+        subheading: Pasante, Universidad de Pensilvania
+        class: "square-img br3 w-100"
+        flex_basis: 33%
+
+    - template: markdown 
+      url: boardofadvisors.md
+      class: | 
+        center cf ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img near-black
+ 
+    - template: markdown
+      url: tab.md
+      class: | 
+        center cf ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img near-black
+
 ---
 
-## Consejo de asesores
-
-Will Dean \
-_Bibliotecario de investigación y servicios de datos, Bibliotecas de la Universidad de Temple_
-
-Jonathan Latko \
-_Subdirector de operaciones comerciales, Servicios de tecnología de la información, Universidad de Temple_
-
-Jessa Lingel \
-_Profesor asociado, escuela Annenberg de comunicación, Universidad de Pensilvania_
-
-Rev. Michael A. Major \
-_Pastor, Zion Baptist Church; fundador y presidente de la junta directiva, Called to Serve CDC_
-
-Sascha Meinrath \
-_Cátedra Palmer en telecomunicaciones, facultad de comunicaciones Bellisario, Universidad Estatal de Pensilvania_
-
-Stasia Monteiro \
-_Directore del programa NAC, HACE_
-
-Mark Steckel \
-_Director general, PhillyWisper_
-
-Devren Washington \
-_Director de organización, People's Tech Project_
-
-Heather Lewis-Weber \
-_Director de participación comunitaria, facultad de Artes Liberales, Universidad de Temple_
-
-Grant Wythoff \
-_Estratega de humanidades digitales, Centro de humanidades digitales de la Universidad de Princeton_
-
-<br/>
-
-## Consejo Asesor Técnico
-Dylan Hutchinson \
-_Ingeniero informático_
-
-John Center \
-_Ingeniero de redes jubilado_
-
-Felipe Valdez \
-_Especialista en SIG, Bibliotecas de la Universidad de Temple_  
-
-Dan Zygmund-Felt \
-_Ingeniero de software_  
-
-David Berman \
-_Profesor adjunto, Universidad Seton Hall_  
-
-Jonathan Caicedo \
-_Ingeniero de software_ 
-
-Dan Feder \
-_Ingeniero de software_ 
-
-<br/>

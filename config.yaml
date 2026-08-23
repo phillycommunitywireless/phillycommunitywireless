@@ -237,9 +237,15 @@ languages:
           parent: location
           weight: "3"
 
-        - name: Documentos 
+        - name: Documentos
           identifier: documentos
           weight: "5"
+        - name: Documentos
+          url: "https://docs.phillycommunitywireless.org/es/"
+          params:
+            external: true
+          parent: documentos
+          weight: "0"
         - name: Instalacion
           url: https://docs.phillycommunitywireless.org/es/installations/installations/
           params:

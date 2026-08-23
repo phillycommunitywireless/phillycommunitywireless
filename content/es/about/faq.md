@@ -55,7 +55,7 @@ Nada de lo que hagas en Internet debe considerarse completamente "privado".
 
 ## ¿Mi actividad o datos en Internet serán rastreados por un tercero?
 
-No. Consulte nuestra [página de privacidad.](https://phillycommunitywireless.org/es/privacy/)
+No. Consulte nuestra [página de privacidad.](/es/privacy/)
 
 # ¿Cómo puedo participar?
 
@@ -63,7 +63,7 @@ No. Consulte nuestra [página de privacidad.](https://phillycommunitywireless.or
 
 Si deseas alojar una antena en la azotea, rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) y recibirás un correo electrónico con los pasos a seguir.
 
-Si tienes alguna pregunta o quieres ser voluntario de Philly Community Wireless, escríbenos a info@phillycommunitywireless.org y consulta nuestra página [Voluntarios](https://phillycommunitywireless.org/es/volunteer/) para obtener más información.
+Si tienes alguna pregunta o quieres ser voluntario de Philly Community Wireless, escríbenos a info@phillycommunitywireless.org y consulta nuestra página [Voluntarios](/es/volunteer/) para obtener más información.
 
 ## Si alopón una antena en mi techo, ¿cómo afecta esto a la integridad estructural de mi casa? ¿Se involucraría una perforación adicional?
 

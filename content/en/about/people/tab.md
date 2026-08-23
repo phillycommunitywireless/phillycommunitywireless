@@ -1,3 +1,10 @@
+---
+# Hide this fragment from standard rendering
+_build:
+  render: false
+  list: false
+---
+
 ## Technical Advisory Board
 Dylan Hutchinson \
 _IT Engineer_

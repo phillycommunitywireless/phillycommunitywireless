@@ -1,3 +1,10 @@
+---
+# Hide this fragment from standard rendering
+_build:
+  render: false
+  list: false
+---
+
 ## Board of Advisors
 
 Will Dean \
@@ -10,7 +17,7 @@ Jessa Lingel \
 _Associate Professor, Annenberg School for Communication, University of Pennsylvania_
 
 Rev. Michael A. Major \
-_Reverend, Zion Baptist Ministry; Board President, Called to Serve CDC_
+_Pastor, Zion Baptist Ministry; Board President, Called to Serve CDC_
 
 Sascha Meinrath \
 _Palmer Chair in Telecommunications, Bellisario College of Communications, Pennsylvania State University_

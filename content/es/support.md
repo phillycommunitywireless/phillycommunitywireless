@@ -46,10 +46,10 @@ segments:
     - template: text-lr
       left:
         title: Socios y colaboradores
-        text: "Nos asociamos con varios propietarios de inmuebles en todo el norte de Filadelfia para construir nuestra red Wi-Fi. Nuestra prioridad es establecer relaciones con organizaciones de vivienda asequible y otros grupos locales centrados en invertir en las comunidades existentes. Otros socios de PCW incluyen organizaciones comunitarias afines que ofrecen programas y servicios de acceso digital. [Haz clic aquí](https://phillycommunitywireless.org/es/about/partners/) para ver nuestra lista de valiosos socios comunitarios."
+        text: "Nos asociamos con varios propietarios de inmuebles en todo el norte de Filadelfia para construir nuestra red Wi-Fi. Nuestra prioridad es establecer relaciones con organizaciones de vivienda asequible y otros grupos locales centrados en invertir en las comunidades existentes. Otros socios de PCW incluyen organizaciones comunitarias afines que ofrecen programas y servicios de acceso digital. [Haz clic aquí](/es/about/partners/) para ver nuestra lista de valiosos socios comunitarios."
       right:
         title: Patrocinadores
-        text: "Nuestros patrocinadores hacen posible que PCW proporcione acceso gratuito a Internet a decenas de miles de miembros de la comunidad. ¡Les agradecemos su apoyo para hacer realidad nuestra misión! [Haz clic aquí](https://phillycommunitywireless.org/es/about/funders/) para obtener más información sobre los patrocinadores que han invertido en PCW y en nuestra comunidad."
+        text: "Nuestros patrocinadores hacen posible que PCW proporcione acceso gratuito a Internet a decenas de miles de miembros de la comunidad. ¡Les agradecemos su apoyo para hacer realidad nuestra misión! [Haz clic aquí](/es/about/funders/) para obtener más información sobre los patrocinadores que han invertido en PCW y en nuestra comunidad."
 
   # newsletter 
     - template: newsletter-verbose

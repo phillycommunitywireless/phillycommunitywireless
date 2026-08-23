@@ -45,7 +45,7 @@ segments:
     
     right: 
       title: "Resources"
-      text: "If you are in need of more immediate access to internet and other digital resources, please visit our [resource page](https://phillycommunitywireless.org/resources/). There, you will find information about accessing affordable internet, computers, and training in digital skills.
+      text: "If you are in need of more immediate access to internet and other digital resources, please visit our [resource page](/resources/). There, you will find information about accessing affordable internet, computers, and training in digital skills.
 
 
       If you are outside our service area, we encourage you to still reach out if you need help accessing digital resources."
@@ -80,4 +80,4 @@ Philly Community Wireless works with [PhillyWisper](https://phillywisper.net), a
 
 Installations can sometimes take an extended period of time to schedule and complete, up to several months. We are expanding our network coverage every week, but we have more demand than we can meet and a variety of obstacles, including line of sight, can impede our network's reach. We appreciate your patience and assistance as we build the foundations of our network. Please reach out to volunteer for a rooftop antenna, and we will work with you to provide you and your neighbors with free wifi service as soon as we can. 
 
-If you are currently outside our service area, we encourage you to still reach out if you need help accessing digital resources. We also encourage you to check out [available resources in Philadelphia](https://phillycommunitywireless.org/resources/) for accessing affordable computers, internet, and training in digital skills.  -->
+If you are currently outside our service area, we encourage you to still reach out if you need help accessing digital resources. We also encourage you to check out [available resources in Philadelphia](/resources/) for accessing affordable computers, internet, and training in digital skills.  -->

@@ -2,6 +2,7 @@
 date: 2024-07-01
 title: "People"
 layout: "people/people"
+show_title: true
 aliases:
     # old people link
     - /people
@@ -47,6 +48,14 @@ segments:
         heading_1:  Francisco Oquendo
         subheading: UTP Apprentice
         description_text: foquendo@launchphilly.org
+        class: "square-img br3 w-100"
+        flex_basis: 33%
+
+      # TODO: swap in Amaris's headshot once we have one — placeholder logo for now
+      - photo: "/images/Circular Logo-RGB.png"
+        photo_alt_text: "Philly Community Wireless logo, standing in for a headshot."
+        heading_1:  Amaris Chen
+        subheading: Intern, University of Pennsylvania
         class: "square-img br3 w-100"
         flex_basis: 33%
 

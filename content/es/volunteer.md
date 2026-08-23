@@ -75,4 +75,4 @@ Si está interesado en participar, rellene nuestro [formulario de inscripción p
 ¡Nos encantan los voluntarios! Utiliza tus habilidades (¡sea cuales sean!) para contribuir a la comunidad de Filadelfia y apoyar el acceso a Internet para todos. Hay oportunidades de voluntariado presencial y a distancia disponibles; te invitamos a participar en la medida que te resulta más conveniente.
 
 
-Si deseas apoyar nuestro trabajo pero no puedes ser voluntario en este momento, consulta nuestra [página de apoyo](https://phillycommunitywireless.org/support) para conocer otras formas de ayudar.
+Si deseas apoyar nuestro trabajo pero no puedes ser voluntario en este momento, consulta nuestra [página de apoyo](/es/support/) para conocer otras formas de ayudar.
