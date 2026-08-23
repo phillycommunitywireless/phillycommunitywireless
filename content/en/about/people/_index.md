@@ -2,6 +2,7 @@
 date: 2024-07-01
 title: "People"
 layout: "people/people"
+show_title: true
 aliases:
     # old people link
     - /people
@@ -57,6 +58,11 @@ segments:
  
     - template: markdown
       url: tab.md
+      class: | 
+        center cf ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img near-black
+
+    - template: markdown
+      url: alumni-note.md
       class: | 
         center cf ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img near-black
 

@@ -1,3 +1,10 @@
+---
+# Hide this fragment from standard rendering
+_build:
+  render: false
+  list: false
+---
+
 ## Diseño Gráfico
 
 Katie Garth
@@ -38,4 +45,4 @@ Eli Laban, *Big Picture Alliance*
 
 ## Financiadores
 
-Para más información sobre nuestros financiadores institucionales, visite nuestra página de [Financiadores](/about/funders)
+Para más información sobre nuestros financiadores institucionales, visite nuestra página de [Financiadores](/es/about/funders)

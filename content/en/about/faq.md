@@ -17,7 +17,7 @@ Mesh networks allow a single Internet connection to be shared among a broader gr
 
 We incorporate participatory design and technical training for the community that empowers self-maintenance and growth of this free network connection. In addition, we partner with organizations that help residents connect with digital resources, including no-cost or low-cost devices and digital skills classes.  
 
-For a condensed list of available digital resources, [click here](https://phillycommunitywireless.org/resources/).
+For a condensed list of available digital resources, [click here](/resources/).
 
 For more information on our partner, Philly Wisper, see their [FAQ](https://phillywisper.net/faq/).
 
@@ -69,7 +69,7 @@ Nothing you do on the internet should be considered fully “private.”
 
 ## Will my activity or data on the internet be tracked by a third party?
 
-No. Please see our data policy on our [Terms of Service page](https://phillycommunitywireless.org/termsofservice/).
+No. Please see our data policy on our [Terms of Service page](/termsofservice/).
 
 # How do I get involved?
 
@@ -77,7 +77,7 @@ No. Please see our data policy on our [Terms of Service page](https://phillycomm
 
 If you would like to host a rooftop antenna, please fill out the [sign-up form](https://tally.so/r/mR8VM9). We will get back to you as soon as we can.
 
-If you have any questions, or would like to volunteer with Philly Community Wireless, reach out via email at info@phillycommunitywireless.org and see our [Volunteer](https://phillycommunitywireless.org/volunteer/) page for more information.
+If you have any questions, or would like to volunteer with Philly Community Wireless, reach out via email at info@phillycommunitywireless.org and see our [Volunteer](/volunteer/) page for more information.
 
 ## What does a rooftop antenna installation involve?
 

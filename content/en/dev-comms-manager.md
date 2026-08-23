@@ -26,7 +26,7 @@ You’ll need to have proficient time management skills, have exceptional attent
 * You have experience maintaining accurate and detail-oriented records, CRMs, donor databases, and/or financial information
 * You have a demonstrated capacity to work well both independently and within a small cooperative team
 * You bring a curious, proactive approach to your work, exhibiting a willingness to ask questions and an ability to give and receive clear and generative feedback
-* You are comfortable exercising leadership skills, particularly when leading meetings and directing activities in line with [PCW’s Code of Conduct](https://phillycommunitywireless.org/code-of-conduct) and safety policies
+* You are comfortable exercising leadership skills, particularly when leading meetings and directing activities in line with [PCW’s Code of Conduct](/code-of-conduct) and safety policies
 
 ### We Hope You Bring One or More of These Bonus Skills and Qualifications
 

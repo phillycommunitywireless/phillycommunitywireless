@@ -18,7 +18,7 @@ We'll start off by touring PCW's headquarters, checking out the equipment and to
 
 Near the end of the tour, we'll spend time in two of Norris Square Neighborhood Project's [iconic community gardens](https://myneighborhoodproject.org/our-gardens) where our public Wi-Fi supports garden programming and an AR/VR art installation, [Termite TV's Places of Power](https://termite.org/mound/villa-africana-colobo-garden/). We'll also pass various murals and art installations, including Amor Del Bueno and a mural and mosiac tribute to Grupo Alegría.
 
-Snacks and drinks will be available to all participants, before and after the walking tour. PCW will also be selling [our merch](https://phillycommunitywireless.org/merch/) at our headquarters at a discounted rate! 🥤🍪🧢
+Snacks and drinks will be available to all participants, before and after the walking tour. PCW will also be selling [our merch](/merch/) at our headquarters at a discounted rate! 🥤🍪🧢
 
 **All proceeds will directly benefit PCW's mission.** Limited tickets available, buy your $20 ticket today!
 
