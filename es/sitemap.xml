@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://phillycommunitywireless.org/es/about/alumni/</loc>
+    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/about/alumni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/about/alumni/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/es/</loc>
+    <lastmod>2026-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/"
+                />
+  </url><url>
     <loc>https://phillycommunitywireless.org/es/contact/</loc>
     <lastmod>2026-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -52,19 +78,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://phillycommunitywireless.org/es/merch/"
-                />
-  </url><url>
-    <loc>https://phillycommunitywireless.org/es/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/about/partners/</loc>
@@ -247,18 +260,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://phillycommunitywireless.org/es/getconnected/"
-                />
-  </url><url>
-    <loc>https://phillycommunitywireless.org/es/about/other_partners/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/about/other_partners/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/about/other_partners/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/privacy/</loc>

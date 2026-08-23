@@ -8,6 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Alumni</title>
+      <link>https://phillycommunitywireless.org/about/alumni/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/about/alumni/</guid>
+      <description>Philly Community Wireless is built by the many people who have given their time, skills, and care to the network over the years. We are grateful to all of our alumni — former staff, volunteer leads, interns, and collaborators — for helping make this work possible.
+Former Staff Dylan Hutchinson Installer
+Mir Detre Technician
+Allan Gomez Systems Administrator
+Former Interns Amaris Chen University of Pennsylvania, 2026
+Francisco Oquendo Urban Technology Project, 2024 and 2025–2026</description>
+    </item>
+    
+    <item>
       <title>Partners</title>
       <link>https://phillycommunitywireless.org/about/partners/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
@@ -47,25 +61,6 @@ Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of 
       <guid>https://phillycommunitywireless.org/about/faq/</guid>
       <description>Who are we? What is Philly Community Wireless? Philly Community Wireless is a community organization developing community-owned networks in North Philadelphia. We are a working group of organizers, technologists, academics, teachers, and community members in Philadelphia. We seek to address the city&amp;rsquo;s digital divide with community-controlled mesh network technologies.
 Mesh networks allow a single Internet connection to be shared among a broader group of users with very little cost or infrastructure required.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://phillycommunitywireless.org/about/other_partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/about/other_partners/</guid>
-      <description>Graphic Design Katie Garth
-Video Production Eli Laban, Big Picture Alliance
-Legal Support Dentons, Todd D. Daubert
-Allied Organizations Digital Harbor Foundation and Project WAVES, Baltimore
-iNethi, Cape Town
-KINBER, Harrisburg
-Community Tech NY, New York
-NYC Mesh, NYC
-X-Lab, Washington, DC
-Fiscal Sponsor Movement Alliance Project
-Funders For more information on our institutional funders, visit our Funders page</description>
     </item>
     
   </channel>

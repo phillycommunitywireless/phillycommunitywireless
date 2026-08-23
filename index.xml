@@ -6,7 +6,7 @@
     <description>Recent content in Home on Philly Community Wireless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development and Communications Manager</title>
       <link>https://phillycommunitywireless.org/dev-comms-manager/</link>
@@ -18,6 +18,20 @@ Location: Hybrid (75% on-site and 25% remote)
 Position type: Full time, 40 hours/week.
 Salary: $52,000/year + benefits.
 Benefits: 14 days paid time off (10 vacation, 4 floating), plus federally recognized holidays and paid winter holiday break. 15 days sick time. Health care and dental (employer pays 90%). 401(k) plan with 2% employer match after 4 months of employment. Employees working more than 25hrs/week qualify for health and dental insurance.</description>
+    </item>
+    
+    <item>
+      <title>Alumni</title>
+      <link>https://phillycommunitywireless.org/about/alumni/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/about/alumni/</guid>
+      <description>Philly Community Wireless is built by the many people who have given their time, skills, and care to the network over the years. We are grateful to all of our alumni — former staff, volunteer leads, interns, and collaborators — for helping make this work possible.
+Former Staff Dylan Hutchinson Installer
+Mir Detre Technician
+Allan Gomez Systems Administrator
+Former Interns Amaris Chen University of Pennsylvania, 2026
+Francisco Oquendo Urban Technology Project, 2024 and 2025–2026</description>
     </item>
     
     <item>
@@ -197,54 +211,6 @@ Mesh networks allow a single Internet connection to be shared among a broader gr
       <guid>https://phillycommunitywireless.org/getconnected/</guid>
       <description>Are you looking for affordable, low cost, or free Internet in Philadelphia? Do you want to make an impact in your community and help your neighbors get connected to the Internet?
 We&amp;rsquo;re not an internet company — we&amp;rsquo;re a community network! By joining us, you&amp;rsquo;ll become a member of our growing network and be part of creating a baseline of internet access for everyone.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://phillycommunitywireless.org/about/other_partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/about/other_partners/</guid>
-      <description>Graphic Design Katie Garth
-Video Production Eli Laban, Big Picture Alliance
-Legal Support Dentons, Todd D. Daubert
-Allied Organizations Digital Harbor Foundation and Project WAVES, Baltimore
-iNethi, Cape Town
-KINBER, Harrisburg
-Community Tech NY, New York
-NYC Mesh, NYC
-X-Lab, Washington, DC
-Fiscal Sponsor Movement Alliance Project
-Funders For more information on our institutional funders, visit our Funders page</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://phillycommunitywireless.org/about/people/boardofadvisors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/about/people/boardofadvisors/</guid>
-      <description>Board of Advisors Will Dean Research and Data Services Librarian, Temple University Libraries
-Jonathan Latko Assistant Vice President of Business Operations, Information Technology Services, Temple University
-Jessa Lingel Associate Professor, Annenberg School for Communication, University of Pennsylvania
-Rev. Michael A. Major Reverend, Zion Baptist Ministry; Board President, Called to Serve CDC
-Sascha Meinrath Palmer Chair in Telecommunications, Bellisario College of Communications, Pennsylvania State University
-Stasia Monteiro NAC Program Director, HACE</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://phillycommunitywireless.org/about/people/tab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/about/people/tab/</guid>
-      <description>Technical Advisory Board Dylan Hutchinson IT Engineer
-John Center Retired Networking Engineer
-Felipe Valdez GIS Specialist, Temple University Libraries
-Dan Zygmund-Felt Software Engineer
-David Berman Assistant Professor, Seton Hall University
-Jonathan Caicedo Software Engineer
-Dan Feder Software Engineer</description>
     </item>
     
     <item>

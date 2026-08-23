@@ -6,7 +6,20 @@
     <description>Recent content in Home on Philly Community Wireless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exalumnos</title>
+      <link>https://phillycommunitywireless.org/es/about/alumni/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/about/alumni/</guid>
+      <description>Philly Community Wireless es obra de las muchas personas que han dedicado su tiempo, sus habilidades y su cuidado a la red a lo largo de los años. Agradecemos a todos nuestros exalumnos — personal anterior, líderes voluntarios, pasantes y colaboradores — por ayudar a hacer posible este trabajo.
+Personal anterior Dylan Hutchinson Instalador
+Mir Detre Técnico
+Allan Gomez Administrador de sistemas
+Pasantes anteriores Amaris Chen University of Pennsylvania, 2026</description>
+    </item>
+    
     <item>
       <title>Contáctenos</title>
       <link>https://phillycommunitywireless.org/es/contact/</link>
@@ -165,25 +178,6 @@ Medición de la calidad del aire Purple air monitors permiten a las comunidades 
       <guid>https://phillycommunitywireless.org/es/getconnected/</guid>
       <description>¿Buscas Internet asequible, de bajo coste o gratuito en Filadelfia? ¿Quieres tener un impacto en tu comunidad y ayudar a tus vecinos a conectarse a Internet?
 No somos una empresa de Internet, ¡somos una red comunitaria! Al unirte a nosotros, te convertirás en miembro de nuestra red en expansión y formarás parte de la creación de una base de acceso a Internet para todos.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://phillycommunitywireless.org/es/about/other_partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/es/about/other_partners/</guid>
-      <description>Diseño Gráfico Katie Garth
-Producción de Video Eli Laban, Big Picture Alliance
-Apoyo Legal Dentons, Todd D. Daubert
-Organizaciones aliadas Digital Harbor Foundation y Project WAVES, Baltimore
-iNethi, Ciudad del Cabo
-KINBER, Harrisburg
-Community Tech NY, Nueva York
-NYC Mesh, NYC
-X-Lab, Washington, DC
-Patrocinador fiscal Movement Alliance Project
-Financiadores Para más información sobre nuestros financiadores institucionales, visite nuestra página de Financiadores</description>
     </item>
     
     <item>
