@@ -51,14 +51,6 @@ segments:
         class: "square-img br3 w-100"
         flex_basis: 33%
 
-      # TODO: swap in Amaris's headshot once we have one — placeholder logo for now
-      - photo: "/images/Circular Logo-RGB.png"
-        photo_alt_text: "Logotipo de Philly Community Wireless, en lugar de una foto de rostro."
-        heading_1:  Amaris Chen
-        subheading: Pasante, Universidad de Pensilvania
-        class: "square-img br3 w-100"
-        flex_basis: 33%
-
     - template: markdown 
       url: boardofadvisors.md
       class: | 
@@ -66,6 +58,11 @@ segments:
  
     - template: markdown
       url: tab.md
+      class: | 
+        center cf ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img near-black
+
+    - template: markdown
+      url: alumni-note.md
       class: | 
         center cf ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img near-black
 
