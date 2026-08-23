@@ -7,7 +7,7 @@ aliases:
 segments: 
 
   - template: call-to-action-photo-right
-    class: bg-pcw
+    class: bg-light-gray
     title: "¿Por qué Norris Square?"  
     text: "Iniciamos PCW en Norris Square por varias razones: viabilidad técnica, necesidad de acceso digital y una comunidad dinámica llena de increíbles organizaciones comunitarias.
 
@@ -15,7 +15,6 @@ segments:
     Puedes obtener más información sobre Norris Square en [Perfil de la comunidad de Penn State Extension Philadelphia](https://health.extension.org/wp-content/uploads/2024/01/Pennsylvania-State-Extension-Norris-Square-Community-Profile.pdf)  (solo en inglés)."
     photo: "/images/pcwvolunteers2.jpg"
     photo_alt_text: "Voluntarios de PCW posando para una foto grupal en la azotea del NSNP."
-    class: "bg-light-gray"
     
   - template: call-to-action-photo-right
     title: "Cómo llegar"

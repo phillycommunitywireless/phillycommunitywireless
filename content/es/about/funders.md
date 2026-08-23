@@ -86,4 +86,3 @@ segments:
           link_text: "Pace Center for Civic Engagement"
           suffix: ", 2020"
 ---
-Some intro text about our funders... Some intro text about our funders... Some intro text about our funders... Some intro text about our funders... Some intro text about our funders... Some intro text about our funders... 

@@ -11,7 +11,6 @@ segments:
   text: "Nuestra misión es reducir la brecha digital mediante la creación de redes Wi-Fi a gran escala y sin costo en espacios públicos y privados de los barrios desfavorecidos de Filadelfia. Nuestro objetivo es proporcionar un acceso básico a Internet para todos, mejorando la calidad de vida actual y posicionando a las comunidades para un futuro más saludable y próspero."
   photo: "/images/web updates/NSNProof1.JPG"
   photo_alt_text: "Voluntarios de PCW posando para una foto grupal en la azotea del NSNP."
-  class: "bg-pcw"
   reverse: true
 
   # Responsive three-column icons
