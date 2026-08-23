@@ -16,6 +16,10 @@ title = "PCW Code of Conduct"
 
 **Keep discussion relevant.** Work to stay on-topic and take digressing conversations into other spaces—a Slack channel, email or Signal thread, separate meeting, etc.
 
+## Onsite Conduct
+
+Our onsite work often involves us being guests in the homes and workplaces of communities in North Philadelphia. It is important that we conduct ourselves with respect and consideration in each space we visit. Although uncommon, in some indoor spaces that we visit we wear face masks. We ask that you agree to respect and follow requests from our community hosts on-site.
+
 ## Harassment and Abuse 
 
 We believe disagreement and differences of opinion are a natural part of a community and are important to work through when building, strategizing, and learning from one another, but **we do not tolerate harassment or abuse in any form.** Participants who engage in harassment or abuse may be removed from the group at the discretion of the organizers. Reports of harassment will be implicitly trusted and investigated thoroughly. 
