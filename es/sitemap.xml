@@ -249,6 +249,18 @@
                 href="https://phillycommunitywireless.org/es/getconnected/"
                 />
   </url><url>
+    <loc>https://phillycommunitywireless.org/es/about/other_partners/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/about/other_partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/about/other_partners/"
+                />
+  </url><url>
     <loc>https://phillycommunitywireless.org/es/privacy/</loc>
     <xhtml:link
                 rel="alternate"

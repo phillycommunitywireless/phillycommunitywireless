@@ -258,6 +258,22 @@
                 href="https://phillycommunitywireless.org/getconnected/"
                 />
   </url><url>
+    <loc>https://phillycommunitywireless.org/about/other_partners/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/about/other_partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/about/other_partners/"
+                />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/about/people/boardofadvisors/</loc>
+  </url><url>
+    <loc>https://phillycommunitywireless.org/about/people/tab/</loc>
+  </url><url>
     <loc>https://phillycommunitywireless.org/termsofservice/</loc>
     <priority>0</priority>
   </url><url>
