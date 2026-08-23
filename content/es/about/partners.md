@@ -8,7 +8,7 @@ segments:
     - template: call-to-action-photo-right
       title: "PhillyWisper"
       text: |
-        Philly Community Wireless colabora con PhillyWisper, un proveedor local de servicios de Internet inalámbrico, para instalar antenas en los tejados que utilizamos para proporcionar una red Wi-Fi gratuita a los residentes del barrio y a los espacios públicos.
+        Philly Community Wireless colabora con PhillyWisper, un proveedor local de servicios de Internet inalámbrico, para instalar antenas en los tejados que utilizamos para proporcionar una red WiFi gratuita a los residentes del barrio y a los espacios públicos.
       photo: "/images/web updates/PW.jpg"
       photo_alt_text: "Dos empleados de PhillyWisper sentados en un tejado mirando un ordenador portátil, con una estructura y un dispositivo LiteBeam a su lado."
       button: 
@@ -125,11 +125,6 @@ segments:
             partner_link: "https://phillymesh.net/"
             img_src: "/images/partners/phillymesh.png"
             img_alt: "Philly Mesh"
-        - partner:
-            partner_name: "Princeton University, Center for Digital Humanities"
-            partner_link: "https://cdh.princeton.edu/"
-            img_src: "/images/partners/cdh.svg"
-            img_alt: "Center for Digital Humanities at Princeton"
 
     - template: markdown
       url: other_partners.md

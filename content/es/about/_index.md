@@ -8,7 +8,7 @@ segments:
 - template: call-to-action-photo-right
   class: bg-pcw
   title: "Nuestra misión"  
-  text: "Nuestra misión es reducir la brecha digital mediante la creación de redes Wi-Fi a gran escala y sin costo en espacios públicos y privados de los barrios desfavorecidos de Filadelfia. Nuestro objetivo es proporcionar un acceso básico a Internet para todos, mejorando la calidad de vida actual y posicionando a las comunidades para un futuro más saludable y próspero."
+  text: "Nuestra misión es reducir la brecha digital mediante la creación de redes WiFi a gran escala y sin costo en espacios públicos y privados de los barrios desfavorecidos de Filadelfia. Nuestro objetivo es proporcionar un acceso básico a Internet para todos, mejorando la calidad de vida actual y posicionando a las comunidades para un futuro más saludable y próspero."
   photo: "/images/web updates/NSNProof1.JPG"
   photo_alt_text: "Voluntarios de PCW posando para una foto grupal en la azotea del NSNP."
   reverse: true
@@ -30,7 +30,7 @@ segments:
     text: "Philly Community Wireless se formó en 2020, al inicio de la pandemia de COVID-19, un momento que puso de relieve la necesidad de contar con recursos públicos sólidos y acceso a Internet. Nuestro trabajo se centra en construir nuestra red y una comunidad más amplia para proporcionar acceso gratuito a Internet y apoyar la adopción de Internet en las zonas del norte de Filadelfia donde las investigaciones han demostrado sistemáticamente que el acceso digital es menor.
 
 
-Imaginamos un futuro justo en el que todos puedan acceder a Internet de manera significativa, independientemente de sus ingresos o situación de vivienda. Creemos en el establecimiento de un acceso básico a Internet para todos que no pretenda únicamente proporcionar a cada «casa» o «hogar» su propia red Wi-Fi independiente, sino que extienda el acceso Wi-Fi a grandes áreas de una ciudad. Este enfoque ofrece una alternativa viable al paradigma actual de acceso privado a Internet y muestra lo que el suministro compartido de servicios de Internet puede hacer posible en un entorno urbano importante."
+Imaginamos un futuro justo en el que todos puedan acceder a Internet de manera significativa, independientemente de sus ingresos o situación de vivienda. Creemos en el establecimiento de un acceso básico a Internet para todos que no pretenda únicamente proporcionar a cada «casa» o «hogar» su propia red WiFi independiente, sino que extienda el acceso WiFi a grandes áreas de una ciudad. Este enfoque ofrece una alternativa viable al paradigma actual de acceso privado a Internet y muestra lo que el suministro compartido de servicios de Internet puede hacer posible en un entorno urbano importante."
   right:
     title: Nuestros valores
     text: "**Creemos** que el acceso a Internet es un derecho humano fundamental y que las redes inalámbricas independientes, de propiedad y gestión comunitaria, son un medio sostenible y escalable de inclusión digital.

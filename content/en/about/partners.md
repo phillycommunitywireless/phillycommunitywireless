@@ -8,7 +8,7 @@ segments:
     - template: call-to-action-photo-right
       title: "PhillyWisper"
       text: |
-        Philly Community Wireless works with PhillyWisper, a local wireless internet service provider, to install rooftop antennas that we use to provide a free Wi-Fi network to neighborhood residents and public spaces.
+        Philly Community Wireless works with PhillyWisper, a local wireless internet service provider, to install rooftop antennas that we use to provide a free WiFi network to neighborhood residents and public spaces.
       photo: "/images/web updates/PW.jpg"
       photo_alt_text: "Two PhillyWisper staff sitting on a roof looking at a laptop, with a structure and LiteBeam device next to them."
       button: 
@@ -124,11 +124,6 @@ segments:
             partner_link: "https://phillymesh.net/"
             img_src: "/images/partners/phillymesh.png"
             img_alt: "Philly Mesh"
-        - partner:
-            partner_name: "Princeton University, Center for Digital Humanities"
-            partner_link: "https://cdh.princeton.edu/"
-            img_src: "/images/partners/cdh.svg"
-            img_alt: "Center for Digital Humanities at Princeton"
 
     - template: markdown
       url: other_partners.md

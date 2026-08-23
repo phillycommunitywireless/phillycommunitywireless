@@ -16,7 +16,7 @@ Eli Laban, *Big Picture Alliance*
 
 ## Organizaciones aliadas
 
-[Digital Harbor Foundation](https://www.digitalharbor.org/) y [Project WAVES](https://projectwaves.net/), Baltimore
+[Digital Harbor Foundation](https://digitalharbor.org/) y [Project WAVES](https://projectwaves.net/), Baltimore
 
 [iNethi](https://www.inethi.org.za/), Ciudad del Cabo
 

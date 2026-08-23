@@ -35,7 +35,7 @@ segments:
 
 Philly Community Wireless’s headquarters is located at the [Norris Square Neighborhood Project](http://myneighborhoodproject.org/) (NSNP), at 2141 N Howard St. We are on the east side of Norris Square Park. 
 
-If you are looking for information about where our free Wi-Fi network is located, please visit [our live map](https://phillycommunitywireless.org/networkmap).
+If you are looking for information about where our free WiFi network is located, please visit [our live map](https://phillycommunitywireless.org/networkmap).
  
 
 

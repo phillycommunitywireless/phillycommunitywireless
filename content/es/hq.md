@@ -35,7 +35,7 @@ segments:
 
 La sede central de Philly Community Wireless se encuentra en el [Norris Square Neighborhood Project](http://myneighborhoodproject.org/) (NSNP), en el número 2141 de N Howard St. Estamos en el lado este del parque Norris Square. 
 
-Si buscas información sobre dónde se encuentra nuestra red Wi-Fi gratuita, visita [nuestro mapa en vivo](https://phillycommunitywireless.org/networkmap).
+Si buscas información sobre dónde se encuentra nuestra red WiFi gratuita, visita [nuestro mapa en vivo](https://phillycommunitywireless.org/networkmap).
  
 
 
