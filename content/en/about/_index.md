@@ -8,10 +8,9 @@ segments:
 - template: call-to-action-photo-right
   class: bg-pcw
   title: "Our Mission"  
-  text: "Our mission is to bridge the digital divide by building large-scale and no-cost Wi-Fi networks in private and public spaces of underserved Philadelphia neighborhoods. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
+  text: "Our mission is to bridge the digital divide by building large-scale and no-cost WiFi networks in private and public spaces of underserved Philadelphia neighborhoods. We aim to provide a baseline of internet access for everyone, enhancing quality of life today and positioning communities for a more healthy and prosperous tomorrow."
   photo: "/images/web updates/NSNProof1.JPG"
   photo_alt_text: "PCW Volunteers posing for a group photo on the roof of NSNP."
-  class: "bg-pcw"
   reverse: true
 
   # Responsive three-column icons
@@ -31,7 +30,7 @@ segments:
     text: "Philly Community Wireless was formed in 2020 at the onset of the COVID-19 pandemic, a time that highlighted the need for robust public resources and internet access. Our work focuses on building our network and larger community to provide free internet access and support internet adoption in areas of North Philadelphia where research has consistently shown the least amount of digital access.
 
 
-We envision a just future where everyone can meaningfully access the internet, regardless of their income or housing situation. We believe in establishing a baseline of internet access for all that does not seek to solely provide every “house” or “home” with its own, separate Wi-Fi network, but rather spreads Wi-Fi access across large areas of a city. This approach offers a viable alternative to the existing paradigm of privatized internet access and shows what shared internet service provisioning can make possible in a major urban setting."
+We envision a just future where everyone can meaningfully access the internet, regardless of their income or housing situation. We believe in establishing a baseline of internet access for all that does not seek to solely provide every “house” or “home” with its own, separate WiFi network, but rather spreads WiFi access across large areas of a city. This approach offers a viable alternative to the existing paradigm of privatized internet access and shows what shared internet service provisioning can make possible in a major urban setting."
   right:
     title: Our Values
     text: "**We believe** that access to the Internet is a fundamental human right and that independent, community-owned and -operated wireless is a sustainable and scaleable means of digital inclusion.

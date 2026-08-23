@@ -10,13 +10,15 @@
             <p class="f6 b helvetica tracked">{{ humanize .Section | upper }}</p>
             <h1 class="f1">{{ .Title }}</h1>
         </header>
+        {{ if .Content }}
         {{ if .Params.toc }}
         <div class="nested-list-reset f4 bb mb5 pb4">{{ .TableOfContents }}</div>
         {{ end }}
         <div class="nested-copy-line-height lh-copy f3 nested-links nested-img near-black">
             {{ .Content }}
         </div>
+        {{ end }}
     </article>
-    {{ partial "segments.html" .Params.segments }}
 </div>
+{{ partial "segments.html" .Params.segments }}
 {{ end }}

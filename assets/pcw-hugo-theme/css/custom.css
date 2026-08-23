@@ -429,6 +429,11 @@ img.opos-top {
 
 /* end adjustments to mobile footer */
 
+.funder-section {
+  display: flex;
+  flex-direction: column;
+}
+
 .funder-card {
   display: flex;
   gap: 1em;
