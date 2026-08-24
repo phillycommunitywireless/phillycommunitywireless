@@ -252,6 +252,71 @@ segments:
             img_src: "/images/partners/rowan.svg"
             img_alt: "Rowan University"
 
+    # Allied Organizations
+    - template: partner-card-container
+      title: Allied Organizations
+      sections:
+        - partner:
+            partner_name: "Big Picture Alliance"
+            partner_link: "https://bigpicturealliance.org/"
+            img_src: "/images/partners/bigpicturealliance.png"
+            img_alt: "Big Picture Alliance"
+        - partner:
+            partner_name: "Center for Digital Humanities at Princeton University"
+            partner_link: "https://cdh.princeton.edu/"
+            img_src: "/images/partners/cdh.jpg"
+            img_alt: "Center for Digital Humanities at Princeton University"
+        - partner:
+            partner_name: "Community Tech NY"
+            partner_link: "http://communitytechny.org/"
+            img_src: "/images/partners/communitytechny.png"
+            img_alt: "Community Tech NY"
+        - partner:
+            partner_name: "Digital Harbor Foundation"
+            partner_link: "https://digitalharbor.org/"
+            img_src: "/images/partners/digitalharbor.png"
+            img_alt: "Digital Harbor Foundation"
+        - partner:
+            partner_name: "Digital Literacy Alliance"
+            partner_link: "https://www.phila.gov/programs/digital-literacy-alliance/"
+            img_src: "/images/funders/DLA-logo.jpg"
+            img_alt: "Digital Literacy Alliance"
+        - partner:
+            partner_name: "iNethi"
+            partner_link: "https://www.inethi.org.za/"
+            img_src: "/images/partners/inethi.png"
+            img_alt: "iNethi"
+        - partner:
+            partner_name: "Information Technology Disaster Resource Center"
+            partner_link: "https://www.itdrc.org/"
+            img_src: "/images/partners/itdrc.png"
+            img_alt: "Information Technology Disaster Resource Center"
+        - partner:
+            partner_name: "KeystoneREN"
+            partner_link: "https://keystoneren.org/"
+            img_src: "/images/partners/keystoneren.png"
+            img_alt: "KeystoneREN"
+        - partner:
+            partner_name: "NYC Mesh"
+            partner_link: "https://www.nycmesh.net/"
+            img_src: "/images/partners/nycmesh.svg"
+            img_alt: "NYC Mesh"
+        - partner:
+            partner_name: "Project WAVES"
+            partner_link: "https://projectwaves.net/"
+            img_src: "/images/partners/projectwaves.png"
+            img_alt: "Project WAVES"
+        - partner:
+            partner_name: "Schools, Health & Libraries Broadband Coalition"
+            partner_link: "https://www.shlb.org/"
+            img_src: "/images/partners/shlb.png"
+            img_alt: "Schools, Health and Libraries Broadband Coalition"
+        - partner:
+            partner_name: "X-Lab"
+            partner_link: "https://thexlab.org/"
+            img_src: "/images/partners/xlab.png"
+            img_alt: "X-Lab"
+
     - template: markdown
       url: other_partners.md
       class: | 
