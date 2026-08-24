@@ -9,7 +9,7 @@ segments:
       - photo: "/images/nsnp_antenna.jpg"
         photo_alt_text: "A Philly Community Wireless antenna mounted at Norris Square Neighborhood Project"
         quote: "Why would it be restricted by four walls?"
-        attribution: "Christina Przybylowski, in *Billy Penn*"
+        attribution: "Leanne Przybylowski, in *Billy Penn*"
         outlet: "Billy Penn"
         headline: "Organization pulls Kensington community together by spreading wi-fi outdoors"
         href: "https://billypenn.com/2025/07/02/philly-community-wireless-outdoor-wifi-importance/"
