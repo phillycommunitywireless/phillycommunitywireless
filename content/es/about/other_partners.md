@@ -23,7 +23,13 @@ Eli Laban, *Big Picture Alliance*
 
 ## Organizaciones aliadas
 
+[Big Picture Alliance](https://bigpicturealliance.org/), Filadelfia
+
+[Center for Digital Humanities at Princeton University](https://cdh.princeton.edu/), Princeton
+
 [Digital Harbor Foundation](https://digitalharbor.org/) y [Project WAVES](https://projectwaves.net/), Baltimore
+
+[Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/)
 
 [iNethi](https://www.inethi.org.za/), Ciudad del Cabo
 
@@ -34,12 +40,6 @@ Eli Laban, *Big Picture Alliance*
 [NYC Mesh](https://www.nycmesh.net/), NYC
 
 [X-Lab](https://thexlab.org/), Washington, DC
-
-<br/>
-
-## Patrocinador fiscal
-
-[Movement Alliance Project](https://movementalliance.org/about/)
 
 <br/>
 

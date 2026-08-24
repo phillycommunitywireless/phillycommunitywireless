@@ -7,6 +7,11 @@ author: Philly Community Wireless
 theme: pcw-hugo-theme
 enableRobotsTXT: true
 timeout: 120s
+# No content uses tags or categories, so the taxonomy scaffolding only produced
+# empty, untitled /categories/ and /tags/ pages in the sitemap.
+disableKinds:
+  - taxonomy
+  - term
 languages:
   en:
     languageName: English

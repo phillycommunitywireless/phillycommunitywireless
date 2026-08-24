@@ -9,8 +9,8 @@ segments:
       title: "PhillyWisper"
       text: |
         Philly Community Wireless colabora con PhillyWisper, un proveedor local de servicios de Internet inalámbrico, para instalar antenas en los tejados que utilizamos para proporcionar una red WiFi gratuita a los residentes del barrio y a los espacios públicos.
-      photo: "/images/web updates/PW.jpg"
-      photo_alt_text: "Dos empleados de PhillyWisper sentados en un tejado mirando un ordenador portátil, con una estructura y un dispositivo LiteBeam a su lado."
+      photo: "/images/partners/wisper.png"
+      photo_alt_text: "Logotipo de PhillyWisper."
       button: 
          button_text: "Más información sobre PhillyWisper"
          button_href: "https://phillywisper.net"
@@ -31,6 +31,16 @@ segments:
          no_button_arrow: "true"
       class: bg-light-gray  
       
+    # Fiscal Sponsor
+    - template: partner-card-container
+      title: Patrocinador fiscal
+      sections:
+        - partner:
+            partner_name: "Movement Alliance Project"
+            partner_link: "https://movementalliance.org/about/"
+            img_src: "/images/partners/map.png"
+            img_alt: "Movement Alliance Project"
+
     # Norris Square
     - template: partner-card-container
       title: Socios comunitarios de Norris Square
@@ -51,11 +61,6 @@ segments:
             img_src: "/images/partners/galaei.png"
             img_alt: "GALAEI"
         - partner:
-            partner_name: "Kensington Branch of the Free Library"
-            partner_link: "https://libwww.freelibrary.org/locations/kensington-library"
-            img_src: "/images/partners/flp.png"
-            img_alt: "Kensington Branch of the Free Library"
-        - partner:
             partner_name: "Xiente (formerly Norris Square Community Alliance)"
             partner_link: "https://www.xiente.org/"
             img_src: "/images/partners/xiente.png"
@@ -66,16 +71,93 @@ segments:
             img_src: "/images/partners/oksg.jpg"
             img_alt: "Open Kitchen Sculpture Garden"
         - partner:
-            partner_name: "West Kensington Ministries"
+            partner_name: "West Kensington Ministry"
             partner_link: "https://westkensingtonministry.com/"
             img_src: "/images/partners/wkm.png"
-            img_alt: "West Kensington Ministries"
+            img_alt: "West Kensington Ministry"
         - partner:
             partner_name: "Cesar Andreu Iglesias Gardens"
             partner_link: "https://iglesiasgardens.com/"
             img_src: "/images/partners/caig.png"
             img_alt: "Cesar Andreu Iglesias Gardens"
-    
+
+    # Fairhill
+    - template: partner-card-container
+      title: Socios comunitarios de Fairhill
+      sections:
+        - partner:
+            partner_name: "Lillian Marrero Library"
+            partner_link: "https://libwww.freelibrary.org/locations/lillian-marrero-library"
+            img_src: "/images/partners/flp.png"
+            img_alt: "Free Library of Philadelphia"
+        - partner:
+            partner_name: "Taller Puertorriqueño"
+            partner_link: "https://tallerpr.org/"
+            img_src: "/images/partners/taller.png"
+            img_alt: "Taller Puertorriqueño"
+
+        - partner:
+            partner_name: "HACE"
+            partner_link: "https://www.hacecdc.org/"
+            img_src: "/images/partners/hace.png"
+            img_alt: "HACE"
+        - partner:
+            partner_name: "Village of the Arts and Humanities"
+            partner_link: "https://villagearts.org/"
+            img_src: "/images/partners/voah.png"
+            img_alt: "Village of the Arts and Humanities"        
+
+    # Kensington
+    - template: partner-card-container
+      title: Socios comunitarios de Kensington
+      sections:
+        - partner:
+            partner_name: "Kensington Branch of the Free Library"
+            partner_link: "https://libwww.freelibrary.org/locations/kensington-library"
+            img_src: "/images/partners/flp.png"
+            img_alt: "Kensington Branch of the Free Library"
+        - partner:
+            partner_name: "Kensington Corridor Trust"
+            partner_link: "https://kctphilly.org/"
+            img_src: "/images/partners/kct.png"
+            img_alt: "Kensington Corridor Trust"
+        - partner:
+            partner_name: "New Kensington Community Development Corporation"
+            partner_link: "https://nkcdc.org/"
+            img_src: "/images/partners/nkcdc.svg"
+            img_alt: "New Kensington Community Development Corporation"
+        - partner:
+            partner_name: "Lighthouse 1893"
+            partner_link: "https://www.lighthouse1893.org/"
+            img_src: "/images/partners/lighthouse.png"
+            img_alt: "Lighthouse 1893"
+        - partner:
+            partner_name: "Prevention Point Philadelphia"
+            partner_link: "https://ppponline.org/"
+            img_src: "/images/partners/preventionpoint.svg"
+            img_alt: "Prevention Point Philadelphia"
+        - partner:
+            partner_name: "The Simple Way"
+            partner_link: "https://thesimpleway.org/"
+            img_src: "/images/partners/simpleway.png"
+            img_alt: "The Simple Way"
+        - partner:
+            partner_name: "Klean Kensington"
+            partner_link: "https://www.kleankensington.org/"
+            img_src: "/images/partners/kleankensington.png"
+            img_alt: "Klean Kensington"
+        - partner:
+            partner_name: "Kensington Voice"
+            partner_link: "https://www.kensingtonvoice.com/"
+            img_src: "/images/partners/kensingtonvoice.png"
+            img_alt: "Kensington Voice"
+
+        - partner:
+            partner_name: "Philly Bridge & Jawn (PB&J)"
+            partner_link: "https://www.instagram.com/phillybridgeandjawn/"
+            img_src: "/images/partners/placeholder.svg"
+            img_alt: "Philly Bridge and Jawn"
+
     # Philly Community Partners
     - template: partner-card-container
       title: Socios de la comunidad de Philadelphia
@@ -91,20 +173,10 @@ segments:
             img_src: "/images/partners/flp.png"
             img_alt: "Free Library of Philadelphia"
         - partner:
-            partner_name: "HACE"
-            partner_link: "https://www.hacecdc.org/"
-            img_src: "/images/partners/hace.png"
-            img_alt: "HACE"
-        - partner:
             partner_name: "Holobiont Lab"
             partner_link: "https://holobiontlab.org/"
             img_src: "/images/partners/holobiont.png"
             img_alt: "Holobiont Lab"
-        - partner:
-            partner_name: "Village of the Arts and Humanities"
-            partner_link: "https://villagearts.org/"
-            img_src: "/images/partners/voah.png"
-            img_alt: "Village of the Arts and Humanities"        
         - partner:
             partner_name: "Philly Tech Justice"
             partner_link: "https://movementalliance.org/blog/project/philly-tech-justice/"
@@ -116,15 +188,70 @@ segments:
             img_src: "/images/partners/temple.svg"
             img_alt: "Temple University logo"
         - partner:
-            partner_name: "Kensington Corridor Trust"
-            partner_link: "https://kctphilly.org/"
-            img_src: "/images/partners/kct.png"
-            img_alt: "Kensington Corridor Trust"
-        - partner:
             partner_name: "Philly Mesh"
             partner_link: "https://phillymesh.net/"
             img_src: "/images/partners/phillymesh.png"
             img_alt: "Philly Mesh"
+        - partner:
+            partner_name: "Technology Learning Collaborative (TLC)"
+            partner_link: "https://tlcphilly.org/"
+            img_src: "/images/partners/tlc.png"
+            img_alt: "Technology Learning Collaborative"
+        - partner:
+            partner_name: "La Puerta Abierta"
+            partner_link: "https://www.lpa-theopendoor.org/"
+            img_src: "/images/partners/lapuertaabierta.png"
+            img_alt: "La Puerta Abierta"
+
+        - partner:
+            partner_name: "Zion Baptist Church"
+            partner_link: "https://zionbaptphilly.org/"
+            img_src: "/images/partners/placeholder.svg"
+            img_alt: "Zion Baptist Church"
+        - partner:
+            partner_name: "Community Action Relief Project (CARP)"
+            partner_link: "https://phlcarp.wordpress.com/"
+            img_src: "/images/partners/carp.jpg"
+            img_alt: "Community Action Relief Project"
+
+        - partner:
+            partner_name: "People's Tech Project"
+            partner_link: "https://peoplestechproject.org/"
+            img_src: "/images/partners/peoplestech.png"
+            img_alt: "People's Tech Project"
+
+        - partner:
+            partner_name: "University of Pennsylvania"
+            partner_link: "https://www.upenn.edu/"
+            img_src: "/images/partners/upenn.svg"
+            img_alt: "University of Pennsylvania"
+
+    # Camden
+    - template: partner-card-container
+      title: Socios de Camden
+      sections:
+        - partner:
+            partner_name: "IDEA Center for the Arts"
+            partner_link: "https://ideacfta.org/"
+            img_src: "/images/partners/ideacfta.png"
+            img_alt: "IDEA Center for the Arts"
+        - partner:
+            partner_name: "Camden FireWorks"
+            partner_link: "https://camdenfireworks.org/"
+            img_src: "/images/partners/camdenfireworks.png"
+            img_alt: "Camden FireWorks"
+
+        - partner:
+            partner_name: "Hopeworks"
+            partner_link: "https://hopeworks.org/"
+            img_src: "/images/partners/hopeworks.png"
+            img_alt: "Hopeworks"
+
+        - partner:
+            partner_name: "Rowan University"
+            partner_link: "https://www.rowan.edu/"
+            img_src: "/images/partners/rowan.svg"
+            img_alt: "Rowan University"
 
     - template: markdown
       url: other_partners.md
