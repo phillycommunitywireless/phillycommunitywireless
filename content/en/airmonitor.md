@@ -27,10 +27,7 @@ Real-time air quality data can be viewed on [PurpleAir's map](https://map.purple
 
 ## Working with the EPA and Our Partners
 
-We are grateful to receive support from the EPA's Region 3 Sensor Loan Program, as well as from such organizational partners as the Clean Air Council, Temple University's Geography and Urban Studies Program led by Prof. Christina Rosan, and Haverford College. 
-
-<!-- TODO(Alex): anything more to say about the EPA work beyond the Region 3
-Sensor Loan Program (grants, reporting, upcoming collaboration)? Add it here. -->
+We are grateful to receive support from the EPA's Region 3 Sensor Loan Program, as well as from such organizational partners as the Clean Air Council, Temple University's Geography and Urban Studies Program led by Prof. Christina Rosan, the University of Pennsylvania, and Haverford College. 
 
 ## Air Monitor Installations
 
