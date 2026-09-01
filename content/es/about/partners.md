@@ -293,6 +293,11 @@ segments:
             img_src: "/images/partners/itdrc.png"
             img_alt: "Information Technology Disaster Resource Center"
         - partner:
+            partner_name: "Keystone Internet Coalition"
+            partner_link: "https://keystoneinternetcoalition.org/"
+            img_src: "/images/partners/kic.png"
+            img_alt: "Keystone Internet Coalition"
+        - partner:
             partner_name: "KeystoneREN"
             partner_link: "https://keystoneren.org/"
             img_src: "/images/partners/keystoneren.png"
