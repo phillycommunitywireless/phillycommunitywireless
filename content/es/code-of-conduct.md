@@ -16,7 +16,7 @@ title = "PCW Code of Conduct"
 
 **Mantenga la discusión relevante.** Trabaja para mantenerte en el tema y llevar conversaciones de divagación a otros espacios: un canal de Slack, un hilo de correo electrónico o Signal, una reunión separada, etc.
 
-## Conducta en el sitio
+## Trabajo en el sitio
 
 Nuestro trabajo en el sitio a menudo implica que seamos invitados en los hogares y lugares de trabajo de comunidades del norte de Filadelfia. Es importante que nos comportemos con respeto y consideración en cada espacio que visitamos. Aunque no es común, en algunos espacios interiores que visitamos usamos mascarillas. Le pedimos que acepte respetar y seguir las indicaciones de nuestros anfitriones comunitarios en el sitio.
 
