@@ -58,6 +58,18 @@ The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progr
 
 <br/>
 
+## Watch
+
+Big Picture Alliance, [Big Picture Alliance 2023 (Sony Create Action)](https://www.youtube.com/watch?v=2u8EX9IvRm8), 11/28/2023
+
+Philly Community Wireless, [Behind the Scenes with Philly Community Wireless](https://www.youtube.com/watch?v=4D9eB8JczLM), 4/6/2023
+
+Philly Community Wireless, [Network Data 2023 - Quinn Batten & Dillon Bergin](https://www.youtube.com/watch?v=vCCGjGFxHcM), 2/25/2023
+
+Iffy Books, [A Talk by Alex Wermer-Colan from Philly Community Wireless](https://www.dailymotion.com/video/x8d7fri), 8/23/2022
+
+<br/>
+
 ## Scholarly Publications
 
 Alex Wermer-Colan, Grant Wythoff, Allan Gomez, and Devren Washington, ["Alternative Infrastructures for Digital Equity: Community-Based Internet Access"](https://dhdebates.gc.cuny.edu/read/critical-infrastructure-studies-and-digital-humanities/section/7f3c5cef-8fdf-4956-915c-f1b1b2e8ab51#ch08), in *Critical Infrastructure Studies and Digital Humanities*, eds. Alan Liu, Urszula Pawlicka-Deger, and James Smithies, University of Minnesota Press, 2023.
