@@ -24,7 +24,7 @@ segments:
     images:
     - image: "/images/web updates/PW.jpg"
       alt: "Dos empleados de PhillyWisper sentados en un tejado mirando un ordenador portátil, con una estructura y un dispositivo LiteBeam a su lado."
-      text: "Philly Community Wireless colabora con [PhillyWisper](https://phillywisper.com), un proveedor local de servicios de Internet inalámbrico, para instalar antenas en los tejados que utilizamos para proporcionar una red Wi-Fi gratuita a los residentes del barrio y a los espacios públicos."
+      text: "Philly Community Wireless colabora con [PhillyWisper](https://phillywisper.net), un proveedor local de servicios de Internet inalámbrico, para instalar antenas en los tejados que utilizamos para proporcionar una red Wi-Fi gratuita a los residentes del barrio y a los espacios públicos."
     - image: "/images/web updates/hart-install.jpg"
       alt: "Tres personas en un tejado fijando un dispositivo de punto de acceso a un poste con un jardín al fondo a nivel de la calle."
       text: "El primer paso de nuestro proceso de servicio consiste en evaluar si podemos proporcionar nuestra red en la ubicación solicitada. Si podemos instalar nuestra red en tu ubicación, coordinaremos una visita de instalación, que puede realizarse en varias etapas a lo largo de varios días."

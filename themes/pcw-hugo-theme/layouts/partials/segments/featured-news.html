@@ -1,0 +1,92 @@
+<section class="featured-news cf center w-100 pv4 {{ .class | default "bg-pcw-dark-blue" }}">
+    {{- if .title -}}
+    <h1 class="tc mt0 mb4 ph3">{{ .title }}</h1>
+    {{- end -}}
+
+    <div class="featured-news-grid mw9 center ph3">
+        {{ range $i, $story := .stories }}
+        {{ with $story }}
+        <article class="featured-story flex flex-column">
+
+            {{- if .photo -}}
+            <div class="featured-story-img">
+                {{ partial "responsive-image.html" (dict "src" .photo "alt" .photo_alt_text "class" "br3" "sizes" "(min-width: 60em) 33vw, 100vw") }}
+            </div>
+            {{- end -}}
+
+            <blockquote class="featured-story-quote mv3 ph0">
+                {{ .quote | markdownify }}
+            </blockquote>
+
+            {{- if .attribution -}}
+            <p class="featured-story-attr f5 mv0">&mdash; {{ .attribution | markdownify }}</p>
+            {{- end -}}
+
+            <p class="featured-story-source f6 mt3 mb0 lh-copy">
+                {{ .outlet }},
+                <a class="link underline" href="{{ .href }}">{{ .headline }}</a>{{ with .date }}, {{ . }}{{ end }}
+            </p>
+
+        </article>
+        {{ end }}
+        {{ end }}
+    </div>
+</section>
+
+<style>
+    .featured-news-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+    }
+
+    .featured-story-img {
+        aspect-ratio: 16 / 10;
+        overflow: hidden;
+        border-radius: 0.5rem;
+    }
+
+    /* Has to live here rather than as an inline style passed through
+       responsive-image.html: Hugo escapes a plain string in a style attribute to
+       ZgotmplZ, which dropped the sizing and left each photo at full height. */
+    .featured-story-img img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .featured-story-quote {
+        font-size: 1.5rem;
+        line-height: 1.35;
+        margin-left: 0;
+        margin-right: 0;
+        border-left: 4px solid var(--lilac);
+        padding-left: 1rem;
+    }
+
+    .featured-story-quote p {
+        margin: 0;
+    }
+
+    .featured-story-attr {
+        font-style: italic;
+        opacity: 0.85;
+    }
+
+    .featured-story-source {
+        margin-top: auto;
+        padding-top: 0.75rem;
+    }
+
+    @media (max-width: 60em) {
+        .featured-news-grid {
+            grid-template-columns: 1fr;
+            gap: 3rem;
+        }
+
+        .featured-story-quote {
+            font-size: 1.35rem;
+        }
+    }
+</style>

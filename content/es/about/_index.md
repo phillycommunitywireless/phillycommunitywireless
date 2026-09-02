@@ -46,7 +46,7 @@ Imaginamos un futuro justo en el que todos puedan acceder a Internet de manera s
 
 # Video embed
 - template: video
-  src: "https://www.youtube-nocookie.com/embed/FcReKkPl-6M"
+  src: "https://www.youtube-nocookie.com/embed/K3eBKRU4VVI"
   title: Video documental sobre Philly Community Wireless producido por Big Picture Alliance.
   text: None.
   header: 

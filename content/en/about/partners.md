@@ -71,7 +71,7 @@ segments:
             img_alt: "Open Kitchen Sculpture Garden"
         - partner:
             partner_name: "West Kensington Ministry"
-            partner_link: "https://westkensingtonministry.com/"
+            partner_link: "https://wkministry.org/"
             img_src: "/images/partners/wkm.png"
             img_alt: "West Kensington Ministry"
         - partner:

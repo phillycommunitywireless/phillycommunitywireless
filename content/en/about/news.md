@@ -1,8 +1,40 @@
 ---
 date: 2023-10-18
 title: "In the News"
-layout: "people/single"
+layout: "people/people"
+segments:
+  - template: featured-news
+    title: "In the News"
+    stories:
+      - photo: "/images/nsnp_antenna.jpg"
+        photo_alt_text: "A Philly Community Wireless antenna mounted at Norris Square Neighborhood Project"
+        quote: "Why would it be restricted by four walls?"
+        attribution: "Leanne Przybylowski, in *Billy Penn*"
+        outlet: "Billy Penn"
+        headline: "Organization pulls Kensington community together by spreading wi-fi outdoors"
+        href: "https://billypenn.com/2025/07/02/philly-community-wireless-outdoor-wifi-importance/"
+        date: "7/2/2025"
+
+      - photo: "/images/Drone_HartLane_Active.JPG"
+        photo_alt_text: "Aerial view of a rooftop antenna installation on Hart Lane, North Philadelphia"
+        quote: "You aren't just a passive consumer of this utility, but an active participant in its construction and sustenance."
+        attribution: "Alex Wermer-Colan, in *CNET*"
+        outlet: "CNET"
+        headline: "Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time"
+        href: "https://www.cnet.com/home/internet/features/alternative-broadband-networks-affordable-internet-for-the-people-one-rooftop-at-a-time/"
+        date: "10/1/2023"
+
+      - photo: "/images/pcwvolunteers2.jpg"
+        photo_alt_text: "Philly Community Wireless volunteers on a North Philadelphia rooftop"
+        quote: "Access is about infrastructure and adoption is community buy-in."
+        attribution: "Alex Wermer-Colan, in *Technical.ly*"
+        outlet: "Technical.ly Philly"
+        headline: "A group of Philly technologists are working on a free, community-based mesh Wi-Fi network"
+        href: "https://technical.ly/2022/01/12/philly-community-wireless-phillywisper-mesh-wifi/"
+        date: "2/1/2022"
 ---
+
+## All Coverage
 
 Billy Penn, [Organization pulls Kensington community together by spreading wi-fi outdoors](https://billypenn.com/2025/07/02/philly-community-wireless-outdoor-wifi-importance/), 7/2/2025.
 

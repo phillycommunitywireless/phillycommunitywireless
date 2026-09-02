@@ -46,7 +46,7 @@ We envision a just future where everyone can meaningfully access the internet, r
 
 # Video embed
 - template: video
-  src: "https://www.youtube-nocookie.com/embed/FcReKkPl-6M"
+  src: "https://www.youtube-nocookie.com/embed/K3eBKRU4VVI"
   title: Philly Community Wireless documentary video produced by the Big Picture Alliance.
   text: None.
   header: 
@@ -62,6 +62,12 @@ We envision a just future where everyone can meaningfully access the internet, r
 ---
 
 Philly Community Wireless is committed to expanding internet access, growing tech literacy, and building community autonomy with our neighbors. Through our unique community internet model, we partner with local organizations and neighbors to expand digital access where it’s needed most.
+
+Philly Community Wireless is a fiscally sponsored non-profit organization that began during the 2020 COVID-19 pandemic. The pandemic underscored the necessity of internet access in today’s world, and governments and organizations came up with emergency responses to increase digital adoption, especially among low-income and marginalized populations. PCW was created with the intent to build a sustainable baseline of internet access that would last beyond these emergency efforts, based on an alternative model of what the internet is and can be: a public “utility” that is shareable between and among public and private spaces.
+
+We work with PhillyWisper, a pro-net neutrality, wireless internet service provider to install our open and public internet network across North Philadelphia, so far concentrating on zip codes 19122, 19133, and 19134. Over the last six years, our network growth and partnerships with other local organizations have helped us establish a proven model for what community internet can make possible in local communities.
+
+As we continue to grow our network, our organization has expanded and evolved as well. What began as a volunteer-led pilot project is now a more structured organization with a total of four staff members and some dozens of volunteers that participate in our work with varying levels of engagement. We have a Board of Advisors, and are working on establishing both a Technical Advisory Board and a Neighborhood Advisory Board to ensure we incorporate the expertise and feedback of community members and dedicated volunteers.
 
 To learn more about our staff, boards, and other people involved in our work, visit our [People page](/about/people/). For updates about our work, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) and follow us on social media @phillycommunitywireless.
 

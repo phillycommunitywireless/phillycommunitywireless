@@ -78,6 +78,46 @@ We love volunteers! Use your skills (whatever they are!) to give back to the Phi
 If you want to support our work but aren't able to volunteer at the moment, check out our [Support page](/support) for other ways to help.
 
 
+## What We Do
+
+### Install Wi-Fi
+
+PCW builds our Wi-Fi network by finding individuals or organizations who agree to "host" our network equipment on their buildings (often rooftops). Our wireless ISP partner, PhillyWisper, helps us set up "hubs" that draw internet connectivity to a fixed location, and we use those hubs to share internet across spaces to cabled and wireless access points. One hub can support many "mesh node" installations consisting of access points, ethernet cable, and connection to a router, which PCW does without needing PhillyWisper.
+
+Installations often involve some sort of basic labor (climbing a ladder, drilling, carrying equipment) and problem solving related to connecting to a power source via ethernet cable. Devices that are installed are adopted to our mesh network, Philly Community Wireless.
+
+<!-- ### Data and Networking
+
+TODO (Alex): this section was empty in the source text. -->
+
+### Community Outreach
+
+We attend local events, usually by tabling with PCW swag and sign-up forms. We have also given a variety of presentations (informal to formal in front of national audiences) about PCW and the importance of an alternative model of internet in order to more effectively bridge the digital divide.
+
+An important part of our community outreach efforts is to increase awareness about our network and increase adoption rates. Our current strategy around awareness raising is to put up flyers and canvas in neighborhoods where we have already built our network infrastructure.
+
+We also connect with like-minded organizations where possible, often leading to discussions on how we can mutually support each other's work.
+
+More recently we started offering tours to those interested in learning more about how we work.
+
+### Digital Resource Referrals and Help
+
+We partner with other local organizations focused on digital equity to connect community members with the additional digital resources they need beyond access to the internet. For example, we recently worked with PCs for People to provide no-cost devices to 100 residents in an area where we also installed Wi-Fi.
+
+In addition, we do our best to stay up-to-date on information about discount internet programs and digital equity resources for community members that are both within and not within our current installation capacity.
+
+### Internet Advising
+
+We are beginning to expand our services into consulting and advising. We're able to help organizations and individuals improve their own Wi-Fi network (ie. in a situation where we don't provide the backend, we can still help recommend indoor equipment to purchase and help configure and cable this equipment) and review internet bills, helping people understand what they're being charged for and how they may be able to lower their rates.
+
+
+## Before You Sign Up
+
+* [PCW's documentation](https://docs.phillycommunitywireless.org/) — our install guides, hardware notes, and device configuration walkthroughs.
+
+* [NYC Mesh's wiki](https://wiki.nycmesh.net/) — what a mature volunteer-run community network's documentation looks like.
+
+
 <!-- ## Tech Volunteers -->
 
 <!-- {{% notice %}}
