@@ -7,7 +7,7 @@ segments:
     title: "In the News"
     stories:
       - photo: "/images/nsnp_antenna.jpg"
-        photo_alt_text: "A Philly Community Wireless antenna mounted at Norris Square Neighborhood Project"
+        photo_alt_text: "A PCW antenna at Norris Square Neighborhood Project"
         quote: "Why would it be restricted by four walls?"
         attribution: "Leanne Przybylowski, in *Billy Penn*"
         outlet: "Billy Penn"
@@ -16,7 +16,7 @@ segments:
         date: "7/2/2025"
 
       - photo: "/images/Drone_HartLane_Active.JPG"
-        photo_alt_text: "Aerial view of a rooftop antenna installation on Hart Lane, North Philadelphia"
+        photo_alt_text: "A drone image from above showing 5 people on a rowhome roof, 4 people working on a small structure with an access point device."
         quote: "You aren't just a passive consumer of this utility, but an active participant in its construction and sustenance."
         attribution: "Alex Wermer-Colan, in *CNET*"
         outlet: "CNET"
@@ -25,7 +25,7 @@ segments:
         date: "10/1/2023"
 
       - photo: "/images/pcwvolunteers2.jpg"
-        photo_alt_text: "Philly Community Wireless volunteers on a North Philadelphia rooftop"
+        photo_alt_text: "7 people posing for a group photo on a roof with a device and tall trees behind them."
         quote: "Access is about infrastructure and adoption is community buy-in."
         attribution: "Alex Wermer-Colan, in *Technical.ly*"
         outlet: "Technical.ly Philly"
