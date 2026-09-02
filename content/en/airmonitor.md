@@ -7,7 +7,7 @@ title: "Air Monitoring"
 
 Philly Community Wireless has been working since 2023 to deploy [PurpleAir monitors](https://www2.purpleair.com/) on our public network. Since 2023, we have installed over a dozen air monitors in the North Philadelphia neighborhoods of Norris Square, Fairhill, and Kensington  at several install sites around our network to provide real-time air monitoring.  
 
-PCW is uniquely positioned to install these devices in public and private locations near street-level, on a community wifi network with dedicated network monitoring to track the status of the air monitors and maintain their quality. By installing monitors across the surrounding area, we can measure air quality at a granular level, comparing air quality on streets and parks, gardens and rooftops. During the 2023 wildfire smoke events in the city and surrounding area, our air monitors registered drastic changes in air quality.
+PCW is well-positioned to install these devices in public and private locations near street-level, on a community wifi network with dedicated network monitoring to track the status of the air monitors and maintain their quality. By installing monitors across the surrounding area, we can measure air quality at a granular level, comparing air quality on streets and parks, gardens and rooftops. During the 2023 wildfire smoke events in the city and surrounding area, our air monitors registered drastic changes in air quality.
 
 ## Measuring Air Quality
 
@@ -49,4 +49,4 @@ PCW-installed air monitors are presently at:
 
 ## Air Monitor Documentation
 
-For technical documentation on our solar-powered air monitor installations, see the [Solar Mesh Nodes guide](https://docs.phillycommunitywireless.org/installations/solar/) in our [network documentation](https://docs.phillycommunitywireless.org/).
+[Solar Mesh Nodes guide](https://docs.phillycommunitywireless.org/installations/solar/)

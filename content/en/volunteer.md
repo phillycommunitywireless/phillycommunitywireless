@@ -113,9 +113,9 @@ We are beginning to expand our services into consulting and advising. We're able
 
 ## Before You Sign Up
 
-* [PCW's documentation](https://docs.phillycommunitywireless.org/en/latest/) — our install guides, hardware notes, and device configuration walkthroughs.
+* [PCW's documentation](https://docs.phillycommunitywireless.org/en/latest/)
 
-* [NYC Mesh's wiki](https://wiki.nycmesh.net/) — what a mature volunteer-run community network's documentation looks like.
+* [NYC Mesh's wiki](https://wiki.nycmesh.net/)
 
 
 <!-- ## Tech Volunteers -->
