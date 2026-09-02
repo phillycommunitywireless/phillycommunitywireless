@@ -1,5 +1,5 @@
 +++
-title = "PCW Code of Conduct"
+title = "Código de Conducta de PCW"
 
 +++
 ## Valores de participación

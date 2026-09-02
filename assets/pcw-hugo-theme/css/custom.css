@@ -455,6 +455,10 @@ img.opos-top {
 .partner-card {
   display: flex;
   flex: 1 1 200px;
+  /* Without a cap, a short final row stretches its cards across the full width
+     (a lone card rendered at 688px). Full rows sit at 219px, so this only
+     affects the ragged last row of each section. */
+  max-width: 250px;
   flex-direction: column;
   align-items: center;
   gap: 0.5em;
