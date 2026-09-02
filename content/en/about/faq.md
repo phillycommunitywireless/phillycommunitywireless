@@ -33,9 +33,9 @@ Philly Community Wireless
 
 # How does it work?
 
-PCW collaborated with Big Picture Alliance and Eli Laban to create this animated infographic overviewing the architecture of community network and wireless mesh projects on [YouTube](https://www.youtube.com/embed/nmuGwgVoAgI).
+PCW collaborated with Big Picture Alliance and Eli Laban to create this animated infographic overviewing the architecture of community network and wireless mesh projects on [YouTube](https://www.youtube.com/watch?v=uoKe7zC3sFY).
 
-{{< youtube FcReKkPl-6M >}}
+{{< youtube uoKe7zC3sFY >}}
     
 ## Wireless mesh networks
 
