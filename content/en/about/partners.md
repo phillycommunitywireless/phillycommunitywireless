@@ -65,10 +65,10 @@ segments:
             img_src: "/images/partners/oksg.jpg"
             img_alt: "Open Kitchen Sculpture Garden"
         - partner:
-            partner_name: "West Kensington Ministries"
-            partner_link: "https://westkensingtonministry.com/"
+            partner_name: "West Kensington Ministry"
+            partner_link: "https://wkministry.org/"
             img_src: "/images/partners/wkm.png"
-            img_alt: "West Kensington Ministries"
+            img_alt: "West Kensington Ministry"
         - partner:
             partner_name: "Cesar Andreu Iglesias Gardens"
             partner_link: "https://iglesiasgardens.com/"
