@@ -24,7 +24,7 @@ segments:
     images:
     - image: "/images/web updates/PW.jpg"
       alt: "Two PhillyWisper staff sitting on a roof looking at a laptop, with a structure and LiteBeam device next to them."
-      text: "Philly Community Wireless works with [PhillyWisper](https://phillywisper.com), a local wireless internet service provider, to install rooftop antennas that we use to provide a free Wi-Fi network to neighborhood residents and public spaces."
+      text: "Philly Community Wireless works with [PhillyWisper](https://phillywisper.net), a local wireless internet service provider, to install rooftop antennas that we use to provide a free Wi-Fi network to neighborhood residents and public spaces."
     - image: "/images/web updates/hart-install.jpg"
       alt: "3 people on a roof securing an access point device to a pole with a garden in the background at street level."
       text: "The first step in our service process involves assessing whether we can provide our network at your requested location. If we are able to service your location, we will coordinate an installation visit, which may occur in multiple stages over several days."
@@ -72,7 +72,7 @@ We're not an internet company — **we're a community network!** By joining us, 
 
 <!-- # The Installation Process
 
-Philly Community Wireless works with [PhillyWisper](https://phillywisper.net), a local wireless internet service provider, to install rooftop antennas that we use to provide a free wifi network to the neighborhood residents and public spaces. You can help your neighbors by using your residential building as a hub for neighbors to access this free network. For more information on what a rooftop install involves, visit our [Antenna Installation documentation](https://github.com/phillycommunitywireless/docs/blob/main/docs/installations.md). 
+Philly Community Wireless works with [PhillyWisper](https://phillywisper.net), a local wireless internet service provider, to install rooftop antennas that we use to provide a free wifi network to the neighborhood residents and public spaces. You can help your neighbors by using your residential building as a hub for neighbors to access this free network. For more information on what a rooftop install involves, visit our [Antenna Installation documentation](https://docs.phillycommunitywireless.org/installations/installations/). 
 
 {{< figure class="figure-center" src="/images/iglesias_antenna_drone.JPG" caption="*Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens.*" attr="Eli LaBan" attrlink="#" alt="Drone photography of wireless antennas broadcasting wifi from residential rowhome into Cesar Andreu Iglesias Gardens, with writing visible on the street saying Not For Sale and No Me Voy" >}} -->
 
