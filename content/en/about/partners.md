@@ -80,6 +80,18 @@ segments:
             img_src: "/images/partners/caig.png"
             img_alt: "Cesar Andreu Iglesias Gardens"
 
+        - partner:
+            partner_name: "Forman Arts Initiative"
+            partner_link: "https://formanartsinitiative.org/"
+            img_src: "/images/partners/forman.png"
+            img_alt: "Forman Arts Initiative"
+
+        - partner:
+            partner_name: "The Clay Studio"
+            partner_link: "https://www.theclaystudio.org/"
+            img_src: "/images/partners/claystudio.svg"
+            img_alt: "The Clay Studio"
+
     # Fairhill
     - template: partner-card-container
       title: Fairhill Community Partners
@@ -157,6 +169,12 @@ segments:
             img_src: "/images/partners/placeholder.svg"
             img_alt: "Philly Bridge and Jawn"
 
+        - partner:
+            partner_name: "Poor People's Army"
+            partner_link: "https://www.poorpeoplesarmy.org/"
+            img_src: "/images/partners/ppa.png"
+            img_alt: "Poor People's Army"
+
     # Philly Community Partners
     - template: partner-card-container
       title: Philly Community Partners
@@ -224,6 +242,36 @@ segments:
             partner_link: "https://www.upenn.edu/"
             img_src: "/images/partners/upenn.svg"
             img_alt: "University of Pennsylvania"
+
+        - partner:
+            partner_name: "PAR-Recycle Works"
+            partner_link: "https://par-recycleworks.org/"
+            img_src: "/images/partners/par.png"
+            img_alt: "PAR-Recycle Works"
+
+        - partner:
+            partner_name: "PhillyCAM"
+            partner_link: "https://phillycam.org/"
+            img_src: "/images/partners/phillycam.png"
+            img_alt: "PhillyCAM"
+
+        - partner:
+            partner_name: "PCs for People"
+            partner_link: "https://www.pcsforpeople.org/"
+            img_src: "/images/partners/pcsforpeople.png"
+            img_alt: "PCs for People"
+
+        - partner:
+            partner_name: "SEAMAAC"
+            partner_link: "https://seamaac.org/"
+            img_src: "/images/partners/seamaac.png"
+            img_alt: "SEAMAAC"
+
+        - partner:
+            partner_name: "New Jerusalem"
+            partner_link: "https://newjerusalemrecovery.com/"
+            img_src: "/images/partners/newjerusalem.png"
+            img_alt: "New Jerusalem"
 
     # Camden
     - template: partner-card-container
