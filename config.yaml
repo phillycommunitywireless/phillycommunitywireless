@@ -3,7 +3,6 @@ baseURL: https://phillycommunitywireless.org
 languageCode: en-us
 defaultContentLanguage: en
 title: Philly Community Wireless
-author: Philly Community Wireless
 theme: pcw-hugo-theme
 enableRobotsTXT: true
 timeout: 120s
@@ -148,7 +147,7 @@ languages:
             button: true
           weight: "7"
           
-    weight: "1"
+    weight: 1
     params:
       navName: Menu
       featured_text:
@@ -290,7 +289,7 @@ languages:
             external: true
             button: true
           weight: "7"
-    weight: "2"
+    weight: 2
     params:
       navName: Menú
       featured_text:
@@ -301,6 +300,7 @@ languages:
               Campana de la Libertad orientada al noreste, con ondas de radio emitiéndose 
               desde la esquina superior derecha."            
 params:
+  author: Philly Community Wireless
   site_logo: "/images/WebLogo_Standard2.svg"
   site_logo_inverted: "/images/WebLogo_Inverted2.svg"
   attribution:
