@@ -16,7 +16,7 @@ title = "PCW Code of Conduct"
 
 **Keep discussion relevant.** Work to stay on-topic and take digressing conversations into other spaces—a Slack channel, email or Signal thread, separate meeting, etc.
 
-## Onsite Conduct
+## Working Onsite
 
 Our onsite work often involves us being guests in the homes and workplaces of communities in North Philadelphia. It is important that we conduct ourselves with respect and consideration in each space we visit. Although uncommon, in some indoor spaces that we visit we wear face masks. We ask that you agree to respect and follow requests from our community hosts on-site.
 

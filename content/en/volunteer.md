@@ -86,10 +86,6 @@ PCW builds our Wi-Fi network by finding individuals or organizations who agree t
 
 Installations often involve some sort of basic labor (climbing a ladder, drilling, carrying equipment) and problem solving related to connecting to a power source via ethernet cable. Devices that are installed are adopted to our mesh network, Philly Community Wireless.
 
-<!-- ### Data and Networking
-
-TODO (Alex): this section was empty in the source text. -->
-
 ### Community Outreach
 
 We attend local events, usually by tabling with PCW swag and sign-up forms. We have also given a variety of presentations (informal to formal in front of national audiences) about PCW and the importance of an alternative model of internet in order to more effectively bridge the digital divide.
@@ -113,9 +109,9 @@ We are beginning to expand our services into consulting and advising. We're able
 
 ## Before You Sign Up
 
-* [PCW's documentation](https://docs.phillycommunitywireless.org/) — our install guides, hardware notes, and device configuration walkthroughs.
+* [PCW's documentation](https://docs.phillycommunitywireless.org/)
 
-* [NYC Mesh's wiki](https://wiki.nycmesh.net/) — what a mature volunteer-run community network's documentation looks like.
+* [NYC Mesh's wiki](https://wiki.nycmesh.net/)
 
 
 <!-- ## Tech Volunteers -->
