@@ -33,6 +33,10 @@ Philly Community Wireless
 
 # ¿Cómo funciona?
 
+PCW colaboró con Big Picture Alliance y Eli Laban para crear esta infografía animada sobre la arquitectura de las redes comunitarias y los proyectos de malla inalámbrica en [YouTube](https://www.youtube.com/watch?v=uoKe7zC3sFY).
+
+{{< youtube uoKe7zC3sFY >}}
+
 Para obtener información técnica sobre el proyecto, consulte nuestra [página de Documentos.](https://docs.phillycommunitywireless.org/es/)
 
 ## ¿Es esto realmente gratis? ¿Será siempre gratis?
