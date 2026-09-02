@@ -274,16 +274,16 @@
                 href="https://phillycommunitywireless.org/es/privacy/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/categories/</loc>
+    <loc>https://phillycommunitywireless.org/es/code-of-conduct/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://phillycommunitywireless.org/categories/"
+                href="https://phillycommunitywireless.org/code-of-conduct/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://phillycommunitywireless.org/es/categories/"
+                href="https://phillycommunitywireless.org/es/code-of-conduct/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/es/volunteer/</loc>
@@ -298,18 +298,6 @@
                 href="https://phillycommunitywireless.org/es/volunteer/"
                 />
   </url><url>
-    <loc>https://phillycommunitywireless.org/es/code-of-conduct/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/code-of-conduct/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/code-of-conduct/"
-                />
-  </url><url>
     <loc>https://phillycommunitywireless.org/es/resources/</loc>
     <xhtml:link
                 rel="alternate"
@@ -320,18 +308,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://phillycommunitywireless.org/es/resources/"
-                />
-  </url><url>
-    <loc>https://phillycommunitywireless.org/es/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/tags/"
                 />
   </url>
 </urlset>

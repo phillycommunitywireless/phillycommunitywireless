@@ -274,18 +274,6 @@
     <loc>https://phillycommunitywireless.org/termsofservice/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://phillycommunitywireless.org/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/categories/"
-                />
-  </url><url>
     <loc>https://phillycommunitywireless.org/code-of-conduct/</loc>
     <xhtml:link
                 rel="alternate"
@@ -320,18 +308,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://phillycommunitywireless.org/resources/"
-                />
-  </url><url>
-    <loc>https://phillycommunitywireless.org/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://phillycommunitywireless.org/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://phillycommunitywireless.org/tags/"
                 />
   </url><url>
     <loc>https://phillycommunitywireless.org/volunteer/</loc>
