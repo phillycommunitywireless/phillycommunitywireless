@@ -16,6 +16,10 @@ title = "PCW Code of Conduct"
 
 **Mantenga la discusión relevante.** Trabaja para mantenerte en el tema y llevar conversaciones de divagación a otros espacios: un canal de Slack, un hilo de correo electrónico o Signal, una reunión separada, etc.
 
+## Conducta en el sitio
+
+Nuestro trabajo en el sitio a menudo implica que seamos invitados en los hogares y lugares de trabajo de comunidades del norte de Filadelfia. Es importante que nos comportemos con respeto y consideración en cada espacio que visitamos. Aunque no es común, en algunos espacios interiores que visitamos usamos mascarillas. Le pedimos que acepte respetar y seguir las indicaciones de nuestros anfitriones comunitarios en el sitio.
+
 ## Acoso y abuso
 
 Creemos que el desacuerdo y las diferencias de opinión son una parte natural de una comunidad y son importantes para trabajar a través de la construcción, la estrategia, y el aprendizaje de uno a otro, pero **no toleramos el acoso o el abuso en ninguna forma**. Los participantes que se involucren en acoso o abuso pueden ser removidos del grupo a discreción de los organizadores. Los informes de acoso serán implícitamente confiables e investigados a fondo.
