@@ -81,6 +81,14 @@ h2 {
 a[role="button"]:after {
   content: " →";
 }
+/* White button text fails WCAG AA on the two lighter brand backgrounds:
+   2.4:1 on lilac and 2.9:1 on salmon. Dark blue clears it on both (5.4:1 and
+   4.5:1). Scoped to the button so the tokens keep their current values — they
+   also drive the dotted dividers and the lilac heading color site-wide. #242 */
+a[role="button"].bg-pcw-lilac,
+a[role="button"].bg-pcw-salmon {
+  color: var(--dark-blue);
+}
 [class*=" bg-pcw"]:not(.bg-pcw-dark-blue) a[role="button"] {
   background-color: var(--dark-blue);
 }
