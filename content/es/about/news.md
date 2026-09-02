@@ -20,6 +20,20 @@ Al Dia, [Bringing Digital Equity to North Philadelphia](https://aldianews.com/lo
 
 Technical.ly Philly, [A group of Philly technologists are working on a free, community-based mesh Wi-Fi network](https://technical.ly/2022/01/12/philly-community-wireless-phillywisper-mesh-wifi/), 2/1/2022  
 
+The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progressive.org/latest/urban-digital-divide-rosen-210916/), 9/16/2021
+
+<br/>
+
+## Videos
+
+Big Picture Alliance, [Big Picture Alliance 2023 (Sony Create Action)](https://www.youtube.com/watch?v=2u8EX9IvRm8), 11/28/2023
+
+Philly Community Wireless, [Behind the Scenes with Philly Community Wireless](https://www.youtube.com/watch?v=4D9eB8JczLM), 4/6/2023
+
+Philly Community Wireless, [Network Data 2023 - Quinn Batten & Dillon Bergin](https://www.youtube.com/watch?v=vCCGjGFxHcM), 2/25/2023
+
+Iffy Books, [A Talk by Alex Wermer-Colan from Philly Community Wireless](https://www.dailymotion.com/video/x8d7fri), 8/23/2022
+
 <br/>
 
 ## Publicaciones académicas

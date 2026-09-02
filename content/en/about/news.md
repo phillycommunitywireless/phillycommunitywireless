@@ -7,7 +7,7 @@ segments:
     title: "In the News"
     stories:
       - photo: "/images/nsnp_antenna.jpg"
-        photo_alt_text: "A Philly Community Wireless antenna mounted at Norris Square Neighborhood Project"
+        photo_alt_text: "A PCW antenna at Norris Square Neighborhood Project"
         quote: "Why would it be restricted by four walls?"
         attribution: "Leanne Przybylowski, in *Billy Penn*"
         outlet: "Billy Penn"
@@ -16,7 +16,7 @@ segments:
         date: "7/2/2025"
 
       - photo: "/images/Drone_HartLane_Active.JPG"
-        photo_alt_text: "Aerial view of a rooftop antenna installation on Hart Lane, North Philadelphia"
+        photo_alt_text: "A drone image from above showing 5 people on a rowhome roof, 4 people working on a small structure with an access point device."
         quote: "You aren't just a passive consumer of this utility, but an active participant in its construction and sustenance."
         attribution: "Alex Wermer-Colan, in *CNET*"
         outlet: "CNET"
@@ -25,7 +25,7 @@ segments:
         date: "10/1/2023"
 
       - photo: "/images/pcwvolunteers2.jpg"
-        photo_alt_text: "Philly Community Wireless volunteers on a North Philadelphia rooftop"
+        photo_alt_text: "7 people posing for a group photo on a roof with a device and tall trees behind them."
         quote: "Access is about infrastructure and adoption is community buy-in."
         attribution: "Alex Wermer-Colan, in *Technical.ly*"
         outlet: "Technical.ly Philly"
@@ -55,6 +55,18 @@ Technical.ly Philly, [A group of Philly technologists are working on a free, com
 Temple Now, [Philly Community Wireless offers internet for the community, by the community](https://news.temple.edu/news/2021-10-07/philly-community-wireless-offers-internet-community-community), 10/7/2021  
 
 The Progressive, [Cities Struggle to End the Urban Digital Divide](https://progressive.org/latest/urban-digital-divide-rosen-210916/), 9/16/2021
+
+<br/>
+
+## Watch
+
+Big Picture Alliance, [Big Picture Alliance 2023 (Sony Create Action)](https://www.youtube.com/watch?v=2u8EX9IvRm8), 11/28/2023
+
+Philly Community Wireless, [Behind the Scenes with Philly Community Wireless](https://www.youtube.com/watch?v=4D9eB8JczLM), 4/6/2023
+
+Philly Community Wireless, [Network Data 2023 - Quinn Batten & Dillon Bergin](https://www.youtube.com/watch?v=vCCGjGFxHcM), 2/25/2023
+
+Iffy Books, [A Talk by Alex Wermer-Colan from Philly Community Wireless](https://www.dailymotion.com/video/x8d7fri), 8/23/2022
 
 <br/>
 
