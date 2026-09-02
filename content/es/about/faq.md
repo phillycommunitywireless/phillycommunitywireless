@@ -61,7 +61,7 @@ No. Consulte nuestra [página de privacidad.](/es/privacy/)
 
 ## ¿Cómo me registro para conectarme?
 
-Si deseas alojar una antena en la azotea, rellena el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform) y recibirás un correo electrónico con los pasos a seguir.
+Si deseas alojar una antena en la azotea, rellena el [formulario de inscripción](https://tally.so/r/mR8VM9) y recibirás un correo electrónico con los pasos a seguir.
 
 Si tienes alguna pregunta o quieres ser voluntario de Philly Community Wireless, escríbenos a info@phillycommunitywireless.org y consulta nuestra página [Voluntarios](/es/volunteer/) para obtener más información.
 

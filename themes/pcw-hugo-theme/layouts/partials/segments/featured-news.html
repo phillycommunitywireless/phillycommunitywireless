@@ -10,7 +10,7 @@
 
             {{- if .photo -}}
             <div class="featured-story-img">
-                {{ partial "responsive-image.html" (dict "src" .photo "alt" .photo_alt_text "class" "br3" "style" "width: 100%; height: 100%; object-fit: cover;" "sizes" "(min-width: 60em) 33vw, 100vw") }}
+                {{ partial "responsive-image.html" (dict "src" .photo "alt" .photo_alt_text "class" "br3" "sizes" "(min-width: 60em) 33vw, 100vw") }}
             </div>
             {{- end -}}
 
@@ -44,6 +44,16 @@
         aspect-ratio: 16 / 10;
         overflow: hidden;
         border-radius: 0.5rem;
+    }
+
+    /* Has to live here rather than as an inline style passed through
+       responsive-image.html: Hugo escapes a plain string in a style attribute to
+       ZgotmplZ, which dropped the sizing and left each photo at full height. */
+    .featured-story-img img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
     .featured-story-quote {

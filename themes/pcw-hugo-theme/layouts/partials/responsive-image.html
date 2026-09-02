@@ -50,7 +50,7 @@
   {{- if gt $w 3840 -}}{{- $capW = 3840 -}}{{- end -}}
   {{- $full := $res.Resize (printf "%dx webp q90" $capW) -}}
   {{- $srcset = $srcset | append (printf "%s %dw" $full.RelPermalink $capW) -}}
-  <img src="{{ $full.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $full.Width }}" height="{{ $full.Height }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . }}"{{ end }}>
+  <img src="{{ $full.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $full.Width }}" height="{{ $full.Height }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
 {{- else -}}
-  <img src="{{ $src }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . }}"{{ end }}>
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
 {{- end -}}

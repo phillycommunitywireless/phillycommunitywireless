@@ -109,7 +109,7 @@ We are beginning to expand our services into consulting and advising. We're able
 
 ## Before You Sign Up
 
-* [PCW's documentation](https://docs.phillycommunitywireless.org/en/latest/)
+* [PCW's documentation](https://docs.phillycommunitywireless.org/)
 
 * [NYC Mesh's wiki](https://wiki.nycmesh.net/)
 
