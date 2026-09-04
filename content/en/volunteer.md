@@ -107,11 +107,7 @@ In addition, we do our best to stay up-to-date on information about discount int
 We are beginning to expand our services into consulting and advising. We're able to help organizations and individuals improve their own Wi-Fi network (ie. in a situation where we don't provide the backend, we can still help recommend indoor equipment to purchase and help configure and cable this equipment) and review internet bills, helping people understand what they're being charged for and how they may be able to lower their rates.
 
 
-## Before You Sign Up
-
-* [PCW's documentation](https://docs.phillycommunitywireless.org/)
-
-* [NYC Mesh's wiki](https://wiki.nycmesh.net/)
+For guides to our network installations, please see our [Docs](https://docs.phillycommunitywireless.org/).
 
 
 <!-- ## Tech Volunteers -->

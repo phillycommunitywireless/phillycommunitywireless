@@ -19,14 +19,6 @@ segments:
         class: "square-img br3 w-100"
         flex_basis: 33%
 
-      - photo: "/images/LeannePHeadshot-Square.jpg"
-        photo_alt_text: "Headshot of Leanne Przybylowski."
-        heading_1: "[Leanne Przybylowski](leannep)"
-        subheading: Community Outreach Manager 
-        description_text: leanne@phillycommunitywireless.org
-        class: "square-img br3 w-100"
-        flex_basis: 33%
-
       - photo: "/images/EugeneRHeadshot-Square.jpg"
         photo_alt_text: "Headshot of Eugene Ryoo."
         heading_1: "[Eugene Ryoo](eugener)"
