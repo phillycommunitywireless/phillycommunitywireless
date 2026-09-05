@@ -33,3 +33,23 @@ other = "Send"
 
 [taxonomyPageList]
 other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+[footerLocation]
+other = "Location"
+
+[footerFaq]
+other = "FAQ"
+
+[footerContact]
+other = "Contact"
+
+[footerCodeOfConduct]
+other = "Code of Conduct"
+
+[footerTermsOfService]
+other = "Terms of Service"
+
+[footerPrivacyPolicy]
+other = "Privacy Policy"
+
+[footerWebsitePrivacyPolicy]
+other = "Website Privacy Policy"

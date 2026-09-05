@@ -33,3 +33,23 @@ other = "Enviar"
 
 [taxonomyPageList]
 other = "A continuación encontrará las páginas asociadas a “{{ .Title }}”"
+[footerLocation]
+other = "Ubicación"
+
+[footerFaq]
+other = "Preguntas Frecuentes"
+
+[footerContact]
+other = "Contacto"
+
+[footerCodeOfConduct]
+other = "Código de Conducta"
+
+[footerTermsOfService]
+other = "Términos del Servicio"
+
+[footerPrivacyPolicy]
+other = "Política de Privacidad"
+
+[footerWebsitePrivacyPolicy]
+other = "Política de Privacidad del Sitio Web"
