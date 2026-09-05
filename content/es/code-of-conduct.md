@@ -40,6 +40,6 @@ El abuso incluye, pero no se limita a:
 * Trolling, mala dirección y uso irrespetuoso de los recursos y acceso 
 * Uso de dinámicas sociales desiguales o opresivas existentes (diferencias culturales, de género o de clase, etc.) para ejercer poder sobre otra persona
 
-Si usted ha sido acosado o ha sido testigo de abusos, por favor, comuníqueselo a un miembro del comité directivo. Cada participante es responsable de tomar acción si es testigo o se da cuenta de abuso o acoso, y de invocar a un mediador y confidente para tomar los siguientes pasos - no sólo el blanco o la persona más impactada es responsable de reportarlo.
+Si usted ha sido acosado o ha sido testigo de abusos, por favor, comuníqueselo a un miembro de la Junta de Asesores. Cada participante es responsable de tomar acción si es testigo o se da cuenta de abuso o acoso, y de invocar a un mediador y confidente para tomar los siguientes pasos - no sólo el blanco o la persona más impactada es responsable de reportarlo.
 
 Los organizadores deben tomar medidas apropiadas, generalmente privadas, si se les informa de cualquier abuso o acoso o si escuchan o son testigos de tal abuso o acoso. Deben ser sensibles a las diferencias culturales, pero deben actuar con prontitud cuando sea necesario.

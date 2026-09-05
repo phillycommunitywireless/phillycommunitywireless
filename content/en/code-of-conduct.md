@@ -38,6 +38,6 @@ Abuse includes, but is not limited to:
 - Trolling, misdirection, and disrespectful use of resources and access 
 - Use of existing unequal or oppressive social dynamics (cultural, gender or class differences, etc) to exert power over another person
 
-If you have been harassed or have witnessed abuse, please bring this to the attention of a member of the steering committee. Every participant is responsible for taking action if they witness or become aware of abuse or harassment, and to invoke a mediator and confidant to take next steps - not just the target or most impacted person is responsible to report it.
+If you have been harassed or have witnessed abuse, please bring this to the attention of a member of the Board of Advisors. Every participant is responsible for taking action if they witness or become aware of abuse or harassment, and to invoke a mediator and confidant to take next steps - not just the target or most impacted person is responsible to report it.
 
 Organizers should take appropriate, usually private, action if any abuse or harassment is reported to them or they hear about or witness any such abuse or harassment. They must be sensitive to cultural differences, but take prompt action when necessary. 
