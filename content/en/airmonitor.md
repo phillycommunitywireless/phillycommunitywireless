@@ -21,7 +21,7 @@ PCW is well-positioned to install these devices in public and private locations 
 Real-time air quality data can be viewed on [PurpleAir's map](https://map.purpleair.com/). 
 
 <div>
-  <iframe style="width:100%; height: 600px" src="https://map.purpleair.com/1/mAQI/a10/p604800/cC0#13.2/39.99071/-75.12142"></iframe>
+  <iframe title="PurpleAir air quality map" style="width:100%; height: 600px" src="https://map.purpleair.com/1/mAQI/a10/p604800/cC0#13.2/39.99071/-75.12142"></iframe>
 </div>  
 
 
