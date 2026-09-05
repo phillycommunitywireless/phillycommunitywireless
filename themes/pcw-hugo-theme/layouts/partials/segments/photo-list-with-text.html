@@ -18,7 +18,7 @@
 
                 {{- if $img.button -}}
                 {{ with $img.button }}
-                    <a role="button" href="{{ .button_href }}" class="tc dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .button_text | default "Placeholder link" }}</a>
+                    <a href="{{ .button_href }}" class="button-link tc dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .button_text | default "Placeholder link" }}</a>
                 {{- end -}}
                 {{- end -}}
 
