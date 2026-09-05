@@ -1,18 +1,21 @@
 {{ $maxheight := "75vh" }}
 
 <section class="cf {{ .class | default "bg-white" }}">
-  <!-- {{ with .text }}
-    <div class="pv5 f3 tc center white">{{ . }}</div>
-  {{ end }} -->
 
+  <!-- header + text -->
   {{ with .header }}
   <div class="center ph3" style="max-width: calc({{ $maxheight }} * 1.7777777 - 4rem);">
     <h2 class="f2 {{ .class }}">
       {{ .text }}:
     </h2>  
   </div>
-  
   {{ end }}
+
+  <!-- textonly -->
+  {{ with .text }}
+    <div class="pv3 f3 tc center">{{ . }}</div>  
+  {{ end }}
+  
   <div class="center ph3" style="max-width: calc({{ $maxheight }} * 1.7777777 - 4rem);">
     <div class="aspect-ratio aspect-ratio--16x9">
       <iframe 
