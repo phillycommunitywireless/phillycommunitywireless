@@ -314,7 +314,7 @@ params:
     - fonts.css
 markup:
   tableOfContents:
-    startLevel: 0
+    startLevel: 2
   goldmark:
     renderer:
       unsafe: true
