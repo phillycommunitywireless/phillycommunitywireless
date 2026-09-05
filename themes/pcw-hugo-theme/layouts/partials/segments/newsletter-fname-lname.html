@@ -39,6 +39,12 @@
             text-decoration: underline;
         }
 
+        /* Mailchimp's required-field asterisk is #e85c41, which is 3.5:1 on white
+           and fails WCAG AA for normal text. The brand blue clears it at 4.85:1. */
+        #mc_embed_signup .asterisk {
+            color: var(--primary);
+        }
+
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
          We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
     </style>
