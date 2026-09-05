@@ -5,6 +5,7 @@ title: Home
 # For the supported segment templates and required params, see README.md#segments
 segments:
   - template: three-button-call-to-action
+    heading_level: 1
     title: "Únete para crear acceso a Internet para todos."
     sections:
       - photo: "/images/IMG_6878.jpg"

@@ -7,6 +7,7 @@ header_alt: "A wide panorama photo with 4 PCW volunteers on a roof."
 header_class: "opos-50"
 segments:
   - template: contact-form
+    heading_level: 1
     title: "Let's chat!"
     help_text: 
       "

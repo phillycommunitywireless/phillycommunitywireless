@@ -1,6 +1,6 @@
 <section class="featured-news cf center w-100 pv4 {{ .class | default "bg-pcw-dark-blue" }}">
     {{- if .title -}}
-    <h1 class="tc mt0 mb4 ph3">{{ .title }}</h1>
+    <h2 class="tc mt0 mb4 ph3">{{ .title }}</h2>
     {{- end -}}
 
     <div class="featured-news-grid mw9 center ph3">
@@ -34,6 +34,11 @@
 </section>
 
 <style>
+    /* The title was an h1 until the segment titles became h2s; keep its size. */
+    .featured-news h2 {
+        font-size: 2em;
+    }
+
     .featured-news-grid {
         display: grid;
         grid-template-columns: repeat(3, 1fr);

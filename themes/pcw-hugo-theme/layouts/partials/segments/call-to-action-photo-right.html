@@ -6,9 +6,9 @@
 
         <div class="flex flex-column flex-1-l center justify-center pv2 ph4-l ph3">
             {{- if .title -}}
-            <h1 class="tc mb0 {{ .title_class }}">
+            <h2 class="tc mb0 f1 color-pcw-dark-blue {{ .title_class }}">
                 {{ .title | markdownify }}
-            </h1>
+            </h2>
             {{- end -}}
 
             <div class="lh-copy tl tc-ns {{ .text_class }}">

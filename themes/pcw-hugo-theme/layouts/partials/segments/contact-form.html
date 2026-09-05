@@ -4,7 +4,10 @@
         <div class="center cf pv5-ns ph3 ph4-ns mw7">
             <p class="f6 b helvetica tracked"></p>
 
-            <h1 class="f1 tl-l tc ph3 ma0-ns color-pcw-dark-blue">{{ .title | default "Contact Form Title"}}</h1>
+            {{/* See three-button-call-to-action: the contact page has no title block of its own,
+                 so this segment opts into h1 with heading_level: 1. */}}
+            {{ $h := .heading_level | default 2 }}
+            <h{{ $h }} class="f1 tl-l tc ph3 ma0-ns color-pcw-dark-blue">{{ .title | default "Contact Form Title"}}</h{{ $h }}>
 
             <div class="f3 tl-ns tc lh-copy ph3 mv0 mv3-ns">
                 {{ .help_text | markdownify | default "Default Help Text" }}
