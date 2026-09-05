@@ -17,13 +17,11 @@ segments:
         text: "**¡Participa!** Ofrece tu ayuda como voluntario para construir nuestras redes de Internet, aprender nuevas habilidades y marcar la diferencia en nuestra comunidad."
         button_text: Hazte voluntario
         button_href: "/es/volunteer"
-        button_class: "bg-pcw-salmon"
       - photo: "/images/web updates/Signage_Collazo.jpg"
         photo_alt_text: "Un cartel de PCW con el mensaje Wifi gratuito disponible aquí la información de contacto de PCW y los logotipos de las organizaciones asociadas."
         text: "**¡Apóyanos!** Apoya nuestro trabajo para proporcionar acceso esencial a Internet a personas y familias de Filadelfia."
         button_text: Apóyanos
         button_href: "/es/support"
-        button_class: "bg-pcw-lilac"
 
   # Volunteer CTA
   - template: call-to-action-photo-right

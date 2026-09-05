@@ -24,13 +24,11 @@ segments:
           text: "Check out PCW's Merch! We sell PCW t-shirts and hats. The proceeds from your purchase will directly support our work — plus, by repping Philly Community Wireless, you can help spread the word about our work! Let us know what merch you want to see next."
           button_text: Rep PCW
           button_href: "/merch"
-          button_class: "bg-pcw-salmon"
         - photo: "/images/web updates/AP-Gotham.jpg"
           photo_alt_text: "An access point device mounted on the edge of a roof pointing towards houses and a tall building in the background."
           text: "Become a direct part of our effort to connect community members to free internet access by hosting our network equipment at your property and sharing connectivity with your neighbors. Learn more about signing up on our Get Connected page."
           button_text: Become a Host
           button_href: "/getconnected" 
-          button_class: "bg-pcw-lilac"
 
     - template: call-to-action-photo-right
       class: bg-pcw

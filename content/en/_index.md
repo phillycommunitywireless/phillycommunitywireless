@@ -17,13 +17,11 @@ segments:
         text: "**Get involved!** Volunteer to help build our internet networks, learn new skills, and make a difference in our community."
         button_text: Volunteer 
         button_href: "/volunteer"
-        button_class: "bg-pcw-salmon"
       - photo: "/images/web updates/Signage_Collazo.jpg"
         photo_alt_text: "A PCW sign saying Free Wifi Available Here with PCW's contact information and logos of partner organizations."
         text: "**Get behind us!** Support our work in providing essential internet access to individuals and families in Philadephia."
         button_text: Support 
         button_href: "/support" 
-        button_class: "bg-pcw-lilac"
 
   # # Responsive three-column icons
   # - template: icons
