@@ -71,11 +71,3 @@ Jennifer Oxenford \
 _Directora, NYSERNet_
 
 <br/>
-
-## Consejo Asesor Técnico anterior
-
-Addie Barron
-
-Quinn Batten
-
-<br/>
