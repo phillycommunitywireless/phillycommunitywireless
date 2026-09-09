@@ -71,11 +71,3 @@ Jennifer Oxenford \
 _Director, NYSERNet_
 
 <br/>
-
-## Former Technical Advisory Board
-
-Addie Barron
-
-Quinn Batten
-
-<br/>
