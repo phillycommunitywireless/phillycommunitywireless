@@ -19,14 +19,6 @@ segments:
         class: "square-img br3 w-100"
         flex_basis: 33%
 
-      - photo: "/images/LeannePHeadshot-Square.jpg"
-        photo_alt_text: "Foto de rostro de Leanne Przybylowski."
-        heading_1: "[Leanne Przybylowski](leannep)"
-        subheading: Administradora de relaciones comunitarias 
-        description_text: leanne@phillycommunitywireless.org
-        class: "square-img br3 w-100"
-        flex_basis: 33%
-
       - photo: "/images/EugeneRHeadshot-Square.jpg"
         photo_alt_text: "Foto de rostro de Eugene Ryoo."
         heading_1: "[Eugene Ryoo](eugener)"
