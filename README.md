@@ -1,6 +1,6 @@
 # phillycommunitywireless.org
 
-Source code for the Philly Community Wireless website, [phillycommunitywireless.org](https://phillycommunitywireless.org) (or [pcw.fi](https://phillycommunitywireless.org)). The site is built using the [Hugo](https://gohugo.io) static site generator and hosted with [GitHub Pages](https://pages.github.com/). Deploy previews via `Render`
+Source code for the Philly Community Wireless website, [phillycommunitywireless.org](https://phillycommunitywireless.org) (or [pcw.fi](https://phillycommunitywireless.org)). The site is built using the [Hugo](https://gohugo.io) static site generator and hosted with [GitHub Pages](https://pages.github.com/). Deploy previews via [Render](https://github.com/phillycommunitywireless/phillycommunitywireless/wiki/Deploy-Previews) — every pull request gets a live preview URL
 
 **Contents**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Theme](#theme)  
