@@ -24,13 +24,11 @@ segments:
           text: "¡Echas un vistazo a los productos de PCW! Vendemos camisetas y gorras de PCW. Los ingresos de tu compra se destinarán directamente a apoyar nuestro trabajo. Además, al representar a Philly Community Wireless, ¡puedes ayudar a difundir nuestro trabajo! Haznos saber qué productos te gustaría ver próximamente."
           button_text: En venta
           button_href: "/es/merch"
-          button_class: "bg-pcw-salmon"
         - photo: "/images/web updates/AP-Gotham.jpg"
           photo_alt_text: "Un dispositivo de punto de acceso instalado en el borde de un tejado apuntando hacia las casas y un edificio alto al fondo."
           text: "Únate directamente a nuestro esfuerzo por conectar a los miembros de la comunidad con acceso gratuito a Internet alojando nuestro equipo de red en tu propiedad y compartiendo la conectividad con tus vecinos. Obtén más información sobre cómo registrarte en nuestra página Conéctete."
           button_text: Aloja la red
           button_href: "/es/getconnected" 
-          button_class: "bg-pcw-lilac"
 
     - template: call-to-action-photo-right
       class: bg-pcw
