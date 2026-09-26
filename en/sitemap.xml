@@ -271,8 +271,14 @@
                 href="https://phillycommunitywireless.org/getconnected/"
                 />
   </url><url>
+    <loc>https://phillycommunitywireless.org/about/community_tech/</loc>
+  </url><url>
+    <loc>https://phillycommunitywireless.org/about/our_history/</loc>
+  </url><url>
     <loc>https://phillycommunitywireless.org/termsofservice/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>https://phillycommunitywireless.org/about/our_story/</loc>
   </url><url>
     <loc>https://phillycommunitywireless.org/code-of-conduct/</loc>
     <xhtml:link
