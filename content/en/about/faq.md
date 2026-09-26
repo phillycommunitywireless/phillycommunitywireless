@@ -65,7 +65,7 @@ When connecting to the public network, use the same standard precautions you wou
 
 ### Can I get hacked / is my personal information protected?
 
-Nothing you do on the internet should be considered fully “private.”
+Nothing you do on the internet should be considered fully “private.” We don’t ask for any identifying information to log into our network, and you shouldn’t give that information to anyone who claims to be PCW.
 
 ### Will my activity or data on the internet be tracked by a third party?
 

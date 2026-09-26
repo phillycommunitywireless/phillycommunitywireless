@@ -57,11 +57,11 @@ Al conectarse a la red pública, tome las mismas precauciones estándar que toma
 
 ### ¿Puedo ser hackeado / está protegida mi información personal?
 
-Nada de lo que hagas en Internet debe considerarse completamente "privado".
+Nada de lo que hagas en Internet debe considerarse completamente "privado". No pedimos ninguna información de identificación para conectarse a nuestra red, y no debe darle esa información a nadie que diga ser de PCW.
 
 ### ¿Mi actividad o datos en Internet serán rastreados por un tercero?
 
-Por nuestra parte, no. No hacemos seguimiento de los sitios web que usted visita ni vendemos datos sobre lo que hace en línea, y tampoco lo hace PhillyWisper, el proveedor de servicios de Internet con el que trabajamos. Sin embargo, no podemos responder por el resto de Internet. Los sitios web que usted visita hacen su propio seguimiento, al igual que los servicios externos que usamos para cosas como nuestro boletín. Nuestro [Aviso de Privacidad](/es/privacy/) cubre todo lo que administramos, y aclara que no cubre esos sitios y aplicaciones de terceros.
+Por nuestra parte, no. No hacemos seguimiento de los sitios web que usted visita ni vendemos datos sobre lo que hace en línea, y tampoco lo hace PhillyWisper, el proveedor de servicios de Internet con el que trabajamos. Sin embargo, no podemos responder por el resto de Internet. Los sitios web que usted visita hacen su propio seguimiento, al igual que los servicios externos que usamos para cosas como nuestro boletín. Nuestro [Aviso de Privacidad](/es/privacy/) cubre todo lo que administramos, y aclara que no cubre esos sitios y aplicaciones de terceros. Nuestros Términos del Servicio cubren lo que hacemos y lo que no hacemos en la red.
 
 ## ¿Cómo puedo participar?
 
