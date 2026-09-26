@@ -33,3 +33,12 @@ other = "Enviar"
 
 [taxonomyPageList]
 other = "A continuación encontrará las páginas asociadas a “{{ .Title }}”"
+
+[calendarNotice]
+other = "Nuestro calendario de eventos está alojado en Google, que instala cookies al cargarse, así que solo se carga si lo pides."
+
+[calendarShow]
+other = "Mostrar el calendario"
+
+[calendarOpen]
+other = "O ábrelo en Google Calendar"
