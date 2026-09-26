@@ -12,7 +12,7 @@
                         </p>
                     {{ end }}
                     {{ with .link1 }}
-                        <a role="button" href="{{.href}}" class="dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .text | default "Placeholder link" }}</a>
+                        <a href="{{.href}}" class="button-link dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .text | default "Placeholder link" }}</a>
                     {{ end }}
                 </div>
   
@@ -35,7 +35,7 @@
                         </p>
                     {{ end}}
                     {{ with .link2 }}
-                        <a role="button" href="{{.href}}" class="dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .text | default "Placeholder link" }}</a>
+                        <a href="{{.href}}" class="button-link dib link mv3 pa3 ph4 f3 b {{ .class | default "bg-pcw white" }}">{{ .text | default "Placeholder link" }}</a>
                     {{ end }}
                 </div>
           

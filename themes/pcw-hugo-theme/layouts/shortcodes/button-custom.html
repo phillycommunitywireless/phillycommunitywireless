@@ -1,5 +1,5 @@
-<a role="button" {{ with .Get "href" }} href="{{ . }}" {{ end }}
-    class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
+<a {{ with .Get "href" }} href="{{ . }}" {{ end }}
+    class="button-link tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
     {{ with .Get "text"}}
     {{ . | default "Placeholder link" }}
     {{ end }}
