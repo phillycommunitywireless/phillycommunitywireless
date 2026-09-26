@@ -223,5 +223,17 @@ Obten recursos digitales: Navegadores digitales (multilingües) Ubicación: Por 
 Descripción: Diseñado para ayudar a los miembros de la comunidad local de Filadelfia con información sobre el acceso a Internet, capacitación en alfabetización digital y cuestiones básicas de soporte técnico.</description>
     </item>
     
+    <item>
+      <title>Términos del Servicio y Política de Uso Aceptable</title>
+      <link>https://phillycommunitywireless.org/es/termsofservice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/termsofservice/</guid>
+      <description>Fecha de entrada en vigor: 1 de marzo de 2021
+Última actualización: 16 de junio de 2026
+Philly Community Wireless es una red wifi pública y gratuita. Para usar esta red wifi gratuita, usted acepta los siguientes Términos del Servicio.
+Términos del Servicio El Philly Community Wireless Project, un proyecto patrocinado fiscalmente por Movement Alliance Project (“PCWP”), y su proveedor de conexión troncal (backhaul), PhillyWisper (“PW”), apoyan la neutralidad de la red y un Internet libre y abierto, sin estrangulamiento de la velocidad (throttling), sin tarifa cero (zero-rating) y sin el seguimiento del uso de las personas con fines de lucro, publicidad u otras formas de contraprestación.</description>
+    </item>
+    
   </channel>
 </rss>

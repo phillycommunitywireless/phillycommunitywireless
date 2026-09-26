@@ -309,5 +309,17 @@
                 hreflang="es"
                 href="https://phillycommunitywireless.org/es/resources/"
                 />
+  </url><url>
+    <loc>https://phillycommunitywireless.org/es/termsofservice/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://phillycommunitywireless.org/termsofservice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://phillycommunitywireless.org/es/termsofservice/"
+                />
   </url>
 </urlset>
