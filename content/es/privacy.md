@@ -155,6 +155,6 @@ Damos la bienvenida a las solicitudes, preguntas, comentarios y comentarios sobr
 
 ***
 
-**Correo electrónico**   phillycommunitywireless@gmail.com
+**Correo electrónico**   info@phillycommunitywireless.org
 
 ***

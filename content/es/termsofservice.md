@@ -17,7 +17,7 @@ El Philly Community Wireless Project, un proyecto patrocinado fiscalmente por Mo
 PCWP no ofrece garantías de rendimiento del Servicio, que es un proyecto piloto que utiliza una infraestructura de red experimental. Debido a que el número de personas que utilizan este Servicio gratuito puede variar significativamente de un minuto a otro, las velocidades de banda ancha disponibles al usar el Servicio pueden fluctuar de forma considerable, e incluso pueden no estar disponibles en ciertos momentos. A cambio de proporcionar este Servicio sin costo, solo le pedimos que sea un buen vecino mientras lo utiliza, para que la mayor cantidad posible de personas pueda disfrutarlo. Ser un buen vecino significa comprender y cumplir con estos Términos del Servicio y la Política de Uso Aceptable (la “Política”), que rigen su uso y acceso al Servicio.
 
 Su uso del Servicio representa su aceptación de la Política vigente en ese momento. Esta Política puede actualizarse o modificarse de vez en cuando. Su uso del Servicio tras las actualizaciones o cambios de esta Política constituye su aceptación de dichos cambios. Si no está de acuerdo con las revisiones, debe dejar de usar el Servicio de inmediato.
-Si no entiende ni acepta esta Política, no use el Servicio. Háganos saber si tiene alguna pregunta escribiendo a phillycommunitywireless@gmail.com.
+Si no entiende ni acepta esta Política, no use el Servicio. Háganos saber si tiene alguna pregunta escribiendo a info@phillycommunitywireless.org.
 
 ## Advertencia de Seguridad
 

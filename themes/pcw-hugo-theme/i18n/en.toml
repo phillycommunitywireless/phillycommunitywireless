@@ -53,3 +53,13 @@ other = "Privacy Policy"
 
 [footerWebsitePrivacyPolicy]
 other = "Website Privacy Policy"
+
+
+[calendarNotice]
+other = "Our event calendar is hosted by Google, which sets cookies when it loads, so it only loads if you ask for it."
+
+[calendarShow]
+other = "Show the calendar"
+
+[calendarOpen]
+other = "Or open it on Google Calendar"
