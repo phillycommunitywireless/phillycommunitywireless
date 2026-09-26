@@ -2,6 +2,7 @@
 date: 2024-07-03
 title: "Partners"
 layout: "people/people"
+show_title: true
 segments:
 
     # PW feature 

@@ -262,9 +262,13 @@ Displays two columns of text
 #### `three-button-call-to-action`
 A call to action that displays as many cards as there are inputs 
 
+Segment titles render as `<h2>`. On a page with no title of its own (the homepage), set
+`heading_level: 1` on the segment so the page still has one `<h1>`.
+
 ```yaml
 - template: three-button-call-to-action
   title: "Join us in building Internet access for everyone."
+  heading_level: 1
   sections:
     - photo: "/images/IMG_6878.jpg"
       photo_alt_text: "A white access point device on a pole with the sky in the background."
@@ -289,6 +293,8 @@ A call to action that displays as many cards as there are inputs
 
 
 #### `contact-form`
+
+Like `three-button-call-to-action`, accepts `heading_level: 1` for a page with no title block of its own (the contact page).
 Contact form - displays an iframe with a Tally form embed. 
 
 ```yaml
