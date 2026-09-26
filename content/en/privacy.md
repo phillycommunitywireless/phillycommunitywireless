@@ -337,6 +337,6 @@ information used to contact us matches the information that we have on
 file.
 
   ------------------ ------------------------------------
-  **Email:**   phillycommunitywireless\@gmail.com
+  **Email:**   info@phillycommunitywireless.org
 
   ------------------ ------------------------------------

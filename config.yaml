@@ -7,6 +7,11 @@ author: Philly Community Wireless
 theme: pcw-hugo-theme
 enableRobotsTXT: true
 timeout: 120s
+# Make the {{< youtube >}} shortcode embed from youtube-nocookie.com instead of
+# youtube.com, so the FAQ video stops setting Google advertising cookies on load.
+privacy:
+  youtube:
+    privacyEnhanced: true
 # No content uses tags or categories, so the taxonomy scaffolding only produced
 # empty, untitled /categories/ and /tags/ pages in the sitemap.
 disableKinds:
@@ -86,6 +91,10 @@ languages:
           url: "/about/faq"
           parent: about-us
           weight: "7"
+        - name: Our story
+          url: "/about/our_story"
+          parent: about-us
+          weight: "8"
      
           # Location
         - name: Location
@@ -314,7 +323,7 @@ params:
     - fonts.css
 markup:
   tableOfContents:
-    startLevel: 0
+    startLevel: 2
   goldmark:
     renderer:
       unsafe: true
