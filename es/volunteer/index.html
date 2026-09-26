@@ -633,10 +633,29 @@ Si deseas apoyar nuestro trabajo pero no puedes ser voluntario en este momento, 
         
         <div class="w-two-thirds-l w-100 cover bg-center pv2-l ph2 ph0-l">
 
-            <iframe
-                src="https://calendar.google.com/calendar/embed?src=c_ca84146424d3ddad9678df590065af38e3fc78ff3720a41ed05584cd5e7cd7eb%40group.calendar.google.com&ctz=America%2FNew_York"
-                style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"
-                aria-label="Event Calendar"></iframe>
+            
+            
+            <div class="js-calendar flex flex-column items-center justify-center tc pa4 bg-near-white" style="min-height: 400px">
+                <p class="mv3 lh-copy f4 measure">Nuestro calendario de eventos está alojado en Google, que instala cookies al cargarse, así que solo se carga si lo pides.</p>
+                <button type="button" class="js-calendar-load center dib link mv3 pa3 ph4 f3 b bn pointer bg-pcw white"
+                    data-src="https://calendar.google.com/calendar/embed?src=c_ca84146424d3ddad9678df590065af38e3fc78ff3720a41ed05584cd5e7cd7eb%40group.calendar.google.com&amp;ctz=America%2FNew_York" data-title="Próximos eventos">Mostrar el calendario</button>
+                <a href="https://calendar.google.com/calendar/embed?src=c_ca84146424d3ddad9678df590065af38e3fc78ff3720a41ed05584cd5e7cd7eb%40group.calendar.google.com&amp;ctz=America%2FNew_York" target="_blank" rel="noopener" class="f4 mv2">O ábrelo en Google Calendar</a>
+            </div>
+            <script>
+                document.querySelectorAll('.js-calendar-load').forEach(function (button) {
+                    button.addEventListener('click', function () {
+                        var frame = document.createElement('iframe');
+                        frame.src = button.dataset.src;
+                        frame.title = button.dataset.title;
+                        frame.width = '100%';
+                        frame.height = '600';
+                        frame.style.border = '0';
+                        var box = button.closest('.js-calendar');
+                        box.replaceWith(frame);
+                        frame.focus();
+                    });
+                });
+            </script>
 
         </div>
 
