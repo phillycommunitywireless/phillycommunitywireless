@@ -3,7 +3,7 @@
 <section class="cf center w-75-l w-100 ">
     {{- if .title -}}
     <div>
-        <h1 class="tl f2 f1-ns center ma0 pt5 pb2 ph2 color-pcw-dark-blue">{{ .title }}</h1>
+        <h2 class="tl f2 f1-ns center ma0 pt5 pb2 ph2 color-pcw-dark-blue">{{ .title }}</h2>
     </div>
     {{- end -}}
     <div style="row-gap: 1rem; column-gap: 0.5rem;"
@@ -43,8 +43,8 @@
                 <div>
                     {{- if .button_text -}}
                     <div class="flex items-center">
-                        <a role="button" href="{{ .button_href }}"
-                            class="center tc dib link mv3 pa3 ph4 f3 b bg-pcw white {{ .button_class }}">
+                        <a href="{{ .button_href }}"
+                            class="button-link center tc dib link mv3 pa3 ph4 f3 b bg-pcw white {{ .button_class }}">
                             {{ .button_text }}
                         </a>
                     </div>

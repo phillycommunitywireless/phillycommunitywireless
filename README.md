@@ -86,7 +86,7 @@ We've also created a "button-custom" shortcode for adding buttons to Markdown fi
 
 Which will render to...
 ```html
-<a role="button" href="#" class="tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
+<a href="#" class="button-link tc dib link mv3 pa3 ph4 f3 b bg-pcw-important white">
     your text here...    
 </a>
 ```

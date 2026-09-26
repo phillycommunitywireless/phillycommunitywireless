@@ -19,7 +19,7 @@ Philly Community Wireless lleva trabajando desde 2023 para instalar monitores Pu
 Los datos sobre la calidad del aire en tiempo real se pueden consultar en [el mapa de PurpleAir](https://map.purpleair.com/). 
 
 <div>
-  <iframe style="width:100%; height: 600px" src="https://map.purpleair.com/1/mAQI/a10/p604800/cC0#13.2/39.99071/-75.12142"></iframe>
+  <iframe title="Mapa de calidad del aire de PurpleAir" style="width:100%; height: 600px" src="https://map.purpleair.com/1/mAQI/a10/p604800/cC0#13.2/39.99071/-75.12142"></iframe>
 </div>  
 
 

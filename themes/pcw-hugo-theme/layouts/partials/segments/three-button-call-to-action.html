@@ -1,8 +1,11 @@
 <section class="cf center w-75-l w-100 pv4">
     <div class="flex flex-wrap items-stretch mw9 center ph3-ns">
         {{- if .title -}}
+        {{/* Segment titles are h2s so each page keeps a single h1. The homepage has no
+             page title of its own, so its first segment opts into h1 with heading_level: 1. */}}
+        {{ $h := .heading_level | default 2 }}
         <div class="w-100">
-            <h1 class="tc tl-ns f2 f1-ns center ph3 ma0-ns pa2-ns pb4-ns color-pcw-dark-blue">{{ .title }}</h1>
+            <h{{ $h }} class="tc tl-ns f2 f1-ns center ph3 ma0-ns pa2-ns pb4-ns color-pcw-dark-blue">{{ .title }}</h{{ $h }}>
         </div>
         {{- end -}}
 
@@ -19,8 +22,8 @@
 
                 <div>
                     <div class="flex items-center">
-                        <a role="button" href="{{ .button_href }}"
-                            class="center tc dib link mv3 pa3 ph4 f3 b bg-pcw white {{ .button_class }}">
+                        <a href="{{ .button_href }}"
+                            class="button-link center tc dib link mv3 pa3 ph4 f3 b bg-pcw white {{ .button_class }}">
                             {{ .button_text | default "Placeholder link" }}
                         </a> {{ end }}
                     </div>
