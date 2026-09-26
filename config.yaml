@@ -30,6 +30,10 @@ languages:
           url: "/volunteer"
           parent: Programs
           weight: "2"        
+        - name: Fellowship
+          url: "/fellowship"
+          parent: Programs
+          weight: "3"
 
         # Support
         - name: Support
