@@ -57,19 +57,19 @@ We aim to provide at least 25 mbps download speed in public and private spaces. 
 
 ### How secure is the network? Who can access our information?
 
-We don’t track user activity. We support net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior and data. 
+We don’t track the websites you visit. We keep only the basic data necessary to keep the lights on, meaning what we need to run the network, keep it secure, and fix it when something breaks. We support net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior and data.
 
 By joining our network you agree to share the available bandwidth with others. Please be mindful of downloading large amounts of media, especially when others may be using the network during the day. 
 
-When connecting to the public network, you should use the same standard precautions as you would when connecting to public wifi at a coffee shop or airport. Use your browser's secure mode when possible, and consider using a VPN service to be extra safe. With that said, our open, public network has the usual security restrictions for client device isolation, making it more difficult for another client on the network to connect with your device.
+When connecting to the public network, use the same standard precautions you would at a coffee shop or airport. Because our network is open, the wifi signal itself isn’t encrypted, which is covered in the Security Warning on our [Terms of Service page](/termsofservice/). Most websites use https by default these days, which keeps what you send to them private, and you can use a VPN service to be extra safe. Our network also has the usual client device isolation, which makes it harder for another device on the network to reach yours.
 
 ### Can I get hacked / is my personal information protected?
 
-Nothing you do on the internet should be considered fully “private.”
+Nothing you do on the internet should be considered fully “private.” We don’t ask for any identifying information to log into our network, and you shouldn’t give that information to anyone who claims to be PCW.
 
 ### Will my activity or data on the internet be tracked by a third party?
 
-No. Please see our data policy on our [Terms of Service page](/termsofservice/).
+Not by us. We don’t track the websites you visit or sell data about what you do online, and neither does PhillyWisper, the internet service provider we work with. We can’t speak for the rest of the internet, though. The websites you visit do their own tracking, and so do the outside services we use to run things like our newsletter. Our [Privacy Notice](/privacy/) covers everything we run, and it explains that it doesn’t cover those third party sites and apps. Our [Terms of Service](/termsofservice/) covers what we do and don’t do on the network.
 
 ## How do I get involved?
 
