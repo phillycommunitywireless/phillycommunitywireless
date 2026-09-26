@@ -47,11 +47,7 @@ Sí, siempre y cuando exista PCW. Nunca te pediremos tu información de pago.
 
 No podemos prometer una conexión coherente en ninguna zona determinada, pero nuestro objetivo es proporcionar al menos 25 Mbps de velocidad de descarga en espacios públicos y privados. Muchas áreas de nuestra red reciben actualmente velocidades de descarga más altas.
 
-<<<<<<< HEAD
-## ¿Qué tan segura es la red? ¿Quién puede acceder a nuestra información?
-=======
-### ¿Qué tan segura es la red? ¿Quién puede acceder a nuestra información? ¿Cualquiera puede iniciar sesión en nuestro wifi?
->>>>>>> origin/master
+### ¿Qué tan segura es la red? ¿Quién puede acceder a nuestra información?
 
 No hacemos seguimiento de los sitios web que usted visita. Solo conservamos los datos básicos necesarios para mantener la red en funcionamiento, es decir, lo que necesitamos para operarla, mantenerla segura y repararla cuando algo falla. Apoyamos los principios de neutralidad de la red y creemos que Internet debe proporcionarse sin limitación, calificación cero y seguimiento y monetización del comportamiento y los datos de los usuarios.
 
@@ -75,11 +71,7 @@ Si deseas alojar una antena en la azotea, rellena el [formulario de inscripción
 
 Si tienes alguna pregunta o quieres ser voluntario de Philly Community Wireless, escríbenos a info@phillycommunitywireless.org y consulta nuestra página [Voluntarios](/es/volunteer/) para obtener más información.
 
-<<<<<<< HEAD
-## Si alojo una antena en mi techo, ¿cómo afecta esto a la integridad estructural de mi casa? ¿Se involucraría una perforación adicional?
-=======
-### Si alopón una antena en mi techo, ¿cómo afecta esto a la integridad estructural de mi casa? ¿Se involucraría una perforación adicional?
->>>>>>> origin/master
+### Si alojo una antena en mi techo, ¿cómo afecta esto a la integridad estructural de mi casa? ¿Se involucraría una perforación adicional?
 
 Algunas casas sólo necesitan una antena de malla interior, enchufada a una toma de pared. Para las casas que requieren una instalación en la azotea, una antena será conectada a una chimenea, o asegurada entre bloques de cemento etc. Siempre que sea posible usamos montajes de techo no penetrantes. Los cables pueden entrar en los agujeros existentes de su casa. Para obtener más información, consulte nuestra [página Docs sobre instalaciones en tejados.](https://docs.phillycommunitywireless.org/es/installations/installations)
 
