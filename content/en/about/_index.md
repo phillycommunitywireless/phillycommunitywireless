@@ -69,5 +69,5 @@ We work with PhillyWisper, a pro-net neutrality, wireless internet service provi
 
 As we continue to grow our network, our organization has expanded and evolved as well. What began as a volunteer-led pilot project is now a more structured organization with a total of four staff members and some dozens of volunteers that participate in our work with varying levels of engagement. We have a Board of Advisors and a Technical Advisory Board to ensure we incorporate the expertise and feedback of community members and dedicated volunteers.
 
-To learn more about our staff, boards, and other people involved in our work, visit our [People page](/about/people/). For updates about our work, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) and follow us on social media @phillycommunitywireless.
+To learn more about our staff, boards, and other people involved in our work, visit our [People page](/about/people/). For updates about our work, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) and follow us on social media @phillycommunitywireless. To get in touch, visit our [Contact page](/contact/).
 
