@@ -557,3 +557,33 @@ footer {
 .opos-50-30 {
   object-position: 50% 30%;
 }
+/* Timeline segment (Our Story) — an embedded panel that scrolls on its own, a dotted spine with a coloured marker per entry */
+.timeline-panel {
+  max-height: 70vh;
+  overflow-y: auto;
+  border: 2px solid var(--light-gray);
+  padding: 1.5rem 1.5rem 1.5rem 1rem;
+  background: white;
+}
+.timeline {
+  margin-left: 0.5rem;
+  border-left: dotted 6px var(--lilac);
+}
+.timeline-marker {
+  left: -13px; /* centred on the 6px spine */
+  top: 0.35rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  border-radius: 50%;
+  border: 3px solid white;
+  background: var(--dark-blue);
+}
+.timeline-install .timeline-marker { background: var(--blue); }
+.timeline-event .timeline-marker { background: var(--lilac); }
+.timeline-year {
+  letter-spacing: normal;
+  text-transform: none;
+  line-height: 1;
+  margin-bottom: 0.25rem;
+}
+.timeline-entry:last-child { padding-bottom: 0; }
