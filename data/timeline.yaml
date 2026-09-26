@@ -1,0 +1,180 @@
+# Our Story timeline. Source: Leanne's `PCW Timeline` sheet (Ops Drive, Website Updates/), text verbatim; sorted oldest first.
+# group: history | install | event. Alt text written 2026-09-26 for the site. Add new entries at the end.
+
+- date: "2020-07-01"
+  headline: "PCW Begins"
+  group: history
+  text: "The very beginning! Our first node was installed by partner PhillyWisper in July of 2020. PCW officially started building at Norris Square Neighborhood Project in the spring of 2021, mostly led by PhillyWisper. Starting late summer 2021, PCW volunteers began leading installs."
+
+- date: "2021-10-14"
+  headline: "PCW Install"
+  group: install
+  text: "Install done at a resident's home near Norris Square Park. By December 2021, we had installed 8 Access Points throughout Norris Square."
+  image: "/images/timeline/2021-10-pcw-install.jpg"
+  alt: "Three volunteers on a rowhouse rooftop at sunset with the Philadelphia skyline behind them."
+
+- date: "2021-12-01"
+  headline: "PCW Establishes HQ at NSNP"
+  group: event
+  text: "PCW moves into the basement of the Norris Square Neighborhood Project, strengthening our partnership with NSNP. Having our headquarters at this location proves to be perfect for our ongoing work in building out our network and partnerships in the area."
+  image: "/images/timeline/2021-12-pcw-establishes-hq-at-nsnp.jpg"
+  alt: "Wooden shelving in the basement of Norris Square Neighborhood Project holding networking equipment."
+
+- date: "2022-03-31"
+  headline: "Big Picture Alliance Documentary"
+  group: history
+  text: "PCW's first documentary filmed and produced by Big Picture Alliance! See it at PCW's YouTube channel."
+  video: "https://www.youtube-nocookie.com/embed/K3eBKRU4VVI"
+  video_title: "Philly Community Wireless documentary video produced by the Big Picture Alliance."
+
+- date: "2022-04-07"
+  headline: "First Solar Powered Install"
+  group: install
+  text: "Holobiont Lab's Solar Mesh Node (a self-contained solar powered set-up) used to power a Wi-Fi access point at NSNP's Villa Africana Colobó Garden."
+  image: "/images/timeline/2022-04-first-solar-powered-install.jpg"
+  alt: "A small solar panel mounted on a corrugated metal roof."
+
+- date: "2022-04-27"
+  headline: "First Purple Air Monitor Installed"
+  group: install
+  text: "PCW installs a PurpleAir Monitor (used to monitor air quality) at Las Parcelas Gardens. Air monitors are an example of the Internet of Things devices that public Wi-Fi, such as ours, can facilitate."
+  image: "/images/timeline/2022-04-first-purple-air-monitor-installed.jpg"
+  alt: "A PurpleAir monitor mounted on the wooden lattice of a garden structure."
+
+- date: "2022-05-31"
+  headline: "Install at The Clay Studio"
+  group: install
+  text: "Our first major install on roof of The Clay Studio."
+  image: "/images/timeline/2022-05-install-at-the-clay-studio.jpg"
+  alt: "A wireless antenna on a mast at the edge of The Clay Studio's rooftop, looking out over Philadelphia rooftops."
+
+- date: "2022-07-07"
+  headline: "Install for Iglesias Gardens"
+  group: install
+  text: "A nearby resident hosts some of our network infrastructure equipment to expand Wi-Fi into Iglesias Gardens."
+  image: "/images/timeline/2022-07-install-for-iglesias-gardens.jpg"
+  alt: "A volunteer adjusting a rooftop antenna above Iglesias Gardens."
+
+- date: "2022-09-01"
+  headline: "Wi-Fi Town Hall"
+  group: event
+  text: "PCW's first in-person Wi-Fi Town Hall hosted at Iglesias Gardens!"
+  image: "/images/timeline/2022-09-wi-fi-town-hall.jpg"
+  alt: "Neighbors seated around tables under a shade sail in a community garden."
+
+- date: "2022-11-05"
+  headline: "Tech Team Meeting"
+  group: event
+  text: "PCW volunteer-based Tech Team meeting in West Philly, configuring access points and doing data work."
+  image: "/images/timeline/2022-11-tech-team-meeting.jpg"
+  alt: "Volunteers working on laptops around a table indoors."
+
+- date: "2023-02-25"
+  headline: "PCW Presents at Iffy Books"
+  group: event
+  text: "PCW volunteers present at Iffy Books about the network we've built so far, where we’re planning to expand, and what we’ve learned along they way. We also debuted our network coverage map!"
+  image: "/images/timeline/2023-02-pcw-presents-at-iffy-books.jpg"
+  alt: "Two presenters at a laptop beside a chalkboard and a projected slide at Iffy Books."
+
+- date: "2023-04-29"
+  headline: "PCW Headquarters Renovation"
+  group: history
+  text: "Updates done at PCW Headquarters in Norris Square Neighborhood Project building."
+  image: "/images/timeline/2023-04-pcw-headquarters-renovation.jpg"
+  alt: "A workbench and a pegboard of tools in the renovated PCW headquarters."
+
+- date: "2023-05-09"
+  headline: "Digital Literacy Alliance Presentation"
+  group: event
+  text: "An overview presentation of Philly Community Wireless with the City of Philadelphia's Digital Literacy Alliance."
+  image: "/images/timeline/2023-05-digital-literacy-alliance-presentation.jpg"
+  alt: "A presenter speaking beside a projected Philly Community Wireless slide in a meeting room."
+
+- date: "2023-05-11"
+  headline: "Big Picture Alliance and PCW Presentation"
+  group: event
+  text: "PCW and Big Picture Alliance showcase our documentary and host a Q&A at The Holodec."
+  image: "/images/timeline/2023-05-big-picture-alliance-and-pcw-presentation.jpg"
+  alt: "Four panelists seated on green chairs in a studio with a Philly Community Wireless slide behind them."
+
+- date: "2023-06-03"
+  headline: "Kensington Mutual Aid Fair"
+  group: event
+  text: "PCW volunteers table at the Kensington Free Library Mutual Aid Fair. PCW continues to table at various events throughout Philadelphia."
+  image: "/images/timeline/2023-06-kensington-mutual-aid-fair.jpg"
+  alt: "Two volunteers at a Philly Community Wireless table with a free Wi-Fi banner, in front of a mosaic wall."
+
+- date: "2023-12-20"
+  headline: "Install at HACE Properties Begins"
+  group: install
+  text: "The beginning of PCW’s first multi-dwelling residential building install. Together with PhillyWisper, we installed the main radio on HACE’s Casa Caribe and set up a PowerBeam to bring connectivity to HACE’s Caribe Towers."
+  image: "/images/timeline/2023-12-install-at-hace-properties-begins.jpg"
+  alt: "Technicians on a ladder and a rooftop bulkhead installing an antenna on a HACE building."
+
+- date: "2024-02-07"
+  headline: "Indoor Install Work at HACE Property"
+  group: install
+  text: "Running ethernet cable through HACE's Caribe Towers to set up indoor access points for the residents and staff. PCW went on to provide Wi-Fi service in all common spaces on all floors of the building."
+  image: "/images/timeline/2024-02-indoor-install-work-at-hace-property.jpg"
+  alt: "Technicians on a ladder running cable along a stairwell wall."
+
+- date: "2024-03-22"
+  headline: "PC Distribution"
+  group: event
+  text: "Laptop distribution with PCs for People to give laptops out to HACE residents at Casa Caribe, Caribe Towers, and the Villas del Caribe. In addition to the laptops, PCW provided technical support to residents who required help setting up their new laptops."
+  image: "/images/timeline/2024-03-pc-distribution.jpg"
+  alt: "Residents at a row of tables receiving laptops in a hallway."
+
+- date: "2024-05-01"
+  headline: "Install at Taller Puertorriqueño"
+  group: install
+  text: "PCW constantly expands and improves our network by revisiting sites. Here, we returned to Taller Puertorriqueño to provide maintenance to existing infrastructure and add another AP facing the street."
+  image: "/images/timeline/2024-05-install-at-taller-puertorrique-o.jpg"
+  alt: "A street-facing access point mounted at the edge of a rooftop above Kensington Avenue."
+
+- date: "2024-05-11"
+  headline: "Volunteer Session"
+  group: event
+  text: "The team at Holobiont Lab provides a walk-through and troubleshooting training on Solar Mesh Nodes."
+  image: "/images/timeline/2024-05-volunteer-session.jpg"
+  alt: "Volunteers gathered around a solar mesh node under a wooden garden shelter."
+
+- date: "2024-06-27"
+  headline: "Install at NKCDC"
+  group: install
+  text: "PCW installs a new Wi-Fi hub with PhillyWisper at NKCDC alongside our volunteers and interns, helping to build out the network to cover a large perimeter around Kensington Ave and Somerset."
+  image: "/images/timeline/2024-06-install-at-nkcdc.jpg"
+  alt: "Volunteers seated on a gravel rooftop configuring equipment under a blue sky."
+
+- date: "2024-08-02"
+  headline: "Install for NKCDC's Tusculum Garden"
+  group: install
+  text: "With the support of a local resident, and using a relay from NKCDC's building, we set up connectivity for Tusculum Gateway Garden along Kensington Ave."
+  image: "/images/timeline/2024-08-install-for-nkcdc-s-tusculum-garden.jpg"
+  alt: "An antenna, an equipment box and a laptop on a rooftop, with the Market-Frankford Line behind."
+
+- date: "2024-09-14"
+  headline: "Outreach at Jose Manual Collazo Playground"
+  group: event
+  text: "PCW staff and volunteers tabling at Jose Manual Collazo Playground with Team NAS alongside other community organizations."
+  image: "/images/timeline/2024-09-outreach-at-jose-manual-collazo-playground.jpg"
+  alt: "Volunteers at a Philly Community Wireless table with a prize wheel at a playground."
+
+- date: "2024-09-17"
+  headline: "Work with Bryn Mawr Students"
+  group: event
+  text: "Environmental Studies students from Bryn Mawr College come out to  PCW headquarters to learn more about our organization. Collaboration throughout their semester led to three distinct presentations incorporating elements of PCW's work and future goals, including air monitoring."
+  image: "/images/timeline/2024-09-work-with-bryn-mawr-students.jpg"
+  alt: "A group of Bryn Mawr students posing on the sidewalk outside PCW headquarters."
+
+- date: "2024-11-11"
+  headline: "Donation from Community Internet Solutions"
+  group: event
+  text: "PCW receives a massive donation from Pittsburgh's Community Internet Solutions (formerly known as Meta Mesh) as they close up shop."
+  image: "/images/timeline/2024-11-donation-from-community-internet-solutions.jpg"
+  alt: "The inside of a moving truck packed with boxes of donated equipment."
+
+- date: "2024-12-31"
+  headline: "PCW Keeps Growing"
+  group: history
+  text: "4 and a half years after starting, PCW has grown and expanded throughout the neighborhoods of Norris Square, Fairhill, and Kensington, servicing tens of thousands of users. To see our live service map, visit [our network map](/networkmap/)."
