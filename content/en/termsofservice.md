@@ -1,3 +1,7 @@
+---
+title: Terms of Service and Acceptable Use Policy
+---
+
 **Effective Date**: March 1, 2021
 
 **Last Updated**: June 16, 2026
