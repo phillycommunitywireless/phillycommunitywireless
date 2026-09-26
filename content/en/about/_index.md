@@ -36,7 +36,7 @@ We envision a just future where everyone can meaningfully access the internet, r
     text: "**We believe** that access to the Internet is a fundamental human right and that independent, community-owned and -operated wireless is a sustainable and scaleable means of digital inclusion.
 
 
-**We support** net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior.
+**We support** net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior and data.
 
 
 **We affirm** that people matter more than profit and that the principles of cooperation and mutual aid can grow a fundamentally different kind of digital network.
