@@ -36,7 +36,7 @@ We envision a just future where everyone can meaningfully access the internet, r
     text: "**We believe** that access to the Internet is a fundamental human right and that independent, community-owned and -operated wireless is a sustainable and scaleable means of digital inclusion.
 
 
-**We support** net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior.
+**We support** net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior and data.
 
 
 **We affirm** that people matter more than profit and that the principles of cooperation and mutual aid can grow a fundamentally different kind of digital network.
@@ -48,7 +48,7 @@ We envision a just future where everyone can meaningfully access the internet, r
 - template: video
   src: "https://www.youtube-nocookie.com/embed/K3eBKRU4VVI"
   title: Philly Community Wireless documentary video produced by the Big Picture Alliance.
-  text: None.
+  text: 
   header: 
     text: "Watch Our Documentary (2022)"
     class: tc
@@ -69,5 +69,5 @@ We work with PhillyWisper, a pro-net neutrality, wireless internet service provi
 
 As we continue to grow our network, our organization has expanded and evolved as well. What began as a volunteer-led pilot project is now a more structured organization with a total of four staff members and some dozens of volunteers that participate in our work with varying levels of engagement. We have a Board of Advisors and a Technical Advisory Board to ensure we incorporate the expertise and feedback of community members and dedicated volunteers.
 
-To learn more about our staff, boards, and other people involved in our work, visit our [People page](/about/people/). For updates about our work, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) and follow us on social media @phillycommunitywireless.
+To learn more about our staff, boards, and other people involved in our work, visit our [People page](/about/people/). For updates about our work, [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) and follow us on social media @phillycommunitywireless. To get in touch, visit our [Contact page](/contact/).
 

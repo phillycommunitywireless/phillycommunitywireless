@@ -13,7 +13,7 @@ The Philly Community Wireless Project, a fiscally sponsored project of Movement 
 PCWP makes no performance guarantees for the Service, which is a pilot project using an experimental network infrastructure. Because the number of people using this free Service may vary significantly from minute-to-minute, the broadband speeds available while using the Service may fluctuate significantly, and may even be unavailable at times. In return for providing this Service at no charge, we ask only that you be a good neighbor while using the Service so that as many people as possible can enjoy it. Being a good neighbor means understanding and complying with these Terms of Service and Acceptable Use Policy (the “Policy”), which govern your use of and access to the Service. 
 
 Your use of the Service represents your agreement to the then-current Policy.  This Policy may be updated or changed from time to time. Your use of the Service following updates or changes to this Policy constitutes your acceptance of those changes. If you do not agree to the revisions, you must terminate your use of the Service immediately.
-If you do not understand and agree to this Policy, do not use the Service. Please let us know if you have any questions by emailing phillycommunitywireless@gmail.com. 
+If you do not understand and agree to this Policy, do not use the Service. Please let us know if you have any questions by emailing info@phillycommunitywireless.org. 
 
 # Security Warning 
 

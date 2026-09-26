@@ -48,7 +48,7 @@ Imaginamos un futuro justo en el que todos puedan acceder a Internet de manera s
 - template: video
   src: "https://www.youtube-nocookie.com/embed/K3eBKRU4VVI"
   title: Video documental sobre Philly Community Wireless producido por Big Picture Alliance.
-  text: None.
+  # text: 
   header: 
     text: "Mira nuestro documental con subtítulos en español (2022)"
     class: tc
@@ -63,4 +63,4 @@ Imaginamos un futuro justo en el que todos puedan acceder a Internet de manera s
 
 Philly Community Wireless se compromete a ampliar el acceso a Internet, aumentar los conocimientos tecnológicos y fomentar la autonomía de la comunidad con nuestros vecinos. A través de nuestro modelo único de Internet comunitario, nos asociamos con organizaciones locales y vecinos para ampliar el acceso digital donde más se necesita.
 
-Para obtener más información sobre nuestro personal, juntas directivas y otras personas involucradas en nuestro trabajo, visite nuestra página [Equipo](/es/about/people/). Para recibir actualizaciones sobre nuestro trabajo, [suscríbate a nuestro boletín informativo](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) y síganos en las redes sociales @phillycommunitywireless.
+Para obtener más información sobre nuestro personal, juntas directivas y otras personas involucradas en nuestro trabajo, visite nuestra página [Equipo](/es/about/people/). Para recibir actualizaciones sobre nuestro trabajo, [suscríbate a nuestro boletín informativo](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631) y síganos en las redes sociales @phillycommunitywireless. Para comunicarse con nosotros, visite nuestra página de [Contacto](/es/contact/).
