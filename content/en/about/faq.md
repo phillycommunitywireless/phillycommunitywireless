@@ -20,7 +20,7 @@ We incorporate participatory design and technical training for the community tha
 
 For a condensed list of available digital resources, [click here](/resources/).
 
-For more information on our partner, Philly Wisper, see their [FAQ](https://phillywisper.net/faq/).
+For more information on our partner, PhillyWisper, see their [FAQ](https://phillywisper.net/faq/).
 
 ### What areas of the Norris Square Park neighborhood currently have wifi?
 

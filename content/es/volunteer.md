@@ -55,7 +55,7 @@ Si está interesado en participar, rellene nuestro [formulario de inscripción p
         
         ## Estas son algunas de las áreas de habilidades relevantes para nuestro trabajo:
         
-        * Campañas electorales y reparto de volantes
+        * Visitas puerta a puerta y reparto de volantes
 
         * Eventos: organización de mesas, planificación y gestión
 
@@ -72,7 +72,7 @@ Si está interesado en participar, rellene nuestro [formulario de inscripción p
     text: "¡Consulta nuestro calendario para hacerte una idea de los próximos eventos y oportunidades de voluntariado presenciales! La mayoría de nuestras instalaciones se coordinan los jueves o viernes, y nuestro objetivo es organizar sesiones de voluntariado los sábados una o dos veces al mes."
 ---
 
-¡Nos encantan los voluntarios! Utiliza tus habilidades (¡sea cuales sean!) para contribuir a la comunidad de Filadelfia y apoyar el acceso a Internet para todos. Hay oportunidades de voluntariado presencial y a distancia disponibles; te invitamos a participar en la medida que te resulta más conveniente.
+¡Nos encantan los voluntarios! Utiliza tus habilidades (¡sean cuales sean!) para contribuir a la comunidad de Filadelfia y apoyar el acceso a Internet para todos. Hay oportunidades de voluntariado presencial y a distancia disponibles; te invitamos a participar en la medida que te resulta más conveniente.
 
 
 Si deseas apoyar nuestro trabajo pero no puedes ser voluntario en este momento, consulta nuestra [página de apoyo](/es/support/) para conocer otras formas de ayudar.

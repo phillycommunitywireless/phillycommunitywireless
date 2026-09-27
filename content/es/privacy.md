@@ -6,7 +6,7 @@ description: "Cómo Philly Community Wireless recopila, usa, comparte y protege 
 ---
 **Fecha de entrada en vigor**: 1 de marzo de 2021
 
-**Última actualización**: 21 de mayo de 2021
+**Última actualización**: 25 de septiembre de 2026
 
 ***
 
@@ -22,7 +22,7 @@ Nos reservamos el derecho de cambiar de vez en cuando nuestro Aviso de privacida
 4. [**CÓMO COMPARTIMOS INFORMACIÓN PERSONAL**](#l5ns2o)
 5. [**CÓMO PROTEGEMOS LA INFORMACIÓN PERSONAL**](#35nkun2)
 6. [**PRIVACIDAD DE LOS NIÑOS**](#1ksv4uv)
-7. [**TU ELECCIÓNES**](#1fob9te) 
+7. [**TUS OPCIONES**](#1fob9te) 
 8. [**SITIO WEB Y APLICACIONES DE TERCEROS**](#2jxsxqh)
 9. [**CONTACTARNOS**](#z337ya)
 
@@ -127,7 +127,7 @@ Nos dedicamos a garantizar la seguridad de su información personal. Utiliza med
 
 Nuestros Servicios no son para niños o menores de 13 años. No recopilamos deliberadamente información personal de niños u otras personas menores de 13 años de edad. Las personas que son niños o personas menores de 13 años no deben intentar proporcionarnos información personal. Si cree que hemos recibido información personal de niños o menores de 13 años, por favor [contactarnos](#z337ya) inmediatamente.
 
-## 7.  TU ELECCIÓNES {#1fob9te}
+## 7.  TUS OPCIONES {#1fob9te}
 
 **_Comunicaciones por correo electrónico / Marketing directo_**
 

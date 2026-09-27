@@ -43,7 +43,7 @@ segments:
     
     right: 
       title: "Recursos"
-      text: "Si necesitas acceso más inmediato a Internet y otros recursos digitales, visitas nuestra [página de recursos](/es/resources/). Allí encontrarás información sobre cómo acceder a Internet asequible, ordenadores y entrenamiento en habilidades digitales.
+      text: "Si necesitas acceso más inmediato a Internet y otros recursos digitales, visita nuestra [página de recursos](/es/resources/). Allí encontrarás información sobre cómo acceder a Internet asequible, ordenadores y entrenamiento en habilidades digitales.
 
 
 Si te encuentras fuera de nuestra zona de cobertura, te animamos a que te pongas en contacto con nosotros si necesitas ayuda para acceder a recursos digitales."
@@ -52,7 +52,7 @@ Si te encuentras fuera de nuestra zona de cobertura, te animamos a que te pongas
     # newsletter 
   - template: newsletter-verbose
     title: Mantente en contacto
-    subtitle: Regístrete para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
+    subtitle: Regístrate para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
     
 ---
 

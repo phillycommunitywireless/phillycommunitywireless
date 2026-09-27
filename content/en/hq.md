@@ -23,7 +23,7 @@ segments:
       Our headquarters at NSNP is a quick walk from either the York-Dauphin or Berks Market-Frankford Line SEPTA stops.
       
       ## Driving{class="top-1 relative mb0"}
-      Street parking is available around Norris Square Park; availabiliy is limited. 
+      Street parking is available around Norris Square Park; availability is limited. 
       
       ## Cycling{class="top-1 relative mb0"}
       There is an Indego stop a ~5 minute walk away at 2nd and Norris next to The Ground Coffee.

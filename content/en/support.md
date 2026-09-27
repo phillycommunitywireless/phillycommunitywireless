@@ -33,7 +33,7 @@ segments:
     - template: call-to-action-photo-right
       class: bg-pcw
       title: "Why Support PCW?"
-      text: Our cost-effective wireless network connects thousands of users to the internet. **Just $100 dollars** covers the cost of one new device to add to our network, and can save multiple households hundreds of dollars per year. 
+      text: Our cost-effective wireless network connects thousands of users to the internet. **Just $100** covers the cost of one new device to add to our network, and can save multiple households hundreds of dollars per year. 
       text_class: bg-light-gray pa4 mv3 ba bw1 b--pcw-dark-blue
       photo: "/images/web updates/View_HACE_Equipment.jpg"
       photo_alt_text: "A white rectangular access point device pointing down from high up towards blocks of rowhomes."

@@ -12,7 +12,7 @@ Below are some resources to help you connect to affordable or free internet acce
 ## Get Digital Resources: Digital Navigators (Multilingual) 
 **Location**: Over the phone  
 **Description**: Designed to assist local community members in Philadelphia with information on Internet access, digital literacy training, and basic technical support issues. Digital Navigators can also help you enroll for discounted internet when available.  
-**Contact**: For contact information about the Digital Navigator program's at Drexel's Excite Center, Beyond Literacy, and SEAMAAC, see the [city's website](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). Alternatively, call 311 to make an appointment with a Digital Navigator.  
+**Contact**: For contact information about the Digital Navigator programs at Drexel's Excite Center, Beyond Literacy, and SEAMAAC, see the [city's website](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). Alternatively, call 311 to make an appointment with a Digital Navigator.  
 
 ## Digital Literacy Training and Technical Support: Digital Access Center at Temple University (English)
 **Description**: Provides an on-site open computer lab, digital literacy training, affordable internet options, home computer solutions, and technical support via their hotline.  
@@ -30,13 +30,13 @@ Below are some resources to help you connect to affordable or free internet acce
 **Contact**: Call 215-621-8118 or email philadelphia@pcsforpeople.org.   
 
 ## Digital Literacy Training: Beyond Literacy
-**Description**: Join our free, digital skills workshops at convenient locations across Philadelphia. With a variety of workshop offerings, residents can improve computer skills, learn how to send emails, apply for jobs online, and more.
-**Location and Time**: Varies.
+**Description**: Join our free, digital skills workshops at convenient locations across Philadelphia. With a variety of workshop offerings, residents can improve computer skills, learn how to send emails, apply for jobs online, and more.  
+**Location and Time**: Varies.  
 **Register**: Learn more [here](https://beyondliteracy.org/digitalskills/).
 
 ## Digital Literacy Training: Esperanza Hope Digital Skills (English and Spanish)
-**Description**: Esperanza’s Hope Digital Skills Literacy Project is designed to equip you with the tools you need to accomplish personal, educational, and professional goals. From workshops on how to use a computer and Google Suite, to digital skills for small business owners, the program offers a range of options for jumpstarting or enhancing your ability to use a computer for everyday life, education, and work.
-**Location and Time**: Varies.
+**Description**: Esperanza’s Hope Digital Skills Literacy Project is designed to equip you with the tools you need to accomplish personal, educational, and professional goals. From workshops on how to use a computer and Google Suite, to digital skills for small business owners, the program offers a range of options for jumpstarting or enhancing your ability to use a computer for everyday life, education, and work.  
+**Location and Time**: Varies.  
 **Register**: Call 215-297-4641 and learn more [here](https://esperanza.eastern.edu/portfolio/hope-digital-skills-program/).
   
 ## Digital Literacy Training: Generations on Line   

@@ -266,7 +266,7 @@ languages:
             external: true
           parent: documentos
           weight: "0"
-        - name: Instalacion
+        - name: Instalaciones
           url: https://docs.phillycommunitywireless.org/es/installations/installations/
           params:
             external: true

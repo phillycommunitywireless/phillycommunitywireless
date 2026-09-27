@@ -16,7 +16,7 @@ PCW is well-positioned to install these devices in public and private locations 
 1. If the air quality is good or not good in their area
 2. How it compares to other parts of the city
 
-{{< figure class="figure-center" src="/images/Air-Monitor-WKM.jpg" alt="An arial view of a white circular device with stickers saying Purple Air and Philly Community Wireless attached to a house" style="height: auto">}}
+{{< figure class="figure-center" src="/images/Air-Monitor-WKM.jpg" alt="An aerial view of a white circular device with stickers saying Purple Air and Philly Community Wireless attached to a house" style="height: auto">}}
 
 Real-time air quality data can be viewed on [PurpleAir's map](https://map.purpleair.com/). 
 

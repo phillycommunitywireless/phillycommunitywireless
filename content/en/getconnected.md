@@ -12,7 +12,7 @@ segments:
     text: "We currently service the North Philadelphia neighborhoods of **Norris Square**, **Fairhill**, and **Kensington**.
 
 
-    If you live in these area and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9) and we'll get back to you."
+    If you live in these areas and you want to get connected to free Wi-Fi or host an antenna to connect your neighbors, please fill out our [sign up form](https://tally.so/r/mR8VM9) and we'll get back to you."
     photo: /images/litebeam-bunnyears.png
     photo_alt_text: "On a roof, a structure with a pole and access point device and a LiteBeam device mounted to a chimney."
     button: 
@@ -29,7 +29,7 @@ segments:
       alt: "3 people on a roof securing an access point device to a pole with a garden in the background at street level."
       text: "The first step in our service process involves assessing whether we can provide our network at your requested location. If we are able to service your location, we will coordinate an installation visit, which may occur in multiple stages over several days."
     - image: "/images/web updates/dan-ap.jpg"
-      alt: "A man reaching out of a second floor window with one arm to adjust a device next to an air conditining unit."
+      alt: "A man reaching out of a second floor window with one arm to adjust a device next to an air conditioning unit."
       text: "Philly Community Wireless provides network maintenance to improve or repair existing set-ups. If you notice an issue with your connection, please reach out to us.
       
       For more information on what an install involves, visit our [Installation documentation](https://docs.phillycommunitywireless.org/installations/installations/)."

@@ -6,7 +6,7 @@ description: "How Philly Community Wireless collects, uses, shares, and protects
 
 **Effective Date**: March 1, 2021
 
-**Last Updated**: May 21, 2021
+**Last Updated**: September 25, 2026
 
 *******
 

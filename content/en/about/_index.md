@@ -37,7 +37,7 @@ segments:
 We envision a just future where everyone can meaningfully access the internet, regardless of their income or housing situation. We believe in establishing a baseline of internet access for all that does not seek to solely provide every “house” or “home” with its own, separate WiFi network, but rather spreads WiFi access across large areas of a city. This approach offers a viable alternative to the existing paradigm of privatized internet access and shows what shared internet service provisioning can make possible in a major urban setting."
   right:
     title: Our Values
-    text: "**We believe** that access to the Internet is a fundamental human right and that independent, community-owned and -operated wireless is a sustainable and scaleable means of digital inclusion.
+    text: "**We believe** that access to the Internet is a fundamental human right and that independent, community-owned and -operated wireless is a sustainable and scalable means of digital inclusion.
 
 
 **We support** net neutrality principles and believe that the Internet should be provided free of throttling, zero-rating, and the tracking and monetization of user behavior and data.

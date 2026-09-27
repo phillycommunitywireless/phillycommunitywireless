@@ -10,7 +10,7 @@ segments:
     sections:
       - photo: "/images/IMG_6878.jpg"
         photo_alt_text: "Un dispositivo de punto de acceso blanco en un poste con el cielo de fondo."
-        text: "**¡Conéctate!** Únate a nuestra red y utilice nuestro servicio Wi-Fi en su hogar, organización o espacio verde local."
+        text: "**¡Conéctate!** Únete a nuestra red y utiliza nuestro servicio Wi-Fi en tu hogar, organización o espacio verde local."
         button_text: Nuestro Wi-Fi 
         button_href: "/es/getconnected"
       - photo: "/images/pcwvolunteers.png"
@@ -30,7 +30,7 @@ segments:
     photo: "/images/web updates/clearfield-install.jpg"
     photo_alt_text: "4 voluntarios de PCW en un tejado, uno de ellos utilizando un taladro para fijar un poste en el que se encuentra el dispositivo de punto de acceso."
     button: 
-      button_text: "Que hacemos"
+      button_text: "Qué hacemos"
       button_href: "/es/about/"
       # no_button_arrow: "true"
     class: bg-light-gray
@@ -45,7 +45,7 @@ segments:
   # newsletter 
   - template: newsletter-verbose
     title: Mantente en contacto
-    subtitle: Regístrete para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
+    subtitle: Regístrate para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
 
   # Image
   - template: image

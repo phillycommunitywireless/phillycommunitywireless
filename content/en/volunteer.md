@@ -90,7 +90,7 @@ Installations often involve some sort of basic labor (climbing a ladder, drillin
 
 We attend local events, usually by tabling with PCW swag and sign-up forms. We have also given a variety of presentations (informal to formal in front of national audiences) about PCW and the importance of an alternative model of internet in order to more effectively bridge the digital divide.
 
-An important part of our community outreach efforts is to increase awareness about our network and increase adoption rates. Our current strategy around awareness raising is to put up flyers and canvas in neighborhoods where we have already built our network infrastructure.
+An important part of our community outreach efforts is to increase awareness about our network and increase adoption rates. Our current strategy around awareness raising is to put up flyers and canvass in neighborhoods where we have already built our network infrastructure.
 
 We also connect with like-minded organizations where possible, often leading to discussions on how we can mutually support each other's work.
 

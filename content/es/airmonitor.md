@@ -1,6 +1,6 @@
 ---
 date: 2023-09-12
-title: "Air Monitoring"
+title: "Monitoreo del aire"
 ---
 
 ## Act on Air: El Proyecto Philly Air Monitor
@@ -23,7 +23,7 @@ Los datos sobre la calidad del aire en tiempo real se pueden consultar en [el ma
 </div>  
 
 
-## Air Monitor Installations
+## Instalaciones de monitores de aire
 Agradecemos el apoyo recibido del Programa de Préstamo de Sensores de la Región 3 de la EPA, así como de organizaciones asociadas como el Consejo del Aire Limpio, el Programa de Geografía y Estudios Urbanos de la Universidad de Temple, dirigido por la profesora Christina Rosan, la Universidad de Pensilvania, y el Haverford College.  
 
 Los monitores de aire instalados por PCW se encuentran actualmente en:  

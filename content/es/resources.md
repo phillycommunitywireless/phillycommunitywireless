@@ -9,7 +9,7 @@ description: "Recursos para ayudarte a conseguir Internet asequible o gratuito, 
 *******
 Te ofrecemos algunos recursos que te ayudarán a conectarte a Internet de forma asequible o gratuita, tomar clases de alfabetización digital y mucho más. ¡Échales un vistazo!
 
-## Obten recursos digitales: Navegadores digitales (multilingües)  
+## Obtén recursos digitales: Navegadores digitales (multilingües)  
 **Ubicación**: Por teléfono  
 **Descripción**: Diseñado para ayudar a los miembros de la comunidad local de Filadelfia con información sobre el acceso a Internet, capacitación en alfabetización digital y cuestiones básicas de soporte técnico. Los navegadores digitales también pueden ayudarle a inscribirse para obtener descuentos en Internet cuando estén disponibles.   
 **Contacto**: Para obtener información de contacto sobre el programa Navegadores digitales en el Drexel's Excite Center, Beyond Literacy y SEAMAAC, consulte el [sitio web de la ciudad](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). También puede llamar al 311 para concertar una cita con un navegador digital.  
@@ -24,14 +24,14 @@ Te ofrecemos algunos recursos que te ayudarán a conectarte a Internet de forma 
 **Lugar y horario**: Variable.  
 **Inscripción**: Más información [aquí](https://welcomingcenter.org/esol-digital-skills/).  
 
-## Digital Literacy Training: Esperanza Hope Digital Skills (Español y inglés)
-**Description**: El Proyecto de Alfabetización en Habilidades Digitales de Esperanza está diseñado para brindarle las herramientas que necesita para lograr metas personales, educativas y profesionales. Desde talleres sobre cómo usar una computadora y Google Suite hasta habilidades digitales para propietarios de pequeñas empresas, el programa ofrece una variedad de opciones para impulsar o mejorar su capacidad de usar una computadora para la vida cotidiana, la educación y el trabajo.
-**Location and Time**: Variable.
-**Register**: Lkama al 215-297-4641 and apprende más [aqui](https://esperanza.eastern.edu/portfolio/hope-digital-skills-program/).
+## Capacitación en alfabetización digital: Esperanza Hope Digital Skills (español e inglés)
+**Descripción**: El Proyecto de Alfabetización en Habilidades Digitales de Esperanza está diseñado para brindarle las herramientas que necesita para lograr metas personales, educativas y profesionales. Desde talleres sobre cómo usar una computadora y Google Suite hasta habilidades digitales para propietarios de pequeñas empresas, el programa ofrece una variedad de opciones para impulsar o mejorar su capacidad de usar una computadora para la vida cotidiana, la educación y el trabajo.
+**Lugar y horario**: Variable.  
+**Inscripción**: Llama al 215-297-4641 y obtén más información [aquí](https://esperanza.eastern.edu/portfolio/hope-digital-skills-program/).
 
 ## Biblioteca Pública de Filadelfia  
-**Descripción**: Obten una tarjeta de la Biblioteca Pública de Filadelfia. Podrás acceder a clases de idiomas y educación, libros y revistas (físicos o en línea), utilizar Internet en cualquier biblioteca pública de la ciudad y mucho más.  
-**Regístrete para obtener un carné de biblioteca**: [Regístrete aquí](https://catalog.freelibrary.org/MyResearch/register).  
+**Descripción**: Obtén una tarjeta de la Biblioteca Pública de Filadelfia. Podrás acceder a clases de idiomas y educación, libros y revistas (físicos o en línea), utilizar Internet en cualquier biblioteca pública de la ciudad y mucho más.  
+**Regístrate para obtener un carné de biblioteca**: [Regístrate aquí](https://catalog.freelibrary.org/MyResearch/register).  
 **Próximas clases de informática**: [Consulta el calendario aquí](https://libwww.freelibrary.org/calendar/?type=computer-classes).  
 
 ## Centros públicos de computación  
