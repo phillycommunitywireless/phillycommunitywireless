@@ -21,4 +21,6 @@ segments:
   data: timeline
 ---
 
-Founded in 2020 during the COVID-19 pandemic, Philly Community Wireless started as a volunteer-led project made up of librarians and teachers, organizers, technologists, and community leaders. 
+Founded in 2020 during the COVID-19 pandemic, Philly Community Wireless started as a volunteer-led project made up of librarians and teachers, organizers, technologists, and community leaders. Our first node went up in July 2020 with our partner PhillyWisper, and since 2021 we've been building free Wi-Fi in Norris Square and across North Philadelphia, with neighbors and community organizations hosting our equipment on their buildings.
+
+See how the network works in our story map, then scroll through our history below.

@@ -23,14 +23,14 @@
 */}}
 {{ $entries := index site.Data (.data | default "timeline") }}
 <section class="cf center w-75-l w-100 pv4 {{ .class }}">
-  {{ with .title }}<h1 class="tc ph3">{{ . }}</h1>{{ end }}
+  {{ with .title }}<h2 class="timeline-heading tc ph3">{{ . }}</h2>{{ end }}
   {{ with .text }}<div class="f3 lh-copy tc center measure-wide ph3">{{ . | markdownify }}</div>{{ end }}
   {{ with .image }}
   <div class="center measure-wide ph3 mv3">
     {{ partial "responsive-image.html" (dict "src" . "alt" $.alt "class" "br3 w-100 h-auto db" "sizes" "(min-width: 60em) 45vw, 90vw") }}
   </div>
   {{ end }}
-  <div class="timeline-panel mh3 mh4-ns mt4 br3" tabindex="0" role="region" aria-label="{{ .title | default "Timeline" }}">
+  <div class="timeline-panel mh3 mh4-ns mt4 br3" role="region" aria-label="{{ .title | default "Timeline" }}">
   <ol class="timeline list pl0 ma0">
     {{ $prevYear := "" }}
     {{ range $entries }}
@@ -43,7 +43,7 @@
         {{ if ne $year $prevYear }}<span class="timeline-year f2 db">{{ $year }}</span>{{ end }}
         <time datetime="{{ .date }}">{{ .display_date | default ($t.Format "January 2006") }}</time>
       </div>
-      <h2 class="f3 mt0 mb2">{{ .headline }}</h2>
+      <h3 class="f3 mt0 mb2">{{ .headline }}</h3>
       <div class="f4 lh-copy measure-wide">{{ .text | markdownify }}</div>
       {{ with .image }}
       <div class="mt3 measure-wide">
