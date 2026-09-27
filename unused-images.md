@@ -59,5 +59,5 @@ if any are wanted for the story map, they are in git history, e.g.
 | `hero2.jpg`, `hero3.jpg` | Old homepage hero options |
 | `ZoeKHeadshot-Square.jpg` | Headshot not on the People page |
 | `AlexWC_Portrait.jpg`, `AWCBW.jpg` | Alternate headshots of Alex |
-| `ChrisMTabling.png` | `ChrisMTabling-Square.jpg` is the one in use |
+| `ChrisMTabling.png`, `ChrisMTabling-Square.jpg` | Tabling photos; the People page uses `ChrisMHeadshot-Square.jpg` |
 | `merch/pcwtote.png`, `merch/pcw-tote-shirt.jpg`, `merch/pcw-hat-tote.jpg`, `merch/pcw-tote-hat-shirt.jpg` | Tote bag photos; no tote is listed in the shop |
