@@ -27,7 +27,7 @@
   {{ with .text }}<div class="f3 lh-copy tc center measure-wide ph3">{{ . | markdownify }}</div>{{ end }}
   {{ with .image }}
   <div class="center measure-wide ph3 mv3">
-    {{ partial "responsive-image.html" (dict "src" . "alt" $.alt "class" "br3 w-100 db" "sizes" "(min-width: 60em) 45vw, 90vw") }}
+    {{ partial "responsive-image.html" (dict "src" . "alt" $.alt "class" "br3 w-100 h-auto db" "sizes" "(min-width: 60em) 45vw, 90vw") }}
   </div>
   {{ end }}
   <div class="timeline-panel mh3 mh4-ns mt4 br3" tabindex="0" role="region" aria-label="{{ .title | default "Timeline" }}">
@@ -47,7 +47,7 @@
       <div class="f4 lh-copy measure-wide">{{ .text | markdownify }}</div>
       {{ with .image }}
       <div class="mt3 measure-wide">
-        {{ partial "responsive-image.html" (dict "src" . "alt" $e.alt "class" "br3 w-100 db" "sizes" "(min-width: 60em) 45vw, 90vw") }}
+        {{ partial "responsive-image.html" (dict "src" . "alt" $e.alt "class" "br3 w-100 h-auto db" "sizes" "(min-width: 60em) 45vw, 90vw") }}
       </div>
       {{ end }}
       {{ with .video }}
