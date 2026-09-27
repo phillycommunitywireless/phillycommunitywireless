@@ -1,6 +1,7 @@
 ---
 title: "Nuestra historia"
 date: 2026-03-04
+description: "Cómo Philly Community Wireless comenzó en 2020 y creció hasta ofrecer Wi-Fi gratuito y controlado por la comunidad en el norte de Filadelfia: nuestro mapa narrativo y una línea de tiempo de hitos."
 
 segments:
 - template: call-to-action-photo-right
