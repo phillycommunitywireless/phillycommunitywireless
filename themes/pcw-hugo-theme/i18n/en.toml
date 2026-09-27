@@ -73,6 +73,15 @@ other = "Last Name"
 [newsletterSubscribe]
 other = "Subscribe"
 
+[newsletterFieldRequired]
+other = "This field is required."
+
+[newsletterInvalidEmail]
+other = "Please enter a valid email address."
+
+[youtubeVideo]
+other = "YouTube Video"
+
 
 [calendarNotice]
 other = "Our event calendar is hosted by Google, which sets cookies when it loads, so it only loads if you ask for it."

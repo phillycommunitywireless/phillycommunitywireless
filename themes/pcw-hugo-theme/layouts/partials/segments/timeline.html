@@ -41,7 +41,7 @@
       <span class="timeline-marker absolute" aria-hidden="true"></span>
       <div class="timeline-date f5 b ttu tracked color-pcw-dark-blue mb2">
         {{ if ne $year $prevYear }}<span class="timeline-year f2 db">{{ $year }}</span>{{ end }}
-        <time datetime="{{ .date }}">{{ .display_date | default ($t.Format "January 2006") }}</time>
+        <time datetime="{{ .date }}">{{ .display_date | default (time.Format "January 2006" $t) }}</time>
       </div>
       <h2 class="f3 mt0 mb2">{{ .headline }}</h2>
       <div class="f4 lh-copy measure-wide">{{ .text | markdownify }}</div>

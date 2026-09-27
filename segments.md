@@ -95,7 +95,7 @@ Same as above, but split vertically with an image on the right side.
 ![A screenshot of the call-to-action-image template on a website.](./assets/readme/call-to-action-image.png)
 
 #### `icons`
-A responsive layout featuring three font-awesome icons with optional text labels. Supports [Font Awesome 5](https://fontawesome.com/v5.0/icons) icons.
+A responsive layout featuring three icons with optional text labels. Icons are inline SVGs from `themes/pcw-hugo-theme/layouts/partials/icon.html`; use a Font Awesome-style class such as `fas fa-wifi`, where the `fa-<name>` part must be one of the icons defined in that partial (add new ones there from [Font Awesome Free](https://fontawesome.com/icons)).
 ```yml
 - template: icons
   icons:

@@ -15,4 +15,4 @@ Founded in 2020 during the COVID-19 pandemic, Philly Community Wireless started 
 
 For an interactive map of our history, please view our [Scrollytelling map](https://phillycommunitywireless.github.io/pcw-scrollytelling-map/)!
 
-<iframe title="Philly Community Wireless Story Map" src="https://phillycommunitywireless.github.io/pcw-scrollytelling-map/" width="100%" height="600"></iframe>
+<iframe title="Philly Community Wireless Story Map" src="https://phillycommunitywireless.github.io/pcw-scrollytelling-map/" width="100%" height="600" loading="lazy"></iframe>
