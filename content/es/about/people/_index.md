@@ -1,7 +1,7 @@
 ---
 date: 2024-07-01
-title: "Nuestro equipo"
-description: "Conoce al personal, el Consejo de Asesores y los exintegrantes de Philly Community Wireless."
+title: "Equipo"
+description: "Conoce al personal, al Consejo de Asesores y a los exintegrantes de Philly Community Wireless."
 layout: "people/people"
 show_title: true
 aliases:

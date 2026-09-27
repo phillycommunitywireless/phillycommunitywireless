@@ -8,8 +8,8 @@ segments:
     title: "En los medios"
     stories:
       - photo: "/images/nsnp_antenna.jpg"
-        photo_alt_text: "Una antena de PCW en Norris Square Neighborhood Project"
-        quote: "¿Por qué tendría que estar limitado a cuatro paredes?"
+        photo_alt_text: "Una antena de PCW en el Norris Square Neighborhood Project"
+        quote: "Why would it be restricted by four walls?"
         attribution: "Leanne Przybylowski, en *Billy Penn*"
         outlet: "Billy Penn"
         headline: "Organization pulls Kensington community together by spreading wi-fi outdoors"
@@ -17,8 +17,8 @@ segments:
         date: "2 de julio de 2025"
 
       - photo: "/images/Drone_HartLane_Active.JPG"
-        photo_alt_text: "Imagen tomada desde un dron que muestra a 5 personas en el techo de una casa adosada, 4 de ellas trabajando en una pequeña estructura con un dispositivo de punto de acceso."
-        quote: "No eres solo un consumidor pasivo de este servicio público, sino un participante activo en su construcción y mantenimiento."
+        photo_alt_text: "Imagen tomada desde un dron que muestra a 5 personas en el techo de una casa en hilera, 4 de ellas trabajando en una pequeña estructura con un dispositivo de punto de acceso."
+        quote: "You aren't just a passive consumer of this utility, but an active participant in its construction and sustenance."
         attribution: "Alex Wermer-Colan, en *CNET*"
         outlet: "CNET"
         headline: "Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time"
@@ -27,7 +27,7 @@ segments:
 
       - photo: "/images/pcwvolunteers2.jpg"
         photo_alt_text: "7 personas posando para una foto grupal en un techo, con un dispositivo y árboles altos detrás."
-        quote: "El acceso tiene que ver con la infraestructura, y la adopción, con el compromiso de la comunidad."
+        quote: "Access is about infrastructure and adoption is community buy-in."
         attribution: "Alex Wermer-Colan, en *Technical.ly*"
         outlet: "Technical.ly Philly"
         headline: "A group of Philly technologists are working on a free, community-based mesh Wi-Fi network"
@@ -37,11 +37,11 @@ segments:
 
 ## Toda la cobertura
 
-Billy Penn, [Organization pulls Kensington community together by spreading wi-fi outdoors](https://billypenn.com/2025/07/02/philly-community-wireless-outdoor-wifi-importance/), 2 de julio de 2025.
+Billy Penn, [Organization pulls Kensington community together by spreading wi-fi outdoors](https://billypenn.com/2025/07/02/philly-community-wireless-outdoor-wifi-importance/), 2 de julio de 2025
 
-Billy Penn, [Philly residents take a DIY approach to solving quality of life issues](https://billypenn.com/2024/12/10/resident-provided-city-services-wifi-street-signs-displays/), 10 de diciembre de 2024.
+Billy Penn, [Philly residents take a DIY approach to solving quality of life issues](https://billypenn.com/2024/12/10/resident-provided-city-services-wifi-street-signs-displays/), 10 de diciembre de 2024
 
-Tech Policy, [America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?](https://www.techpolicy.press/america-disconnected-whats-bidens-plan-for-averting-digital-disaster/), 30 de abril de 2024
+TechPolicy.Press, [America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?](https://www.techpolicy.press/america-disconnected-whats-bidens-plan-for-averting-digital-disaster/), 30 de abril de 2024
 
 CNET, [Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time](https://www.cnet.com/home/internet/features/alternative-broadband-networks-affordable-internet-for-the-people-one-rooftop-at-a-time/), 1 de octubre de 2023
 

@@ -10,7 +10,7 @@ segments:
     - template: call-to-action-photo-right
       title: "PhillyWisper"
       text: |
-        Philly Community Wireless colabora con PhillyWisper, un proveedor local de servicios de Internet inalámbrico, para instalar en los techos antenas que usamos para ofrecer una red WiFi gratuita a los residentes del barrio y a los espacios públicos.
+        Philly Community Wireless colabora con PhillyWisper, un proveedor local de servicios de Internet inalámbrico, para instalar en los techos las antenas con las que ofrecemos una red WiFi gratuita a los residentes del barrio y en espacios públicos.
       photo: "/images/partners/wisper.png"
       photo_alt_text: "Logotipo de PhillyWisper."
       button: 

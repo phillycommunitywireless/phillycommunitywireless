@@ -36,7 +36,7 @@ segments:
         - img_alt: "Subvención AARP Community Challenge"
           img_src: "/images/funders/aarp-communitychallenge-logo.png"
           link: "https://www.aarp.org/livable-communities/community-challenge/info-2025/2025-demonstration-grantees.html"
-          link_text: "Subvención de demostración AARP Community Challenge"
+          link_text: "Subvención de demostración del AARP Community Challenge"
           suffix: ", AARP (American Association of Retired Persons), 2025"
         - img_alt: "Digital Literacy Alliance"
           img_src: "/images/funders/DLA-logo.jpg"

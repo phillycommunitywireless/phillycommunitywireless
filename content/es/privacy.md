@@ -77,7 +77,7 @@ Podemos utilizar la información personal para cualquiera de los siguientes fine
 
 * proporcionarle nuestros Servicios;
 * facilitar sus interacciones y transacciones con nosotros;
-* responder a sus solicitudes, comunicaciones, sugerencias, comentarios, consultas y peticiones (incluidas sus opiniones sobre nuestros Servicios);
+* responder a sus solicitudes, comunicaciones, sugerencias, comentarios y consultas (incluidas sus opiniones sobre nuestros Servicios);
 * administrar nuestra relación con usted, incluida la creación y administración de su cuenta;
 * mantener y mejorar nuestros Servicios;
 * medir el rendimiento de nuestros Servicios;

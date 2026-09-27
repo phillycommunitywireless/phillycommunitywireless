@@ -15,13 +15,13 @@ segments:
     - template: three-button-call-to-action
       sections:
         - photo: "/images/web updates/LB_AP_KCT Garden_Alex.jpg"
-          photo_alt_text: "Un hombre sonriente de pie junto a una estructura con un LiteBeam y un dispositivo de punto de acceso en un techo, con las vías del metro y la calle detrás de él."
+          photo_alt_text: "Un hombre sonriente junto a un soporte en un techo que sostiene un LiteBeam y un punto de acceso, con las vías del tren elevado, la calle abajo y el horizonte de Center City detrás de él."
           text: "Haz una donación para apoyar directamente nuestra misión de cerrar la brecha digital en las comunidades de Filadelfia. Para procesar las donaciones, usamos Allyra, una plataforma de recaudación de fondos que usan organizaciones sin fines de lucro y asociaciones profesionales de todo el país. Puedes hacer donaciones únicas o recurrentes."
           button_text: Dona
           button_href: "https://phillycommunitywireless.allyrafundraising.com"
         - photo: "/images/web updates/Group_Power Up.png"
           photo_alt_text: "5 personas sonrientes posando para una foto con camisetas iguales de PCW."
-          text: "¡Mira los artículos de PCW! Vendemos camisetas y gorras de PCW. Las ganancias de tu compra apoyan directamente nuestro trabajo. Además, al representar a Philly Community Wireless, ¡puedes ayudar a correr la voz sobre lo que hacemos! Dinos qué artículos te gustaría ver próximamente."
+          text: "¡Mira los artículos de PCW! Vendemos camisetas y gorras de PCW. Las ganancias de tu compra apoyarán directamente nuestro trabajo. Además, al representar a Philly Community Wireless, ¡puedes ayudar a correr la voz sobre lo que hacemos! Dinos qué artículos te gustaría ver próximamente."
           button_text: Representa a PCW
           button_href: "/es/merch"
         - photo: "/images/web updates/AP-Gotham.jpg"
@@ -52,7 +52,7 @@ segments:
   # newsletter 
     - template: newsletter-verbose
       title: Mantente en contacto
-      subtitle: Regístrate para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
+      subtitle: Suscríbete para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
 
 ---
 

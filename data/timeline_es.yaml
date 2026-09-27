@@ -11,9 +11,9 @@
 - date: "2021-10-14"
   headline: "Instalación de PCW"
   group: install
-  text: "Instalación realizada en la casa de un vecino cerca del parque Norris Square. Para diciembre de 2021, ya habíamos instalado 8 puntos de acceso en todo Norris Square."
+  text: "Instalación realizada en la casa de un vecino cerca de Norris Square Park. Para diciembre de 2021, ya habíamos instalado 8 puntos de acceso en todo Norris Square."
   image: "/images/timeline/2021-10-pcw-install.jpg"
-  alt: "Tres voluntarios en el techo de una casa adosada al atardecer, con el horizonte de Filadelfia al fondo."
+  alt: "Tres voluntarios en el techo de una casa en hilera al atardecer, con el horizonte de Filadelfia al fondo."
 
 - date: "2021-12-01"
   headline: "PCW establece su sede central en el NSNP"
@@ -32,7 +32,7 @@
 - date: "2022-04-07"
   headline: "Primera instalación con energía solar"
   group: install
-  text: "Se usó el Solar Mesh Node de Holobiont Lab (un sistema autónomo alimentado con energía solar) para alimentar un punto de acceso Wi-Fi en el Villa Africana Colobó Garden del NSNP."
+  text: "Se usó el Solar Mesh Node de Holobiont Lab (un sistema autónomo que funciona con energía solar) para alimentar un punto de acceso Wi-Fi en el Villa Africana Colobó Garden del NSNP."
   image: "/images/timeline/2022-04-first-solar-powered-install.jpg"
   alt: "Un pequeño panel solar instalado sobre un techo de metal corrugado."
 
@@ -123,7 +123,7 @@
 - date: "2024-03-22"
   headline: "Entrega de computadoras"
   group: event
-  text: "Entrega de computadoras portátiles junto con PCs for People para los residentes de HACE en Casa Caribe, Caribe Towers y las Villas del Caribe. Además de las computadoras portátiles, PCW brindó apoyo técnico a los residentes que necesitaban ayuda para configurar sus nuevas computadoras."
+  text: "Entrega de computadoras portátiles junto con PCs for People para los residentes de HACE en Casa Caribe, Caribe Towers y las Villas del Caribe. Además de las computadoras portátiles, PCW brindó soporte técnico a los residentes que necesitaban ayuda para configurar sus nuevas computadoras."
   image: "/images/timeline/2024-03-pc-distribution.jpg"
   alt: "Residentes en una fila de mesas reciben computadoras portátiles en un pasillo."
 
@@ -172,7 +172,7 @@
 - date: "2024-11-11"
   headline: "Donación de Community Internet Solutions"
   group: event
-  text: "PCW recibe una enorme donación de Community Internet Solutions, de Pittsburgh (antes conocida como Meta Mesh), con motivo del cierre de la organización."
+  text: "PCW recibe una enorme donación de Community Internet Solutions (antes conocida como Meta Mesh), de Pittsburgh, con motivo de su cierre."
   image: "/images/timeline/2024-11-donation-from-community-internet-solutions.jpg"
   alt: "El interior de un camión de mudanza lleno de cajas con equipos donados."
 

@@ -4,7 +4,7 @@ title: "Exintegrantes"
 layout: "people/people"
 ---
 
-Philly Community Wireless es obra de las muchas personas que, a lo largo de los años, han dedicado su tiempo, sus habilidades y su cariño a la red. Agradecemos a todos nuestros exintegrantes — personal anterior, pasantes y miembros del consejo — por ayudar a hacer posible este trabajo.
+Philly Community Wireless es obra de las muchas personas que, a lo largo de los años, han dedicado su tiempo, sus habilidades y su cariño a la red. Agradecemos a todos nuestros exintegrantes —personal anterior, pasantes y miembros del consejo— por ayudar a hacer posible este trabajo.
 
 ## Personal anterior
 

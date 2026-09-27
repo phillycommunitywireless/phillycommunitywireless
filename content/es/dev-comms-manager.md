@@ -56,7 +56,7 @@ _Gestionar las comunicaciones y el mercadeo de la organización (25% del tiempo)
 * Diseñar la estrategia de comunicación de la organización para dar a conocer PCW y aumentar su uso, ampliar la incorporación y la participación de voluntarios, y fortalecer la coherencia de la marca
 
 
-_Mantener y hacer crecer nuestra vinculación con la comunidad (25% del tiempo):_
+_Mantener y hacer crecer nuestra participación comunitaria (25% del tiempo):_
 * Establecer, formalizar y hacer crecer relaciones recíprocas con organizaciones aliadas y con una amplia variedad de actores de la comunidad
 * Planificar, coordinar y llevar a cabo eventos comunitarios atractivos, incluidos recorridos por la red de PCW en Norris Square
 * Participar en diversos eventos en representación de PCW, desde atender mesas informativas en eventos comunitarios hasta asistir a recepciones de patrocinadores
@@ -65,7 +65,7 @@ _Mantener y hacer crecer nuestra vinculación con la comunidad (25% del tiempo):
 
 _Supervisar y dirigir al personal, a voluntarios y a los equipos de la organización (15%):_
 * Supervisar al/a la Coordinador(a) de Contenido de PCW, que trabaja a tiempo parcial (3-5 horas/semana), y supervisar a aprendices en conjunto con el/la Técnico(a) de PCW
-* Dirigir los entregables de subvenciones enfocados en actividades de alcance y vinculación comunitaria, como eventos comunitarios y programación de voluntariado
+* Dirigir los entregables de subvenciones enfocados en actividades de alcance y participación comunitaria, como eventos comunitarios y programación de voluntariado
 * Dirigir y ampliar las reuniones de equipo relacionadas con el alcance comunitario, incluidos los grupos de trabajo de voluntarios como el Equipo de Diseño Gráfico
 * Dar seguimiento a las actividades e ingresar datos en las bases de datos de la organización, sintetizando la información relevante para fortalecer la capacidad de PCW de elaborar informes de impacto y atender las necesidades de la comunidad
 * Participar en instalaciones y trabajos de mantenimiento de la red de PCW según sea necesario

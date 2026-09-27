@@ -37,7 +37,7 @@ segments:
 
   # Volunteer CTA
   - template: call-to-action-photo-right
-    text: "**Philly Community Wireless** está construyendo redes inalámbricas de Internet controladas por la comunidad en Filadelfia. Nuestro objetivo es ofrecer un nivel básico de acceso a Internet para todos, para mejorar la calidad de vida hoy y preparar a las comunidades para un mañana más saludable y próspero."
+    text: "**Philly Community Wireless** está construyendo redes inalámbricas de Internet controladas por la comunidad en Filadelfia. Nuestro objetivo es ofrecer un nivel básico de acceso a Internet para todos, que mejore la calidad de vida hoy y prepare a las comunidades para un mañana más saludable y próspero."
     photo: "/images/web updates/clearfield-install.jpg"
     photo_alt_text: "4 voluntarios de PCW en un techo; uno de ellos usa un taladro para fijar el poste donde está el dispositivo de punto de acceso."
     button: 
@@ -114,11 +114,11 @@ segments:
   # newsletter 
   - template: newsletter-verbose
     title: Mantente en contacto
-    subtitle: Regístrate para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
+    subtitle: Suscríbete para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
 
   # Image
   - template: image
     src: "/images/nkcdc-drone.jpg"
-    alt: Imagen aérea de tres personas instalando equipos en el techo de un edificio, con el vecindario al fondo.
+    alt: Imagen aérea de tres personas instalando equipos en el techo de un edificio, con el barrio al fondo.
     class: display-img-bottom-center
 ---

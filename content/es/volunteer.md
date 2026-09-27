@@ -7,12 +7,12 @@ segments:
   - template: call-to-action-photo-right
     class: bg-light-gray
     title: "Inscríbete"
-    text: "Nacimos como una coalición de base dirigida por voluntarios, y nuestro dedicado equipo de trabajo incorpora con regularidad a nuevos voluntarios del área de Filadelfia para ayudar a construir y mantener nuestra red. ¡Te invitamos a unirte y a participar en nuestra organización!
+    text: "Nacimos como una coalición de base dirigida por voluntarios, y nuestro dedicado equipo de personal incorpora con regularidad a nuevos voluntarios del área de Filadelfia para ayudar a construir y mantener nuestra red. ¡Te invitamos a unirte y a participar en nuestra organización!
 
 
 Si te interesa participar, llena nuestro [formulario de inscripción para voluntarios](https://tally.so/r/w2ODaj). "
     photo: "/images/pcwvolunteers2.jpg"
-    photo_alt_text: "7 personas posando para una foto grupal en una azotea, con un dispositivo y árboles altos detrás."
+    photo_alt_text: "7 personas posando para una foto grupal en un techo, con un dispositivo y árboles altos detrás."
     button: 
       button_text: "Inscríbete como voluntario"
       button_href: "https://tally.so/r/w2ODaj"
@@ -22,7 +22,7 @@ Si te interesa participar, llena nuestro [formulario de inscripción para volunt
     left:
         title: "Tecnología"
         text: "
-        Colabora como voluntario en el trabajo técnico de PCW, que incluye la instalación de equipos en hogares y azoteas por toda Filadelfia, la asistencia a capacitaciones presenciales en Norris Square, la configuración de redes, la cartografía y la visualización de datos, y el desarrollo web. 
+        Colabora como voluntario en el trabajo técnico de PCW, que incluye la instalación de equipos en hogares y techos por toda Filadelfia, la asistencia a capacitaciones presenciales en Norris Square, la configuración de redes, la cartografía y la visualización de datos, y el desarrollo web. 
         
         
         Muchos de nosotros estamos aprendiendo estas destrezas, así que, si son nuevas para ti, te capacitaremos en un ambiente colaborativo. Si tienes experiencia, agradecemos tus conocimientos y tu apoyo con las capacitaciones.
@@ -30,7 +30,7 @@ Si te interesa participar, llena nuestro [formulario de inscripción para volunt
         
         ## Estas son algunas de las áreas de conocimiento relevantes para nuestro trabajo:
 
-        * Instalación: acceso a azoteas, subir escaleras de mano, taladrar ladrillo, fijar cables
+        * Instalación: acceder a techos, subir escaleras de mano, taladrar ladrillo, fijar cables
 
         * Hardware y cableado: terminación y prueba de cable CAT5e, montaje de equipos en mampostería
 
@@ -82,13 +82,13 @@ Si quieres apoyar nuestro trabajo pero no puedes ser voluntario en este momento,
 
 ### Instalación de Wi-Fi
 
-Para construir nuestra red Wi-Fi, PCW busca personas u organizaciones dispuestas a "alojar" nuestros equipos de red en sus edificios (a menudo, en la azotea). Nuestro socio PhillyWisper, un proveedor de servicios de Internet inalámbrico, nos ayuda a instalar "hubs" (puntos centrales de conexión) que llevan la conectividad a Internet hasta un lugar fijo, y usamos esos hubs para compartir Internet entre distintos espacios, a través de puntos de acceso cableados e inalámbricos. Un solo hub puede dar servicio a muchas instalaciones de "nodos de malla" (mesh nodes), que consisten en puntos de acceso, cable ethernet y una conexión a un enrutador, y que PCW realiza sin necesidad de PhillyWisper.
+Para construir nuestra red Wi-Fi, PCW busca personas u organizaciones dispuestas a "alojar" nuestros equipos de red en sus edificios (a menudo, en el techo). Nuestro socio PhillyWisper, un proveedor de servicios de Internet inalámbrico, nos ayuda a instalar "nodos centrales" (hubs) que llevan la conectividad a Internet hasta un lugar fijo, y usamos esos nodos centrales para compartir Internet entre distintos espacios, a través de puntos de acceso cableados e inalámbricos. Un solo nodo central puede dar servicio a muchas instalaciones de "nodos de malla" (mesh nodes), que consisten en puntos de acceso, cable ethernet y una conexión a un enrutador, y que PCW realiza sin necesidad de PhillyWisper.
 
 Las instalaciones suelen requerir algo de trabajo físico básico (subir una escalera de mano, taladrar, cargar equipos) y resolver problemas relacionados con la conexión a una fuente de energía mediante cable ethernet. Los dispositivos instalados se incorporan a nuestra red de malla, Philly Community Wireless.
 
 ### Alcance comunitario
 
-Participamos en eventos locales, por lo general con una mesa informativa con artículos promocionales de PCW y formularios de inscripción. También hemos dado diversas presentaciones (desde informales hasta formales, ante audiencias nacionales) sobre PCW y la importancia de un modelo alternativo de Internet para cerrar la brecha digital de manera más eficaz.
+Participamos en eventos locales, por lo general con una mesa informativa con artículos promocionales de PCW y formularios de inscripción. También hemos dado diversas presentaciones (desde informales hasta formales ante audiencias nacionales) sobre PCW y la importancia de un modelo alternativo de Internet para cerrar la brecha digital de manera más eficaz.
 
 Una parte importante de nuestro trabajo de alcance comunitario es dar a conocer nuestra red y lograr que más personas la usen. Nuestra estrategia actual para darla a conocer es colocar volantes y hacer visitas puerta a puerta en los barrios donde ya hemos construido la infraestructura de nuestra red.
 
@@ -104,22 +104,22 @@ Además, hacemos todo lo posible por mantenernos al día sobre los programas de 
 
 ### Asesoría sobre Internet
 
-Estamos comenzando a ampliar nuestros servicios para incluir consultoría y asesoría. Podemos ayudar a organizaciones y personas a mejorar su propia red Wi-Fi (es decir, aunque no seamos nosotros quienes proveemos la infraestructura principal, igual podemos recomendar qué equipos para interiores comprar y ayudar a configurarlos y cablearlos) y a revisar sus facturas de Internet, para que entiendan qué se les está cobrando y cómo podrían conseguir tarifas más bajas.
+Estamos comenzando a ampliar nuestros servicios para incluir consultoría y asesoría. Podemos ayudar a organizaciones y personas a mejorar su propia red Wi-Fi (es decir, en casos en los que no proveemos la infraestructura principal, igual podemos recomendar qué equipos para interiores comprar y ayudar a configurarlos y cablearlos) y a revisar sus facturas de Internet, para que entiendan qué se les está cobrando y cómo podrían conseguir tarifas más bajas.
 
 
-Para ver guías sobre las instalaciones de nuestra red, consulta nuestra [documentación](https://docs.phillycommunitywireless.org/).
+Para ver guías sobre las instalaciones de nuestra red, consulta nuestra [documentación](https://docs.phillycommunitywireless.org/es/).
 
 
 <!-- ## Voluntarios de tecnología -->
 
 <!-- {{% notice %}}
-_El Equipo de Tecnología está buscando activamente voluntarios que ayuden con nuestro proceso de instalación: asistir a capacitaciones presenciales en Norris Square, configurar nuestro hardware de red e instalar equipos en hogares y azoteas por toda Filadelfia. Muchos de nosotros estamos aprendiendo estas destrezas, así que, si son nuevas para ti, te capacitaremos en un ambiente colaborativo. Si tienes experiencia, agradecemos tus conocimientos y tu apoyo con las capacitaciones. Lo ideal es tener acceso a un carro y/o vivir cerca del parque Norris Square. También hay oportunidades de voluntariado a distancia. Te invitamos a participar de la forma que más te convenga._{{% /notice %}} -->
+_El Equipo de Tecnología está buscando activamente voluntarios que ayuden con nuestro proceso de instalación: asistir a capacitaciones presenciales en Norris Square, configurar nuestro hardware de red e instalar equipos en hogares y techos por toda Filadelfia. Muchos de nosotros estamos aprendiendo estas destrezas, así que, si son nuevas para ti, te capacitaremos en un ambiente colaborativo. Si tienes experiencia, agradecemos tus conocimientos y tu apoyo con las capacitaciones. Lo ideal es tener acceso a un carro y/o vivir cerca de Norris Square Park. También hay oportunidades de voluntariado a distancia. Te invitamos a participar de la forma que más te convenga._{{% /notice %}} -->
 
 
 <!-- _Estas son algunas de las áreas de conocimiento que buscamos:_
 - Redes: diseño de redes, seguridad, protocolos, hardware, redes de malla, Linux/UNIX
 - Hardware y cableado: terminación y prueba de cable CAT5e, montaje de equipos en mampostería
-- Instalación: acceso a azoteas, subir escaleras de mano, taladrar ladrillo, fijar cables
+- Instalación: acceder a techos, subir escaleras de mano, taladrar ladrillo, fijar cables
 - Conocimientos básicos de electricidad residencial
 - Desarrollo de software
 - Documentación técnica
@@ -132,7 +132,7 @@ _El Equipo de Tecnología está buscando activamente voluntarios que ayuden con 
 <!-- ## Voluntarios de alcance comunitario -->
 <!-- 
 {{% notice %}}
-_¡El Equipo de Alcance Comunitario está buscando activamente voluntarios que hablen español para trabajar en la participación y el alcance comunitario! También buscamos voluntarios que puedan ayudar con el alcance comunitario en persona en nuestras instalaciones de la red en el norte de Filadelfia y sus alrededores. También hay oportunidades de voluntariado a distancia. Te invitamos a participar de la forma que más te convenga._
+_¡El Equipo de Alcance Comunitario está buscando activamente voluntarios con dominio del español para trabajar en la participación y el alcance comunitario! También buscamos voluntarios que puedan ayudar con el alcance comunitario presencial en nuestras instalaciones de red y sus alrededores, en el norte de Filadelfia. También hay oportunidades de voluntariado a distancia. Te invitamos a participar de la forma que más te convenga._
 {{% /notice %}} -->
 
 

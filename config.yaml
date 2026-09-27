@@ -240,7 +240,7 @@ languages:
           url: "/resources"
           parent: about-us
           weight: "6"
-        - name: Preguntas Frecuentes
+        - name: Preguntas frecuentes
           url: "/about/faq"
           parent: about-us
           weight: "7"
