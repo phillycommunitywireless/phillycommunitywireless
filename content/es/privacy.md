@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Aviso de Privacidad
+description: "Cómo Philly Community Wireless recopila, usa, comparte y protege la información personal en nuestro sitio web, programas y red Wi-Fi."
 
 ---
 **Fecha de entrada en vigor**: 1 de marzo de 2021

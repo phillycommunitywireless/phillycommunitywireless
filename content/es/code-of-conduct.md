@@ -1,5 +1,6 @@
 +++
 title = "Código de Conducta de PCW"
+description = "Los valores y las normas comunitarias que se pide seguir a todas las personas que participan en Philly Community Wireless."
 
 +++
 ## Valores de participación

@@ -1,6 +1,7 @@
 ---
 date: 2026-01-04
 title: Contáctenos
+description: "Comunícate con Philly Community Wireless si tienes preguntas sobre nuestra red Wi-Fi gratuita, el voluntariado o cómo colaborar con nosotros."
 layout: single
 header_photo: "/images/volunteers_first_stop_recovery.jpg"
 header_alt: "A wide panorama photo with 4 PCW volunteers on a roof."

@@ -1,6 +1,7 @@
 ---
 date: 2024-07-03
 title: "Partners"
+description: "The community organizations, universities, and internet providers that Philly Community Wireless works with to bring free Wi-Fi to Philadelphia neighborhoods."
 layout: "people/people"
 show_title: true
 segments:

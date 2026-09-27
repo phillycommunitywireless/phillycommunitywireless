@@ -26,7 +26,7 @@ segments:
         flex_basis: 33%
 
       - photo: "/images/merch/pcwsweater.png"
-        photo_alt_text: "A grey crew sweatshirt with the words Philly Community Wireless and a Liberty Bell projecting Wi-Fi signal over the left chest in front. The back shows the words INTERNET ACCESS IS A HUMAN RIGHT! and a cityscape embedded into arched bands that signal Wi-Fi connnection."
+        photo_alt_text: "A grey crew sweatshirt with the words Philly Community Wireless and a Liberty Bell projecting Wi-Fi signal over the left chest in front. The back shows the words INTERNET ACCESS IS A HUMAN RIGHT! and a cityscape embedded into arched bands that signal Wi-Fi connection."
         heading_1: PCW Crew Sweatshirt
         description_text: Designed by local mediamaker Badlandz Media House, our lightweight crew sweatshirt tells the world that you value internet access for all. This fits true-to-size, and designs are purple on both sides.
         subheading: "$45"
@@ -44,7 +44,7 @@ segments:
         flex_basis: 33%
 
       - photo: "/images/merch/pcw-shirt-cap-sweater.png"
-        photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest; a purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front."
+        photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest; a purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front; and a grey crew sweatshirt with PCW's logo on the chest."
         heading_1: T-Shirt, Hat, + Sweatshirt Bundle
         description_text: Stay comfy in our most wearable bundle of a t-shirt, hat, and crew sweatshirt.
         subheading: $115

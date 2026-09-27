@@ -1,6 +1,7 @@
 ---
 date: 2026-08-12
 title: "Development and Communications Manager"
+description: "Philly Community Wireless is hiring a Development and Communications Manager. Read the job description and learn how to apply."
 ---
 
 __Position__: Development and Communications Manager  

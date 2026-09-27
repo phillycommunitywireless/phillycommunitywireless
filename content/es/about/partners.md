@@ -1,6 +1,7 @@
 ---
 date: 2024-07-03
 title: "Socios"
+description: "Las organizaciones comunitarias, universidades y proveedores de Internet con los que Philly Community Wireless trabaja para llevar Wi-Fi gratuito a los barrios de Filadelfia."
 layout: "people/people"
 show_title: true
 segments:

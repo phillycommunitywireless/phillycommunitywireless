@@ -154,6 +154,9 @@ languages:
     weight: 1
     params:
       navName: Menu
+      # Fallback meta description for pages without their own `description`
+      # front matter (e.g. the homepage).
+      description: "Philly Community Wireless builds free, community-controlled Wi-Fi in North Philadelphia. Get connected, volunteer, or support internet access for all."
       featured_text:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Building community-controlled networks in Philadelphia
@@ -295,6 +298,7 @@ languages:
           weight: "7"
     weight: 2
     params:
+      description: "Philly Community Wireless construye Wi-Fi gratuito y controlado por la comunidad en el norte de Filadelfia. Conéctate, hazte voluntario o apoya el acceso a Internet para todos."
       navName: Menú
       featured_text:
         header: "/images/WebLogo_Standard.svg"
@@ -305,6 +309,9 @@ languages:
               desde la esquina superior derecha."            
 params:
   author: Philly Community Wireless
+  # Default image for link previews (og:image / twitter:image), 1200x630.
+  images:
+    - "/images/og-image.jpg"
   site_logo: "/images/WebLogo_Standard2.svg"
   site_logo_inverted: "/images/WebLogo_Inverted2.svg"
   attribution:

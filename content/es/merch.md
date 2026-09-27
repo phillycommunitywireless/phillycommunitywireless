@@ -8,19 +8,22 @@ segments:
     sections:
       - photo: "/images/merch/pcwhat.jpg"
         photo_alt_text: "Una gorra azul violácea con el logotipo de PCW, una campana con una señal Wi-Fi en la parte delantera y las palabras Philly Community Wireless en la parte trasera."
-        item_name: PCW gorra
-        item_caption: Nuestra gorra PCW de 6 paneles bordada con lavado vintage es perfecta para un estilo desenfadado. Confeccionada en sarga 100 % algodón, con correa de cuero ajustable.
-        item_price: $45
+        heading_1: PCW gorra
+        description_text: Nuestra gorra PCW de 6 paneles bordada con lavado vintage es perfecta para un estilo desenfadado. Confeccionada en sarga 100 % algodón, con correa de cuero ajustable.
+        subheading: "$45"
         button_text: Comprar
         button_href: "https://buy.stripe.com/7sYdR2cZP4Qv7yi6Dq5c40k"
+        class: "cubed-img br3"
+        flex_basis: 33%
         
       - photo: "/images/merch/pcwshirt.png"
         photo_alt_text: "Una camiseta con una campanita y las palabras Philly Community Wireless en el lado izquierdo del pecho. En la parte trasera de la camiseta aparece el texto «Philly Community Wireless Get Connected» dentro de un círculo que rodea el logotipo de PCW, una campanita con una señal de Wi-Fi."
-        item_name: PCW camiseta
-        item_caption: ¡Nuestra camiseta unisex PCW es una forma genial de representar a PCW sin renunciar a la comodidad! Confeccionada en una mezcla de algodón y poliéster, se ajusta perfectamente a la talla.
-        item_price: "$25"
+        heading_1: PCW camiseta
+        description_text: ¡Nuestra camiseta unisex PCW es una forma genial de representar a PCW sin renunciar a la comodidad! Confeccionada en una mezcla de algodón y poliéster, se ajusta perfectamente a la talla.
+        subheading: "$25"
         button_text: Comprar
         button_href: "https://buy.stripe.com/4gM00caRH82H9Gqge05c40j"
+        flex_basis: 33%
 
       - photo: "/images/merch/pcwsweater.png"
         photo_alt_text: "Una sudadera gris de cuello redondo con las palabras «Philly Community Wireless» y una Campana de la Libertad que emite una señal de Wi-Fi en la parte superior izquierda del pecho, en la parte delantera. En la espalda se leen las palabras ¡EL ACCESO A INTERNET ES UN DERECHO HUMANO! y un paisaje urbano integrado en bandas arqueadas que simbolizan la conexión Wi-Fi."
@@ -41,7 +44,7 @@ segments:
         flex_basis: 33%
 
       - photo: "/images/merch/pcw-shirt-cap-sweater.png"
-        photo_alt_text: "A t-shirt with a small bell and the words Philly Community Wireless on the left chest; a purple-blue hat with PCW's logo, a bell with a Wi-Fi signal, in front."
+        photo_alt_text: "Una camiseta con una campanilla y las palabras Philly Community Wireless en el lado izquierdo del pecho; una gorra de color azul violáceo con el logotipo de PCW, una campanilla con una señal de Wi-Fi, en la parte delantera; y una sudadera gris de cuello redondo con el logotipo de PCW en el pecho."
         heading_1: PCW camiseta, gorra, y suéter
         description_text: Disfruta de la máxima comodidad con nuestro conjunto de camiseta, gorra y sudadera de cuello redondo, ideal para llevar a diario.
         subheading: $115

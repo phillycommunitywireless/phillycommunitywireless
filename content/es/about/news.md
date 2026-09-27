@@ -1,6 +1,7 @@
 ---
 date: 2023-10-18
 title: "Novedades"
+description: "Cobertura de prensa sobre Philly Community Wireless y el Internet controlado por la comunidad en Filadelfia."
 layout: "people/single"
 ---
 

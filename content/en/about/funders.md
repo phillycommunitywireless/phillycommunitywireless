@@ -1,6 +1,7 @@
 ---
 date: 2024-06-14
 title: "Funders"
+description: "The foundations and funders whose support makes Philly Community Wireless's free community Wi-Fi possible."
 layout: "people/single"
 aliases:
     - /funders

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
     {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
-    <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ block "title" . }}{{ if .IsHome }}{{ .Site.Title }}{{ with .Site.Params.featured_text.subtitle }} | {{ . }}{{ end }}{{ else }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}{{ end }}</title>
 
     {{/*  SEO  */}}
     {{/*  Schema.org schema recommended by https://keithpblog.org/post/hugo-website-seo/  */}}
@@ -14,13 +14,13 @@
     {{/*  Yandex site verification  */}}
     <meta name="yandex-verification" content="e85d6aee3b293cbb" />
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
-    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+    {{ if and (eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")) (not .Params.noindex) }}
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     {{ else }}
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     {{ end }}
 
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
     {{ hugo.Generator }}
 

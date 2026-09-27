@@ -55,18 +55,18 @@
             target="_blank">
             <div id="mc_embed_signup_scroll">
                 <!-- <h2>Subscribe to our Newsletter!</h2> -->
-                <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+                <div class="indicates-required"><span class="asterisk">*</span> {{ i18n "newsletterRequired" }}</div>
 
                 <!-- fname, lname -->
                 <div class="flex flex-column flex-row-ns">
                     <div style="display: inline-block; position: initial;"
                         class="mc-field-group w-100 w-50-ns pb0 pr2-ns">
-                        <label class="calibre f4" for="mce-FNAME">First Name </label><input type="text" name="FNAME"
+                        <label class="calibre f4" for="mce-FNAME">{{ i18n "newsletterFirstName" }} </label><input type="text" name="FNAME"
                             class=" text" id="mce-FNAME" value="">
                     </div>
                     <div style="display: inline-block; position: initial; padding-bottom: 0px;"
                         class="mc-field-group w-100 w-50-ns pb0 pl2-ns">
-                        <label class="calibre f4" for="mce-LNAME">Last Name </label><input type="text" name="LNAME"
+                        <label class="calibre f4" for="mce-LNAME">{{ i18n "newsletterLastName" }} </label><input type="text" name="LNAME"
                             class=" text" id="mce-LNAME" value="">
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                 <!-- email address -->
                 <div class="flex flex-column">
                     <div class="mc-field-email mc-field-group pb0">
-                        <label class="calibre f4" for="mce-EMAIL">Email Address <span class="asterisk">*</span>
+                        <label class="calibre f4" for="mce-EMAIL">{{ i18n "emailAddress" }} <span class="asterisk">*</span>
                         </label>
                         <input type="email" name="EMAIL" class="required email" id="mce-EMAIL" value="" required="">
                     </div>
@@ -94,9 +94,9 @@
                 
                         <!-- match styling of other buttons on site -->
                         <!-- <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"> -->
-                        <input role="button" type="submit" name="subscribe" id="mc-embedded-subscribe" 
+                        <input type="submit" name="subscribe" id="mc-embedded-subscribe"
                         class="button"
-                        value="Subscribe">
+                        value="{{ i18n "newsletterSubscribe" }}">
 
                         <!-- referral badge -->
                         <!-- <p style="margin: 0px auto;"><a href="http://eepurl.com/iMTyNg"

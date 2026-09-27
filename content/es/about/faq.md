@@ -1,6 +1,7 @@
 ---
 date: 2024-04-02
 title: Preguntas más frecuentes
+description: "Respuestas a preguntas frecuentes sobre Philly Community Wireless: dónde está nuestro Wi-Fi gratuito, cómo conectarse, cómo funciona la red y cómo participar."
 toc: true
 layout: "people/people"
 aliases:

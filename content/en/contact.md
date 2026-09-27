@@ -1,6 +1,7 @@
 ---
 date: 2026-01-04
 title: Contact
+description: "Contact Philly Community Wireless with questions about our free Wi-Fi network, volunteering, or partnering with us."
 layout: single
 header_photo: "/images/volunteers_first_stop_recovery.jpg"
 header_alt: "A wide panorama photo with 4 PCW volunteers on a roof."

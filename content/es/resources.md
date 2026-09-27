@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Recursos
+description: "Recursos para ayudarte a conseguir Internet asequible o gratuito, tomar clases de alfabetización digital y mucho más en Filadelfia."
 ---
 
 **Última actualización**: El 10 de enero 2026

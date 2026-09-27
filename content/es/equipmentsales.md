@@ -1,6 +1,7 @@
 ---
 date: 2025-11-20
 title: "Equipos en venta"
+description: "Equipos Wi-Fi y de red donados a la venta por Philly Community Wireless. Cada compra apoya el acceso a Internet para todos."
 
 segments: 
   - template: image-catalog

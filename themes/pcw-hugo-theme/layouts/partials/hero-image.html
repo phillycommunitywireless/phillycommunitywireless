@@ -13,7 +13,7 @@
           <p class="tc center f2-ns f3 white mt0">{{ . | markdownify }}</p>
         {{ end }}
         {{ with .link }}
-          <p class="tc center f3 white mb5 mt0"><a class="pa2 white link" href="/about">{{ . | markdownify}}</a></p>
+          <p class="tc center f3 white mb5 mt0"><a class="pa2 white link" href="{{ "/about" | relLangURL }}">{{ . | markdownify}}</a></p>
         {{ end }}
       </div>
     {{ end }}

@@ -1,6 +1,7 @@
 ---
 date: 2021-09-30
 title: "Frequently Asked Questions"
+description: "Answers to common questions about Philly Community Wireless: where our free Wi-Fi is, how to connect, how the network works, and how to get involved."
 toc: true
 layout: "people/people"
 aliases:

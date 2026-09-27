@@ -572,6 +572,14 @@ footer {
   object-position: 50% 30%;
 }
 /* Timeline segment (Our Story) — an embedded panel that scrolls on its own, a dotted spine with a coloured marker per entry */
+/* The timeline title is an h2 (the page has its own h1) but keeps the look it
+   had as an h1. */
+.timeline-title {
+  font-size: 2rem;
+  color: var(--dark-blue);
+  margin-bottom: 0.5em;
+}
+
 .timeline-panel {
   max-height: 70vh;
   overflow-y: auto;

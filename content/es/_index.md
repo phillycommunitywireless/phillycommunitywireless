@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Philly Community Wireless
 
 # The `segments` param will generate homepage segments (vertically stacked sections of the page).
 # For the supported segment templates and required params, see README.md#segments

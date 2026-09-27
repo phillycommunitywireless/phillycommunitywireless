@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Resources
+description: "Resources to help you get affordable or free internet, take digital literacy classes, and more in Philadelphia."
 ---
 
 **Last Updated**: January 10, 2026

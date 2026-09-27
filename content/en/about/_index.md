@@ -1,6 +1,7 @@
 ---
 date: 2023-10-18
 title: "About PCW"
+description: "Philly Community Wireless expands internet access, grows tech literacy, and builds community autonomy with our neighbors in North Philadelphia through a community-controlled Wi-Fi network."
 layout: "single"
 header_photo: "/images/Drone_HartLane_Active.JPG"
 header_alt: "A drone image from above showing 5 people on a rowhome roof, 4 people working on a small structure with an access point device."

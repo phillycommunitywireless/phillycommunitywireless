@@ -58,6 +58,22 @@ other = "Privacy Policy"
 other = "Website Privacy Policy"
 
 
+[footerHiring]
+other = "We're Hiring!"
+
+[newsletterRequired]
+other = "indicates required"
+
+[newsletterFirstName]
+other = "First Name"
+
+[newsletterLastName]
+other = "Last Name"
+
+[newsletterSubscribe]
+other = "Subscribe"
+
+
 [calendarNotice]
 other = "Our event calendar is hosted by Google, which sets cookies when it loads, so it only loads if you ask for it."
 

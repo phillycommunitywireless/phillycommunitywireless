@@ -1,6 +1,7 @@
 ---
 date: 2024-04-02
 title: "Network Location"
+description: "A map of the Philly Community Wireless network, showing where our Wi-Fi access points and network equipment are in Philadelphia."
 
 ---
 

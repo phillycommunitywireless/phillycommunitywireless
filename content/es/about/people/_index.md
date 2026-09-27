@@ -1,11 +1,12 @@
 ---
 date: 2024-07-01
 title: "Nuestro Equipo"
+description: "Conoce al personal, la junta asesora y los exalumnos de Philly Community Wireless."
 layout: "people/people"
 show_title: true
 aliases:
     # old people link
-    - /people
+    - /es/people
 segments:
     - template: image-catalog
       class: "w-100 w-50-m w-third-l"

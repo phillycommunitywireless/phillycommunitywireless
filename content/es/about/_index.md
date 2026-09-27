@@ -1,6 +1,7 @@
 ---
 date: 2023-10-18
 title: "Acerca de PCW"
+description: "Philly Community Wireless amplía el acceso a Internet, fomenta la alfabetización tecnológica y fortalece la autonomía comunitaria junto a nuestros vecinos del norte de Filadelfia mediante una red Wi-Fi controlada por la comunidad."
 layout: "single"
 header_photo: "/images/Drone_HartLane_Active.JPG"
 header_alt: "Imagen tomada desde un dron que muestra a cinco personas en el techo de una casa adosada, cuatro de ellas trabajando en una pequeña estructura con un dispositivo de punto de acceso."

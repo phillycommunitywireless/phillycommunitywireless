@@ -1,6 +1,7 @@
 ---
 date: 2023-10-18
 title: "In the News"
+description: "Press coverage of Philly Community Wireless and community-controlled internet in Philadelphia."
 layout: "people/people"
 segments:
   - template: featured-news

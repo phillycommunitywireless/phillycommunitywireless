@@ -1,6 +1,7 @@
 ---
 date: 2026-09-26
 title: "Public Internet Fellowship"
+description: "The Public Internet Fellowship invites local artists, technologists, and residents to use Philly Community Wireless's public Wi-Fi network as a platform for community media."
 ---
 
 A program of Philly Community Wireless

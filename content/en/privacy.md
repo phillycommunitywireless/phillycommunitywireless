@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Privacy Notice
+description: "How Philly Community Wireless collects, uses, shares, and protects personal information across our website, programs, and Wi-Fi network."
 ---
 
 **Effective Date**: March 1, 2021

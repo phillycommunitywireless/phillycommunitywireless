@@ -1,6 +1,7 @@
 ---
 date: 2024-04-02
 title: "Ubicación de la red PCW"
+description: "Un mapa de la red de Philly Community Wireless que muestra dónde están nuestros puntos de acceso Wi-Fi y equipos de red en Filadelfia."
 
 ---
 

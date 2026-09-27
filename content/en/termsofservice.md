@@ -1,5 +1,6 @@
 ---
 title: Terms of Service and Acceptable Use Policy
+description: "The terms of service and acceptable use policy for Philly Community Wireless's free public Wi-Fi network."
 ---
 
 **Effective Date**: March 1, 2021

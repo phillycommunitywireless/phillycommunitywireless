@@ -1,6 +1,7 @@
 ---
 date: 2024-06-14
 title: "Patrocinadores"
+description: "Las fundaciones y patrocinadores cuyo apoyo hace posible el Wi-Fi comunitario gratuito de Philly Community Wireless."
 layout: "people/single"
 aliases:
     - /es/funders

@@ -23,7 +23,7 @@
 */}}
 {{ $entries := index site.Data (.data | default "timeline") }}
 <section class="cf center w-75-l w-100 pv4 {{ .class }}">
-  {{ with .title }}<h1 class="tc ph3">{{ . }}</h1>{{ end }}
+  {{ with .title }}<h2 class="tc ph3 timeline-title">{{ . }}</h2>{{ end }}
   {{ with .text }}<div class="f3 lh-copy tc center measure-wide ph3">{{ . | markdownify }}</div>{{ end }}
   {{ with .image }}
   <div class="center measure-wide ph3 mv3">

@@ -1,5 +1,6 @@
 ---
 title: Términos del Servicio y Política de Uso Aceptable
+description: "Los términos del servicio y la política de uso aceptable de la red Wi-Fi pública y gratuita de Philly Community Wireless."
 ---
 
 **Fecha de entrada en vigor**: 1 de marzo de 2021
