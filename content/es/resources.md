@@ -4,7 +4,7 @@ title: Recursos
 description: "Recursos para ayudarte a obtener Internet asequible o gratuito, tomar clases de alfabetización digital y mucho más en Filadelfia."
 ---
 
-**Última actualización**: 10 de enero de 2026
+**Última actualización**: 27 de septiembre de 2026
 
 *******
 A continuación, encontrarás algunos recursos que te ayudarán a conectarte a Internet asequible o gratuito, tomar clases de alfabetización digital y mucho más. ¡Échales un vistazo!
