@@ -30,7 +30,7 @@ Below are some resources to help you connect to affordable or free internet acce
 **Contact**: Call 215-621-8118 or email philadelphia@pcsforpeople.org.   
 
 ## Digital Literacy Training: Beyond Literacy
-**Description**: Join our free, digital skills workshops at convenient locations across Philadelphia. With a variety of workshop offerings, residents can improve computer skills, learn how to send emails, apply for jobs online, and more.  
+**Description**: Offers free digital skills workshops at convenient locations across Philadelphia. With a variety of workshop offerings, residents can improve computer skills, learn how to send emails, apply for jobs online, and more.  
 **Location and Time**: Varies.  
 **Register**: Learn more [here](https://beyondliteracy.org/digitalskills/).
 
@@ -40,7 +40,7 @@ Below are some resources to help you connect to affordable or free internet acce
 **Register**: Call 215-297-4641 and learn more [here](https://esperanza.eastern.edu/portfolio/hope-digital-skills-program/).
   
 ## Digital Literacy Training: Generations on Line   
-**Description**: Generations on Line guides individuals or organizations via training tools and tutorials in teaching Senior citizens how to use the Internet, email, texting, photos, apps, videochats, and all the basic tools, including voice recognition, to participate in the cyber world of endless possibilities.  
+**Description**: Generations on Line guides individuals or organizations via training tools and tutorials in teaching senior citizens how to use the Internet, email, texting, photos, apps, videochats, and all the basic tools, including voice recognition, to participate in the cyber world of endless possibilities.  
 **Learn more**: See more information about Generations on Line [here](https://www.generationsonline.com/).  
 **Contact**: Call Katie Burke at 215-222-6400.
 

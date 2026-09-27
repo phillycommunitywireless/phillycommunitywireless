@@ -9,7 +9,7 @@ description: "The terms of service and acceptable use policy for Philly Communit
 
 ***
 
-Philly Community Wireless is a free, public wifi network. To use this free wifi network, you agree to  our following Terms of Service.
+Philly Community Wireless is a free, public wifi network. To use this free wifi network, you agree to our following Terms of Service.
 
 ## Terms of Service
 
@@ -22,7 +22,7 @@ If you do not understand and agree to this Policy, do not use the Service. Pleas
 
 ## Security Warning 
 
-The Service provides an unsecured network and, as such, poses a risk that unauthorized persons can access your phone, laptop or other device or your communications over the network. For this reason, you should avoid transmitting or accessing sensitive personal information while using the Service. By using the Service, you acknowledge and agree that (i) you are responsible for the security of your system and any transmissions you make or receive; and (ii) you understand the risks of unencrypted access to the Internet, and will take any all necessary security precautions, including encrypting confidential transmissions, backing up any data, and protecting your system with a firewall and robust user authentication. 
+The Service provides an unsecured network and, as such, poses a risk that unauthorized persons can access your phone, laptop or other device or your communications over the network. For this reason, you should avoid transmitting or accessing sensitive personal information while using the Service. By using the Service, you acknowledge and agree that (i) you are responsible for the security of your system and any transmissions you make or receive; and (ii) you understand the risks of unencrypted access to the Internet, and will take any and all necessary security precautions, including encrypting confidential transmissions, backing up any data, and protecting your system with a firewall and robust user authentication. 
 
 ## Modifications to the Service 
 
@@ -56,4 +56,4 @@ YOU AGREE TO RELEASE, INDEMNIFY, AND HOLD HARMLESS PCWP, MOVEMENT ALLIANCE PROJE
 
 ## Dispute Resolution 
 
-You agree that any dispute between you and PCWP arising out of or relating to this Policy or your use of the Service will be decided only by arbitration, individually and not on a class-wide basis. You knowingly waive any right to participate in any form of “class,” “joint” or “representative” litigation (including in any “private attorney general capacity”) against PCWP. The laws of the Commonwealth of Pennsylvania, without regard to choice of law principles, shall apply to any dispute between us, except as to matters relating to arbitration, which shall governed by the Federal Arbitration Act. Any arbitration will be administered by the American Arbitration Association and will take place in Philadelphia, Pennsylvania, and must be commenced within six (6) months after the dispute arises or any claim arising from the dispute shall be barred.
+You agree that any dispute between you and PCWP arising out of or relating to this Policy or your use of the Service will be decided only by arbitration, individually and not on a class-wide basis. You knowingly waive any right to participate in any form of “class,” “joint” or “representative” litigation (including in any “private attorney general capacity”) against PCWP. The laws of the Commonwealth of Pennsylvania, without regard to choice of law principles, shall apply to any dispute between us, except as to matters relating to arbitration, which shall be governed by the Federal Arbitration Act. Any arbitration will be administered by the American Arbitration Association and will take place in Philadelphia, Pennsylvania, and must be commenced within six (6) months after the dispute arises or any claim arising from the dispute shall be barred.

@@ -11,7 +11,7 @@ PCW is well-positioned to install these devices in public and private locations 
 
 ## Measuring Air Quality
 
-[Purple air monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods, helping folks understand: 
+[PurpleAir monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods, helping folks understand: 
 
 1. If the air quality is good or not good in their area
 2. How it compares to other parts of the city

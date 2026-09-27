@@ -35,7 +35,7 @@
   alt: "A small solar panel mounted on a corrugated metal roof."
 
 - date: "2022-04-27"
-  headline: "First Purple Air Monitor Installed"
+  headline: "First PurpleAir Monitor Installed"
   group: install
   text: "PCW installs a PurpleAir Monitor (used to monitor air quality) at Las Parcelas Gardens. Air monitors are an example of the Internet of Things devices that public Wi-Fi, such as ours, can facilitate."
   image: "/images/timeline/2022-04-first-purple-air-monitor-installed.jpg"
@@ -163,7 +163,7 @@
 - date: "2024-09-17"
   headline: "Work with Bryn Mawr Students"
   group: event
-  text: "Environmental Studies students from Bryn Mawr College come out to  PCW headquarters to learn more about our organization. Collaboration throughout their semester led to three distinct presentations incorporating elements of PCW's work and future goals, including air monitoring."
+  text: "Environmental Studies students from Bryn Mawr College come out to PCW headquarters to learn more about our organization. Collaboration throughout their semester led to three distinct presentations incorporating elements of PCW's work and future goals, including air monitoring."
   image: "/images/timeline/2024-09-work-with-bryn-mawr-students.jpg"
   alt: "A group of Bryn Mawr students posing on the sidewalk outside PCW headquarters."
 
@@ -177,4 +177,4 @@
 - date: "2024-12-31"
   headline: "PCW Keeps Growing"
   group: history
-  text: "4 and a half years after starting, PCW has grown and expanded throughout the neighborhoods of Norris Square, Fairhill, and Kensington, servicing tens of thousands of users. To see our live service map, visit [our network map](/networkmap/)."
+  text: "4 and a half years after starting, PCW has grown and expanded throughout the neighborhoods of Norris Square, Fairhill, and Kensington, serving tens of thousands of users. To see our live service map, visit [our network map](/networkmap/)."

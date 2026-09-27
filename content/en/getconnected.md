@@ -2,7 +2,7 @@
 date: 2021-09-30
 title: "Get Connected to Our Wi-Fi"
 header_photo: "/images/Eugene_AP.jpg"
-header_alt: "A man on a roof smiling while he secures a pole mount with an access point device pointing towards the street and subway tracks."
+header_alt: "A man on a roof smiling while he secures a pole mount with an access point device pointing towards the street and the elevated train tracks."
 header_class: "opos-50-30"
 segments: 
 
@@ -35,7 +35,6 @@ segments:
       For more information on what an install involves, visit our [Installation documentation](https://docs.phillycommunitywireless.org/installations/installations/)."
 
   - template: text-lr
-    title: "some title"
     left:
       title: "How Long Does It Take?"
       text: "Installations can sometimes take an extended period of time to schedule and complete, up to several months. We are expanding our network coverage every week, but we have more demand than we can meet and a variety of obstacles, including line of sight, can impede our network's reach. 

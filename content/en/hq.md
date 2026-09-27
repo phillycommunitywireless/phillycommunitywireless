@@ -20,7 +20,7 @@ segments:
     title: "Getting Here"
     text: |
       ## Public Transit{class="top-1 relative mb0"}
-      Our headquarters at NSNP is a quick walk from either the York-Dauphin or Berks Market-Frankford Line SEPTA stops.
+      Our headquarters at NSNP is a quick walk from either the York-Dauphin or Berks stops on SEPTA's L (formerly the Market-Frankford Line).
       
       ## Driving{class="top-1 relative mb0"}
       Street parking is available around Norris Square Park; availability is limited. 

@@ -34,7 +34,7 @@ Philly Community Wireless
 
 ## How does it work?
 
-PCW collaborated with Big Picture Alliance and Eli Laban to create this animated infographic overviewing the architecture of community network and wireless mesh projects on [YouTube](https://www.youtube.com/watch?v=uoKe7zC3sFY).
+PCW collaborated with Big Picture Alliance and Eli Laban to create this animated infographic overviewing the architecture of community networks and wireless mesh projects on [YouTube](https://www.youtube.com/watch?v=uoKe7zC3sFY).
 
 {{< youtube uoKe7zC3sFY >}}
     
@@ -44,7 +44,7 @@ PCW’s infrastructure depends on wireless broadband technologies—in particula
 
 Traditional internet service providers rely on a one-way, centralized hub that transmits network traffic to all users on the receiving end. But with mesh networks, every router both receives and transmits network traffic simultaneously, enabling the network to remain operational even when individual nodes go out of service.
 
-The technical shape of mesh networks (interconnected, resilient) thus reflect the social connections that PCW seeks to amplify (democratic, participatory, decentralized).
+The technical shape of mesh networks (interconnected, resilient) thus reflects the social connections that PCW seeks to amplify (democratic, participatory, decentralized).
 
 For technical information on the project, please see our [Docs page](https://docs.phillycommunitywireless.org).
 
@@ -54,7 +54,7 @@ Yes, as long as PCW exists, you will never be asked for your payment information
 
 ### How fast/stable will the connection be?
 
-We aim to provide at least 25 mbps download speed in public and private spaces. We can’t promise consistent connection in any given area, but many areas of our network currently receive higher download speeds.
+We aim to provide at least 25 Mbps download speed in public and private spaces. We can’t promise consistent connection in any given area, but many areas of our network currently receive higher download speeds.
 
 ### How secure is the network? Who can access our information?
 

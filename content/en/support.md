@@ -15,7 +15,7 @@ segments:
     - template: three-button-call-to-action
       sections:
         - photo: "/images/web updates/LB_AP_KCT Garden_Alex.jpg"
-          photo_alt_text: "A man smiling standing next to a structure with a LiteBeam and access point device on a roof, with subway tracks and the street in view behind him."
+          photo_alt_text: "A man smiling next to a rooftop mount holding a LiteBeam and an access point, with the elevated train tracks, the street below, and the Center City skyline behind him."
           text: "Donate to directly support our mission of bridging the digital divide in communities in Philadelphia. To process donations, we use Allyra, a fundraising platform used by nonprofits and professional associations nationwide. You can make one-time or recurring donations."
           button_text: Donate
           button_href: "https://phillycommunitywireless.allyrafundraising.com"

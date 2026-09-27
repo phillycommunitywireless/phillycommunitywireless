@@ -25,4 +25,4 @@ Eli Laban, *Big Picture Alliance*
 
 ## Funders
 
-For more information on our institutional funders, visit our [Funders page](/about/funders)
+For more information on our institutional funders, visit our [Funders page](/about/funders).

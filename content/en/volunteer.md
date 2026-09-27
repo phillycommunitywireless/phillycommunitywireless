@@ -84,7 +84,7 @@ If you want to support our work but aren't able to volunteer at the moment, chec
 
 PCW builds our Wi-Fi network by finding individuals or organizations who agree to "host" our network equipment on their buildings (often rooftops). Our wireless ISP partner, PhillyWisper, helps us set up "hubs" that draw internet connectivity to a fixed location, and we use those hubs to share internet across spaces to cabled and wireless access points. One hub can support many "mesh node" installations consisting of access points, ethernet cable, and connection to a router, which PCW does without needing PhillyWisper.
 
-Installations often involve some sort of basic labor (climbing a ladder, drilling, carrying equipment) and problem solving related to connecting to a power source via ethernet cable. Devices that are installed are adopted to our mesh network, Philly Community Wireless.
+Installations often involve some sort of basic labor (climbing a ladder, drilling, carrying equipment) and problem solving related to connecting to a power source via ethernet cable. Devices that are installed are adopted into our mesh network, Philly Community Wireless.
 
 ### Community Outreach
 
@@ -104,7 +104,7 @@ In addition, we do our best to stay up-to-date on information about discount int
 
 ### Internet Advising
 
-We are beginning to expand our services into consulting and advising. We're able to help organizations and individuals improve their own Wi-Fi network (ie. in a situation where we don't provide the backend, we can still help recommend indoor equipment to purchase and help configure and cable this equipment) and review internet bills, helping people understand what they're being charged for and how they may be able to lower their rates.
+We are beginning to expand our services into consulting and advising. We're able to help organizations and individuals improve their own Wi-Fi network (i.e., in a situation where we don't provide the backend, we can still help recommend indoor equipment to purchase and help configure and cable this equipment) and review internet bills, helping people understand what they're being charged for and how they may be able to lower their rates.
 
 
 For guides to our network installations, please see our [Docs](https://docs.phillycommunitywireless.org/).

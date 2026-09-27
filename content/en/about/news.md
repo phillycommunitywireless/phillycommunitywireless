@@ -37,11 +37,11 @@ segments:
 
 ## All Coverage
 
-Billy Penn, [Organization pulls Kensington community together by spreading wi-fi outdoors](https://billypenn.com/2025/07/02/philly-community-wireless-outdoor-wifi-importance/), 7/2/2025.
+Billy Penn, [Organization pulls Kensington community together by spreading wi-fi outdoors](https://billypenn.com/2025/07/02/philly-community-wireless-outdoor-wifi-importance/), 7/2/2025
 
-Billy Penn, [Philly residents take a DIY approach to solving quality of life issues](https://billypenn.com/2024/12/10/resident-provided-city-services-wifi-street-signs-displays/), 12/10/2024.
+Billy Penn, [Philly residents take a DIY approach to solving quality of life issues](https://billypenn.com/2024/12/10/resident-provided-city-services-wifi-street-signs-displays/), 12/10/2024
 
-Tech Policy, [America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?](https://www.techpolicy.press/america-disconnected-whats-bidens-plan-for-averting-digital-disaster/), 4/30/2024  
+TechPolicy.Press, [America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?](https://www.techpolicy.press/america-disconnected-whats-bidens-plan-for-averting-digital-disaster/), 4/30/2024  
 
 CNET, [Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time](https://www.cnet.com/home/internet/features/alternative-broadband-networks-affordable-internet-for-the-people-one-rooftop-at-a-time/), 10/1/2023
 

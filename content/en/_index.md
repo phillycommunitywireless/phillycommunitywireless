@@ -42,7 +42,7 @@ segments:
     photo_alt_text: "4 PCW Volunteers on a roof, with one using a drill to secure a pole that the access point device is on."
     button: 
       button_text: "What We Do"
-      button_href: "about/"
+      button_href: "/about/"
       # no_button_arrow: "true"
 
     class: bg-light-gray

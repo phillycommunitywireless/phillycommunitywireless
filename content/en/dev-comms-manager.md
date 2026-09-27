@@ -90,7 +90,7 @@ Note these benefits are for a full-time position; benefits are subject to change
 
 __Holidays and Paid Time Off:__ 14 days paid time off (10 vacation, 4 floating), plus federally recognized holidays and paid winter holiday break. 15 days sick time. 
 
-Movement Alliance Project and Philly Community Wireless is an at-will employer.
+Movement Alliance Project and Philly Community Wireless are at-will employers.
 
 ## Our Hiring Process and Timeline
 
