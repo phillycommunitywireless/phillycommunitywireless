@@ -557,10 +557,17 @@ footer {
 .opos-50-30 {
   object-position: 50% 30%;
 }
-/* Timeline segment (Our Story) — an embedded panel that scrolls on its own, a dotted spine with a coloured marker per entry */
+/* Timeline segment (Our Story) — a bordered panel that runs the full length of the page, a dotted spine with a coloured marker per entry */
+.timeline-heading {
+  /* An h2 under the page's h1, styled like the h1 it replaced */
+  font-size: 2rem;
+  margin-bottom: 0.5em;
+  color: var(--dark-blue);
+}
+.timeline-entry h3 {
+  color: var(--primary);
+}
 .timeline-panel {
-  max-height: 70vh;
-  overflow-y: auto;
   border: 2px solid var(--light-gray);
   padding: 1.5rem 1.5rem 1.5rem 1rem;
   background: white;
