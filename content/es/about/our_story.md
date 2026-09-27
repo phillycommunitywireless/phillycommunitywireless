@@ -20,6 +20,10 @@ segments:
   image: /images/timeline/title-norris-square-sign.jpg
   alt: "El letrero de Norris Square Park y, delante de él, un cartel de jardín de Philly Community Wireless que dice \"Free WiFi Available Here\" (WiFi gratis disponible aquí)."
   data: timeline_es
+  legend:
+    history: "Historia"
+    install: "Instalaciones"
+    event: "Eventos"
 ---
 
 Fundada en 2020, durante la pandemia de COVID-19, Philly Community Wireless comenzó como un proyecto dirigido por voluntarios, formado por bibliotecarios y maestros, organizadores, tecnólogos y líderes comunitarios. Nuestro primer nodo se instaló en julio de 2020 con nuestro socio PhillyWisper, y desde 2021 construimos Wi-Fi gratuito en Norris Square y en todo el norte de Filadelfia, con vecinos y organizaciones comunitarias que alojan nuestros equipos en sus edificios.
