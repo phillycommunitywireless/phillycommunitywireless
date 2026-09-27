@@ -6,7 +6,7 @@
       <span class="banner-link-arrow">&rarr;</span>
     </a>
     <button class="absolute top-0 right-0 pa2 bn bg-transparent pointer banner-link-close" aria-label="hide announcement">
-      <i class="fa fa-times"></i>
+      {{ partial "icon.html" (dict "name" "xmark") }}
     </button>
   </aside>
  {{ end }}
@@ -25,7 +25,7 @@
       	<a id="donate-button" class="no-underline ml-auto-l" href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}{{ end }}
       <button id="hamburger-menu" type="button" class="input-reset button-reset bn bg-transparent pa0 ma0 pointer color-inherit" aria-controls="site-menu-container" aria-expanded="false" aria-label="{{ .Site.Params.navName | default "Menu" }}">
-	  	  <i class="fa-solid fa-bars fa-2x dn-l"></i>
+	  	  {{ partial "icon.html" (dict "name" "bars" "class" "icon-2x dn-l") }}
       </button>
     </div>
 
@@ -38,7 +38,7 @@
           {{ $id := printf "submenu-%s" (.Identifier | urlize) }}
           <li class="menu-item menu-item-top list relative">
             <button type="button" class="menu-link menu-link-top dropdown-toggle" aria-controls="{{ $id }}" aria-expanded="false">
-              {{ .Name }} <span aria-hidden="true" class="dropdown-arrow fa-solid fa fa-caret-down"></span>
+              {{ .Name }} <span aria-hidden="true" class="dropdown-arrow">{{ partial "icon.html" (dict "name" "caret-down") }}</span>
             </button>
             <ul class="absolute shadow-1 dn submenu bg-pcw br3 ph2 pv1" id="{{ $id }}">
               {{ range .Children }}

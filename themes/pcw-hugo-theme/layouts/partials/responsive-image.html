@@ -12,7 +12,10 @@
     class   (string)
     style   (string)  optional inline style passthrough (e.g. object-fit)
     sizes   (string)  the <img sizes> attribute; default "100vw"
+    widths  (slice)   srcset widths to generate; default suits full-width photos,
+                      pass small ones for small images like logos
     loading (string)  "lazy" (default) or "eager" for above-the-fold imagery
+    fetchpriority (string) optional, e.g. "high" for the page's hero image
     ctx     (Page)    optional, enables page-bundle resource lookup first
 
   Vector (.svg), animated (.gif), external, and missing images are passed
@@ -23,7 +26,9 @@
 {{- $class := .class | default "" -}}
 {{- $style := .style | default "" -}}
 {{- $sizes := .sizes | default "100vw" -}}
+{{- $widths := .widths | default (slice 480 768 1024 1600 1920 2560 3840) -}}
 {{- $loading := .loading | default "lazy" -}}
+{{- $fetchpriority := .fetchpriority | default "" -}}
 
 {{- $u := urls.Parse $src -}}
 {{- $path := strings.TrimPrefix "/" $u.Path -}}
@@ -40,7 +45,7 @@
   {{- $w := $res.Width -}}
   {{- $h := $res.Height -}}
   {{- $srcset := slice -}}
-  {{- range (slice 480 768 1024 1600 1920 2560 3840) -}}
+  {{- range $widths -}}
     {{- if lt . $w -}}
       {{- $r := $res.Resize (printf "%dx webp q90" .) -}}
       {{- $srcset = $srcset | append (printf "%s %dw" $r.RelPermalink .) -}}
@@ -50,7 +55,7 @@
   {{- if gt $w 3840 -}}{{- $capW = 3840 -}}{{- end -}}
   {{- $full := $res.Resize (printf "%dx webp q90" $capW) -}}
   {{- $srcset = $srcset | append (printf "%s %dw" $full.RelPermalink $capW) -}}
-  <img src="{{ $full.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $full.Width }}" height="{{ $full.Height }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
+  <img src="{{ $full.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $full.Width }}" height="{{ $full.Height }}" alt="{{ $alt }}" loading="{{ $loading }}"{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }} decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
 {{- else -}}
-  <img src="{{ $src }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="{{ $loading }}"{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }} decoding="async"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
 {{- end -}}

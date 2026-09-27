@@ -1,6 +1,3 @@
-{{/* Include CSS for fonts here since this is HTML, not a markdown template */}}
-<link href="/fontawesome/css/all.min.css" rel="stylesheet">
-
 <footer class="pv2 ph3 ph5-m ph6-l bg-white bt {{ .Site.Params.background_color_class | default }}" role="contentinfo">
   <div class="flex f4 p2 m-footer justify-between">
     <span class="self-center" style="margin-right: 2vw" id="footer-logo">
@@ -19,34 +16,34 @@
       <li class="mr2 di">
         <a href="https://www.facebook.com/Philly-Community-Wireless-111328101173369/" title="Facebook" aria-label="Facebook">
           <!-- /phillycommunitywireless -->
-          <span class="fab fa-fab fa-facebook fa-2x black-60" aria-hidden="true"></span>
+          {{ partial "icon.html" (dict "name" "facebook" "class" "icon-2x black-60") }}
         </a>
       </li>
 
       <li class="ml2 mr2 di">
         <a href="https://www.instagram.com/phillycommunitywireless/" title="Instagram" aria-label="Instagram">
           <!-- @phillycommunitywireless -->
-          <span class="fab fa-fab fa-instagram fa-2x black-60" aria-hidden="true"></span>
+          {{ partial "icon.html" (dict "name" "instagram" "class" "icon-2x black-60") }}
         </a>
       </li>
 
       <li class="ml2 mr2 di">
         <a href="https://bsky.app/profile/phillywireless.bsky.social" title="Bluesky" aria-label="Bluesky">
           <!-- @phillycommunitywireless -->
-          <span class="fab fa-fab fa-bluesky fa-2x black-60" aria-hidden="true"></span>
+          {{ partial "icon.html" (dict "name" "bluesky" "class" "icon-2x black-60") }}
         </a>
       </li>
 
       <li class="ml2 mr2 di">
         <a href="https://jawns.club/@phillycommunitywireless/" title="Mastodon" aria-label="Mastodon">
           <!-- @phillycommunitywireless -->
-          <span class="fab fa-fab fa-mastodon fa-2x black-60" aria-hidden="true"></span>
+          {{ partial "icon.html" (dict "name" "mastodon" "class" "icon-2x black-60") }}
         </a>
       </li>
       <li class="ml2 di">
         <a href="https://www.youtube.com/channel/UCDguhllC44ZqauV6eDopShA/" title="YouTube" aria-label="YouTube">
           <!-- Philly Community Wireless -->
-          <span class="fab fa-fab fa-youtube fa-2x black-60" aria-hidden="true"></span>
+          {{ partial "icon.html" (dict "name" "youtube" "class" "icon-2x black-60") }}
         </a>
       </li>
     </ul>

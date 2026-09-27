@@ -249,6 +249,20 @@ nav a {
   transform: rotate(180deg);
 }
 
+/* Inline SVG icons (partials/icon.html). Mirrors Font Awesome's own SVG sizing
+   so they sit exactly where the old webfont glyphs did. No `display` here, so
+   tachyons helpers like dn-l still hide them. */
+.icon {
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
+
+.icon-2x {
+  font-size: 2em;
+}
+
 .menu-link {
   border-radius: 0.5rem;
   display: inline-block;
