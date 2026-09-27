@@ -29,6 +29,11 @@ Below are some resources to help you connect to affordable or free internet acce
 **Shop online**: [Shop here](https://pcsrefurbished.com/sales/salesHome).  
 **Contact**: Call 215-621-8118 or email philadelphia@pcsforpeople.org.   
 
+## English and Digital Skills Training: The Welcoming Center (Multilingual)
+**Description**: Helps immigrants in and around Philadelphia reach their job, education, and personal goals through free classes in English, U.S. workplace culture, and digital skills.  
+**Location and Time**: Varies.  
+**Register**: Learn more [here](https://welcomingcenter.org/esol-digital-skills/).
+
 ## Digital Literacy Training: Beyond Literacy
 **Description**: Offers free digital skills workshops at convenient locations across Philadelphia. With a variety of workshop offerings, residents can improve computer skills, learn how to send emails, apply for jobs online, and more.  
 **Location and Time**: Varies.  

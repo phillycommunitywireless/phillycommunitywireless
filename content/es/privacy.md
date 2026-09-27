@@ -6,11 +6,11 @@ description: "Cómo Philly Community Wireless recopila, usa, comparte y protege 
 
 **Fecha de entrada en vigor**: 1 de marzo de 2021
 
-**Última actualización**: 25 de septiembre de 2026
+**Última actualización**: 27 de septiembre de 2026
 
 ***
 
-En Philadelphia Community Wireless Project, un proyecto patrocinado fiscalmente por el [Movement Alliance Project](https://movementalliance.org/) ("**PCWP**", "**nos**", "**nuestro**" o "**nosotros**"), estamos firmemente comprometidos con la transparencia y queremos que usted ("**usted**" o "**su**") comprenda cómo recopilamos, utilizamos, compartimos y protegemos su información personal, así como la forma en que puede administrar la información personal que recopilamos. Este Aviso de Privacidad se aplica a sus interacciones con nosotros, incluida su asistencia a nuestros eventos o su participación en nuestros programas, su uso de nuestro sitio web ([www.phillycommunitywireless.org](http://www.phillycommunitywireless.org)) o su uso de nuestra red inalámbrica de Internet (en conjunto, nuestros "**Servicios**").
+En Philly Community Wireless Project, un proyecto patrocinado fiscalmente por el [Movement Alliance Project](https://movementalliance.org/) ("**PCWP**", "**nos**", "**nuestro**" o "**nosotros**"), estamos firmemente comprometidos con la transparencia y queremos que usted ("**usted**" o "**su**") comprenda cómo recopilamos, utilizamos, compartimos y protegemos su información personal, así como la forma en que puede administrar la información personal que recopilamos. Este Aviso de Privacidad se aplica a sus interacciones con nosotros, incluida su asistencia a nuestros eventos o su participación en nuestros programas, su uso de nuestro sitio web ([www.phillycommunitywireless.org](http://www.phillycommunitywireless.org)) o su uso de nuestra red inalámbrica de Internet (en conjunto, nuestros "**Servicios**").
 
 Al utilizar nuestros Servicios, usted reconoce los términos de este Aviso de Privacidad. Si no está de acuerdo con los términos de este Aviso de Privacidad, por favor, no utilice nuestros Servicios. Si no entiende este Aviso de Privacidad, o si tiene preguntas sobre él, póngase en contacto con nosotros antes de utilizar, o de seguir utilizando, nuestros Servicios.
 

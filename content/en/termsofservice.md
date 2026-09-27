@@ -5,7 +5,7 @@ description: "The terms of service and acceptable use policy for Philly Communit
 
 **Effective Date**: March 1, 2021
 
-**Last Updated**: June 16, 2026
+**Last Updated**: September 27, 2026
 
 ***
 

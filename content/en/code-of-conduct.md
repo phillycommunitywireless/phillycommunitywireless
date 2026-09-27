@@ -9,7 +9,7 @@ description = "The values and community guidelines everyone taking part in Phill
 
 **Show up.** We value all forms of participation, but the most important way to participate is through in-person participation by volunteering time, at events and meetings, as possible. We get things done by people showing up. 
 
-**Expect best intentions.** Aspire to acting in friendship—make PCW comfortable, welcoming, supportive, respectful, sincere, and open. Trust intent, name impact. Trust that everyone in this group has each other's best interests at heart; but if someone says something incorrect or hurtful, name what impact that has. Report hateful or violent behavior, comments, discussions, or actions to the committee dedicated to handling these reports. See more details on that process below. 
+**Expect best intentions.** Aspire to acting in friendship—make PCW comfortable, welcoming, supportive, respectful, sincere, and open. Trust intent, name impact. Trust that everyone in this group has each other's best interests at heart; but if someone says something incorrect or hurtful, name what impact that has. Report hateful or violent behavior, comments, discussions, or actions to the Personnel Committee. 
 
 **Stay open and flexible.** Speak up and have your voice heard, but also be cognizant of how much space you're occupying and exercise your listening skills when needed. In technical discussions, we ask that members belonging to historically overrepresented groups (especially men) are careful to check their egos and actively make space for others. Our goal is to build functional infrastructure: be a plumber, not a rockstar.
 

@@ -5,7 +5,7 @@ description: "Los términos del servicio y la política de uso aceptable de la r
 
 **Fecha de entrada en vigor**: 1 de marzo de 2021
 
-**Última actualización**: 16 de junio de 2026
+**Última actualización**: 27 de septiembre de 2026
 
 ***
 

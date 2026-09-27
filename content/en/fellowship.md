@@ -16,4 +16,4 @@ The call for proposals is coming later this year. Questions in the meantime can 
 
 ## Funders
 
-Funded support for the Public Internet Fellowship pilot is provided by People's Media Fund through its Future Fund. Additional in-kind funding from the William Penn Foundation and the Claneil Foundation has made this initiative possible.
+Funded support for the Public Internet Fellowship pilot is provided by People's Media Fund through its Future Fund. Additional funding from the William Penn Foundation and the Claneil Foundation has made this initiative possible.

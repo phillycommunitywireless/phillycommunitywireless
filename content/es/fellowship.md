@@ -16,4 +16,4 @@ La convocatoria de propuestas estará disponible más adelante este año. Mientr
 
 ## Patrocinadores
 
-El programa piloto de la Beca de Internet Público cuenta con el apoyo financiero de People's Media Fund, a través de su Future Fund. El financiamiento adicional en especie de la William Penn Foundation y de la Claneil Foundation ha hecho posible esta iniciativa.
+El programa piloto de la Beca de Internet Público cuenta con el apoyo financiero de People's Media Fund, a través de su Future Fund. El financiamiento adicional de la William Penn Foundation y de la Claneil Foundation ha hecho posible esta iniciativa.

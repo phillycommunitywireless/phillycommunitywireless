@@ -6,11 +6,11 @@ description: "How Philly Community Wireless collects, uses, shares, and protects
 
 **Effective Date**: March 1, 2021
 
-**Last Updated**: September 25, 2026
+**Last Updated**: September 27, 2026
 
 *******
 
-We at Philadelphia Community Wireless Project, a fiscally sponsored
+We at Philly Community Wireless Project, a fiscally sponsored
 project of the [Movement Alliance Project](https://movementalliance.org/) ("**PCWP**", "**us**",
 "**our**", or "**we**") are strongly committed to transparency, and we
 want you ("**you**" or "**your**") to understand how we collect, use,

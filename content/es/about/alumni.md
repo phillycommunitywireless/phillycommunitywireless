@@ -15,7 +15,7 @@ Dylan Hutchinson \
 _Instalador_
 
 Mir Detre \
-_Técnico_
+_Técnique_
 
 Allan Gomez \
 _Administrador de sistemas_
