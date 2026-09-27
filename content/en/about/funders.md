@@ -1,6 +1,7 @@
 ---
 date: 2024-06-14
 title: "Funders"
+description: "The foundations and funders whose support makes Philly Community Wireless's free community Wi-Fi possible."
 layout: "people/single"
 aliases:
     - /funders
@@ -16,7 +17,7 @@ segments:
           img_src: "/images/funders/patriciakind-logo.png"
           link: "https://pkindfamilyfoundation.org/index.php/partners-fund-grants-awarded"
           link_text: "Partners Fund"
-          suffix: ", Patricia Kind Family Fund, 2026"
+          suffix: ", Patricia Kind Family Foundation, 2026"
         - img_alt: "Impact100 Philly"
           img_src: "/images/funders/impact100-circle-logo.jpeg"
           link: "https://impact100philly.org/grantees/philly-community-wireless/"
@@ -62,11 +63,11 @@ segments:
           link: "https://www.aarp.org/livable-communities/community-challenge/"
           link_text: "Community Challenge Grant"
           suffix: ", AARP (American Association of Retired Persons), 2023"
-        - img_alt: "Independent Public Media Foundation"
+        - img_alt: "Independence Public Media Foundation"
           img_src: "/images/funders/ipmf-logo.jpg"
           prefix: "Digital Equity Grant and ongoing support from the"
           link: "https://independencemedia.org/2021-community-voices-and-digital-equity-grants/"
-          link_text: "Independent Public Media Foundation"
+          link_text: "Independence Public Media Foundation"
           suffix: ", 2021 to present"
         - img_alt: "Digital Literacy Alliance"
           img_src: "/images/funders/DLA-logo.jpg"

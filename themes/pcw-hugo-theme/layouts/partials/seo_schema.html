@@ -1,26 +1,24 @@
-<script type="application/ld+json">
-  {
-      "@context" : "http://schema.org",
-      "@type" : "BlogPosting",
-      "mainEntityOfPage": {
-           "@type": "WebPage",
-           "@id": "{{ .Site.BaseURL }}"
-      },
-      "articleSection" : "{{ .Section }}",
-      "name" : "{{ .Title }}",
-      "headline" : "{{ .Title }}",
-      "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
-      "inLanguage" : "{{ .Site.Language.Lang }}",
-      "author" : "{{ .Site.Params.author }}",
-      "creator" : "{{ .Site.Params.author }}",
-      "publisher": "{{ .Site.Params.author }}",
-      "accountablePerson" : "{{ .Site.Params.author }}",
-      "copyrightHolder" : "{{ .Site.Params.author }}",
-      "copyrightYear" : "{{ .Date.Format "2006" }}",
-      "datePublished": "{{ .Date }}",
-      "dateModified" : "{{ .Date }}",
-      "url" : "{{ .Permalink }}",
-      "wordCount" : "{{ .WordCount }}",
-      "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"Blog" ]
-  }
-</script>
+{{- /*
+  Schema.org structured data. The site is an organization's website, not a
+  blog, so describe the organization once, on the homepage. Per-page metadata
+  comes from Hugo's internal opengraph/schema/twitter_cards templates.
+*/ -}}
+{{- if .IsHome -}}
+{{- $org := dict
+  "@context" "https://schema.org"
+  "@type" "NGO"
+  "name" .Site.Title
+  "url" .Site.Home.Permalink
+  "logo" ("/favicon/android-chrome-512x512.png" | absURL)
+  "description" .Site.Params.description
+  "email" "info@phillycommunitywireless.org"
+  "sameAs" (slice
+    "https://www.facebook.com/Philly-Community-Wireless-111328101173369/"
+    "https://www.instagram.com/phillycommunitywireless/"
+    "https://bsky.app/profile/phillywireless.bsky.social"
+    "https://jawns.club/@phillycommunitywireless"
+    "https://www.youtube.com/channel/UCDguhllC44ZqauV6eDopShA"
+  )
+-}}
+<script type="application/ld+json">{{ $org | jsonify | safeJS }}</script>
+{{- end -}}

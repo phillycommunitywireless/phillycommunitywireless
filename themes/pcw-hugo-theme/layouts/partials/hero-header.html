@@ -6,8 +6,9 @@
     ofit-cover w-100 h-100" /> -->
 
     <!-- concat default class + user inputs to preserve class styling -->
-    {{ $class := printf "br3 ctr-img %s" .header_class }}
-    {{ partial "responsive-image.html" (dict "src" .header_photo "alt" .header_alt "class" $class "sizes" "100vw") }}
+    {{ $class := trim (printf "br3 ctr-img %s" (.header_class | default "")) " " }}
+    {{/* The header photo is the first thing on the page, so fetch it right away. */}}
+    {{ partial "responsive-image.html" (dict "src" .header_photo "alt" .header_alt "class" $class "sizes" "100vw" "loading" "eager" "fetchpriority" "high") }}
 </div>
 {{ end }}
 {{ end }}

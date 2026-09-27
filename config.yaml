@@ -154,6 +154,9 @@ languages:
     weight: 1
     params:
       navName: Menu
+      # Fallback meta description for pages without their own `description`
+      # front matter (e.g. the homepage).
+      description: "Philly Community Wireless builds free, community-controlled Wi-Fi in North Philadelphia. Get connected, volunteer, or support internet access for all."
       featured_text:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Building community-controlled networks in Philadelphia
@@ -182,6 +185,10 @@ languages:
           url: "/volunteer"
           parent: Programas
           weight: "2"  
+        - name: Beca de Internet Público
+          url: "/fellowship"
+          parent: Programas
+          weight: "3"
 
           # Apóyanos
         - name: Apóyanos
@@ -206,10 +213,10 @@ languages:
           parent: Apóyanos
           weight: "3"
 
-        - name: Acerca 
+        - name: Acerca de
           identifier: about-us
           weight: "3"
-        - name: Acerca PCW
+        - name: Acerca de PCW
           url: "/about"
           parent: about-us
           weight: "1"
@@ -233,10 +240,14 @@ languages:
           url: "/resources"
           parent: about-us
           weight: "6"
-        - name: Preguntas Frecuentes
+        - name: Preguntas frecuentes
           url: "/about/faq"
           parent: about-us
           weight: "7"
+        - name: Nuestra historia
+          url: "/about/our_story"
+          parent: about-us
+          weight: "8"
 
         - name: Ubicación
           identifier: location
@@ -263,7 +274,7 @@ languages:
             external: true
           parent: documentos
           weight: "0"
-        - name: Instalacion
+        - name: Instalaciones
           url: https://docs.phillycommunitywireless.org/es/installations/installations/
           params:
             external: true
@@ -295,7 +306,12 @@ languages:
           weight: "7"
     weight: 2
     params:
+      description: "Philly Community Wireless construye Wi-Fi gratuito y controlado por la comunidad en el norte de Filadelfia. Conéctate, hazte voluntario o apoya el acceso a Internet para todos."
       navName: Menú
+      banner:
+        text: "¡Estamos contratando!"
+        link: "/dev-comms-manager"
+        show: true
       featured_text:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Construyendo redes controladas por la comunidad en Filadelfia
@@ -305,6 +321,9 @@ languages:
               desde la esquina superior derecha."            
 params:
   author: Philly Community Wireless
+  # Default image for link previews (og:image / twitter:image), 1200x630.
+  images:
+    - "/images/og-image.jpg"
   site_logo: "/images/WebLogo_Standard2.svg"
   site_logo_inverted: "/images/WebLogo_Inverted2.svg"
   attribution:

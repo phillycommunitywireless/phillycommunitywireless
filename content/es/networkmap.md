@@ -1,15 +1,16 @@
 ---
 date: 2024-04-02
-title: "Ubicación de la red PCW"
+title: "Ubicación de la red"
+description: "Un mapa de la red de Philly Community Wireless que muestra dónde están nuestros puntos de acceso Wi-Fi y nuestros equipos de red en Filadelfia."
 
 ---
 
 <!-- ## [Philly Community Wireless Wi-Fi Coverage Map](https://map.phillycommunitywireless.org/) -->
 
-<iframe title="Un mapa que muestra la infraestructura de la red Philly Community Wireless actualmente instalada, centrada en Norris Square Park." src="https://map.phillycommunitywireless.org/" width="100%" height="400"></iframe>
+<iframe title="Mapa de los equipos instalados en la red de Philly Community Wireless" src="https://map.phillycommunitywireless.org/" width="100%" height="400"></iframe>
 
 {{< button-custom href="https://map.phillycommunitywireless.org/" text="Ver mapa en pantalla completa">}}
   
-Este mapa muestra el alcance y la estructura de nuestra red comunitaria. Los iconos del mapa muestran las capas de nuestra red inalámbrica, incluidos nuestros puntos de acceso WiFi que transmiten Internet en espacios públicos y privados, así como los sitios elevados desde donde accedemos al backhaul de PhillyWisper, las radios punto a punto y los enrutadores que llevan Internet a los hogares de las personas. Otras características del mapa muestran las conexiones entre dispositivos, una línea de tiempo para ver el crecimiento de nuestra red a lo largo de los años y un mapa de calor.
+Este mapa muestra el alcance y la estructura de nuestra red comunitaria. Los íconos del mapa muestran las capas de nuestra red inalámbrica, incluidos nuestros puntos de acceso WiFi, que transmiten Internet en espacios públicos y privados, así como los sitios altos donde nos conectamos a la red troncal (backhaul) de PhillyWisper, los radios punto a punto y los enrutadores que llevan Internet a los hogares. Otras funciones del mapa muestran las conexiones entre los dispositivos, una línea de tiempo para ver cómo ha crecido nuestra red a lo largo de los años y un mapa de calor.
 
-Las áreas cubiertas por el mapa de calor deben tener señal PCW disponible para una conexión Wi-Fi gratuita. Ten en cuenta que es posible que el mapa de calor no sea preciso a nivel de calle. Si no puedes acceder a la red Wi-Fi en dicha ubicación, es posible que debas caminar hasta la esquina de la calle. Intenta encontrar el punto de acceso Philly Community Wireless más cercano visible para garantizar una buena conexión.
+Las áreas cubiertas por el mapa de calor deberían tener señal de PCW disponible para una conexión Wi-Fi gratuita. Ten en cuenta que el mapa de calor puede no ser exacto a nivel de calle. Si no puedes acceder a la red Wi-Fi en alguno de esos lugares, es posible que tengas que doblar la esquina. Trata de ubicar el punto de acceso de Philly Community Wireless visible más cercano para asegurar una buena conexión.

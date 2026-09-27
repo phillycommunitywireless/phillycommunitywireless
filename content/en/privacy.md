@@ -1,15 +1,16 @@
 ---
 layout: single
 title: Privacy Notice
+description: "How Philly Community Wireless collects, uses, shares, and protects personal information across our website, programs, and Wi-Fi network."
 ---
 
 **Effective Date**: March 1, 2021
 
-**Last Updated**: May 21, 2021
+**Last Updated**: September 27, 2026
 
 *******
 
-We at Philadelphia Community Wireless Project, a fiscally sponsored
+We at Philly Community Wireless Project, a fiscally sponsored
 project of the [Movement Alliance Project](https://movementalliance.org/) ("**PCWP**", "**us**",
 "**our**", or "**we**") are strongly committed to transparency, and we
 want you ("**you**" or "**your**") to understand how we collect, use,
@@ -19,7 +20,7 @@ to your interactions with us, including attending our events or
 participating in our programs, or your use of our website
 ([www.phillycommunitywireless.org](http://www.phillycommunitywireless.org)),
 or using our wireless internet network (collectively, our
-"**Services**).
+"**Services**").
 
 By using our Services, you acknowledge the terms of this Privacy Notice.
 If you do not agree to the terms of this Privacy Notice, please do not
@@ -45,7 +46,7 @@ our Privacy Notice will mean that you have accepted those changes.
     INFORMATION**](#35nkun2)
 6.  [**CHILDREN'S PRIVACY**](#1ksv4uv)
 7.  [**YOUR CHOICES**](#1fob9te)
-8.  [**THIRD PARTY WEBSITE AND APPS**](#2jxsxqh)
+8.  [**THIRD PARTY WEBSITES AND APPS**](#2jxsxqh)
 9. [**CONTACT US**](#z337ya)
 
 ********
@@ -152,7 +153,7 @@ participate in surveys, some of which might be sponsored or conducted by
 a third party. Participation in these surveys is completely voluntary.
 If you choose to participate, we will request certain personal
 information from you. If there is a third party sponsor involved in the
-survey, we may provide certain personal information with the third party
+survey, we may provide certain personal information to the third party
 sponsor. Please make sure to review the sponsor's privacy policy and be
 aware that any surveys offered by us may be governed by specific rules
 and terms and conditions that are separate from and in addition to this
@@ -169,7 +170,7 @@ We may use personal information to do any or all of the following:
 -   facilitate your interactions and transactions with us;
 
 -   respond to your requests, communications, suggestions, comments,
-    inquiries, and requests (including your feedback about our
+    and inquiries (including your feedback about our
     Services);
 
 -   administer our relationship with you, including creating and
@@ -225,7 +226,7 @@ the security and confidentiality of your personal information.
 
 We share personal information with these third parties to help us:
 
--   with the uses described in the [How We Use Information](#j94hd7) section above;
+-   with the uses described in the [How We Use Personal Information](#j94hd7) section above;
 
 -   in the operation, management, improvement, research and analysis of
     our Services; and

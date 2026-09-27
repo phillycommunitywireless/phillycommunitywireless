@@ -1,26 +1,26 @@
 ---
 date: 2026-01-04
-title: Contáctenos
+title: Contacto
+description: "Comunícate con Philly Community Wireless si tienes preguntas sobre nuestra red de Wi-Fi gratis, el voluntariado o cómo colaborar con nosotros."
 layout: single
 header_photo: "/images/volunteers_first_stop_recovery.jpg"
-header_alt: "A wide panorama photo with 4 PCW volunteers on a roof."
+header_alt: "Una foto panorámica amplia de 4 voluntarios de PCW en un techo."
 header_class: "opos-50"
 segments:
   - template: contact-form
     heading_level: 1
     title: "¡Vamos a conversar!"
-
     help_text: 
       "
-      Si deseas inscribirte para Wi-Fi gratis en tu hogar, organización comunitaria o espacio verde, por favor usa [nuestro formulario de inscripción para la red PCW](https://tally.so/r/mR8VM9).
+      Si quieres inscribirte para recibir Wi-Fi gratis en tu hogar, organización comunitaria o espacio verde, usa nuestro [formulario de inscripción para anfitriones de la red](https://tally.so/r/mR8VM9).
 
 
-      Si estás interesado en ser un voluntario con PCW, por favor, completa [nuestro formulario de inscripción para voluntarios](https://tally.so/r/w2ODaj).
+      Si te interesa hacer voluntariado con PCW, llena nuestro [formulario de inscripción para voluntarios](https://tally.so/r/w2ODaj).
 
 
-      Para cualquier otra pregunta, por favor usa el siguiente formulario de abajo o déjanos un mensaje de voz al número (215) 316-5761. También puedes enviarnos un correo electrónico a info@phillycommunitywireless.org. Te responderemos lo más pronto posible. 
+      Para otras consultas, usa el formulario de abajo o déjanos un mensaje de voz al [(215) 316-5761](tel:+12153165761). También puedes escribirnos a info@phillycommunitywireless.org. Te responderemos lo antes posible. 
       
       
-      ¡Esperemos conectar contigo!
+      ¡Esperamos poder conectar contigo!
       "
 ---

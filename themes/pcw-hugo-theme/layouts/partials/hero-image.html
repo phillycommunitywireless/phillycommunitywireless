@@ -1,7 +1,7 @@
 {{ with $.Site.Params.featured_image }}
 
   <div class="relative vh-75">
-    {{ partial "responsive-image.html" (dict "src" .src "alt" .alt "class" (printf "%s ofit-cover w-100 h-100" (.class | default "opos-left")) "sizes" "100vw" "loading" "eager") }}
+    {{ partial "responsive-image.html" (dict "src" .src "alt" .alt "class" (printf "%s ofit-cover w-100 h-100" (.class | default "opos-left")) "sizes" "100vw" "loading" "eager" "fetchpriority" "high") }}
     {{ with $.Site.Params.featured_text }}
       <div class="absolute absolute--fill flex flex-column bg-black-50 hero-image">
         {{ if in .header ".svg" }}
@@ -13,7 +13,7 @@
           <p class="tc center f2-ns f3 white mt0">{{ . | markdownify }}</p>
         {{ end }}
         {{ with .link }}
-          <p class="tc center f3 white mb5 mt0"><a class="pa2 white link" href="/about">{{ . | markdownify}}</a></p>
+          <p class="tc center f3 white mb5 mt0"><a class="pa2 white link" href="{{ "/about" | relLangURL }}">{{ . | markdownify}}</a></p>
         {{ end }}
       </div>
     {{ end }}

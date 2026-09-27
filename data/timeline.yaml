@@ -35,7 +35,7 @@
   alt: "A small solar panel mounted on a corrugated metal roof."
 
 - date: "2022-04-27"
-  headline: "First Purple Air Monitor Installed"
+  headline: "First PurpleAir Monitor Installed"
   group: install
   text: "PCW installs a PurpleAir Monitor (used to monitor air quality) at Las Parcelas Gardens. Air monitors are an example of the Internet of Things devices that public Wi-Fi, such as ours, can facilitate."
   image: "/images/timeline/2022-04-first-purple-air-monitor-installed.jpg"
@@ -72,7 +72,7 @@
 - date: "2023-02-25"
   headline: "PCW Presents at Iffy Books"
   group: event
-  text: "PCW volunteers present at Iffy Books about the network we've built so far, where we’re planning to expand, and what we’ve learned along they way. We also debuted our network coverage map!"
+  text: "PCW volunteers present at Iffy Books about the network we've built so far, where we’re planning to expand, and what we’ve learned along the way. We also debuted our network coverage map!"
   image: "/images/timeline/2023-02-pcw-presents-at-iffy-books.jpg"
   alt: "Two presenters at a laptop beside a chalkboard and a projected slide at Iffy Books."
 
@@ -154,16 +154,16 @@
   alt: "An antenna, an equipment box and a laptop on a rooftop, with the Market-Frankford Line behind."
 
 - date: "2024-09-14"
-  headline: "Outreach at Jose Manual Collazo Playground"
+  headline: "Outreach at Jose Manuel Collazo Playground"
   group: event
-  text: "PCW staff and volunteers tabling at Jose Manual Collazo Playground with Team NAS alongside other community organizations."
+  text: "PCW staff and volunteers tabling at Jose Manuel Collazo Playground with Team NAS alongside other community organizations."
   image: "/images/timeline/2024-09-outreach-at-jose-manual-collazo-playground.jpg"
   alt: "Volunteers at a Philly Community Wireless table with a prize wheel at a playground."
 
 - date: "2024-09-17"
   headline: "Work with Bryn Mawr Students"
   group: event
-  text: "Environmental Studies students from Bryn Mawr College come out to  PCW headquarters to learn more about our organization. Collaboration throughout their semester led to three distinct presentations incorporating elements of PCW's work and future goals, including air monitoring."
+  text: "Environmental Studies students from Bryn Mawr College come out to PCW headquarters to learn more about our organization. Collaboration throughout their semester led to three distinct presentations incorporating elements of PCW's work and future goals, including air monitoring."
   image: "/images/timeline/2024-09-work-with-bryn-mawr-students.jpg"
   alt: "A group of Bryn Mawr students posing on the sidewalk outside PCW headquarters."
 
@@ -177,4 +177,4 @@
 - date: "2024-12-31"
   headline: "PCW Keeps Growing"
   group: history
-  text: "4 and a half years after starting, PCW has grown and expanded throughout the neighborhoods of Norris Square, Fairhill, and Kensington, servicing tens of thousands of users. To see our live service map, visit [our network map](/networkmap/)."
+  text: "4 and a half years after starting, PCW has grown and expanded throughout the neighborhoods of Norris Square, Fairhill, and Kensington, serving tens of thousands of users. To see our live service map, visit [our network map](/networkmap/)."

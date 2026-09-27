@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Philly Community Wireless
 
 # The `segments` param will generate homepage segments (vertically stacked sections of the page).
 # For the supported segment templates and required params, see README.md#segments
@@ -20,7 +20,7 @@ segments:
         button_href: "/volunteer"
       - photo: "/images/web updates/Signage_Collazo.jpg"
         photo_alt_text: "A PCW sign saying Free Wifi Available Here with PCW's contact information and logos of partner organizations."
-        text: "**Get behind us!** Support our work in providing essential internet access to individuals and families in Philadephia."
+        text: "**Get behind us!** Support our work in providing essential internet access to individuals and families in Philadelphia."
         button_text: Support 
         button_href: "/support" 
 
@@ -42,7 +42,7 @@ segments:
     photo_alt_text: "4 PCW Volunteers on a roof, with one using a drill to secure a pole that the access point device is on."
     button: 
       button_text: "What We Do"
-      button_href: "about/"
+      button_href: "/about/"
       # no_button_arrow: "true"
 
     class: bg-light-gray

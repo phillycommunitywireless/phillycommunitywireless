@@ -1,7 +1,11 @@
 <section class="cf flex-ns items-stretch center w-75-l w-100 pv3 {{ .class }}">
   {{ range $i, $icon := .icons }}
     <div class="tc flex-1 flex flex-column items-stretch">
-      <i class="f0 {{ .color | default "color-pcw" }} {{ $icon.icon }}"></i>
+      {{- /* `icon` is a Font Awesome class list like "fas fa-wifi"; the fa-<name> part
+        picks the inline SVG from partials/icon.html. */}}
+      {{- $name := "" -}}
+      {{- range split $icon.icon " " -}}{{- if and (hasPrefix . "fa-") (ne . "fa-solid") (ne . "fa-brands") (ne . "fa-regular") -}}{{- $name = strings.TrimPrefix "fa-" . -}}{{- end -}}{{- end -}}
+      <span class="f0 {{ .color | default "color-pcw" }}">{{ partial "icon.html" (dict "name" $name) }}</span>
       <p class="ma0 pb0-ns pv4 f3 dark-gray">{{ $icon.text }}</p>
     </div>
   {{ end }}

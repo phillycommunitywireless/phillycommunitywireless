@@ -1,10 +1,11 @@
 ---
 title: Términos del Servicio y Política de Uso Aceptable
+description: "Los términos del servicio y la política de uso aceptable de la red Wi-Fi pública y gratuita de Philly Community Wireless."
 ---
 
 **Fecha de entrada en vigor**: 1 de marzo de 2021
 
-**Última actualización**: 16 de junio de 2026
+**Última actualización**: 27 de septiembre de 2026
 
 ***
 
@@ -12,7 +13,7 @@ Philly Community Wireless es una red wifi pública y gratuita. Para usar esta re
 
 ## Términos del Servicio
 
-El Philly Community Wireless Project, un proyecto patrocinado fiscalmente por Movement Alliance Project (“PCWP”), y su proveedor de conexión troncal (backhaul), PhillyWisper (“PW”), apoyan la neutralidad de la red y un Internet libre y abierto, sin estrangulamiento de la velocidad (throttling), sin tarifa cero (zero-rating) y sin el seguimiento del uso de las personas con fines de lucro, publicidad u otras formas de contraprestación. Por esta razón, PCWP, con el apoyo de PW, proporciona acceso a una conexión inalámbrica a Internet de forma gratuita a los residentes de Filadelfia mientras se encuentren dentro del alcance de nuestra red (el “Servicio”). Dado que el acceso a Internet debe ser un derecho humano del que disfruten todos, PCWP nunca exigirá comprobación de recursos ni pedirá a nadie que demuestre su necesidad. El Servicio está destinado a proporcionar acceso al Internet público, incluido el correo electrónico y la navegación web.
+El Philly Community Wireless Project, un proyecto patrocinado fiscalmente por Movement Alliance Project (“PCWP”), y su proveedor de conexión troncal (backhaul), PhillyWisper (“PW”), apoyan la neutralidad de la red y un Internet libre y abierto, sin estrangulamiento de la velocidad (throttling), sin tarifa cero (zero-rating) y sin el seguimiento del uso de las personas a cambio de dinero, publicidad u otras formas de contraprestación. Por esta razón, PCWP, con el apoyo de PW, proporciona acceso a una conexión inalámbrica a Internet de forma gratuita a los residentes de Filadelfia mientras se encuentren dentro del alcance de nuestra red (el “Servicio”). Dado que el acceso a Internet debe ser un derecho humano del que disfruten todos, PCWP nunca exigirá comprobación de recursos ni pedirá a nadie que demuestre su necesidad. El Servicio está destinado a proporcionar acceso al Internet público, incluido el correo electrónico y la navegación web.
 
 PCWP no ofrece garantías de rendimiento del Servicio, que es un proyecto piloto que utiliza una infraestructura de red experimental. Debido a que el número de personas que utilizan este Servicio gratuito puede variar significativamente de un minuto a otro, las velocidades de banda ancha disponibles al usar el Servicio pueden fluctuar de forma considerable, e incluso pueden no estar disponibles en ciertos momentos. A cambio de proporcionar este Servicio sin costo, solo le pedimos que sea un buen vecino mientras lo utiliza, para que la mayor cantidad posible de personas pueda disfrutarlo. Ser un buen vecino significa comprender y cumplir con estos Términos del Servicio y la Política de Uso Aceptable (la “Política”), que rigen su uso y acceso al Servicio.
 

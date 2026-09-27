@@ -1,5 +1,6 @@
 +++
 title = "PCW Code of Conduct"
+description = "The values and community guidelines everyone taking part in Philly Community Wireless is asked to follow."
 
 +++
 ## Values of Participation
@@ -8,7 +9,7 @@ title = "PCW Code of Conduct"
 
 **Show up.** We value all forms of participation, but the most important way to participate is through in-person participation by volunteering time, at events and meetings, as possible. We get things done by people showing up. 
 
-**Expect best intentions.** Aspire to acting in friendship—make PCW comfortable, welcoming, supportive, respectful, sincere, and open. Trust intent, name impact. Trust that everyone in this group has each other's best interests at heart; but if someone says something incorrect or hurtful, name what impact that has. Report hateful or violent behavior, comments, discussions, or actions to the committee dedicated to handling these reports. See more details on that process below. 
+**Expect best intentions.** Aspire to acting in friendship—make PCW comfortable, welcoming, supportive, respectful, sincere, and open. Trust intent, name impact. Trust that everyone in this group has each other's best interests at heart; but if someone says something incorrect or hurtful, name what impact that has. Report hateful or violent behavior, comments, discussions, or actions to the Personnel Committee. 
 
 **Stay open and flexible.** Speak up and have your voice heard, but also be cognizant of how much space you're occupying and exercise your listening skills when needed. In technical discussions, we ask that members belonging to historically overrepresented groups (especially men) are careful to check their egos and actively make space for others. Our goal is to build functional infrastructure: be a plumber, not a rockstar.
 
@@ -36,8 +37,8 @@ Harassment includes, but is not limited to:
 
 Abuse includes, but is not limited to:
 - Trolling, misdirection, and disrespectful use of resources and access 
-- Use of existing unequal or oppressive social dynamics (cultural, gender or class differences, etc) to exert power over another person
+- Use of existing unequal or oppressive social dynamics (cultural, gender or class differences, etc.) to exert power over another person
 
-If you have been harassed or have witnessed abuse, please bring this to the attention of a member of the Board of Advisors. Every participant is responsible for taking action if they witness or become aware of abuse or harassment, and to invoke a mediator and confidant to take next steps - not just the target or most impacted person is responsible to report it.
+If you have been harassed or have witnessed abuse, please bring this to the attention of the Personnel Committee or a member of the Board of Advisors. Every participant is responsible for taking action if they witness or become aware of abuse or harassment, and to invoke a mediator and confidant to take next steps. Reporting is not only the responsibility of the target or the most impacted person.
 
 Organizers should take appropriate, usually private, action if any abuse or harassment is reported to them or they hear about or witness any such abuse or harassment. They must be sensitive to cultural differences, but take prompt action when necessary. 

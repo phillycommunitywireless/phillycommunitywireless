@@ -1,6 +1,7 @@
 ---
 date: 2024-07-01
 title: "People"
+description: "Meet the staff, board of advisors, and alumni of Philly Community Wireless."
 layout: "people/people"
 show_title: true
 aliases:

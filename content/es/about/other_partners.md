@@ -5,24 +5,24 @@ _build:
   list: false
 ---
 
-## Diseño Gráfico
+## Diseño gráfico
 
 Katie Garth
 
 <br/>
 
-## Producción de Video
+## Producción de video 
 
 Eli Laban, *Big Picture Alliance*
 
 <br/>
 
-## Apoyo Legal
+## Apoyo legal
 
 [Dentons, Todd D. Daubert](https://www.dentons.com/en/todd-daubert)  
 
 <br/>
 
-## Financiadores
+## Patrocinadores
 
-Para más información sobre nuestros financiadores institucionales, visite nuestra página de [Financiadores](/es/about/funders)
+Para más información sobre nuestros patrocinadores institucionales, visita nuestra página de [Patrocinadores](/es/about/funders).

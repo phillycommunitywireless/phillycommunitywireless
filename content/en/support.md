@@ -15,7 +15,7 @@ segments:
     - template: three-button-call-to-action
       sections:
         - photo: "/images/web updates/LB_AP_KCT Garden_Alex.jpg"
-          photo_alt_text: "A man smiling standing next to a structure with a LiteBeam and access point device on a roof, with subway tracks and the street in view behind him."
+          photo_alt_text: "A man smiling next to a rooftop mount holding a LiteBeam and an access point, with the elevated train tracks, the street below, and the Center City skyline behind him."
           text: "Donate to directly support our mission of bridging the digital divide in communities in Philadelphia. To process donations, we use Allyra, a fundraising platform used by nonprofits and professional associations nationwide. You can make one-time or recurring donations."
           button_text: Donate
           button_href: "https://phillycommunitywireless.allyrafundraising.com"
@@ -33,7 +33,7 @@ segments:
     - template: call-to-action-photo-right
       class: bg-pcw
       title: "Why Support PCW?"
-      text: Our cost-effective wireless network connects thousands of users to the internet. **Just $100 dollars** covers the cost of one new device to add to our network, and can save multiple households hundreds of dollars per year. 
+      text: Our cost-effective wireless network connects thousands of users to the internet. **Just $100** covers the cost of one new device to add to our network, and can save multiple households hundreds of dollars per year. 
       text_class: bg-light-gray pa4 mv3 ba bw1 b--pcw-dark-blue
       photo: "/images/web updates/View_HACE_Equipment.jpg"
       photo_alt_text: "A white rectangular access point device pointing down from high up towards blocks of rowhomes."

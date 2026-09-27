@@ -1,6 +1,7 @@
 ---
 date: 2025-11-20
 title: "Equipment For Sale"
+description: "Donated Wi-Fi and networking equipment for sale from Philly Community Wireless. Every purchase supports internet access for all."
 
 segments: 
   - template: image-catalog

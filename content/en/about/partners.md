@@ -1,6 +1,7 @@
 ---
 date: 2024-07-03
 title: "Partners"
+description: "The community organizations, universities, and internet providers that Philly Community Wireless works with to bring free Wi-Fi to Philadelphia neighborhoods."
 layout: "people/people"
 show_title: true
 segments:
@@ -202,7 +203,7 @@ segments:
             img_alt: "Philly Tech Justice"
         - partner:
             partner_name: "Temple University, Digital Access Center"
-            partner_link: "https://lenfestcenter.temple.edu/Digital-Equality-Center/"
+            partner_link: "https://lenfestcenter.temple.edu/Digital-Access-Center"
             img_src: "/images/partners/temple.svg"
             img_alt: "Temple University logo"
         - partner:

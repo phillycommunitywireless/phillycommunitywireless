@@ -1,5 +1,6 @@
 <div class="partner-card">
-    <img alt="{{ .partner.img_alt }}" src="{{ .partner.img_src }}"/>
+    {{- /* Logos display at 100px (custom.css), so only small, lazy-loaded versions are needed. */}}
+    {{ partial "responsive-image.html" (dict "src" .partner.img_src "alt" .partner.img_alt "sizes" "100px" "widths" (slice 100 200 300)) }}
     <div class="partner-desc f4">
         <a href="{{ .partner.partner_link }}">
             <p>

@@ -11,17 +11,17 @@ PCW is well-positioned to install these devices in public and private locations 
 
 ## Measuring Air Quality
 
-[Purple air monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods, helping folks understand: 
+[PurpleAir monitors](https://www2.purpleair.com/) enable communities to engage in citizen science around pollution in their neighborhoods, helping folks understand: 
 
 1. If the air quality is good or not good in their area
 2. How it compares to other parts of the city
 
-{{< figure class="figure-center" src="/images/Air-Monitor-WKM.jpg" alt="An arial view of a white circular device with stickers saying Purple Air and Philly Community Wireless attached to a house" style="height: auto">}}
+{{< figure class="figure-center" src="/images/Air-Monitor-WKM.jpg" alt="An aerial view of a white circular device with stickers saying Purple Air and Philly Community Wireless attached to a house" style="height: auto">}}
 
 Real-time air quality data can be viewed on [PurpleAir's map](https://map.purpleair.com/). 
 
 <div>
-  <iframe title="PurpleAir air quality map" style="width:100%; height: 600px" src="https://map.purpleair.com/1/mAQI/a10/p604800/cC0#13.2/39.99071/-75.12142"></iframe>
+  <iframe title="PurpleAir air quality map" style="width:100%; height: 600px" src="https://map.purpleair.com/1/mAQI/a10/p604800/cC0#13.2/39.99071/-75.12142" loading="lazy"></iframe>
 </div>  
 
 
