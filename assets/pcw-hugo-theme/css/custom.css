@@ -578,7 +578,7 @@ footer {
   margin-bottom: 0.5em;
   color: var(--dark-blue);
 }
-.timeline-entry h3 {
+.timeline-entry h4 {
   color: var(--primary);
 }
 .timeline-panel {
@@ -608,3 +608,24 @@ footer {
   margin-bottom: 0.25rem;
 }
 .timeline-entry:last-child { padding-bottom: 0; }
+.timeline-legend { gap: 0.5rem 1.5rem; }
+.timeline-legend li { display: flex; align-items: center; gap: 0.5rem; }
+.timeline-key {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background: var(--dark-blue);
+}
+.timeline-install .timeline-key { background: var(--blue); }
+.timeline-event .timeline-key { background: var(--lilac); }
+/* Wide screens: the photo sits beside the text instead of below it */
+@media screen and (min-width: 60em) {
+  .timeline-has-media {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 18rem;
+    column-gap: 2rem;
+    align-items: start;
+  }
+  .timeline-has-media .timeline-year { grid-column: 1 / -1; }
+  .timeline-has-media .timeline-media { margin-top: 0; }
+}

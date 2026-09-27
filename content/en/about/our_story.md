@@ -20,6 +20,10 @@ segments:
   image: /images/timeline/title-norris-square-sign.jpg
   alt: "The Norris Square Park sign with a Philly Community Wireless \"Free WiFi Available Here\" lawn sign in front of it."
   data: timeline
+  legend:
+    history: "History"
+    install: "Installs"
+    event: "Events"
 ---
 
 Founded in 2020 during the COVID-19 pandemic, Philly Community Wireless started as a volunteer-led project made up of librarians and teachers, organizers, technologists, and community leaders. Our first node went up in July 2020 with our partner PhillyWisper, and since 2021 we've been building free Wi-Fi in Norris Square and across North Philadelphia, with neighbors and community organizations hosting our equipment on their buildings.
