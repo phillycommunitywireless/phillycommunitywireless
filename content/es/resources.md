@@ -16,7 +16,7 @@ A continuación, encontrarás algunos recursos que te ayudarán a conectarte a I
 
 ## Capacitación en alfabetización digital y soporte técnico: Digital Access Center at Temple University (inglés)
 **Descripción**: Ofrece un laboratorio de computadoras de libre acceso en sus instalaciones, capacitación en alfabetización digital, opciones de Internet asequible, soluciones de computadoras para el hogar y soporte técnico a través de su línea directa.  
-**Lugar**: 1918 N 11th St, Philadelphia PA 19122.  
+**Lugar**: 1915 N 11th St, Philadelphia PA 19122.  
 **Contacto y línea directa de soporte técnico**: Llama al 215-204-7445 o envía un correo electrónico a techforphilly@temple.edu.
 
 ## Capacitación en alfabetización digital y soporte técnico: TechOWL Community Space

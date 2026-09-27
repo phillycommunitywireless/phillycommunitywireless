@@ -203,7 +203,7 @@ segments:
             img_alt: "Philly Tech Justice"
         - partner:
             partner_name: "Temple University, Digital Access Center"
-            partner_link: "https://lenfestcenter.temple.edu/Digital-Equality-Center/"
+            partner_link: "https://lenfestcenter.temple.edu/Digital-Access-Center"
             img_src: "/images/partners/temple.svg"
             img_alt: "Temple University logo"
         - partner:

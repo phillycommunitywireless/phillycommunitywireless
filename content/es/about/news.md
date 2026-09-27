@@ -49,7 +49,7 @@ Kensington Voice, [Norris Square organization increases community access to free
 
 Technical.ly Philly, [Alex Wermer-Colan and PCW awarded Community Tech Leader of the Year 2022](https://technical.ly/startups/philly-2022-technically-awards-winners/), 14 de diciembre de 2022
 
-Al Dia, [Bringing Digital Equity to North Philadelphia](https://aldianews.com/local/philadelphia/digital-equity-day), 13 de mayo de 2022
+AL DÍA, [Bringing digital equity to North Philly](https://aldianews.com/local/philadelphia/digital-equity-day), 13 de mayo de 2022
 
 Technical.ly Philly, [A group of Philly technologists are working on a free, community-based mesh Wi-Fi network](https://technical.ly/2022/01/12/philly-community-wireless-phillywisper-mesh-wifi/), 12 de enero de 2022
 

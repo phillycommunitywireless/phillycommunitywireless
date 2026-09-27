@@ -17,7 +17,7 @@ segments:
           img_src: "/images/funders/patriciakind-logo.png"
           link: "https://pkindfamilyfoundation.org/index.php/partners-fund-grants-awarded"
           link_text: "Partners Fund"
-          suffix: ", Patricia Kind Family Fund, 2026"
+          suffix: ", Patricia Kind Family Foundation, 2026"
         - img_alt: "Impact100 Philly"
           img_src: "/images/funders/impact100-circle-logo.jpeg"
           link: "https://impact100philly.org/grantees/philly-community-wireless/"

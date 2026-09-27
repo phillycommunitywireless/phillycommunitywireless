@@ -54,7 +54,7 @@ Imaginamos un futuro justo en el que todas las personas puedan acceder a Interne
   title: Video documental sobre Philly Community Wireless producido por Big Picture Alliance.
   text: 
   header: 
-    text: "Mira nuestro documental con subtítulos en español (2022)"
+    text: "Mira nuestro documental (2022)"
     class: tc
 
 # newsletter 

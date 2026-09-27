@@ -16,7 +16,7 @@ Below are some resources to help you connect to affordable or free internet acce
 
 ## Digital Literacy Training and Technical Support: Digital Access Center at Temple University (English)
 **Description**: Provides an on-site open computer lab, digital literacy training, affordable internet options, home computer solutions, and technical support via their hotline.  
-**Location**: 1918 N 11th St, Philadelphia PA 19122.  
+**Location**: 1915 N 11th St, Philadelphia PA 19122.  
 **Contact and Tech Support Hotline**: Call 215-204-7445 or email techforphilly@temple.edu. 
 
 ## Digital Literacy Training and Technical Support: TechOWL Community Space 
