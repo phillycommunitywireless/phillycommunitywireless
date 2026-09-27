@@ -333,7 +333,7 @@ segments:
             img_alt: "Digital Literacy Alliance"
         - partner:
             partner_name: "iNethi"
-            partner_link: "https://www.inethi.org.za/"
+            partner_link: "https://inethi.org.za/"
             img_src: "/images/partners/inethi.png"
             img_alt: "iNethi"
         - partner:

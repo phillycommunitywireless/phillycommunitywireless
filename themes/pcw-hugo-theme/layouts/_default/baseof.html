@@ -52,7 +52,7 @@
   </head>
 
   <body class="ma0 bg-white {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
-    <a href="#main" class="absolute top--2 w-100 bg-white f4 b no-underline black pt1 tc">Skip to content</a>
+    <a href="#main" class="absolute top--2 w-100 bg-white f4 b no-underline black pt1 tc">{{ i18n "skipToContent" }}</a>
     <style>[href="#main"]:focus { top: 0; }</style>
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     <main role="main" id="main" tabindex="-1">
