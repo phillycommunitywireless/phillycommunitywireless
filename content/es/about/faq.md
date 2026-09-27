@@ -1,7 +1,7 @@
 ---
-date: 2024-04-02
-title: Preguntas más frecuentes
-description: "Respuestas a preguntas frecuentes sobre Philly Community Wireless: dónde está nuestro Wi-Fi gratuito, cómo conectarse, cómo funciona la red y cómo participar."
+date: 2021-09-30
+title: "Preguntas frecuentes"
+description: "Respuestas a preguntas frecuentes sobre Philly Community Wireless: dónde está nuestro Wi-Fi gratuito, cómo conectarte, cómo funciona la red y cómo participar."
 toc: true
 layout: "people/people"
 aliases:
@@ -12,7 +12,7 @@ aliases:
 
 ### ¿Qué es Philly Community Wireless?
 
-Philly Community Wireless es una organización comunitaria que desarrolla redes de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros y miembros de la comunidad de Filadelfia. Buscamos cerrar la brecha digital de la ciudad con tecnologías de red de malla controladas por la comunidad.
+Philly Community Wireless es una organización comunitaria que desarrolla redes de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros y miembros de la comunidad de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla controladas por la comunidad.
 
 Las redes de malla permiten compartir una sola conexión a Internet entre un grupo más amplio de usuarios, con muy poco costo o infraestructura. Con la ayuda de [PhillyWisper](https://phillywisper.net), un proveedor de servicios de Internet inalámbrico que defiende la neutralidad de la red, hemos instalado nuestra red wifi en muchas zonas de Norris Square, Fairhill y Kensington, y seguimos ampliándola.
 
@@ -42,9 +42,9 @@ PCW colaboró con Big Picture Alliance y Eli Laban para crear esta infografía a
 
 La infraestructura de PCW depende de tecnologías de banda ancha inalámbrica, en particular de las redes de malla: un sistema distribuido de enrutadores que permite compartir una sola fuente de ancho de banda entre un grupo más amplio de usuarios, con muy poco costo o infraestructura necesaria para conectarse.
 
-Los proveedores de Internet tradicionales dependen de un centro único y centralizado que transmite el tráfico de la red en una sola dirección a todos los usuarios. En cambio, en una red de malla cada enrutador recibe y transmite tráfico al mismo tiempo, lo que permite que la red siga funcionando aunque algunos nodos individuales dejen de funcionar.
+Los proveedores de Internet tradicionales dependen de un centro único y centralizado que transmite el tráfico de la red en una sola dirección a todos los usuarios. En cambio, en una red de malla cada enrutador recibe y transmite tráfico al mismo tiempo, lo que permite que la red siga funcionando aunque algunos nodos individuales queden fuera de servicio.
 
-Así, la forma técnica de las redes de malla (interconectada y resistente) refleja las conexiones sociales que PCW busca fortalecer (democráticas, participativas y descentralizadas).
+Así, la forma técnica de las redes de malla (interconectada y resistente) refleja las conexiones sociales que PCW busca amplificar (democráticas, participativas y descentralizadas).
 
 Para obtener información técnica sobre el proyecto, consulta nuestra [página de documentación](https://docs.phillycommunitywireless.org/es/).
 
@@ -62,11 +62,11 @@ No hacemos seguimiento de los sitios web que visitas. Solo guardamos los datos b
 
 Al unirte a nuestra red, aceptas compartir el ancho de banda disponible con los demás. Te pedimos que tengas cuidado al descargar grandes cantidades de contenido multimedia, sobre todo durante el día, cuando otras personas pueden estar usando la red.
 
-Al conectarte a la red pública, toma las mismas precauciones que tomarías en una cafetería o un aeropuerto. Como nuestra red es abierta, la señal de wifi en sí no está cifrada, algo que se explica en la Advertencia de Seguridad de nuestros [Términos del Servicio](/es/termsofservice/). Hoy en día la mayoría de los sitios web usan https de forma predeterminada, lo que mantiene privado lo que les envías, y también puedes usar un servicio de VPN para mayor seguridad. Nuestra red cuenta además con el aislamiento de dispositivos habitual, que dificulta que otro dispositivo de la red llegue al tuyo.
+Al conectarte a la red pública, toma las mismas precauciones que tomarías en una cafetería o un aeropuerto. Como nuestra red es abierta, la señal de wifi en sí no está cifrada, algo que se explica en la Advertencia de Seguridad de nuestros [Términos del Servicio](/es/termsofservice/). Hoy en día la mayoría de los sitios web usan https de forma predeterminada, lo que mantiene privado lo que les envías, y también puedes usar un servicio de VPN para mayor seguridad. Nuestra red cuenta además con el aislamiento habitual entre dispositivos cliente, que dificulta que otro dispositivo de la red acceda al tuyo.
 
 ### ¿Me pueden hackear? ¿Está protegida mi información personal?
 
-Nada de lo que hagas en Internet debe considerarse completamente "privado". No pedimos ninguna información de identificación para conectarse a nuestra red, y no debes darle esa información a nadie que diga ser de PCW.
+Nada de lo que hagas en Internet debe considerarse completamente "privado". No pedimos ninguna información de identificación para conectarte a nuestra red, y no debes darle esa información a nadie que diga ser de PCW.
 
 ### ¿Mi actividad o mis datos en Internet serán rastreados por terceros?
 

@@ -5,27 +5,27 @@ _build:
   list: false
 ---
 
-## Consejo de asesores
+## Consejo de Asesores
 
 Will Dean \
-_Bibliotecario de investigación y servicios de datos, Bibliotecas de la Universidad de Temple_
+_Bibliotecario de investigación y servicios de datos, Temple University Libraries_
 
 Jonathan Latko \
-_Subdirector de operaciones comerciales, Servicios de tecnología de la información, Universidad de Temple_
+_Vicepresidente adjunto de operaciones comerciales, Information Technology Services, Temple University_
 
 Sascha Meinrath \
-_Cátedra Palmer en telecomunicaciones, facultad de comunicaciones Bellisario, Universidad Estatal de Pensilvania_
+_Titular de la Cátedra Palmer de Telecomunicaciones, Bellisario College of Communications, Pennsylvania State University_
 
 Stasia Monteiro \
 _Directore del programa NAC, HACE_
 
 Mark Steckel \
-_Director general, PhillyWisper_
+_Director general (CEO), PhillyWisper_
 
 Heather Lewis-Weber \
-_Director de participación comunitaria, facultad de Artes Liberales, Universidad de Temple_
+_Director de participación comunitaria, Temple University, College of Liberal Arts_
 
 Grant Wythoff \
-_Estratega de humanidades digitales, Centro de humanidades digitales de la Universidad de Princeton_
+_Estratega de humanidades digitales, Center for Digital Humanities at Princeton University_
 
 <br/>

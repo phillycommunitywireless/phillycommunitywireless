@@ -79,6 +79,10 @@ other = "Este campo es obligatorio."
 [newsletterInvalidEmail]
 other = "Escribe una dirección de correo electrónico válida."
 
+# Go time layout for timeline dates ("January" = month name, "2006" = year)
+[timelineDateFormat]
+other = "January de 2006"
+
 [youtubeVideo]
 other = "Video de YouTube"
 

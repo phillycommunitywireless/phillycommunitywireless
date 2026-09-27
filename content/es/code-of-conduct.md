@@ -1,46 +1,44 @@
 +++
 title = "Código de Conducta de PCW"
-description = "Los valores y las normas comunitarias que se pide seguir a todas las personas que participan en Philly Community Wireless."
+description = "Los valores y las normas comunitarias que les pedimos seguir a todas las personas que participan en Philly Community Wireless."
 
 +++
 ## Valores de participación
 
-**Este es un espacio seguro.** Alentamos la discusión de temas delicados y difíciles para que podamos apoyarnos unos a otros y resolver los problemas juntos. Al mismo tiempo, nos esforzamos por mantener espacios donde personas con una pluralidad de voces y experiencias puedan participar plenamente. Debido a la naturaleza sensible o privada de algunos elementos del proyecto, por favor sea consciente para evitar compartir información de identificación, y recuerde que cualquier cosa que usted comparte es vista por otras personas.
+**Este es un espacio seguro.** Fomentamos la conversación sobre temas delicados y difíciles para que podamos apoyarnos mutuamente y resolver problemas juntos. Al mismo tiempo, nos esforzamos por mantener espacios donde personas con una gran diversidad de voces y experiencias puedan participar plenamente. Debido a la naturaleza delicada o privada de algunos aspectos del proyecto, te pedimos que tengas cuidado de no compartir información que permita identificar a alguien, y que recuerdes que todo lo que compartas lo verán otras personas. 
 
-**Mostrar.** Valoramos todas las formas de participación, pero la forma más importante de participar es a través de la participación en persona por tiempo de voluntariado, en eventos y reuniones, como sea posible. Hacemos cosas por gente que aparece.
+**Hazte presente.** Valoramos todas las formas de participación, pero la manera más importante de participar es en persona, ofreciendo tu tiempo como voluntario en eventos y reuniones, en la medida de lo posible. Las cosas se logran cuando la gente se hace presente. 
 
-**Espere las mejores intenciones.** Aspirar a actuar en amistad—hacer que PCW sea cómodo, acogedor, de apoyo, respetuoso, sincero, y abrir. Intención de confianza, impacto en el nombre. Confíe en que todos en este grupo tienen los mejores intereses del otro en el corazón; pero si alguien dice algo incorrecto o perjudicial, nombre qué impacto tiene. Informe al comité dedicado a manejar estos informes sobre comportamientos, comentarios, discusiones o acciones odiosos o violentos. Consulte más detalles sobre ese proceso a continuación.
+**Asume las mejores intenciones.** Procura actuar con espíritu de amistad: haz que PCW sea un espacio cómodo, acogedor, solidario, respetuoso, sincero y abierto. Confía en la intención; señala el impacto. Confía en que todas las personas de este grupo quieren lo mejor para las demás; pero si alguien dice algo incorrecto o hiriente, señala el impacto que eso tiene. Reporta cualquier comportamiento, comentario, conversación o acción que exprese odio o violencia al comité encargado de atender estos reportes. Más abajo encontrarás más detalles sobre ese proceso. 
 
-**Manténgase abierto y flexible.** Habla y escucha tu voz, pero también conoce cuánto espacio ocupa y ejercita tus habilidades de escucha cuando sea necesario. En las discusiones técnicas, pedimos que los miembros que pertenecen a grupos históricamente sobrerepresentados (especialmente los hombres) tengan cuidado de revisar sus egos y activamente hacer espacio para otros. Nuestro objetivo es construir una infraestructura funcional: Ser un fontanero, no un rockstar.
+**Mantén una actitud abierta y flexible.** Habla y haz que se escuche tu voz, pero también ten en cuenta cuánto espacio ocupas y pon en práctica tu capacidad de escuchar cuando haga falta. En las conversaciones técnicas, les pedimos a quienes pertenecen a grupos históricamente sobrerrepresentados (especialmente los hombres) que tengan cuidado de controlar su ego y que abran espacio activamente para los demás. Nuestra meta es construir infraestructura que funcione: sé plomero, no estrella de rock.
 
-**Mantenga los comentarios constructivos**. Valoramos la honradez, pero sólo con el propósito de mejorar, no por el bien de la crueldad. En el lado opuesto del espectro, la retroalimentación del recubrimiento de azúcar para salvar los sentimientos de alguien tampoco es necesariamente constructiva. El objetivo es ser de apoyo, honesto y reflexivo.
+**Mantén tus comentarios constructivos.** Valoramos la honestidad, pero solo cuando su propósito es mejorar, nunca por crueldad. En el otro extremo, suavizar los comentarios para no herir los sentimientos de alguien tampoco es necesariamente constructivo. La meta es brindar apoyo y ser honestos y considerados. 
 
-**Mantenga la discusión relevante.** Trabaja para mantenerte en el tema y llevar conversaciones de divagación a otros espacios: un canal de Slack, un hilo de correo electrónico o Signal, una reunión separada, etc.
+**Mantén la conversación enfocada.** Procura no salirte del tema y lleva las conversaciones paralelas a otros espacios: un canal de Slack, un hilo de correo electrónico o de Signal, una reunión aparte, etc.
 
-## Trabajo en el sitio
+## Trabajo en sitio
 
-Nuestro trabajo en el sitio a menudo implica que seamos invitados en los hogares y lugares de trabajo de comunidades del norte de Filadelfia. Es importante que nos comportemos con respeto y consideración en cada espacio que visitamos. Aunque no es común, en algunos espacios interiores que visitamos usamos mascarillas. Le pedimos que acepte respetar y seguir las indicaciones de nuestros anfitriones comunitarios en el sitio.
+Nuestro trabajo en sitio muchas veces implica que seamos invitados en los hogares y lugares de trabajo de las comunidades del norte de Filadelfia. Es importante que nos comportemos con respeto y consideración en cada espacio que visitamos. Aunque no es común, en algunos espacios interiores que visitamos usamos mascarillas. Te pedimos que te comprometas a respetar y seguir las indicaciones de nuestros anfitriones comunitarios en el lugar.
 
-## Acoso y abuso
+## Acoso y abuso 
 
-Creemos que el desacuerdo y las diferencias de opinión son una parte natural de una comunidad y son importantes para trabajar a través de la construcción, la estrategia, y el aprendizaje de uno a otro, pero **no toleramos el acoso o el abuso en ninguna forma**. Los participantes que se involucren en acoso o abuso pueden ser removidos del grupo a discreción de los organizadores. Los informes de acoso serán implícitamente confiables e investigados a fondo.
+Creemos que los desacuerdos y las diferencias de opinión son una parte natural de toda comunidad, y que es importante resolverlos cuando construimos, planificamos estrategias y aprendemos unos de otros, pero **no toleramos el acoso ni el abuso de ninguna forma.** Las personas que incurran en acoso o abuso podrán ser retiradas del grupo a criterio del equipo organizador. Daremos plena credibilidad a los reportes de acoso y los investigaremos a fondo. 
 
-El acoso incluye, pero no se limita a:
+El acoso incluye, entre otras cosas:
+- Comentarios no deseados sobre las decisiones y prácticas de estilo de vida de una persona 
+- Intimidación o antagonismo deliberados 
+- Chistes o comentarios excluyentes 
+- Atención sexual o contacto físico no deseados 
+- Interrupción constante de reuniones, eventos o conversaciones en línea 
+- Seguir con la comunicación uno a uno después de que se haya pedido que cese 
+- Comentarios que refuercen las estructuras sociales de dominación (relacionadas con el género, la identidad y expresión de género, la orientación sexual, la discapacidad, la apariencia física, el tamaño corporal, la raza, la edad o la religión) 
+- Amenazas de violencia 
 
-* Comentarios no bienvenidos sobre las opciones y prácticas de estilo de vida de una persona
-* Intimidación deliberada o antagonismo 
-* Bromas o comentarios excluyentes 
-* Atención sexual o contacto físico no bienvenido 
-* Interrupción sostenida de reuniones, eventos o conversaciones en línea 
-* Continuación de la comunicación uno a uno tras las solicitudes de cese
-* Comentarios que refuerzan las estructuras sociales de dominación (relacionadas con género, identidad y expresión de género, orientación sexual, discapacidad, apariencia física, tamaño corporal, Raza, edad, religión) 
-* Amenazas de violencia
+El abuso incluye, entre otras cosas:
+- El troleo, la desorientación intencional y el uso irrespetuoso de los recursos y del acceso 
+- El uso de dinámicas sociales desiguales u opresivas ya existentes (diferencias culturales, de género o de clase, etc.) para ejercer poder sobre otra persona
 
-El abuso incluye, pero no se limita a:
+Si has sufrido acoso o has presenciado algún abuso, por favor infórmaselo a un miembro del Consejo de Asesores. Cada participante tiene la responsabilidad de actuar si presencia o se entera de algún abuso o acoso, y de recurrir a una persona mediadora y de confianza para dar los siguientes pasos. La responsabilidad de reportarlo no recae solo en la persona afectada directamente o en la más perjudicada.
 
-* Trolling, mala dirección y uso irrespetuoso de los recursos y acceso 
-* Uso de dinámicas sociales desiguales o opresivas existentes (diferencias culturales, de género o de clase, etc.) para ejercer poder sobre otra persona
-
-Si usted ha sido acosado o ha sido testigo de abusos, por favor, comuníqueselo a un miembro de la Junta de Asesores. Cada participante es responsable de tomar acción si es testigo o se da cuenta de abuso o acoso, y de invocar a un mediador y confidente para tomar los siguientes pasos - no sólo el blanco o la persona más impactada es responsable de reportarlo.
-
-Los organizadores deben tomar medidas apropiadas, generalmente privadas, si se les informa de cualquier abuso o acoso o si escuchan o son testigos de tal abuso o acoso. Deben ser sensibles a las diferencias culturales, pero deben actuar con prontitud cuando sea necesario.
+El equipo organizador debe tomar las medidas apropiadas, por lo general en privado, si se le reporta algún abuso o acoso, o si se entera o es testigo de una situación así. Debe tener sensibilidad ante las diferencias culturales, pero actuar con prontitud cuando sea necesario. 

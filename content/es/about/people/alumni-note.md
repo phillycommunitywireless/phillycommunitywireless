@@ -5,4 +5,4 @@ _build:
   list: false
 ---
 
-Para obtener más información sobre nuestro personal, pasantes y asesores anteriores, consulte nuestra página de [Exalumnos](/es/about/alumni/).
+Para obtener más información sobre nuestro personal, pasantes y asesores anteriores, visita nuestra página de [Exintegrantes](/es/about/alumni/).

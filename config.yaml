@@ -185,6 +185,10 @@ languages:
           url: "/volunteer"
           parent: Programas
           weight: "2"  
+        - name: Beca de Internet Público
+          url: "/fellowship"
+          parent: Programas
+          weight: "3"
 
           # Apóyanos
         - name: Apóyanos
@@ -209,10 +213,10 @@ languages:
           parent: Apóyanos
           weight: "3"
 
-        - name: Acerca 
+        - name: Acerca de
           identifier: about-us
           weight: "3"
-        - name: Acerca PCW
+        - name: Acerca de PCW
           url: "/about"
           parent: about-us
           weight: "1"
@@ -240,6 +244,10 @@ languages:
           url: "/about/faq"
           parent: about-us
           weight: "7"
+        - name: Nuestra historia
+          url: "/about/our_story"
+          parent: about-us
+          weight: "8"
 
         - name: Ubicación
           identifier: location
@@ -300,6 +308,10 @@ languages:
     params:
       description: "Philly Community Wireless construye Wi-Fi gratuito y controlado por la comunidad en el norte de Filadelfia. Conéctate, hazte voluntario o apoya el acceso a Internet para todos."
       navName: Menú
+      banner:
+        text: "¡Estamos contratando!"
+        link: "/dev-comms-manager"
+        show: true
       featured_text:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Construyendo redes controladas por la comunidad en Filadelfia

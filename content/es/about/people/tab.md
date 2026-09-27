@@ -7,19 +7,19 @@ _build:
 
 ## Consejo Asesor Técnico
 Dylan Hutchinson \
-_Ingeniero informático_
+_Ingeniero de TI_
 
 John Center \
 _Ingeniero de redes jubilado_
 
 Felipe Valdez \
-_Especialista en SIG, Bibliotecas de la Universidad de Temple_  
+_Especialista en SIG, Temple University Libraries_  
 
 Dan Zygmund-Felt \
 _Ingeniero de software_  
 
 David Berman \
-_Profesor adjunto, Universidad Seton Hall_  
+_Profesor asistente, Seton Hall University_  
 
 Jonathan Caicedo \
 _Ingeniero de software_ 

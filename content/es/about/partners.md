@@ -10,7 +10,7 @@ segments:
     - template: call-to-action-photo-right
       title: "PhillyWisper"
       text: |
-        Philly Community Wireless colabora con PhillyWisper, un proveedor local de servicios de Internet inalámbrico, para instalar antenas en los tejados que utilizamos para proporcionar una red WiFi gratuita a los residentes del barrio y a los espacios públicos.
+        Philly Community Wireless colabora con PhillyWisper, un proveedor local de servicios de Internet inalámbrico, para instalar en los techos antenas que usamos para ofrecer una red WiFi gratuita a los residentes del barrio y a los espacios públicos.
       photo: "/images/partners/wisper.png"
       photo_alt_text: "Logotipo de PhillyWisper."
       button: 
@@ -20,11 +20,10 @@ segments:
       class: bg-light-gray  
 
     # UTP feature
-    # TODO: Spanish translation of the text below — asking Leanne during PR review
     - template: call-to-action-photo-right
       title: "Urban Technology Project"
       text: |
-        We partner with Urban Technology Project to host Apprentices who have the unique work opportunity to learn what it means to contribute to the growth of a community network.
+        Colaboramos con el Urban Technology Project para acoger a aprendices, quienes tienen una oportunidad de trabajo única: aprender lo que significa contribuir al crecimiento de una red comunitaria.
       photo: "/images/partners/utp.png"
       photo_alt_text: "Logotipo del Urban Technology Project: el horizonte de Filadelfia en silueta contra un sol amarillo, sobre las letras UTP."
       button: 
@@ -63,7 +62,7 @@ segments:
             img_src: "/images/partners/galaei.png"
             img_alt: "GALAEI"
         - partner:
-            partner_name: "Xiente (formerly Norris Square Community Alliance)"
+            partner_name: "Xiente (anteriormente Norris Square Community Alliance)"
             partner_link: "https://www.xiente.org/"
             img_src: "/images/partners/xiente.png"
             img_alt: "Xiente"
@@ -126,10 +125,10 @@ segments:
       title: Socios comunitarios de Kensington
       sections:
         - partner:
-            partner_name: "Kensington Branch of the Free Library"
+            partner_name: "Sucursal de Kensington de la Free Library"
             partner_link: "https://libwww.freelibrary.org/locations/kensington-library"
             img_src: "/images/partners/flp.png"
-            img_alt: "Kensington Branch of the Free Library"
+            img_alt: "Sucursal de Kensington de la Free Library"
         - partner:
             partner_name: "Kensington Corridor Trust"
             partner_link: "https://kctphilly.org/"
@@ -180,7 +179,7 @@ segments:
 
     # Philly Community Partners
     - template: partner-card-container
-      title: Socios de la comunidad de Philadelphia
+      title: Socios comunitarios de Filadelfia
       sections:
         - partner:
             partner_name: "Called to Serve"
@@ -206,7 +205,7 @@ segments:
             partner_name: "Temple University, Digital Access Center"
             partner_link: "https://lenfestcenter.temple.edu/Digital-Equality-Center/"
             img_src: "/images/partners/temple.svg"
-            img_alt: "Temple University logo"
+            img_alt: "Logotipo de Temple University"
         - partner:
             partner_name: "Philly Mesh"
             partner_link: "https://phillymesh.net/"
@@ -303,7 +302,7 @@ segments:
             img_src: "/images/partners/rowan.svg"
             img_alt: "Rowan University"
 
-    # Organizaciones aliadas
+    # Allied Organizations
     - template: partner-card-container
       title: Organizaciones aliadas
       sections:

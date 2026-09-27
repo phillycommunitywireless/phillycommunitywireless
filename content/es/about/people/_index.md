@@ -1,7 +1,7 @@
 ---
 date: 2024-07-01
-title: "Nuestro Equipo"
-description: "Conoce al personal, la junta asesora y los exalumnos de Philly Community Wireless."
+title: "Nuestro equipo"
+description: "Conoce al personal, el Consejo de Asesores y los exintegrantes de Philly Community Wireless."
 layout: "people/people"
 show_title: true
 aliases:
@@ -13,15 +13,15 @@ segments:
       title: "Personal"
       sections:
       - photo: "/images/AlexWCHeadshot-Square.jpg"
-        photo_alt_text: "Foto de rostro de Alex Wermer-Colan."
+        photo_alt_text: "Retrato de Alex Wermer-Colan."
         heading_1: "[Alex Wermer-Colan](alexwc)"
-        subheading: Director Ejecutivo
+        subheading: Director ejecutivo
         description_text: alex@phillycommunitywireless.org
         class: "square-img br3 w-100"
         flex_basis: 33%
 
       - photo: "/images/EugeneRHeadshot-Square.jpg"
-        photo_alt_text: "Foto de rostro de Eugene Ryoo."
+        photo_alt_text: "Retrato de Eugene Ryoo."
         heading_1: "[Eugene Ryoo](eugener)"
         subheading: Técnico
         description_text: eugene@phillycommunitywireless.org
@@ -29,7 +29,7 @@ segments:
         flex_basis: 33%
 
       - photo: "/images/ChrisMHeadshot-Square.jpg"
-        photo_alt_text: "Foto de rostro de Chris Mehretab."
+        photo_alt_text: "Retrato de Chris Mehretab."
         heading_1: "[Chris Mehretab](chrism)"  
         subheading: Coordinador de contenido
         description_text: chris@phillycommunitywireless.org
@@ -37,9 +37,9 @@ segments:
         flex_basis: 33%
 
       - photo: "/images/FranciscoOHeadshot-Square.jpg"
-        photo_alt_text: "Foto de rostro de Francisco Oquendo."
+        photo_alt_text: "Retrato de Francisco Oquendo."
         heading_1:  Francisco Oquendo
-        subheading: Aprendiz del Urban Technology Project
+        subheading: Aprendiz del Urban Technology Project (UTP)
         description_text: foquendo@launchphilly.org
         class: "square-img br3 w-100"
         flex_basis: 33%
@@ -60,4 +60,3 @@ segments:
         center cf ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img near-black
 
 ---
-
