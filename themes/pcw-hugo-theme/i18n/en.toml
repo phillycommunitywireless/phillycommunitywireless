@@ -95,3 +95,12 @@ other = "Show the calendar"
 
 [calendarOpen]
 other = "Or open it on Google Calendar"
+
+[skipToContent]
+other = "Skip to content"
+
+[hideAnnouncement]
+other = "hide announcement"
+
+[contactFormTitle]
+other = "Contact form"

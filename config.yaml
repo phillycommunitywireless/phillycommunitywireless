@@ -94,7 +94,7 @@ languages:
           url: "/about/faq"
           parent: about-us
           weight: "7"
-        - name: Our story
+        - name: Our Story
           url: "/about/our_story"
           parent: about-us
           weight: "8"
@@ -121,6 +121,7 @@ languages:
           identifier: Docs
           weight: "5"
         - name: Docs
+          identifier: docs-home
           url: "https://docs.phillycommunitywireless.org"
           params:
             external: true
@@ -287,6 +288,7 @@ languages:
           parent: documentos
           weight: "2"
         - name: Recursos
+          identifier: documentos-recursos
           url: https://docs.phillycommunitywireless.org/es/resources/
           params:
             external: true
@@ -312,6 +314,10 @@ languages:
         text: "¡Estamos contratando!"
         link: "/dev-comms-manager"
         show: true
+      featured_image:
+        src: "/images/Iglesias_AP_Equipment.jpg"
+        alt: "Una antena instalada en una azotea, apuntando hacia una torre receptora a lo lejos."
+        class: "opos-70p"
       featured_text:
         header: "/images/WebLogo_Standard.svg"
         subtitle: Construyendo redes controladas por la comunidad en Filadelfia

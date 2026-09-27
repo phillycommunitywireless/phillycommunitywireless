@@ -39,6 +39,6 @@ El abuso incluye, entre otras cosas:
 - Troleo, maniobras para confundir o desviar la atención y uso irrespetuoso de los recursos y del acceso 
 - Uso de dinámicas sociales desiguales u opresivas ya existentes (diferencias culturales, de género o de clase, etc.) para ejercer poder sobre otra persona
 
-Si has sufrido acoso o has presenciado algún abuso, por favor infórmaselo al Comité de Personal o a un miembro del Consejo de Asesores. Cada participante tiene la responsabilidad de actuar si presencia o se entera de algún abuso o acoso, y de recurrir a una persona mediadora y de confianza para dar los siguientes pasos. La responsabilidad de reportarlo no recae solo en la persona afectada directamente o en la más perjudicada.
+Si has sufrido acoso o has presenciado algún abuso, por favor infórmaselo al Comité de Personal (escribe a info@phillycommunitywireless.org y pide hablar con el Comité de Personal) o a un miembro del Consejo de Asesores. Cada participante tiene la responsabilidad de actuar si presencia o se entera de algún abuso o acoso, y de recurrir a una persona mediadora y de confianza para dar los siguientes pasos. La responsabilidad de reportarlo no recae solo en la persona afectada directamente o en la más perjudicada.
 
 El equipo organizador debe tomar las medidas apropiadas, por lo general en privado, si se le reporta algún abuso o acoso, o si se entera o es testigo de una situación así. Debe tener sensibilidad ante las diferencias culturales, pero actuar con prontitud cuando sea necesario. 

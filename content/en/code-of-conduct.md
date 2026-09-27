@@ -39,6 +39,6 @@ Abuse includes, but is not limited to:
 - Trolling, misdirection, and disrespectful use of resources and access 
 - Use of existing unequal or oppressive social dynamics (cultural, gender or class differences, etc.) to exert power over another person
 
-If you have been harassed or have witnessed abuse, please bring this to the attention of the Personnel Committee or a member of the Board of Advisors. Every participant is responsible for taking action if they witness or become aware of abuse or harassment, and to invoke a mediator and confidant to take next steps. Reporting is not only the responsibility of the target or the most impacted person.
+If you have been harassed or have witnessed abuse, please bring this to the attention of the Personnel Committee (email info@phillycommunitywireless.org and ask for the Personnel Committee) or a member of the Board of Advisors. Every participant is responsible for taking action if they witness or become aware of abuse or harassment, and to invoke a mediator and confidant to take next steps. Reporting is not only the responsibility of the target or the most impacted person.
 
 Organizers should take appropriate, usually private, action if any abuse or harassment is reported to them or they hear about or witness any such abuse or harassment. They must be sensitive to cultural differences, but take prompt action when necessary. 

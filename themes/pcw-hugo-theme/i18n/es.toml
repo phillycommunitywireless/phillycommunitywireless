@@ -40,7 +40,7 @@ other = "A continuación encontrará las páginas asociadas a “{{ .Title }}”
 other = "Ubicación"
 
 [footerFaq]
-other = "Preguntas Frecuentes"
+other = "Preguntas frecuentes"
 
 [footerContact]
 other = "Contacto"
@@ -95,3 +95,12 @@ other = "Mostrar el calendario"
 
 [calendarOpen]
 other = "O ábrelo en Google Calendar"
+
+[skipToContent]
+other = "Saltar al contenido"
+
+[hideAnnouncement]
+other = "ocultar anuncio"
+
+[contactFormTitle]
+other = "Formulario de contacto"

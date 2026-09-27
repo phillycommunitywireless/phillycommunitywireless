@@ -71,7 +71,7 @@ segments:
           suffix: ", 2021 to present"
         - img_alt: "Digital Literacy Alliance"
           img_src: "/images/funders/DLA-logo.jpg"
-          link: "http://www.mayorsfundphila.org/initiatives/digital-literacy-alliance/"
+          link: "https://www.phila.gov/programs/digital-literacy-alliance/"
           link_text: "Digital Literacy Alliance"
           suffix: ", The Mayor's Fund for Philadelphia, 2021-2022"
         - img_alt: "Princeton Humanities Council"
