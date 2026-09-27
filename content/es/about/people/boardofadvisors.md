@@ -23,7 +23,7 @@ Mark Steckel \
 _Director general (CEO), PhillyWisper_
 
 Heather Lewis-Weber \
-_Director de participación comunitaria, Temple University, College of Liberal Arts_
+_Directora de participación comunitaria, Temple University, College of Liberal Arts_
 
 Grant Wythoff \
 _Estratega de humanidades digitales, Center for Digital Humanities at Princeton University_

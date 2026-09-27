@@ -56,7 +56,7 @@ _Princeton University, 2020_
 ## Consejo de Asesores anterior
 
 Jessa Lingel \
-_Profesor asociado, Annenberg School for Communication, University of Pennsylvania_
+_Profesora asociada, Annenberg School for Communication, University of Pennsylvania_
 
 Rev. Michael A. Major \
 _Pastor, Zion Baptist Ministry; presidente de la junta directiva, Called to Serve CDC_
