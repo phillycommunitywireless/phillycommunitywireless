@@ -10,20 +10,13 @@ To re-check a file before deleting it, search the repo for its path, e.g.
 
 ## Candidates for the scrollytelling map or network map
 
-Photos from the old story map that used to live in `static/map/` (moved here
-when that unused copy of the map was removed), plus install and outreach
-photos that never made it onto a page.
+Install and outreach photos that never made it onto a page. (The photos from
+the old story-map copy in `static/map/` were removed from the repo in PR #290;
+if any are wanted for the story map, they are in git history, e.g.
+`git show 7e4c238:"static/map/images/park_sign.jpg" > park_sign.jpg`.)
 
 | File | Size |
 |---|---|
-| `map/park_sign.jpg` | 5.9 MB |
-| `map/mounting_antenna.jpg` | 4.1 MB |
-| `map/rooftop_antenna.jpg` | 4.1 MB |
-| `map/rooftop.jpg` | 3.8 MB |
-| `map/los.png` | 3.2 MB |
-| `map/divide_map.png` | 2.7 MB |
-| `map/gotham.png` | 1.1 MB |
-| `map/datacenter.jpg` | 0.8 MB |
 | `web updates/arden-sign.jpg` | 3.0 MB |
 | `web updates/IMG_8007.jpg` | 1.4 MB |
 | `web updates/View_Fairhill_Equipment.png` | 1.3 MB |
