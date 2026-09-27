@@ -1,28 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Philly Community Wireless</title>
+    <title>Philly Community Wireless</title>
     <link>https://phillycommunitywireless.org/es/</link>
-    <description>Recent content in Home on Philly Community Wireless</description>
+    <description>Recent content on Philly Community Wireless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Exalumnos</title>
+      <title>Beca de Internet Público</title>
+      <link>https://phillycommunitywireless.org/es/fellowship/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/fellowship/</guid>
+      <description>Un programa de Philly Community Wireless
+Acerca de la beca Philly Community Wireless (PCW) opera una red Wi-Fi pública y completamente gratuita en Norris Square, Fairhill y Kensington: una red controlada por la comunidad, con cientos de puntos de acceso y más de 7,600 usuarios únicos al mes. La Beca de Internet Público (Public Internet Fellowship) invita a artistas, tecnólogos y residentes locales a usar nuestra red como plataforma para medios comunitarios, y así apoya nuevas formas de empoderar a las comunidades para que se reúnan en espacios compartidos y usen Internet para mejorar sus vidas y sus espacios.</description>
+    </item>
+    
+    <item>
+      <title>Gerente de Desarrollo y Comunicaciones</title>
+      <link>https://phillycommunitywireless.org/es/dev-comms-manager/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/dev-comms-manager/</guid>
+      <description>Puesto: Gerente de Desarrollo y Comunicaciones (Development and Communications Manager)
+Ubicación: Híbrido (75% presencial y 25% remoto)
+Tipo de puesto: Tiempo completo, 40 horas/semana.
+Salario: $52,000/año + beneficios.
+Beneficios: 14 días de tiempo libre pagado (10 de vacaciones y 4 flotantes), además de los días feriados reconocidos a nivel federal y un receso pagado durante las fiestas de invierno. 15 días de licencia por enfermedad. Seguro médico y dental (el empleador paga el 90%).</description>
+    </item>
+    
+    <item>
+      <title>Exintegrantes</title>
       <link>https://phillycommunitywireless.org/es/about/alumni/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/about/alumni/</guid>
-      <description>Philly Community Wireless es obra de las muchas personas que han dedicado su tiempo, sus habilidades y su cuidado a la red a lo largo de los años. Agradecemos a todos nuestros exalumnos — personal anterior, pasantes y miembros de los consejos — por ayudar a hacer posible este trabajo.
-Personal anterior Leanne Przybylowski Administradora de relaciones comunitarias
+      <description>Philly Community Wireless es obra de las muchas personas que, a lo largo de los años, han dedicado su tiempo, sus habilidades y su cariño a la red. Agradecemos a todos nuestros exintegrantes —personal anterior, pasantes y miembros del consejo— por ayudar a hacer posible este trabajo.
+Personal anterior Leanne Przybylowski Gerente de alcance comunitario
 Dylan Hutchinson Instalador
-Mir Detre Técnico
+Mir Detre Técnique
 Allan Gomez Administrador de sistemas
 Pasantes anteriores Amaris Chen University of Pennsylvania, 2026</description>
     </item>
     
     <item>
-      <title>Contáctenos</title>
+      <title>Nuestra historia</title>
+      <link>https://phillycommunitywireless.org/es/about/our_story/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/about/our_story/</guid>
+      <description>Fundada en 2020, durante la pandemia de COVID-19, Philly Community Wireless comenzó como un proyecto dirigido por voluntarios, formado por bibliotecarios y maestros, organizadores, tecnólogos y líderes comunitarios. Nuestro primer nodo se instaló en julio de 2020 con nuestro socio PhillyWisper, y desde 2021 construimos Wi-Fi gratuito en Norris Square y en todo el norte de Filadelfia, con vecinos y organizaciones comunitarias que alojan nuestros equipos en sus edificios.
+Descubre cómo funciona la red en nuestro mapa narrativo y luego recorre nuestra trayectoria más abajo.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
       <link>https://phillycommunitywireless.org/es/contact/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       
@@ -31,14 +64,26 @@ Pasantes anteriores Amaris Chen University of Pennsylvania, 2026</description>
     </item>
     
     <item>
-      <title>Apóyanos</title>
+      <title>Apoya a PCW</title>
       <link>https://phillycommunitywireless.org/es/support/</link>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/support/</guid>
       <description>Creemos que el acceso a Internet es un derecho humano.
-Desde 2020, nuestro trabajo ha demostrado que cuando los miembros de la comunidad se unen para construir, ampliar y aprovechar las redes inalámbricas compartidas, decenas de miles de personas pueden acceder a Internet en espacios públicos y privados.
-Tener acceso a Internet es esencial para participar en las oportunidades y actividades cotidianas. Su apoyo a nuestro trabajo garantiza que todo el mundo pueda acceder a recursos online relacionados con la salud, la educación, el empleo y los recursos cívicos.</description>
+Desde 2020, nuestro trabajo ha demostrado que, cuando los miembros de la comunidad se unen para construir, ampliar y aprovechar redes inalámbricas de Internet compartidas, decenas de miles de personas pueden acceder a Internet en espacios privados y públicos.
+Tener acceso a Internet es esencial para participar en las oportunidades y actividades de todos los días. Tu apoyo a nuestro trabajo garantiza que todas las personas puedan acceder en línea a recursos de salud, educación, empleo y participación cívica.</description>
+    </item>
+    
+    <item>
+      <title>Compra artículos de PCW</title>
+      <link>https://phillycommunitywireless.org/es/merch/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/merch/</guid>
+      <description>¡Echa un vistazo a los artículos más recientes de Philly Community Wireless!
+Cuando compras tus artículos favoritos de PCW, todas las ganancias apoyan directamente nuestro trabajo para ofrecer acceso a Internet a todos. Representa a PCW y hazle saber a la gente que apoyas el Internet dirigido por la comunidad en Filadelfia.
+Los precios incluyen todos los costos adicionales, incluido el envío.
+Los artículos se serigrafían o se bordan localmente. Si tienes alguna pregunta sobre nuestros productos, envíanos un correo electrónico a info@phillycommunitywireless.</description>
     </item>
     
     <item>
@@ -47,21 +92,9 @@ Tener acceso a Internet es esencial para participar en las oportunidades y activ
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/equipmentsales/</guid>
-      <description>Vendemos equipos de Wi-Fi y redes donados que no son compatibles con nuestra red. Hemos recibido estos dispositivos de otras iniciativas comunitarias de Internet y de nuestros socios.
-La compra de estos equipos con nosotros ayuda a apoyar nuestra misión de hacer que el acceso a Internet esté disponible para todos.
-Si tienes alguna pregunta sobre estos productos o deseas comprar en cantidades más grandes, envíanos un correo electrónico a info@phillycommunitywireless.</description>
-    </item>
-    
-    <item>
-      <title>Tienda PCW</title>
-      <link>https://phillycommunitywireless.org/es/merch/</link>
-      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/es/merch/</guid>
-      <description>¡Echa un vistazo a los últimos productos de Philly Community Wireless!
-Cuando compras tus artículos favoritos de PCW, todos los ingresos se destinan directamente a apoyar nuestro trabajo para proporcionar acceso a Internet a todos. Representa a PCW y haz saber a la gente que apoyas el Internet comunitario en Filadelfia.
-Los precios incluyen todos los gastos adicionales, incluido el envío.
-Los artículos están serigrafiados o bordados localmente. Si tienes alguna pregunta sobre nuestros productos, envíanos un correo electrónico a info@phillycommunitywireless.</description>
+      <description>Vendemos equipos de Wi-Fi y de redes donados que no son compatibles con nuestra red. Son artículos que hemos recibido de otras iniciativas de Internet comunitario y de nuestros socios.
+Al comprarnos equipos, ayudas a apoyar nuestra misión de que el acceso a Internet esté al alcance de todos.
+Si tienes preguntas sobre estos productos o sobre compras al por mayor, envíanos un correo electrónico a info@phillycommunitywireless.org.</description>
     </item>
     
     <item>
@@ -83,31 +116,21 @@ Los artículos están serigrafiados o bordados localmente. Si tienes alguna preg
     </item>
     
     <item>
-      <title>Preguntas más frecuentes</title>
-      <link>https://phillycommunitywireless.org/es/about/faq/</link>
-      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/es/about/faq/</guid>
-      <description>¿Quien Somos Nosotros? ¿Qué es Philly Community Wireless? Philly Community Wireless es una organización comunitaria que desarrolla redes de malla de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros de escuelas públicas y personal del Ayuntamiento de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla operadas y propiedad de la comunidad.
-Las redes de malla permiten compartir una única conexión a Internet entre un grupo más amplio de usuarios con muy poco coste o infraestructura necesaria.</description>
-    </item>
-    
-    <item>
-      <title>Ubicación de la red PCW</title>
+      <title>Ubicación de la red</title>
       <link>https://phillycommunitywireless.org/es/networkmap/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/networkmap/</guid>
-      <description>Ver mapa en pantalla completa Este mapa muestra el alcance y la estructura de nuestra red comunitaria. Los iconos del mapa muestran las capas de nuestra red inalámbrica, incluidos nuestros puntos de acceso WiFi que transmiten Internet en espacios públicos y privados, así como los sitios elevados desde donde accedemos al backhaul de PhillyWisper, las radios punto a punto y los enrutadores que llevan Internet a los hogares de las personas.</description>
+      <description>Ver mapa en pantalla completa Este mapa muestra el alcance y la estructura de nuestra red comunitaria. Los íconos del mapa muestran las capas de nuestra red inalámbrica, incluidos nuestros puntos de acceso WiFi, que transmiten Internet en espacios públicos y privados, así como los sitios altos donde nos conectamos a la red troncal (backhaul) de PhillyWisper, los radios punto a punto y los enrutadores que llevan Internet a los hogares.</description>
     </item>
     
     <item>
-      <title>Alex Wermer-Colan</title>
+      <title>Alex Wermer-Colan, PhD</title>
       <link>https://phillycommunitywireless.org/es/about/people/alexwc/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/about/people/alexwc/</guid>
-      <description>Alex Wermer-Colan es cofundador, voluntario desde hace mucho tiempo y director ejecutivo de Philly Community Wireless. Alex, residente del norte de Filadelfia, también trabaja como director académico y de investigación en el Loretta C. Duckworth Scholars Estudio de las Bibliotecas de la Universidad de Temple.</description>
+      <description>Alex es cofundador de Philly Community Wireless, una red de Internet controlada por la comunidad que ofrece acceso abierto y gratuito en espacios públicos, hogares y organizaciones sin fines de lucro del norte de Filadelfia. Como voluntario de muchos años y, más recientemente, como director ejecutivo, Alex ha trabajado en la mayoría de las áreas de la organización y las conoce a fondo, incluidas, entre otras, las evaluaciones de edificios y las instalaciones, otras tareas técnicas, las operaciones, la creación de alianzas y la dirección de eventos.</description>
     </item>
     
     <item>
@@ -116,7 +139,7 @@ Las redes de malla permiten compartir una única conexión a Internet entre un g
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/about/people/chrism/</guid>
-      <description>Originario de Harrisburg, PA, Chris se unió inicialmente al equipo de PCW como pasante en el verano de 2021. A partir de ahí, su trabajo creció como enlace de participación comunitaria hasta su puesto actual como coordinador de contenidos. Ha ayudado en múltiples foros de divulgación, incluido el sondeo, la presentación de eventos comunitarios y la operación de todos los canales de redes sociales relacionados con PCW. Fuera de PCW, Chris trabaja en un bufete de abogados de la ciudad y le gusta pinchar y jugar con su gato Puffin.</description>
+      <description>Originario de Harrisburg, PA, Chris se unió al equipo de PCW como pasante en el verano de 2021. A partir de ahí, su trabajo fue creciendo: primero como enlace de participación comunitaria y ahora en su puesto actual como coordinador de contenido. Ha colaborado en múltiples actividades de alcance comunitario, como visitas puerta a puerta, mesas informativas en eventos comunitarios y el manejo de todas las redes sociales de PCW.</description>
     </item>
     
     <item>
@@ -125,7 +148,7 @@ Las redes de malla permiten compartir una única conexión a Internet entre un g
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/about/people/eugener/</guid>
-      <description>Eugene es líder de instalación en Philly Community Wireless. Creció en el centro de Pensilvania y se mudó a Filadelfia en el verano de 2022. Principalmente interesado en la relación entre las personas y la tecnología, Eugene hace un poco de todo con PCW, desde ayudar con las instalaciones hasta escribir y mantener aplicaciones web. Fuera del trabajo, a Eugene le gusta ir a espectáculos, tocar la guitarra y el bajo, andar en bicicleta y pasar el rato en casa con su gato, Toes.</description>
+      <description>Eugene es el técnico de Philly Community Wireless. Creció en el centro de Pensilvania y se mudó a Filadelfia en el verano de 2022. Le interesa principalmente la relación entre las personas y la tecnología, y entre sus funciones están dirigir las instalaciones, escribir y mantener aplicaciones web y crear documentación. Fuera del trabajo, a Eugene le gusta ir a conciertos, tocar la guitarra y el bajo, andar en bicicleta y pasar el rato en casa con su gato, Toes.</description>
     </item>
     
     <item>
@@ -134,7 +157,7 @@ Las redes de malla permiten compartir una única conexión a Internet entre un g
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/about/people/leannep/</guid>
-      <description>Leanne llegó a Filadelfia en 2021 para realizar una Maestría en Ciencias en Comunicación para el Desarrollo y el Cambio Social en la Universidad de Temple. Interesada en la equidad digital y el vínculo entre los espacios digitales y la democracia saludable, Leanne comenzó a trabajar como voluntaria en PCW al final de su tiempo en Temple y rápidamente se volvió muy activa en la organización y apasionada por su visión alternativa para transformar la inclusión digital a través del wifi comunitario.</description>
+      <description>Leanne llegó a Filadelfia en 2021 para cursar una Maestría en Ciencias en Comunicación para el Desarrollo y el Cambio Social en Temple University. Interesada en la equidad digital y en el vínculo entre los espacios digitales y una democracia saludable, Leanne comenzó como voluntaria en PCW en el verano de 2023 y rápidamente se volvió muy activa en la organización y apasionada por su visión alternativa de transformar la inclusión digital a través del wifi comunitario.</description>
     </item>
     
     <item>
@@ -143,12 +166,10 @@ Las redes de malla permiten compartir una única conexión a Internet entre un g
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/about/news/</guid>
-      <description>Billy Penn, Organization pulls Kensington community together by spreading wi-fi outdoors, 7/2/2025.
-Billy Penn, Philly residents take a DIY approach to solving quality of life issues, 12/10/2024.
-Tech Policy, America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?, 4/30/2024
-CNET, Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time, 10/1/2023
-Kensington Voice, Norris Square organization increases community access to free internet, 7/12/2023
-Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of the Year 2022, 12/14/2022</description>
+      <description>Toda la cobertura Billy Penn, Organization pulls Kensington community together by spreading wi-fi outdoors, 2 de julio de 2025
+Billy Penn, Philly residents take a DIY approach to solving quality of life issues, 10 de diciembre de 2024
+TechPolicy.Press, America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?, 30 de abril de 2024
+CNET, Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time, 1 de octubre de 2023</description>
     </item>
     
     <item>
@@ -157,18 +178,17 @@ Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of 
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/hq/</guid>
-      <description>La sede central de Philly Community Wireless se encuentra en el Norris Square Neighborhood Project (NSNP), en el número 2141 de N Howard St, Philadelphia, PA 19122. Estamos en el lado este del parque Norris Square.
-Si buscas información sobre dónde se encuentra nuestra red WiFi gratuita, visita nuestro mapa en vivo.</description>
+      <description>La sede central de Philly Community Wireless está en el Norris Square Neighborhood Project (NSNP), en el 2141 N Howard St, Philadelphia, PA 19122. Estamos en el lado este de Norris Square Park.
+Si buscas información sobre dónde está nuestra red WiFi gratuita, visita nuestro mapa en vivo.</description>
     </item>
     
     <item>
-      <title>Air Monitoring</title>
+      <title>Monitoreo del aire</title>
       <link>https://phillycommunitywireless.org/es/airmonitor/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/airmonitor/</guid>
-      <description>Act on Air: El Proyecto Philly Air Monitor Philly Community Wireless lleva trabajando desde 2023 para instalar monitores PurpleAir (https://www2.purpleair.com/) en nuestra red pública. Desde 2023, hemos instalado más de una docena de monitores de aire en los barrios de Norris Square, Fairhill y Kensington, en el norte de Filadelfia, en varios puntos de nuestra red para proporcionar un control del aire en tiempo real.
-Medición de la calidad del aire Purple air monitors permiten a las comunidades participar en proyectos de ciencia ciudadana relacionados con la contaminación en sus barrios, ayudando a la gente a comprender:</description>
+      <description>Act on Air: el Proyecto de Monitoreo del Aire de Filadelfia (Philly Air Monitor Project) Philly Community Wireless ha estado trabajando desde 2023 para instalar monitores PurpleAir en nuestra red pública. Desde 2023, hemos instalado más de una docena de monitores de aire en varios puntos de nuestra red en los barrios de Norris Square, Fairhill y Kensington, en el norte de Filadelfia, para ofrecer monitoreo del aire en tiempo real.</description>
     </item>
     
     <item>
@@ -177,8 +197,18 @@ Medición de la calidad del aire Purple air monitors permiten a las comunidades 
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/getconnected/</guid>
-      <description>¿Buscas Internet asequible, de bajo coste o gratuito en Filadelfia? ¿Quieres tener un impacto en tu comunidad y ayudar a tus vecinos a conectarse a Internet?
-No somos una empresa de Internet, ¡somos una red comunitaria! Al unirte a nosotros, te convertirás en miembro de nuestra red en expansión y formarás parte de la creación de una base de acceso a Internet para todos.</description>
+      <description>¿Buscas Internet asequible, de bajo costo o gratuito en Filadelfia? ¿Quieres tener un impacto en tu comunidad y ayudar a tus vecinos a conectarse a Internet?
+No somos una compañía de Internet: ¡somos una red comunitaria! Al unirte a nosotros, te convertirás en miembro de nuestra red en crecimiento y ayudarás a crear un nivel básico de acceso a Internet para todos.</description>
+    </item>
+    
+    <item>
+      <title>Preguntas frecuentes</title>
+      <link>https://phillycommunitywireless.org/es/about/faq/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/about/faq/</guid>
+      <description>¿Quiénes somos? ¿Qué es Philly Community Wireless? Philly Community Wireless es una organización comunitaria que desarrolla redes de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros y miembros de la comunidad de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla controladas por la comunidad.
+Las redes de malla permiten compartir una sola conexión a Internet entre un grupo más amplio de usuarios, con muy poco costo o infraestructura necesaria.</description>
     </item>
     
     <item>
@@ -188,8 +218,8 @@ No somos una empresa de Internet, ¡somos una red comunitaria! Al unirte a nosot
       
       <guid>https://phillycommunitywireless.org/es/privacy/</guid>
       <description>Fecha de entrada en vigor: 1 de marzo de 2021
-Última actualización: 21 de mayo de 2021
-Nosotros en Philadelphia Community Wireless Project, un proyecto patrocinado fiscalmente por el Movement Alliance Project (&amp;quot;PCWP&amp;quot;, &amp;ldquo;nos&amp;rdquo;, &amp;ldquo;nuestro&amp;rdquo;, o &amp;ldquo;nosotros&amp;rdquo;) estamos fuertemente comprometidos con la transparencia, y le queremos (&amp;quot;ti&amp;quot; o &amp;ldquo;tu&amp;rdquo;) comprender cómo recopilamos, utilizamos, compartimos y protegemos su información personal, así como cómo puede gestionar la información personal que recopilamos. Este Aviso de Privacidad se aplica a sus interacciones con nosotros, incluyendo asistir a nuestros eventos o participar en nuestros programas, o su uso de nuestro sitio web (www.</description>
+Última actualización: 27 de septiembre de 2026
+En Philly Community Wireless Project, un proyecto patrocinado fiscalmente por el Movement Alliance Project (&amp;quot;PCWP&amp;quot;, &amp;ldquo;nos&amp;rdquo;, &amp;ldquo;nuestro&amp;rdquo; o &amp;ldquo;nosotros&amp;rdquo;), estamos firmemente comprometidos con la transparencia y queremos que usted (&amp;quot;usted&amp;quot; o &amp;ldquo;su&amp;rdquo;) comprenda cómo recopilamos, utilizamos, compartimos y protegemos su información personal, así como la forma en que puede administrar la información personal que recopilamos.</description>
     </item>
     
     <item>
@@ -198,7 +228,7 @@ Nosotros en Philadelphia Community Wireless Project, un proyecto patrocinado fis
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/code-of-conduct/</guid>
-      <description>Valores de participación Este es un espacio seguro. Alentamos la discusión de temas delicados y difíciles para que podamos apoyarnos unos a otros y resolver los problemas juntos. Al mismo tiempo, nos esforzamos por mantener espacios donde personas con una pluralidad de voces y experiencias puedan participar plenamente. Debido a la naturaleza sensible o privada de algunos elementos del proyecto, por favor sea consciente para evitar compartir información de identificación, y recuerde que cualquier cosa que usted comparte es vista por otras personas.</description>
+      <description>Valores de participación Este es un espacio seguro. Fomentamos la conversación sobre temas delicados y difíciles para que podamos apoyarnos mutuamente y resolver problemas juntos. Al mismo tiempo, nos esforzamos por mantener espacios donde personas con una gran diversidad de voces y experiencias puedan participar plenamente. Debido a la naturaleza delicada o privada de algunos aspectos del proyecto, te pedimos que tengas cuidado de no compartir información que permita identificar a alguien, y que recuerdes que todo lo que compartas lo verán otras personas.</description>
     </item>
     
     <item>
@@ -207,8 +237,9 @@ Nosotros en Philadelphia Community Wireless Project, un proyecto patrocinado fis
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/volunteer/</guid>
-      <description>¡Nos encantan los voluntarios! Utiliza tus habilidades (¡sea cuales sean!) para contribuir a la comunidad de Filadelfia y apoyar el acceso a Internet para todos. Hay oportunidades de voluntariado presencial y a distancia disponibles; te invitamos a participar en la medida que te resulta más conveniente.
-Si deseas apoyar nuestro trabajo pero no puedes ser voluntario en este momento, consulta nuestra página de apoyo para conocer otras formas de ayudar.</description>
+      <description>¡Nos encantan los voluntarios! Usa tus habilidades (¡sean cuales sean!) para aportar a la comunidad de Filadelfia y apoyar el acceso a Internet para todos. Hay oportunidades de voluntariado presencial y a distancia; te invitamos a participar de la forma que más te convenga.
+Si quieres apoyar nuestro trabajo pero no puedes ser voluntario en este momento, visita nuestra página de apoyo para conocer otras formas de ayudar.
+Lo que hacemos Instalación de Wi-Fi Para construir nuestra red Wi-Fi, PCW busca personas u organizaciones dispuestas a &amp;ldquo;alojar&amp;rdquo; nuestros equipos de red en sus edificios (a menudo, en el techo).</description>
     </item>
     
     <item>
@@ -217,10 +248,10 @@ Si deseas apoyar nuestro trabajo pero no puedes ser voluntario en este momento, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/resources/</guid>
-      <description>Última actualización: El 10 de enero 2026
-Te ofrecemos algunos recursos que te ayudarán a conectarte a Internet de forma asequible o gratuita, tomar clases de alfabetización digital y mucho más. ¡Échales un vistazo!
-Obten recursos digitales: Navegadores digitales (multilingües) Ubicación: Por teléfono
-Descripción: Diseñado para ayudar a los miembros de la comunidad local de Filadelfia con información sobre el acceso a Internet, capacitación en alfabetización digital y cuestiones básicas de soporte técnico.</description>
+      <description>Última actualización: 27 de septiembre de 2026
+A continuación, encontrarás algunos recursos que te ayudarán a conectarte a Internet asequible o gratuito, tomar clases de alfabetización digital y mucho más. ¡Échales un vistazo!
+Obtén recursos digitales: Navegadores Digitales (multilingüe) Lugar: Por teléfono
+Descripción: Servicio diseñado para ayudar a los miembros de la comunidad de Filadelfia con información sobre el acceso a Internet, capacitación en alfabetización digital y problemas básicos de soporte técnico.</description>
     </item>
     
     <item>
@@ -230,9 +261,9 @@ Descripción: Diseñado para ayudar a los miembros de la comunidad local de Fila
       
       <guid>https://phillycommunitywireless.org/es/termsofservice/</guid>
       <description>Fecha de entrada en vigor: 1 de marzo de 2021
-Última actualización: 16 de junio de 2026
+Última actualización: 27 de septiembre de 2026
 Philly Community Wireless es una red wifi pública y gratuita. Para usar esta red wifi gratuita, usted acepta los siguientes Términos del Servicio.
-Términos del Servicio El Philly Community Wireless Project, un proyecto patrocinado fiscalmente por Movement Alliance Project (“PCWP”), y su proveedor de conexión troncal (backhaul), PhillyWisper (“PW”), apoyan la neutralidad de la red y un Internet libre y abierto, sin estrangulamiento de la velocidad (throttling), sin tarifa cero (zero-rating) y sin el seguimiento del uso de las personas con fines de lucro, publicidad u otras formas de contraprestación.</description>
+Términos del Servicio El Philly Community Wireless Project, un proyecto patrocinado fiscalmente por Movement Alliance Project (“PCWP”), y su proveedor de conexión troncal (backhaul), PhillyWisper (“PW”), apoyan la neutralidad de la red y un Internet libre y abierto, sin estrangulamiento de la velocidad (throttling), sin tarifa cero (zero-rating) y sin el seguimiento del uso de las personas a cambio de dinero, publicidad u otras formas de contraprestación.</description>
     </item>
     
   </channel>

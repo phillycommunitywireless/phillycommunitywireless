@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Philly Community Wireless</title>
+    <title>Philly Community Wireless</title>
     <link>https://phillycommunitywireless.org/</link>
-    <description>Recent content in Home on Philly Community Wireless</description>
+    <description>Recent content on Philly Community Wireless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
       
       <guid>https://phillycommunitywireless.org/fellowship/</guid>
       <description>A program of Philly Community Wireless
-About the Fellowship Philly Community Wireless (PCW) operates free, no-cost public Wi-Fi across Norris Square, Fairhill, and Kensington: a community-controlled network with hundreds of access points and over 7,600 unique users a month. The Public Internet Fellowship invites local artists, technologists, and residents to use our network as a platform for community media, supporting new ways of empowering communities to come together in shared spaces to use the internet to better their lives and spaces.</description>
+About the Fellowship Philly Community Wireless (PCW) operates free public Wi-Fi across Norris Square, Fairhill, and Kensington: a community-controlled network with hundreds of access points and over 7,600 unique users a month. The Public Internet Fellowship invites local artists, technologists, and residents to use our network as a platform for community media, supporting new ways of empowering communities to come together in shared spaces to use the internet to better their lives and spaces.</description>
     </item>
     
     <item>
@@ -61,15 +61,6 @@ See how the network works in our story map, then scroll through our history belo
       
       <guid>https://phillycommunitywireless.org/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Thanks for reaching out!</title>
-      <link>https://phillycommunitywireless.org/contact_success/</link>
-      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/contact_success/</guid>
-      <description>We&amp;rsquo;ll be in contact shortly.</description>
     </item>
     
     <item>
@@ -157,7 +148,7 @@ Having internet access is essential to take part in everyday opportunities and a
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/about/people/eugener/</guid>
-      <description>Eugene is the Technician with Philly Community Wireless. He grew up in central Pennsylvania and moved to Philadelphia in the summer of 2022. Primarily interested in the relationship between people and technology, Eugene&amp;rsquo;s role include leading installations, writing and maintaining web applications, and creating documentation. Outside of work, Eugene enjoys going to shows, playing guitar and bass, cycling, and hanging out at home with his cat, Toes.</description>
+      <description>Eugene is the Technician with Philly Community Wireless. He grew up in central Pennsylvania and moved to Philadelphia in the summer of 2022. Primarily interested in the relationship between people and technology, Eugene&amp;rsquo;s role includes leading installations, writing and maintaining web applications, and creating documentation. Outside of work, Eugene enjoys going to shows, playing guitar and bass, cycling, and hanging out at home with his cat, Toes.</description>
     </item>
     
     <item>
@@ -166,9 +157,9 @@ Having internet access is essential to take part in everyday opportunities and a
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/about/news/</guid>
-      <description>All Coverage Billy Penn, Organization pulls Kensington community together by spreading wi-fi outdoors, 7/2/2025.
-Billy Penn, Philly residents take a DIY approach to solving quality of life issues, 12/10/2024.
-Tech Policy, America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?, 4/30/2024
+      <description>All Coverage Billy Penn, Organization pulls Kensington community together by spreading wi-fi outdoors, 7/2/2025
+Billy Penn, Philly residents take a DIY approach to solving quality of life issues, 12/10/2024
+TechPolicy.Press, America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?, 4/30/2024
 CNET, Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time, 10/1/2023
 Kensington Voice, Norris Square organization increases community access to free internet, 7/12/2023
 Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of the Year 2022, 12/14/2022</description>
@@ -180,7 +171,7 @@ Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of 
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/about/people/leannep/</guid>
-      <description>Leanne came to Philadelphia in 2021 to pursue a Master’s of Science in Communication for Development and Social Change at Temple University. Interested in digital equity and the link between digital spaces and healthy democracy, Leanne began volunteering with PCW in Summer 2023, quickly becoming quite active in the organization and passionate about its alternative vision for transforming digital inclusion through community wifi. She is excited to learn and grow alongside community members, local leaders, and her colleagues.</description>
+      <description>Leanne came to Philadelphia in 2021 to pursue a Master of Science in Communication for Development and Social Change at Temple University. Interested in digital equity and the link between digital spaces and healthy democracy, Leanne began volunteering with PCW in Summer 2023, quickly becoming quite active in the organization and passionate about its alternative vision for transforming digital inclusion through community wifi. She was excited to learn and grow alongside community members, local leaders, and her colleagues.</description>
     </item>
     
     <item>
@@ -239,8 +230,8 @@ We&amp;rsquo;re not an internet company — we&amp;rsquo;re a community network!
       
       <guid>https://phillycommunitywireless.org/privacy/</guid>
       <description>Effective Date: March 1, 2021
-Last Updated: May 21, 2021
-We at Philadelphia Community Wireless Project, a fiscally sponsored project of the Movement Alliance Project (&amp;quot;PCWP&amp;quot;, &amp;ldquo;us&amp;rdquo;, &amp;ldquo;our&amp;rdquo;, or &amp;ldquo;we&amp;rdquo;) are strongly committed to transparency, and we want you (&amp;quot;you&amp;quot; or &amp;ldquo;your&amp;rdquo;) to understand how we collect, use, share and protect your personal information, as well as how you can manage the personal information we collect. This Privacy Notice applies to your interactions with us, including attending our events or participating in our programs, or your use of our website (www.</description>
+Last Updated: September 27, 2026
+We at Philly Community Wireless Project, a fiscally sponsored project of the Movement Alliance Project (&amp;quot;PCWP&amp;quot;, &amp;ldquo;us&amp;rdquo;, &amp;ldquo;our&amp;rdquo;, or &amp;ldquo;we&amp;rdquo;) are strongly committed to transparency, and we want you (&amp;quot;you&amp;quot; or &amp;ldquo;your&amp;rdquo;) to understand how we collect, use, share and protect your personal information, as well as how you can manage the personal information we collect. This Privacy Notice applies to your interactions with us, including attending our events or participating in our programs, or your use of our website (www.</description>
     </item>
     
     <item>
@@ -249,7 +240,7 @@ We at Philadelphia Community Wireless Project, a fiscally sponsored project of t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/resources/</guid>
-      <description>Last Updated: January 10, 2026
+      <description>Last Updated: September 27, 2026
 Below are some resources to help you connect to affordable or free internet access, take digital literacy classes, and more. Check them out!
 Get Digital Resources: Digital Navigators (Multilingual) Location: Over the phone
 Description: Designed to assist local community members in Philadelphia with information on Internet access, digital literacy training, and basic technical support issues. Digital Navigators can also help you enroll for discounted internet when available.</description>
@@ -262,7 +253,7 @@ Description: Designed to assist local community members in Philadelphia with inf
       
       <guid>https://phillycommunitywireless.org/termsofservice/</guid>
       <description>Effective Date: March 1, 2021
-Last Updated: June 16, 2026
+Last Updated: September 27, 2026
 Philly Community Wireless is a free, public wifi network. To use this free wifi network, you agree to our following Terms of Service.
 Terms of Service The Philly Community Wireless Project, a fiscally sponsored project of Movement Alliance Project (“PCWP”), and its backhaul provider, PhillyWisper (“PW”), support net neutrality and a free and open Internet without throttling, zero-rating, or tracking people’s usage for money, advertising, or other forms of consideration.</description>
     </item>

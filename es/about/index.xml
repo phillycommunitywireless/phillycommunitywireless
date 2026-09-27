@@ -8,17 +8,27 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://phillycommunitywireless.org/es/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Exalumnos</title>
+      <title>Exintegrantes</title>
       <link>https://phillycommunitywireless.org/es/about/alumni/</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/about/alumni/</guid>
-      <description>Philly Community Wireless es obra de las muchas personas que han dedicado su tiempo, sus habilidades y su cuidado a la red a lo largo de los años. Agradecemos a todos nuestros exalumnos — personal anterior, pasantes y miembros de los consejos — por ayudar a hacer posible este trabajo.
-Personal anterior Leanne Przybylowski Administradora de relaciones comunitarias
+      <description>Philly Community Wireless es obra de las muchas personas que, a lo largo de los años, han dedicado su tiempo, sus habilidades y su cariño a la red. Agradecemos a todos nuestros exintegrantes —personal anterior, pasantes y miembros del consejo— por ayudar a hacer posible este trabajo.
+Personal anterior Leanne Przybylowski Gerente de alcance comunitario
 Dylan Hutchinson Instalador
-Mir Detre Técnico
+Mir Detre Técnique
 Allan Gomez Administrador de sistemas
 Pasantes anteriores Amaris Chen University of Pennsylvania, 2026</description>
+    </item>
+    
+    <item>
+      <title>Nuestra historia</title>
+      <link>https://phillycommunitywireless.org/es/about/our_story/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/about/our_story/</guid>
+      <description>Fundada en 2020, durante la pandemia de COVID-19, Philly Community Wireless comenzó como un proyecto dirigido por voluntarios, formado por bibliotecarios y maestros, organizadores, tecnólogos y líderes comunitarios. Nuestro primer nodo se instaló en julio de 2020 con nuestro socio PhillyWisper, y desde 2021 construimos Wi-Fi gratuito en Norris Square y en todo el norte de Filadelfia, con vecinos y organizaciones comunitarias que alojan nuestros equipos en sus edificios.
+Descubre cómo funciona la red en nuestro mapa narrativo y luego recorre nuestra trayectoria más abajo.</description>
     </item>
     
     <item>
@@ -40,27 +50,25 @@ Pasantes anteriores Amaris Chen University of Pennsylvania, 2026</description>
     </item>
     
     <item>
-      <title>Preguntas más frecuentes</title>
-      <link>https://phillycommunitywireless.org/es/about/faq/</link>
-      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://phillycommunitywireless.org/es/about/faq/</guid>
-      <description>¿Quien Somos Nosotros? ¿Qué es Philly Community Wireless? Philly Community Wireless es una organización comunitaria que desarrolla redes de malla de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros de escuelas públicas y personal del Ayuntamiento de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla operadas y propiedad de la comunidad.
-Las redes de malla permiten compartir una única conexión a Internet entre un grupo más amplio de usuarios con muy poco coste o infraestructura necesaria.</description>
-    </item>
-    
-    <item>
       <title>Novedades</title>
       <link>https://phillycommunitywireless.org/es/about/news/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://phillycommunitywireless.org/es/about/news/</guid>
-      <description>Billy Penn, Organization pulls Kensington community together by spreading wi-fi outdoors, 7/2/2025.
-Billy Penn, Philly residents take a DIY approach to solving quality of life issues, 12/10/2024.
-Tech Policy, America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?, 4/30/2024
-CNET, Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time, 10/1/2023
-Kensington Voice, Norris Square organization increases community access to free internet, 7/12/2023
-Technical.ly Philly, Alex Wermer-Colan and PCW awarded Community Tech Leader of the Year 2022, 12/14/2022</description>
+      <description>Toda la cobertura Billy Penn, Organization pulls Kensington community together by spreading wi-fi outdoors, 2 de julio de 2025
+Billy Penn, Philly residents take a DIY approach to solving quality of life issues, 10 de diciembre de 2024
+TechPolicy.Press, America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?, 30 de abril de 2024
+CNET, Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time, 1 de octubre de 2023</description>
+    </item>
+    
+    <item>
+      <title>Preguntas frecuentes</title>
+      <link>https://phillycommunitywireless.org/es/about/faq/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://phillycommunitywireless.org/es/about/faq/</guid>
+      <description>¿Quiénes somos? ¿Qué es Philly Community Wireless? Philly Community Wireless es una organización comunitaria que desarrolla redes de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros y miembros de la comunidad de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla controladas por la comunidad.
+Las redes de malla permiten compartir una sola conexión a Internet entre un grupo más amplio de usuarios, con muy poco costo o infraestructura necesaria.</description>
     </item>
     
   </channel>
