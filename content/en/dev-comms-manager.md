@@ -98,7 +98,7 @@ __To apply:__  Please send your resume and a cover letter to info@phillycommunit
 
 __Application deadline:__ We are accepting applications on a rolling basis, with priority given to applications submitted before October 15, 2026.
 
-__Hiring process:__ We will begin scheduling screening interviews by October. After screening interviews, we will invite candidates moving forward to engage in a 2 to 3 round interview process, including a brief in-person component. 
+__Hiring process:__ We will begin scheduling screening interviews by late October. After screening interviews, we will invite candidates moving forward to engage in a 2 to 3 round interview process, including a brief in-person component. 
 
 __Target start date:__ We aim for the selected candidate to start by January 5, 2027.
 
