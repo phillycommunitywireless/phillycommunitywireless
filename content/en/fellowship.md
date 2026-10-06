@@ -10,7 +10,9 @@ A program of Philly Community Wireless
 
 Philly Community Wireless (PCW) operates a community-controlled, free public Wi-Fi network across Norris Square, Fairhill, and Kensington neighborhoods of North Philadelphia. The Public Internet Fellowship invites local artists, technologists, and residents to use our network as a platform for community media.
 
-Through funding from the People's Media Fund, three to five fellows will each be hosted by a neighborhood organization that stewards a public space, and will create and install interactive art, environmental resources, and new forms of community digital storytelling that bring people together in a shared space and give voice to their diverse perspectives through access to the internet. Practical projects are civic-information projects designed for everyday neighborhood use, like bus arrival displays or air-quality alerts. Creative projects are larger media installations, like outdoor light sculptures or augmented-reality neighborhood storytelling.
+Through funding from the People's Media Fund, a small cohort of fellows will each be hosted by a neighborhood organization that stewards a public space, and will create and install interactive art, environmental resources, and new forms of community digital storytelling that bring people together in a shared space and give voice to their diverse perspectives through access to the internet.
+
+Practical projects are civic-information projects designed for everyday neighborhood use, like bus arrival displays or air-quality alerts. Creative projects are larger media installations, like outdoor light sculptures or augmented-reality neighborhood storytelling.
 
 ## Advisory Board
 

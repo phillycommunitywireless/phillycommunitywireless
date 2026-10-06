@@ -10,7 +10,9 @@ Un programa de Philly Community Wireless
 
 Philly Community Wireless (PCW) opera una red Wi-Fi pública y gratuita, controlada por la comunidad, en los vecindarios de Norris Square, Fairhill y Kensington, en el norte de Filadelfia. La Beca de Internet Público (Public Internet Fellowship) invita a artistas, tecnólogos y residentes locales a usar nuestra red como plataforma para medios comunitarios.
 
-Gracias al financiamiento del People's Media Fund, entre tres y cinco personas becadas serán acogidas, cada una, por una organización del vecindario que cuida un espacio público, y crearán e instalarán arte interactivo, recursos ambientales y nuevas formas de narración digital comunitaria que reúnan a las personas en un espacio compartido y den voz a sus diversas perspectivas a través del acceso a Internet. Los proyectos prácticos son proyectos de información cívica pensados para el uso cotidiano del vecindario, como pantallas de llegada de autobuses o alertas de calidad del aire. Los proyectos creativos son instalaciones de medios más grandes, como esculturas de luz al aire libre o narraciones del vecindario con realidad aumentada.
+Gracias al financiamiento del People's Media Fund, un pequeño grupo de personas becadas serán acogidas, cada una, por una organización del vecindario que cuida un espacio público, y crearán e instalarán arte interactivo, recursos ambientales y nuevas formas de narración digital comunitaria que reúnan a las personas en un espacio compartido y den voz a sus diversas perspectivas a través del acceso a Internet.
+
+Los proyectos prácticos son proyectos de información cívica pensados para el uso cotidiano del vecindario, como pantallas de llegada de autobuses o alertas de calidad del aire. Los proyectos creativos son instalaciones de medios más grandes, como esculturas de luz al aire libre o narraciones del vecindario con realidad aumentada.
 
 ## Consejo Asesor
 
