@@ -5,8 +5,6 @@ description: "A map of the Philly Community Wireless network, showing where our 
 
 ---
 
-<!-- ## [Philly Community Wireless Wi-Fi Coverage Map](https://map.phillycommunitywireless.org/) -->
-
 <iframe title="Philly Community Wireless network-hardware deployment map" src="https://map.phillycommunitywireless.org/" width="100%" height="400"></iframe>
 
 {{< button-custom href="https://map.phillycommunitywireless.org/" text="View Map in Fullscreen">}}
