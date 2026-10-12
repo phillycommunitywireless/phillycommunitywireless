@@ -49,4 +49,4 @@ PCW-installed air monitors are presently at:
 
 ## Air Monitor Documentation
 
-[Solar Mesh Nodes guide](https://docs.phillycommunitywireless.org/installations/solar/)
+[Solar-Powered IoT Devices guide](https://docs.phillycommunitywireless.org/installations/green-tech/solar-iot-devices/)

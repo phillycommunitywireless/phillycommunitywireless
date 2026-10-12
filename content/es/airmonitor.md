@@ -49,4 +49,4 @@ Actualmente, hay monitores de aire instalados por PCW en:
 
 ## Documentación de los monitores de aire
 
-[Guía de nodos de malla solares](https://docs.phillycommunitywireless.org/es/installations/solar/)
+[Guía de dispositivos IoT solares](https://docs.phillycommunitywireless.org/es/installations/green-tech/solar-iot-devices/)
