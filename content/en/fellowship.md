@@ -2,6 +2,37 @@
 date: 2026-10-02
 title: "Public Internet Fellowship"
 description: "The Public Internet Fellowship invites local artists, technologists, and residents to build community media on Philly Community Wireless's free public Wi-Fi network in Norris Square, Fairhill, and Kensington."
+logo_grids:
+  board:
+    - name: "Kensington Corridor Trust"
+      link: "https://kctphilly.org/"
+      img: "/images/partners/kct.png"
+    - name: "Norris Square Neighborhood Project"
+      link: "https://www.myneighborhoodproject.org"
+      img: "/images/partners/nsnp.svg"
+    - name: "New Kensington CDC"
+      link: "https://nkcdc.org/"
+      img: "/images/partners/nkcdc.svg"
+    - name: "HACE"
+      link: "https://www.hacecdc.org/"
+      img: "/images/partners/hace.png"
+    - name: "César Andreu Iglesias Community Garden"
+      link: "https://iglesiasgardens.com/"
+      img: "/images/partners/caig.png"
+    - name: "Historic Fair Hill"
+    - name: "Taller Puertorriqueño"
+      link: "https://tallerpr.org/"
+      img: "/images/partners/taller.png"
+  funders:
+    - name: "People's Media Fund"
+      link: "https://www.peoplesmediafund.org/"
+      img: "/images/funders/PMF-logo.png"
+    - name: "William Penn Foundation"
+      link: "https://williampennfoundation.org/"
+      img: "/images/funders/WPF-logo.jpeg"
+    - name: "Claneil Foundation"
+      link: "https://claneil.org/"
+      img: "/images/funders/claneil-logo.jpg"
 ---
 
 A program of Philly Community Wireless
@@ -18,13 +49,7 @@ Practical projects are civic-information projects designed for everyday neighbor
 
 The Fellowship is guided by an Advisory Board of community organizations that steward public spaces in Norris Square, Fairhill, and Kensington. The board shapes the open call and the review criteria, reads the applications and chooses the fellows, and hosts the fellows' installations and events, so that the people who steward these spaces decide what gets built in them.
 
-- Kensington Corridor Trust
-- Norris Square Neighborhood Project
-- New Kensington CDC
-- HACE
-- César Andreu Iglesias Community Garden
-- Historic Fair Hill
-- Taller Puertorriqueño
+{{< logo-grid "board" >}}
 
 Additional organizations are joining the board this fall.
 
@@ -37,3 +62,5 @@ We welcome sponsors to reach out with interest. Additional support goes directly
 ## Funders
 
 Funded support for the Public Internet Fellowship pilot is provided by People's Media Fund through its Future Fund. Additional funding from the William Penn Foundation and the Claneil Foundation has made this initiative possible.
+
+{{< logo-grid "funders" >}}

@@ -2,6 +2,37 @@
 date: 2026-10-02
 title: "Beca de Internet Público"
 description: "La Beca de Internet Público (Public Internet Fellowship) invita a artistas, tecnólogos y residentes locales a crear medios comunitarios en la red Wi-Fi pública y gratuita de Philly Community Wireless en Norris Square, Fairhill y Kensington."
+logo_grids:
+  board:
+    - name: "Kensington Corridor Trust"
+      link: "https://kctphilly.org/"
+      img: "/images/partners/kct.png"
+    - name: "Norris Square Neighborhood Project"
+      link: "https://www.myneighborhoodproject.org"
+      img: "/images/partners/nsnp.svg"
+    - name: "New Kensington CDC"
+      link: "https://nkcdc.org/"
+      img: "/images/partners/nkcdc.svg"
+    - name: "HACE"
+      link: "https://www.hacecdc.org/"
+      img: "/images/partners/hace.png"
+    - name: "César Andreu Iglesias Community Garden"
+      link: "https://iglesiasgardens.com/"
+      img: "/images/partners/caig.png"
+    - name: "Historic Fair Hill"
+    - name: "Taller Puertorriqueño"
+      link: "https://tallerpr.org/"
+      img: "/images/partners/taller.png"
+  funders:
+    - name: "People's Media Fund"
+      link: "https://www.peoplesmediafund.org/"
+      img: "/images/funders/PMF-logo.png"
+    - name: "William Penn Foundation"
+      link: "https://williampennfoundation.org/"
+      img: "/images/funders/WPF-logo.jpeg"
+    - name: "Claneil Foundation"
+      link: "https://claneil.org/"
+      img: "/images/funders/claneil-logo.jpg"
 ---
 
 Un programa de Philly Community Wireless
@@ -18,13 +49,7 @@ Los proyectos prácticos son proyectos de información cívica pensados para el 
 
 La beca está guiada por un Consejo Asesor de organizaciones comunitarias que cuidan espacios públicos en Norris Square, Fairhill y Kensington. El consejo da forma a la convocatoria abierta y a los criterios de evaluación, lee las solicitudes y elige a las personas becadas, y acoge las instalaciones y los eventos, de modo que quienes cuidan estos espacios deciden qué se construye en ellos.
 
-- Kensington Corridor Trust
-- Norris Square Neighborhood Project
-- New Kensington CDC
-- HACE
-- César Andreu Iglesias Community Garden
-- Historic Fair Hill
-- Taller Puertorriqueño
+{{< logo-grid "board" >}}
 
 Más organizaciones se sumarán al consejo este otoño.
 
@@ -37,3 +62,5 @@ Invitamos a los patrocinadores interesados a comunicarse con nosotros. El apoyo 
 ## Patrocinadores
 
 El programa piloto de la Beca de Internet Público cuenta con el apoyo financiero de People's Media Fund, a través de su Future Fund. El financiamiento adicional de la William Penn Foundation y de la Claneil Foundation ha hecho posible esta iniciativa.
+
+{{< logo-grid "funders" >}}
