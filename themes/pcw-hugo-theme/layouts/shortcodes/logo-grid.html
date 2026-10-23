@@ -1,0 +1,20 @@
+{{- /* Logo grid inside page text: {{< logo-grid "board" >}} renders the list
+       `logo_grids.board` from the page's front matter. Each item takes name,
+       link and img; an item without img shows the name only. */ -}}
+{{- $items := index .Page.Params.logo_grids (.Get 0) -}}
+<div class="partner-section">
+  {{- range $item := $items }}
+  <div class="partner-card">
+    {{- with $item.img }}
+    {{ partial "responsive-image.html" (dict "src" . "alt" $item.name "sizes" "180px" "widths" (slice 200 400 600)) }}
+    {{- end }}
+    <div class="partner-desc f4">
+      {{- if $item.link }}
+      <a href="{{ $item.link }}"><p>{{ $item.name }}</p></a>
+      {{- else }}
+      <p>{{ $item.name }}</p>
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+</div>

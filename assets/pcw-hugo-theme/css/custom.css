@@ -629,3 +629,84 @@ footer {
   .timeline-has-media .timeline-year { grid-column: 1 / -1; }
   .timeline-has-media .timeline-media { margin-top: 0; }
 }
+
+/* Public Internet Fellowship page (layout: fellowship) */
+.pif-header {
+  position: relative;
+  overflow: hidden;
+  background-color: var(--dark-blue);
+  color: white;
+}
+.pif-signal {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  color: var(--lilac);
+}
+.pif-header-inner {
+  position: relative;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.pif-kicker {
+  margin: 0;
+  color: var(--lilac);
+  font-size: 1rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.pif-header .pif-title {
+  color: white;
+  margin: .5rem 0 1rem;
+  font-size: clamp(2.25rem, 6vw, 3.75rem);
+  line-height: 1.05;
+}
+.pif-lead {
+  max-width: 36rem;
+  margin: 0 0 2rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+.pif-tracks {
+  display: grid;
+  gap: 1.5rem;
+  margin: 1.5rem 0 3rem;
+}
+.pif-tracks p {
+  margin: 0;
+}
+@media (min-width: 40em) {
+  .pif-tracks {
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;
+  }
+}
+.pif-body .partner-section {
+  align-items: center;
+  gap: 1.5rem 2.5rem;
+  margin: 1.5rem 0;
+}
+.pif-body .partner-card {
+  flex: 0 0 180px;
+  max-width: none;
+}
+.pif-body a[href^="mailto:"] {
+  white-space: nowrap;
+}
+.pif-body .partner-card img {
+  width: 180px;
+  height: 84px;
+  object-fit: contain;
+}
+.pif-body .partner-desc {
+  max-width: 180px;
+  text-align: center;
+}
+.pif-body .partner-desc p {
+  margin: .5rem 0 0;
+  font-size: .875rem;
+  line-height: 1.3;
+  font-weight: 600;
+  color: var(--dark-blue);
+}
