@@ -1,5 +1,8 @@
 ---
 date: 2026-10-02
+layout: fellowship
+kicker: "Un programa de Philly Community Wireless"
+lead: "La Beca de Internet Público (Public Internet Fellowship) invita a artistas, tecnólogos y residentes locales a usar nuestra red como plataforma para medios comunitarios."
 title: "Beca de Internet Público"
 description: "La Beca de Internet Público (Public Internet Fellowship) invita a artistas, tecnólogos y residentes locales a crear medios comunitarios en la red Wi-Fi pública y gratuita de Philly Community Wireless en Norris Square, Fairhill y Kensington."
 logo_grids:
@@ -18,40 +21,31 @@ logo_grids:
       img: "/images/partners/hace.png"
     - name: "César Andreu Iglesias Community Garden"
       link: "https://iglesiasgardens.com/"
-      img: "/images/partners/caig.png"
     - name: "Historic Fair Hill"
     - name: "Taller Puertorriqueño"
       link: "https://tallerpr.org/"
       img: "/images/partners/taller.png"
-  funders:
-    - name: "People's Media Fund"
-      link: "https://www.peoplesmediafund.org/"
-      img: "/images/funders/PMF-logo.png"
-    - name: "William Penn Foundation"
-      link: "https://williampennfoundation.org/"
-      img: "/images/funders/WPF-logo.jpeg"
-    - name: "Claneil Foundation"
-      link: "https://claneil.org/"
-      img: "/images/funders/claneil-logo.jpg"
 ---
-
-Un programa de Philly Community Wireless
 
 ## Acerca de la beca
 
-Philly Community Wireless (PCW) opera una red Wi-Fi pública y gratuita, controlada por la comunidad, en los vecindarios de Norris Square, Fairhill y Kensington, en el norte de Filadelfia. La Beca de Internet Público (Public Internet Fellowship) invita a artistas, tecnólogos y residentes locales a usar nuestra red como plataforma para medios comunitarios.
+Philly Community Wireless (PCW) opera una red Wi-Fi pública y gratuita, controlada por la comunidad, en los vecindarios de Norris Square, Fairhill y Kensington, en el norte de Filadelfia.
 
 Gracias al financiamiento del People's Media Fund, un pequeño grupo de personas becadas serán acogidas, cada una, por una organización del vecindario que cuida un espacio público, y crearán e instalarán arte interactivo, recursos ambientales y nuevas formas de narración digital comunitaria que reúnan a las personas en un espacio compartido y den voz a sus diversas perspectivas a través del acceso a Internet.
 
-Los proyectos prácticos son proyectos de información cívica pensados para el uso cotidiano del vecindario, como pantallas de llegada de autobuses o alertas de calidad del aire. Los proyectos creativos son instalaciones de medios más grandes, como esculturas de luz al aire libre o narraciones del vecindario con realidad aumentada.
+<div class="pif-tracks">
+
+**Los proyectos prácticos** son proyectos de información cívica pensados para el uso cotidiano del vecindario, como pantallas de llegada de autobuses o alertas de calidad del aire.
+
+**Los proyectos creativos** son instalaciones de medios más grandes, como esculturas de luz al aire libre o narraciones del vecindario con realidad aumentada.
+
+</div>
 
 ## Consejo Asesor
 
 La beca está guiada por un Consejo Asesor de organizaciones comunitarias que cuidan espacios públicos en Norris Square, Fairhill y Kensington. El consejo da forma a la convocatoria abierta y a los criterios de evaluación, lee las solicitudes y elige a las personas becadas, y acoge las instalaciones y los eventos, de modo que quienes cuidan estos espacios deciden qué se construye en ellos.
 
 {{< logo-grid "board" >}}
-
-Más organizaciones se sumarán al consejo este otoño.
 
 ## Participa
 
@@ -61,6 +55,6 @@ Invitamos a los patrocinadores interesados a comunicarse con nosotros. El apoyo 
 
 ## Patrocinadores
 
-El programa piloto de la Beca de Internet Público cuenta con el apoyo financiero de People's Media Fund, a través de su Future Fund. El financiamiento adicional de la William Penn Foundation y de la Claneil Foundation ha hecho posible esta iniciativa.
+El programa piloto de la Beca de Internet Público cuenta con el apoyo financiero de People's Media Fund, a través de su Future Fund. El financiamiento adicional en especie de la William Penn Foundation y de la Claneil Foundation ha hecho posible esta iniciativa.
 
-{{< logo-grid "funders" >}}
+Vea todos los patrocinadores de PCW en nuestra [página de Patrocinadores](/es/about/funders/).

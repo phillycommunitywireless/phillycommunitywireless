@@ -6,7 +6,7 @@
   {{- range $item := $items }}
   <div class="partner-card">
     {{- with $item.img }}
-    {{ partial "responsive-image.html" (dict "src" . "alt" $item.name "sizes" "100px" "widths" (slice 100 200 300)) }}
+    {{ partial "responsive-image.html" (dict "src" . "alt" $item.name "sizes" "180px" "widths" (slice 200 400 600)) }}
     {{- end }}
     <div class="partner-desc f4">
       {{- if $item.link }}
