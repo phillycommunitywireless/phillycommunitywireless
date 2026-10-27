@@ -40,7 +40,7 @@ Below are some resources to help you connect to affordable or free internet acce
 **Register**: Learn more [here](https://beyondliteracy.org/digitalskills/).
 
 ## Digital Literacy Training: Esperanza Hope Digital Skills (English and Spanish)
-**Description**: Esperanza’s Hope Digital Skills Literacy Project is designed to equip you with the tools you need to accomplish personal, educational, and professional goals. From workshops on how to use a computer and Google Suite, to digital skills for small business owners, the program offers a range of options for jumpstarting or enhancing your ability to use a computer for everyday life, education, and work.  
+**Description**: Esperanza’s Hope Digital Skills Project is designed to equip you with the tools you need to accomplish personal, educational, and professional goals. From workshops on how to use a computer and Google Suite, to digital skills for small business owners, the program offers a range of options for jumpstarting or enhancing your ability to use a computer for everyday life, education, and work.  
 **Location and Time**: Varies.  
 **Register**: Call 215-297-4641 and learn more [here](https://esperanza.eastern.edu/portfolio/hope-digital-skills-program/).
   
