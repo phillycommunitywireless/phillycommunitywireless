@@ -1,20 +1,20 @@
 ---
 layout: single
 title: Recursos
-description: "Recursos para ayudarte a obtener Internet asequible o gratuito, tomar clases de alfabetización digital y mucho más en Filadelfia."
+description: "Recursos para ayudarte a obtener Internet asequible o gratuito, tomar clases de capacitación de alfabetización digital y mucho más en Filadelfia."
 ---
 
 **Última actualización**: 27 de septiembre de 2026
 
 *******
-A continuación, encontrarás algunos recursos que te ayudarán a conectarte a Internet asequible o gratuito, tomar clases de alfabetización digital y mucho más. ¡Échales un vistazo!
+A continuación encontrarás algunos recursos que te ayudarán a conectarte a Internet gratis o asequible, a tomar clases de capacitación de alfabetización digital y mucho más. ¡Échales un vistazo!
 
 ## Obtén recursos digitales: Navegadores Digitales (multilingüe)
-**Lugar**: Por teléfono  
-**Descripción**: Servicio diseñado para ayudar a los miembros de la comunidad de Filadelfia con información sobre el acceso a Internet, capacitación en alfabetización digital y problemas básicos de soporte técnico. Los Navegadores Digitales (Digital Navigators) también pueden ayudarte a inscribirte en programas de Internet con descuento cuando estén disponibles.  
-**Contacto**: Para obtener la información de contacto de los programas de Navegadores Digitales del Excite Center de Drexel, Beyond Literacy y SEAMAAC, consulta el [sitio web de la ciudad](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). También puedes llamar al 311 para hacer una cita con un Navegador Digital.  
+**Lugar**: Por teléfono (llamando)
+**Descripción**: Un servicio diseñado para ayudar a los miembros de la comunidad de Filadelfia con información sobre el acceso a Internet, capacitación de alfabetización digital y problemas básicos de soporte técnico. Los Navegadores Digitales (Digital Navigators) también pueden ayudarte a inscribirte en programas de Internet asequible cuando estén disponibles.  
+**Contacto**: Para obtener la información de contacto de los programas de Navegadores Digitales del Excite Center de Drexel, Beyond Literacy y SEAMAAC, consulta el [sitio web de la ciudad](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). También puedes llamar al 311 y seleccione la opción 6 para hacer una cita con un Navegador Digital.  
 
-## Capacitación en alfabetización digital y soporte técnico: Digital Access Center at Temple University (inglés)
+## Capacitación de alfabetización digital y soporte técnico: Digital Access Center at Temple University (inglés)
 **Descripción**: Ofrece un laboratorio de computadoras de libre acceso en sus instalaciones, capacitación en alfabetización digital, opciones de Internet asequible, soluciones de computadoras para el hogar y soporte técnico a través de su línea directa.  
 **Lugar**: 1915 N 11th St, Philadelphia PA 19122.  
 **Contacto y línea directa de soporte técnico**: Llama al 215-204-7445 o envía un correo electrónico a techforphilly@temple.edu.
@@ -35,12 +35,12 @@ A continuación, encontrarás algunos recursos que te ayudarán a conectarte a I
 **Inscripción**: Más información [aquí](https://welcomingcenter.org/esol-digital-skills/).
 
 ## Capacitación en alfabetización digital: Beyond Literacy
-**Descripción**: Ofrece talleres gratuitos de habilidades digitales en lugares convenientes por toda Filadelfia. Con una variedad de talleres, los residentes pueden mejorar sus habilidades con la computadora, aprender a enviar correos electrónicos, solicitar empleos en línea y mucho más.  
+**Descripción**: Ofrece talleres gratis de habilidades digitales en lugares convenientes por toda Filadelfia. Con una variedad de talleres, los residentes pueden mejorar sus habilidades con la computadora, aprender a enviar correos electrónicos, solicitar empleos en línea y mucho más.  
 **Lugar y horario**: Varía.  
 **Inscripción**: Obtén más información [aquí](https://beyondliteracy.org/digitalskills/).
 
 ## Capacitación en alfabetización digital: Esperanza Hope Digital Skills (inglés y español)
-**Descripción**: El Proyecto de Alfabetización en Habilidades Digitales Hope (Hope Digital Skills Literacy Project) de Esperanza está diseñado para darte las herramientas que necesitas para lograr tus metas personales, educativas y profesionales. Desde talleres sobre cómo usar una computadora y Google Suite hasta habilidades digitales para dueños de pequeños negocios, el programa ofrece una variedad de opciones para comenzar a desarrollar o mejorar tu capacidad de usar una computadora en la vida diaria, los estudios y el trabajo.  
+**Descripción**: El Programa de Habilidades Digitales Hope (Hope Digital Skills Project) de Esperanza está diseñado para darte las herramientas que necesitas para lograr tus metas personales, educativas y profesionales. Desde talleres sobre cómo usar una computadora y Google Suite hasta habilidades digitales para dueños de pequeños negocios, el programa ofrece una variedad de opciones para comenzar a desarrollar o mejorar tu capacidad de usar una computadora en la vida diaria, los estudios y el trabajo.  
 **Lugar y horario**: Varía.  
 **Inscripción**: Llama al 215-297-4641 y obtén más información [aquí](https://esperanza.eastern.edu/portfolio/hope-digital-skills-program/).
 
