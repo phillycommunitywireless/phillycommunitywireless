@@ -10,9 +10,9 @@ description: "Recursos para ayudarte a obtener Internet asequible o gratuito, to
 A continuación encontrarás algunos recursos que te ayudarán a conectarte a Internet gratis o asequible, a tomar clases de capacitación de alfabetización digital y mucho más. ¡Échales un vistazo!
 
 ## Obtén recursos digitales: Navegadores Digitales (multilingüe)
-**Lugar**: Por teléfono (llamando)
+**Lugar**: Por teléfono (llamando)  
 **Descripción**: Un servicio diseñado para ayudar a los miembros de la comunidad de Filadelfia con información sobre el acceso a Internet, capacitación de alfabetización digital y problemas básicos de soporte técnico. Los Navegadores Digitales (Digital Navigators) también pueden ayudarte a inscribirte en programas de Internet asequible cuando estén disponibles.  
-**Contacto**: Para obtener la información de contacto de los programas de Navegadores Digitales del Excite Center de Drexel, Beyond Literacy y SEAMAAC, consulta el [sitio web de la ciudad](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). También puedes llamar al 311 y seleccione la opción 6 para hacer una cita con un Navegador Digital.  
+**Contacto**: Para obtener la información de contacto de los programas de Navegadores Digitales del Excite Center de Drexel, Beyond Literacy y SEAMAAC, consulta el [sitio web de la ciudad](https://www.phila.gov/2020-06-23-call-a-digital-navigator-today/). También puedes llamar al 311 y seleccionar la opción 6 para hacer una cita con un Navegador Digital.  
 
 ## Capacitación de alfabetización digital y soporte técnico: Digital Access Center at Temple University (inglés)
 **Descripción**: Ofrece un laboratorio de computadoras de libre acceso en sus instalaciones, capacitación en alfabetización digital, opciones de Internet asequible, soluciones de computadoras para el hogar y soporte técnico a través de su línea directa.  
