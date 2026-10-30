@@ -3,8 +3,27 @@
 Source code for the Philly Community Wireless website, [phillycommunitywireless.org](https://phillycommunitywireless.org) (or [pcw.fi](https://phillycommunitywireless.org)). The site is built using the [Hugo](https://gohugo.io) static site generator and hosted with [GitHub Pages](https://pages.github.com/). Deploy previews via [Render](https://github.com/phillycommunitywireless/phillycommunitywireless/wiki/Deploy-Previews) — every pull request gets a live preview URL
 
 **Contents**  
+&nbsp;&nbsp;&nbsp;&nbsp;[Repository layout](#repository-layout)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Theme](#theme)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Local development](#local-development)
+
+# Repository layout
+
+| Path | What it holds |
+|---|---|
+| `content/en/`, `content/es/` | Page text in English and Spanish. Each page has a twin with the same file name in the other language. |
+| `content/{en,es}/about/` | The About section: people, alumni, partners, funders, FAQ, news, our story. |
+| `content/{en,es}/segments/` | Small fragments (contact block, short about) that other pages pull in; not pages of their own. |
+| `data/` | Structured data for templates, e.g. `timeline.yaml` / `timeline_es.yaml` for the Our Story timeline. |
+| `static/images/` | Images. Shared groups have their own folders: `partners/` and `funders/` (logos), `merch/`, `timeline/`. `web updates/` holds install and outreach photos. Staff headshots are `<Name>Headshot-Square.jpg` at the top level. |
+| `static/map/` | The story map page. |
+| `themes/pcw-hugo-theme/` | The theme: layouts, partials and the segment templates. |
+| `assets/` | Custom CSS (see [Custom CSS](#custom-css)) and the screenshots used in `segments.md`. |
+| `config.yaml` | Menus, the announcement banner (`banner.show`), and site-wide settings for both languages. |
+| `unused-images.md` | Images that nothing references yet, and why each is kept. Check it before adding or deleting images. |
+| `segments.md` | Reference for every segment template and its options. |
+
+The site builds on Hugo 0.111.3 extended, the version pinned in `.github/workflows/main.yml`; newer Hugo releases fail on this config.
 # Theme
 
 The site's theme is a fork of [gohugo-theme-ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) with major modifications.

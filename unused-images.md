@@ -1,12 +1,13 @@
 # Unused images
 
 Images in `static/images/` that no page, data file, template, or config
-references (checked 2026-09-27). They are still published with the site but
-nothing links to them. **Nothing here has been deleted** — decide per group,
-and back files up (e.g. to the shared Drive) before removing any of them.
+references (re-checked 2026-10-11). They are still published with the site but
+nothing links to them. Back files up (e.g. to the shared Drive) before removing
+any of them. Old logos, exact duplicates, tote photos and alternate headshots
+were removed on 2026-10-11; they are in git history if ever needed.
 
 To re-check a file before deleting it, search the repo for its path, e.g.
-`grep -rn "hero2.jpg" content data config.yaml themes assets`.
+`grep -rn "hero3.jpg" content data config.yaml themes assets`.
 
 ## Candidates for the scrollytelling map or network map
 
@@ -33,31 +34,9 @@ if any are wanted for the story map, they are in git history, e.g.
 | `nsp_map2.png` | 0.2 MB |
 | `nsnp.png` | 0.2 MB |
 
-## Old logos and brand files — back up, then delete
-
-| File |
-|---|
-| `logo-old.svg` |
-| `logo-old-purple.svg` |
-| `Centered Text Logo-RGB.png` |
-| `Centered Text Logo-RGB.svg` |
-| `Circular Logo-RGB.png` |
-| `PCW.org Logo-RGB.svg` |
-
-## Exact duplicates — safe to delete (an identical copy is in use)
-
-| Unused copy | Copy in use |
-|---|---|
-| `Drone_Hart Lane_Active.JPG` (3.2 MB) | `Drone_HartLane_Active.JPG` |
-| `web updates/Hart Lane_Install_Active.jpg` (1.5 MB) | `web updates/hart-install.jpg` |
-| `pcw-shirt-hat.jpg` (0.4 MB) | `merch/pcw-shirt-hat.jpg` |
-
-## Other
+## Held for a later photo update
 
 | File | Notes |
 |---|---|
-| `hero2.jpg`, `hero3.jpg` | Old homepage hero options |
-| `ZoeKHeadshot-Square.jpg` | Headshot not on the People page |
-| `AlexWC_Portrait.jpg`, `AWCBW.jpg` | Alternate headshots of Alex |
-| `ChrisMTabling.png`, `ChrisMTabling-Square.jpg` | Tabling photos; the People page uses `ChrisMHeadshot-Square.jpg` |
-| `merch/pcwtote.png`, `merch/pcw-tote-shirt.jpg`, `merch/pcw-hat-tote.jpg`, `merch/pcw-tote-hat-shirt.jpg` | Tote bag photos; no tote is listed in the shop |
+| `hero3.jpg` | Old homepage hero option; a candidate header for Equipment Sales |
+| `iglesias_antenna_drone.JPG` | Drone view of the Iglesias garden antenna; a candidate header for the Fellowship page |
