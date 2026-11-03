@@ -167,7 +167,7 @@ languages:
       banner:
         text: "We're hiring!"
         link: "/dev-comms-manager"
-        show: true
+        show: false
   es:
     languageName: Español
     contentDir: content/es
@@ -313,7 +313,7 @@ languages:
       banner:
         text: "¡Estamos contratando!"
         link: "/dev-comms-manager"
-        show: true
+        show: false
       featured_image:
         src: "/images/Iglesias_AP_Equipment.jpg"
         alt: "Una antena instalada en una azotea, apuntando hacia una torre receptora a lo lejos."

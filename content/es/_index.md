@@ -13,8 +13,8 @@ segments:
         text: "**¡Conéctate!** Únete a nuestra red y usa nuestro servicio de Wi-Fi en tu hogar, tu organización o un espacio verde de tu comunidad."
         button_text: Nuestro Wi-Fi
         button_href: "/es/getconnected"
-      - photo: "/images/pcwvolunteers.png"
-        photo_alt_text: "7 personas con camisetas iguales de PCW posando para una foto en una acera."
+      - photo: "/images/web updates/somerset-install.jpg"
+        photo_alt_text: "Cuatro voluntarios de PCW en el techo de una casa adosada, uno subido a una escalera junto a la chimenea sosteniendo una antena."
         text: "**¡Participa!** Hazte voluntario para ayudar a construir nuestras redes de Internet, aprender nuevas destrezas y marcar la diferencia en nuestra comunidad."
         button_text: Hazte voluntario
         button_href: "/es/volunteer"
