@@ -12,7 +12,7 @@ logo_grids:
       img: "/images/partners/kct.png"
     - name: "Norris Square Neighborhood Project"
       link: "https://www.myneighborhoodproject.org"
-      img: "/images/partners/nsnp.svg"
+      img: "/images/partners/nsnp.png"
     - name: "New Kensington CDC"
       link: "https://nkcdc.org/"
       img: "/images/partners/nkcdc.svg"
