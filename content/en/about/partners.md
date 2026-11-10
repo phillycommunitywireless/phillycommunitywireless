@@ -49,7 +49,7 @@ segments:
         - partner:
             partner_name: "Norris Square Neighborhood Project"
             partner_link: "https://www.myneighborhoodproject.org"
-            img_src: "/images/partners/nsnp.svg"
+            img_src: "/images/partners/nsnp.png"
             img_alt: "Norris Square Neighborhood Project"
         - partner:
             partner_name: "Friends of Norris Square Park"
