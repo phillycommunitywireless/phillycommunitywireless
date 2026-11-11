@@ -22,7 +22,7 @@ For a condensed list of available digital resources, [click here](/resources/).
 
 For more information on our partner, PhillyWisper, see their [FAQ](https://phillywisper.net/faq/).
 
-### What areas of the Norris Square Park neighborhood currently have Wifi?
+### What areas of the Norris Square neighborhood currently have Wifi?
 
 The free public Wifi network should be accessible in most areas of Norris Square Park and the surrounding streets, approximately in a half square mile area. For updates on upcoming installs and service expansions, see [our map](https://map.phillycommunitywireless.org/) or [sign up for our newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
