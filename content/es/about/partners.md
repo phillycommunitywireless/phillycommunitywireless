@@ -10,7 +10,7 @@ segments:
     - template: call-to-action-photo-right
       title: "PhillyWisper"
       text: |
-        Philly Community Wireless colabora con PhillyWisper, un proveedor local de servicios de Internet inalámbrico, para instalar en los techos las antenas con las que ofrecemos una red WiFi gratuita a los residentes del barrio y en espacios públicos.
+        Philly Community Wireless colabora con PhillyWisper, un proveedor local de servicios de Internet inalámbrico, para instalar las antenas con las que ofrecemos una red WiFi gratuita a los residentes del barrio y en espacios públicos.
       photo: "/images/partners/wisper.png"
       photo_alt_text: "Logotipo de PhillyWisper."
       button: 
@@ -379,3 +379,6 @@ segments:
 
 ---
 
+Philly Community Wireless partners with dozens of local organizations, businesses, and institutions to build our community network and run our organization. Our partners may host and provide access to properties where we can install our network equipment, connect local residents with our services, collaborate on projects or events with us, and more. 
+
+Our fiscal sponsor, Movement Alliance Project, is an established Philadelphia-based nonprofit that serves as our legal and financial home, helping PCW stay focused on our core mission of providing a baseline of internet access to all in our service area.
