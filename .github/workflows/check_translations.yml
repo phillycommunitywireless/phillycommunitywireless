@@ -1,4 +1,4 @@
-name: Build and Deploy to GH pages
+name: Check Drift between English and Spanish versions 
 
 on:
   workflow_dispatch
