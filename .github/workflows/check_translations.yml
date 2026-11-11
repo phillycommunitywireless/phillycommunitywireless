@@ -4,7 +4,7 @@ on:
   workflow_dispatch:  
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -12,4 +12,7 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v7
+        with:
+          # full history, to compare when each English and Spanish page last changed
+          fetch-depth: 0
       - run: python .github/scripts/check_translations.py ${{ github.base_ref && format('origin/{0}', github.base_ref) || '' }}
