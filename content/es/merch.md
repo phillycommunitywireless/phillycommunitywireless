@@ -52,6 +52,10 @@ segments:
         button_href: "https://buy.stripe.com/6oU00cf7Xer5bOybXK5c40p" 
         flex_basis: 33%
 
+      # newsletter 
+  - template: newsletter-verbose
+    title: Mantente en contacto
+    subtitle: Suscríbete para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
 ---
 
 ¡Echa un vistazo a los artículos más recientes de Philly Community Wireless!  
