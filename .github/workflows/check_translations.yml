@@ -1,8 +1,11 @@
 name: Check Drift between English and Spanish versions 
 
 on:
-  workflow_dispatch
-  
+  workflow_dispatch:  
+  pull_request:
+    branches:
+      - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
