@@ -23,4 +23,9 @@ segments:
       
       ¡Esperamos poder conectar contigo!
       "
+
+      # newsletter 
+  - template: newsletter-verbose
+    title: Mantente en contacto
+    subtitle: Suscríbete para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
 ---
