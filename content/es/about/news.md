@@ -9,7 +9,7 @@ segments:
     stories:
       - photo: "/images/nsnp_antenna.jpg"
         photo_alt_text: "Una antena de PCW en el Norris Square Neighborhood Project"
-        quote: "Why would it be restricted by four walls?"
+        quote: "Why would [the internet] be restricted by four walls?"
         attribution: "Leanne Przybylowski, en *Billy Penn*"
         outlet: "Billy Penn"
         headline: "Organization pulls Kensington community together by spreading wi-fi outdoors"
@@ -33,6 +33,11 @@ segments:
         headline: "A group of Philly technologists are working on a free, community-based mesh Wi-Fi network"
         href: "https://technical.ly/2022/01/12/philly-community-wireless-phillywisper-mesh-wifi/"
         date: "12 de enero de 2022"
+        
+  # newsletter 
+  - template: newsletter-verbose
+    title: Mantente en contacto
+    subtitle: Suscríbete para mantenerte al día sobre Philly Community Wireless y los recursos digitales en Filadelfia.
 ---
 
 ## Toda la cobertura
