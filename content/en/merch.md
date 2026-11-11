@@ -52,6 +52,10 @@ segments:
         button_href: "https://buy.stripe.com/6oU00cf7Xer5bOybXK5c40p" 
         flex_basis: 33%
 
+  - template: newsletter-verbose
+    title: Stay in Touch  
+    subtitle: Sign up to stay up-to-date on Philly Community Wireless and digital resources in Philadelphia.  
+
 ---
 
 Check out the latest Philly Community Wireless swag!  
