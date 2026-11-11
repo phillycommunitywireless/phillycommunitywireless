@@ -81,13 +81,11 @@ segments:
             partner_link: "https://iglesiasgardens.com/"
             img_src: "/images/partners/caig.png"
             img_alt: "Cesar Andreu Iglesias Gardens"
-
         - partner:
             partner_name: "Forman Arts Initiative"
             partner_link: "https://formanartsinitiative.org/"
             img_src: "/images/partners/forman.png"
             img_alt: "Forman Arts Initiative"
-
         - partner:
             partner_name: "The Clay Studio"
             partner_link: "https://www.theclaystudio.org/"
@@ -108,7 +106,6 @@ segments:
             partner_link: "https://tallerpr.org/"
             img_src: "/images/partners/taller.png"
             img_alt: "Taller Puertorriqueño"
-
         - partner:
             partner_name: "HACE"
             partner_link: "https://www.hacecdc.org/"
@@ -164,13 +161,11 @@ segments:
             partner_link: "https://www.kensingtonvoice.com/"
             img_src: "/images/partners/kensingtonvoice.png"
             img_alt: "Kensington Voice"
-
         - partner:
             partner_name: "Philly Bridge & Jawn (PB&J)"
             partner_link: "https://www.instagram.com/phillybridgeandjawn/"
-            img_src: "/images/partners/placeholder.svg"
+            img_src: "/images/partners/pb&j.png"
             img_alt: "Philly Bridge and Jawn"
-
         - partner:
             partner_name: "Poor People's Army"
             partner_link: "https://www.poorpeoplesarmy.org/"
@@ -221,54 +216,46 @@ segments:
             partner_link: "https://www.lpa-theopendoor.org/"
             img_src: "/images/partners/lapuertaabierta.png"
             img_alt: "La Puerta Abierta"
-
         - partner:
             partner_name: "Zion Baptist Church"
             partner_link: "https://zionbaptphilly.org/"
-            img_src: "/images/partners/placeholder.svg"
+            img_src: "/images/partners/zion.png"
             img_alt: "Zion Baptist Church"
         - partner:
             partner_name: "Community Action Relief Project (CARP)"
             partner_link: "https://phlcarp.wordpress.com/"
             img_src: "/images/partners/carp.jpg"
             img_alt: "Community Action Relief Project"
-
         - partner:
             partner_name: "People's Tech Project"
             partner_link: "https://peoplestechproject.org/"
             img_src: "/images/partners/peoplestech.png"
             img_alt: "People's Tech Project"
-
         - partner:
             partner_name: "University of Pennsylvania"
             partner_link: "https://www.upenn.edu/"
             img_src: "/images/partners/upenn.svg"
             img_alt: "University of Pennsylvania"
-
         - partner:
             partner_name: "PAR-Recycle Works"
             partner_link: "https://par-recycleworks.org/"
             img_src: "/images/partners/par.png"
             img_alt: "PAR-Recycle Works"
-
         - partner:
             partner_name: "PhillyCAM"
             partner_link: "https://phillycam.org/"
             img_src: "/images/partners/phillycam.png"
             img_alt: "PhillyCAM"
-
         - partner:
             partner_name: "PCs for People"
             partner_link: "https://www.pcsforpeople.org/"
             img_src: "/images/partners/pcsforpeople.png"
             img_alt: "PCs for People"
-
         - partner:
             partner_name: "SEAMAAC"
             partner_link: "https://seamaac.org/"
             img_src: "/images/partners/seamaac.png"
             img_alt: "SEAMAAC"
-
         - partner:
             partner_name: "New Jerusalem"
             partner_link: "https://newjerusalemrecovery.com/"
