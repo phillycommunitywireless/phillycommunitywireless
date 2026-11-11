@@ -90,14 +90,15 @@ languages:
           url: "/resources"
           parent: about-us
           weight: "6"
-        - name: FAQ
-          url: "/about/faq"
-          parent: about-us
-          weight: "7"
         - name: Our Story
           url: "/about/our_story"
           parent: about-us
+          weight: "7"
+        - name: FAQ
+          url: "/about/faq"
+          parent: about-us
           weight: "8"
+       
      
           # Location
         - name: Location
