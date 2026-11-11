@@ -26,8 +26,8 @@ segments:
           button_href: "/es/merch"
         - photo: "/images/web updates/AP-Gotham.jpg"
           photo_alt_text: "Un dispositivo de punto de acceso instalado en el borde de un techo, apuntando hacia unas casas y un edificio alto al fondo."
-          text: "Forma parte directa de nuestro esfuerzo por conectar a los miembros de la comunidad con acceso gratuito a Internet: aloja nuestro equipo de red en tu propiedad y comparte la conexión con tus vecinos. Conoce más sobre cómo inscribirte en nuestra página Conéctate."
-          button_text: Hazte anfitrión
+          text: "Forma parte directa de nuestro esfuerzo por conectar a los miembros de la comunidad con acceso gratuito a Internet: aloja nuestro equipo de red en tu propiedad y comparte la conexión con tus vecinos. Conoce más sobre cómo inscribirte en nuestra página [Conéctate](/es/getconnected)."
+          button_text: Regístrese
           button_href: "/es/getconnected" 
 
     - template: call-to-action-photo-right
