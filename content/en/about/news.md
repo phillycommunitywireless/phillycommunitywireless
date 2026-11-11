@@ -5,7 +5,7 @@ description: "Press coverage of Philly Community Wireless and community-controll
 layout: "people/people"
 segments:
   - template: featured-news
-    title: "In the News"
+    title: "Featured Highlights"
     stories:
       - photo: "/images/nsnp_antenna.jpg"
         photo_alt_text: "A PCW antenna at Norris Square Neighborhood Project"
@@ -46,7 +46,7 @@ Billy Penn, [Organization pulls Kensington community together by spreading wi-fi
 
 Billy Penn, [Philly residents take a DIY approach to solving quality of life issues](https://billypenn.com/2024/12/10/resident-provided-city-services-wifi-street-signs-displays/), 12/10/2024
 
-TechPolicy.Press, [America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?](https://www.techpolicy.press/america-disconnected-whats-bidens-plan-for-averting-digital-disaster/), 4/30/2024  
+Tech Policy Press, [America, Disconnected: What’s Biden’s Plan for Averting Digital Disaster?](https://www.techpolicy.press/america-disconnected-whats-bidens-plan-for-averting-digital-disaster/), 4/30/2024  
 
 CNET, [Alternative Broadband Networks: Affordable Internet for the People, One Rooftop at a Time](https://www.cnet.com/home/internet/features/alternative-broadband-networks-affordable-internet-for-the-people-one-rooftop-at-a-time/), 10/1/2023
 
