@@ -17,8 +17,8 @@ import subprocess
 import sys
 from pathlib import Path
 
-EN = Path("docs/en")
-ES = Path("docs/es")
+EN = Path("content/en")
+ES = Path("content/es")
 DRAFT_MARKER = "TODO: machine-drafted"
 
 
