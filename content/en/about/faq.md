@@ -54,7 +54,7 @@ Yes, as long as PCW exists, you will never be asked for your payment information
 
 ### How fast/stable will the connection be?
 
-We aim to provide at least 50 Mbps download speed in public and private spaces. We can’t promise consistent connection in any given area, but many areas of our network currently receive higher download speeds.
+We aim to provide at least 25 Mbps download speed in public spaces, and often 50-100 Mbps in private spaces. We can’t promise consistent connection in any given area, but many areas of our network currently receive higher download speeds.
 
 ### How secure is the network? Who can access our information?
 
@@ -64,7 +64,7 @@ By joining our network you agree to share the available bandwidth with others. P
 
 When connecting to the public network, use the same standard precautions you would at a coffee shop or airport. Because our network is open, the Wifi signal itself isn’t encrypted, which is covered in the Security Warning on our [Terms of Service page](/termsofservice/). Most websites use https by default these days, which keeps what you send to them private, and you can use a VPN service to be extra safe. Our network also has the usual client device isolation, which makes it harder for another device on the network to reach yours.
 
-### Can I get hacked / Is my personal information protected?
+### Can I get hacked? Is my personal information protected?
 
 Nothing you do on the internet should be considered fully “private.” We don’t ask for any identifying information to log into our network, and you shouldn’t give that information to anyone who claims to be PCW.
 
