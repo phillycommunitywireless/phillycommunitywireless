@@ -23,11 +23,11 @@ segments:
     - template: call-to-action-photo-right
       title: "Urban Technology Project"
       text: |
-        Colaboramos con el Urban Technology Project para acoger a aprendices, quienes tienen una oportunidad de trabajo única: aprender lo que significa contribuir al crecimiento de una red comunitaria.
+        Colaboramos con el Urban Technology Project (UTP) para acoger a aprendices, quienes tienen una oportunidad de trabajo única: aprender lo que significa contribuir al crecimiento de una red comunitaria.
       photo: "/images/partners/utp.png"
       photo_alt_text: "Logotipo del Urban Technology Project: el horizonte de Filadelfia en silueta contra un sol amarillo, sobre las letras UTP."
       button: 
-         button_text: "Más información sobre el Urban Technology Project"
+         button_text: "Más información sobre UTP"
          button_href: "https://utp-philly.org/"
          no_button_arrow: "true"
       class: bg-light-gray  
