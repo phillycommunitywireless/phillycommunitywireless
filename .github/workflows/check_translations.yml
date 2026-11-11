@@ -1,0 +1,12 @@
+name: Build and Deploy to GH pages
+
+on:
+  workflow_dispatch
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v7
+      - run: python .github/scripts/check_translations.py ${{ github.base_ref && format('origin/{0}', github.base_ref) || '' }}
