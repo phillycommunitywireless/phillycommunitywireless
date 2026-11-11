@@ -19,12 +19,14 @@ logo_grids:
     - name: "HACE"
       link: "https://www.hacecdc.org/"
       img: "/images/partners/hace.png"
-    - name: "César Andreu Iglesias Community Garden"
-      link: "https://iglesiasgardens.com/"
     - name: "Historic Fair Hill"
+      link: "https://historicfairhill.com"
+      img: "/images/partners/historicfairhill.jpeg"
     - name: "Taller Puertorriqueño"
       link: "https://tallerpr.org/"
       img: "/images/partners/taller.png"
+    - name: "César Andreu Iglesias Community Garden"
+      link: "https://iglesiasgardens.com/"
 ---
 
 ## Acerca de la beca
