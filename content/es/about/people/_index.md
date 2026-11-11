@@ -60,3 +60,5 @@ segments:
         center cf ph3 ph4-ns mw7 nested-copy-line-height lh-copy f4 nested-links nested-img near-black
 
 ---
+
+Philly Community Wireless está formada por un grupo central de personal, más de 50 voluntarios activos y dos consejos asesores. Para obtener más información sobre nuestros socios, incluido nuestro patrocinador fiscal, visita nuestra página de [Socios](/es/about/partners)
