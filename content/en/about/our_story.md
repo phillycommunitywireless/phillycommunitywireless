@@ -24,6 +24,12 @@ segments:
     history: "History"
     install: "Installs"
     event: "Events"
+
+  # newsletter 
+- template: newsletter-verbose
+  title: Stay in Touch  
+  subtitle: Sign up to stay up-to-date on Philly Community Wireless and digital resources in Philadelphia.
+  
 ---
 
 Founded in 2020 during the COVID-19 pandemic, Philly Community Wireless started as a volunteer-led project made up of librarians and teachers, organizers, technologists, and community leaders. Our first node went up in July 2020 with our partner PhillyWisper, and since 2021 we've been building free Wi-Fi in Norris Square and across North Philadelphia, with neighbors and community organizations hosting our equipment on their buildings.
