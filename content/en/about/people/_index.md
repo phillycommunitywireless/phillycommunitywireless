@@ -61,3 +61,4 @@ segments:
 
 ---
 
+Philly Community Wireless is powered by a core group of staff, more than 50 active volunteers, and two Advisory boards. For more information about our partners, including our fiscal sponsor, visit our [Partners](/about/partners) page.
