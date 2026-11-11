@@ -26,7 +26,7 @@ segments:
           button_href: "/merch"
         - photo: "/images/web updates/AP-Gotham.jpg"
           photo_alt_text: "An access point device mounted on the edge of a roof pointing towards houses and a tall building in the background."
-          text: "Become a direct part of our effort to connect community members to free internet access by hosting our network equipment at your property and sharing connectivity with your neighbors. Learn more about signing up on our Get Connected page."
+          text: "Become a direct part of our effort to connect community members to free internet access by hosting our network equipment at your property and sharing connectivity with your neighbors. Learn more about signing up on our [Get Connected page](/getconnected)."
           button_text: Become a Host
           button_href: "/getconnected" 
 
