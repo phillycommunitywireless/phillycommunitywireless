@@ -81,13 +81,11 @@ segments:
             partner_link: "https://iglesiasgardens.com/"
             img_src: "/images/partners/caig.png"
             img_alt: "Cesar Andreu Iglesias Gardens"
-
         - partner:
             partner_name: "Forman Arts Initiative"
             partner_link: "https://formanartsinitiative.org/"
             img_src: "/images/partners/forman.png"
             img_alt: "Forman Arts Initiative"
-
         - partner:
             partner_name: "The Clay Studio"
             partner_link: "https://www.theclaystudio.org/"
@@ -108,7 +106,6 @@ segments:
             partner_link: "https://tallerpr.org/"
             img_src: "/images/partners/taller.png"
             img_alt: "Taller Puertorriqueño"
-
         - partner:
             partner_name: "HACE"
             partner_link: "https://www.hacecdc.org/"
@@ -164,13 +161,11 @@ segments:
             partner_link: "https://www.kensingtonvoice.com/"
             img_src: "/images/partners/kensingtonvoice.png"
             img_alt: "Kensington Voice"
-
         - partner:
             partner_name: "Philly Bridge & Jawn (PB&J)"
             partner_link: "https://www.instagram.com/phillybridgeandjawn/"
-            img_src: "/images/partners/placeholder.svg"
+            img_src: "/images/partners/pb&j.png"
             img_alt: "Philly Bridge and Jawn"
-
         - partner:
             partner_name: "Poor People's Army"
             partner_link: "https://www.poorpeoplesarmy.org/"
