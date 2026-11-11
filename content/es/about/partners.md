@@ -379,6 +379,6 @@ segments:
 
 ---
 
-Philly Community Wireless partners with dozens of local organizations, businesses, and institutions to build our community network and run our organization. Our partners may host and provide access to properties where we can install our network equipment, connect local residents with our services, collaborate on projects or events with us, and more. 
+Philly Community Wireless se asocia con decenas de organizaciones, empresas e instituciones locales para construir nuestra red comunitaria y administrar nuestra organización. Nuestros socios pueden ofrecer espacio y acceso a propiedades donde podamos instalar nuestro equipo de red, conectar a los residentes locales con nuestros servicios, colaborar con nosotros en proyectos o eventos, y mucho más. 
 
-Our fiscal sponsor, Movement Alliance Project, is an established Philadelphia-based nonprofit that serves as our legal and financial home, helping PCW stay focused on our core mission of providing a baseline of internet access to all in our service area.
+Nuestro patrocinador fiscal, Movement Alliance Project, es una organización sin fines de lucro consolidada con sede en Filadelfia que nos brinda apoyo legal y financiero, lo que permite a PCW mantenernos enfocado en nuestra misión principal: brindar un acceso básico a Internet a todas las personas en nuestra zona de servicio.
