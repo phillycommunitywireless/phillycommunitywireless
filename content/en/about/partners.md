@@ -23,11 +23,11 @@ segments:
     - template: call-to-action-photo-right
       title: "Urban Technology Project"
       text: |
-        We partner with Urban Technology Project to host Apprentices who have the unique work opportunity to learn what it means to contribute to the growth of a community network.
+        We partner with Urban Technology Project (UTP) to host Apprentices, who have the unique work opportunity to learn what it means to contribute to the growth of a community network.
       photo: "/images/partners/utp.png"
       photo_alt_text: "Urban Technology Project logo: the Philadelphia skyline in silhouette against a yellow sun, above the letters UTP."
       button: 
-         button_text: "Learn more about the Urban Technology Project"
+         button_text: "Learn more about UTP"
          button_href: "https://utp-philly.org/"
          no_button_arrow: "true"
       class: bg-light-gray  
