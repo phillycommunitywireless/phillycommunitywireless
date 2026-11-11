@@ -221,54 +221,46 @@ segments:
             partner_link: "https://www.lpa-theopendoor.org/"
             img_src: "/images/partners/lapuertaabierta.png"
             img_alt: "La Puerta Abierta"
-
         - partner:
             partner_name: "Zion Baptist Church"
             partner_link: "https://zionbaptphilly.org/"
-            img_src: "/images/partners/placeholder.svg"
+            img_src: "/images/partners/zion.png"
             img_alt: "Zion Baptist Church"
         - partner:
             partner_name: "Community Action Relief Project (CARP)"
             partner_link: "https://phlcarp.wordpress.com/"
             img_src: "/images/partners/carp.jpg"
             img_alt: "Community Action Relief Project"
-
         - partner:
             partner_name: "People's Tech Project"
             partner_link: "https://peoplestechproject.org/"
             img_src: "/images/partners/peoplestech.png"
             img_alt: "People's Tech Project"
-
         - partner:
             partner_name: "University of Pennsylvania"
             partner_link: "https://www.upenn.edu/"
             img_src: "/images/partners/upenn.svg"
             img_alt: "University of Pennsylvania"
-
         - partner:
             partner_name: "PAR-Recycle Works"
             partner_link: "https://par-recycleworks.org/"
             img_src: "/images/partners/par.png"
             img_alt: "PAR-Recycle Works"
-
         - partner:
             partner_name: "PhillyCAM"
             partner_link: "https://phillycam.org/"
             img_src: "/images/partners/phillycam.png"
             img_alt: "PhillyCAM"
-
         - partner:
             partner_name: "PCs for People"
             partner_link: "https://www.pcsforpeople.org/"
             img_src: "/images/partners/pcsforpeople.png"
             img_alt: "PCs for People"
-
         - partner:
             partner_name: "SEAMAAC"
             partner_link: "https://seamaac.org/"
             img_src: "/images/partners/seamaac.png"
             img_alt: "SEAMAAC"
-
         - partner:
             partner_name: "New Jerusalem"
             partner_link: "https://newjerusalemrecovery.com/"
@@ -289,13 +281,11 @@ segments:
             partner_link: "https://camdenfireworks.org/"
             img_src: "/images/partners/camdenfireworks.png"
             img_alt: "Camden FireWorks"
-
         - partner:
             partner_name: "Hopeworks"
             partner_link: "https://hopeworks.org/"
             img_src: "/images/partners/hopeworks.png"
             img_alt: "Hopeworks"
-
         - partner:
             partner_name: "Rowan University"
             partner_link: "https://www.rowan.edu/"
