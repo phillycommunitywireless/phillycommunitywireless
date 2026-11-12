@@ -33,11 +33,11 @@ logo_grids:
 
 Philly Community Wireless (PCW) opera una red Wi-Fi pública y gratuita, controlada por la comunidad, en los vecindarios de Norris Square, Fairhill y Kensington, en el norte de Filadelfia.
 
-Gracias al financiamiento del People's Media Fund, un pequeño grupo de personas becadas serán acogidas, cada una, por una organización del vecindario que cuida un espacio público, y crearán e instalarán arte interactivo, recursos ambientales y nuevas formas de narración digital comunitaria que reúnan a las personas en un espacio compartido y den voz a sus diversas perspectivas a través del acceso a Internet.
+Gracias al financiamiento del People's Media Fund, un pequeño grupo de becarios serán acogidas individualmente por una organización vecinal que cuida un espacio público, y crearán e instalarán obras de arte interactivo, recursos ambientales y nuevas formas de narración digital comunitaria que reúnan a las personas en un espacio compartido y den voz a sus diversas perspectivas a través del acceso a Internet.
 
 <div class="pif-tracks">
 
-**Los proyectos prácticos** son proyectos de información cívica pensados para el uso cotidiano del vecindario, como pantallas de llegada de autobuses o alertas de calidad del aire.
+**Los proyectos prácticos** son proyectos de información cívica diseñadas para el uso cotidiano en los vecindarios, como pantallas de llegada de autobuses o alertas de calidad del aire.
 
 **Los proyectos creativos** son instalaciones de medios más grandes, como esculturas de luz al aire libre o narraciones del vecindario con realidad aumentada.
 
@@ -45,18 +45,18 @@ Gracias al financiamiento del People's Media Fund, un pequeño grupo de personas
 
 ## Consejo Asesor
 
-La beca está guiada por un Consejo Asesor de organizaciones comunitarias que cuidan espacios públicos en Norris Square, Fairhill y Kensington. El consejo da forma a la convocatoria abierta y a los criterios de evaluación, lee las solicitudes y elige a las personas becadas, y acoge las instalaciones y los eventos, de modo que quienes cuidan estos espacios deciden qué se construye en ellos.
+La beca está guiada por un consejo asesor de organizaciones comunitarias que cuidan espacios públicos en Norris Square, Fairhill y Kensington. El consejo diseña la convocatoria abierta y los criterios de evaluación, revisa las solicitudes y elige a los becarios, y acoge las instalaciones y los eventos, así que quienes cuidan estos espacios deciden qué se construye en ellos.
 
 {{< logo-grid "board" >}}
 
 ## Participa
 
-Las personas interesadas en postularse que tengan preguntas sobre los requisitos pueden escribirnos a [info@phillycommunitywireless.org](mailto:info@phillycommunitywireless.org).
+Los interesados que tengan preguntas sobre los requisitos de elegibilidad pueden contactarnos en [info@phillycommunitywireless.org](mailto:info@phillycommunitywireless.org).
 
-Invitamos a los patrocinadores interesados a comunicarse con nosotros. El apoyo adicional se destina directamente a más becas, estipendios más grandes y mayor apoyo técnico para los proyectos.
+Invitamos a los patrocinadores interesados a ponerse en contacto con nosotros. El apoyo adicional se destina directamente a aumentar el número de becarios, a ofrecer estipendios más elevados y a brindar un mayor apoyo técnico a los proyectos.
 
 ## Patrocinadores
 
 El programa piloto de la Beca de Internet Público cuenta con el apoyo financiero de People's Media Fund, a través de su Future Fund. El financiamiento adicional en especie de la William Penn Foundation y de la Claneil Foundation ha hecho posible esta iniciativa.
 
-Vea todos los patrocinadores de PCW en nuestra [página de Patrocinadores](/es/about/funders/).
+Ve todos los patrocinadores de PCW en nuestra [página de Patrocinadores](/es/about/funders/).
