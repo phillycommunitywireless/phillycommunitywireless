@@ -23,11 +23,11 @@ segments:
     - template: call-to-action-photo-right
       title: "Urban Technology Project"
       text: |
-        We partner with Urban Technology Project to host Apprentices who have the unique work opportunity to learn what it means to contribute to the growth of a community network.
+        We partner with Urban Technology Project (UTP) to host Apprentices, who have the unique work opportunity to learn what it means to contribute to the growth of a community network.
       photo: "/images/partners/utp.png"
       photo_alt_text: "Urban Technology Project logo: the Philadelphia skyline in silhouette against a yellow sun, above the letters UTP."
       button: 
-         button_text: "Learn more about the Urban Technology Project"
+         button_text: "Learn more about UTP"
          button_href: "https://utp-philly.org/"
          no_button_arrow: "true"
       class: bg-light-gray  
@@ -49,7 +49,7 @@ segments:
         - partner:
             partner_name: "Norris Square Neighborhood Project"
             partner_link: "https://www.myneighborhoodproject.org"
-            img_src: "/images/partners/nsnp.svg"
+            img_src: "/images/partners/nsnp.png"
             img_alt: "Norris Square Neighborhood Project"
         - partner:
             partner_name: "Friends of Norris Square Park"
@@ -81,13 +81,11 @@ segments:
             partner_link: "https://iglesiasgardens.com/"
             img_src: "/images/partners/caig.png"
             img_alt: "Cesar Andreu Iglesias Gardens"
-
         - partner:
             partner_name: "Forman Arts Initiative"
             partner_link: "https://formanartsinitiative.org/"
             img_src: "/images/partners/forman.png"
             img_alt: "Forman Arts Initiative"
-
         - partner:
             partner_name: "The Clay Studio"
             partner_link: "https://www.theclaystudio.org/"
@@ -108,7 +106,6 @@ segments:
             partner_link: "https://tallerpr.org/"
             img_src: "/images/partners/taller.png"
             img_alt: "Taller Puertorriqueño"
-
         - partner:
             partner_name: "HACE"
             partner_link: "https://www.hacecdc.org/"
@@ -164,13 +161,11 @@ segments:
             partner_link: "https://www.kensingtonvoice.com/"
             img_src: "/images/partners/kensingtonvoice.png"
             img_alt: "Kensington Voice"
-
         - partner:
             partner_name: "Philly Bridge & Jawn (PB&J)"
             partner_link: "https://www.instagram.com/phillybridgeandjawn/"
-            img_src: "/images/partners/placeholder.svg"
+            img_src: "/images/partners/pb&j.png"
             img_alt: "Philly Bridge and Jawn"
-
         - partner:
             partner_name: "Poor People's Army"
             partner_link: "https://www.poorpeoplesarmy.org/"
@@ -221,54 +216,46 @@ segments:
             partner_link: "https://www.lpa-theopendoor.org/"
             img_src: "/images/partners/lapuertaabierta.png"
             img_alt: "La Puerta Abierta"
-
         - partner:
             partner_name: "Zion Baptist Church"
             partner_link: "https://zionbaptphilly.org/"
-            img_src: "/images/partners/placeholder.svg"
+            img_src: "/images/partners/zion.png"
             img_alt: "Zion Baptist Church"
         - partner:
             partner_name: "Community Action Relief Project (CARP)"
             partner_link: "https://phlcarp.wordpress.com/"
             img_src: "/images/partners/carp.jpg"
             img_alt: "Community Action Relief Project"
-
         - partner:
             partner_name: "People's Tech Project"
             partner_link: "https://peoplestechproject.org/"
             img_src: "/images/partners/peoplestech.png"
             img_alt: "People's Tech Project"
-
         - partner:
             partner_name: "University of Pennsylvania"
             partner_link: "https://www.upenn.edu/"
             img_src: "/images/partners/upenn.svg"
             img_alt: "University of Pennsylvania"
-
         - partner:
             partner_name: "PAR-Recycle Works"
             partner_link: "https://par-recycleworks.org/"
             img_src: "/images/partners/par.png"
             img_alt: "PAR-Recycle Works"
-
         - partner:
             partner_name: "PhillyCAM"
             partner_link: "https://phillycam.org/"
             img_src: "/images/partners/phillycam.png"
             img_alt: "PhillyCAM"
-
         - partner:
             partner_name: "PCs for People"
             partner_link: "https://www.pcsforpeople.org/"
             img_src: "/images/partners/pcsforpeople.png"
             img_alt: "PCs for People"
-
         - partner:
             partner_name: "SEAMAAC"
             partner_link: "https://seamaac.org/"
             img_src: "/images/partners/seamaac.png"
             img_alt: "SEAMAAC"
-
         - partner:
             partner_name: "New Jerusalem"
             partner_link: "https://newjerusalemrecovery.com/"
@@ -289,13 +276,11 @@ segments:
             partner_link: "https://camdenfireworks.org/"
             img_src: "/images/partners/camdenfireworks.png"
             img_alt: "Camden FireWorks"
-
         - partner:
             partner_name: "Hopeworks"
             partner_link: "https://hopeworks.org/"
             img_src: "/images/partners/hopeworks.png"
             img_alt: "Hopeworks"
-
         - partner:
             partner_name: "Rowan University"
             partner_link: "https://www.rowan.edu/"
@@ -379,3 +364,6 @@ segments:
 
 ---
 
+Philly Community Wireless partners with dozens of local organizations, businesses, and institutions to build our community network and run our organization. Our partners may host and provide access to properties where we can install our network equipment, connect local residents with our services, collaborate on projects or events with us, and more. 
+
+Our fiscal sponsor, Movement Alliance Project, is an established Philadelphia-based nonprofit that serves as our legal and financial home, helping PCW stay focused on our core mission of providing a baseline of internet access to all in our service area.

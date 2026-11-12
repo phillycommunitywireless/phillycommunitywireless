@@ -21,13 +21,13 @@ segments:
           button_href: "https://phillycommunitywireless.allyrafundraising.com"
         - photo: "/images/web updates/Group_Power Up.png"
           photo_alt_text: "5 personas sonrientes posando para una foto con camisetas iguales de PCW."
-          text: "¡Mira los artículos de PCW! Vendemos camisetas y gorras de PCW. Las ganancias de tu compra apoyarán directamente nuestro trabajo. Además, al representar a Philly Community Wireless, ¡puedes ayudar a correr la voz sobre lo que hacemos! Dinos qué artículos te gustaría ver próximamente."
+          text: "¡Mira los artículos de PCW! Vendemos camisetas, gorras y más de PCW. Las ganancias de tu compra apoyarán directamente nuestro trabajo. Además, al representar a Philly Community Wireless, ¡puedes ayudar a correr la voz sobre lo que hacemos! [Dinos](/es/contact) qué artículos te gustaría ver próximamente."
           button_text: Representa a PCW
           button_href: "/es/merch"
         - photo: "/images/web updates/AP-Gotham.jpg"
           photo_alt_text: "Un dispositivo de punto de acceso instalado en el borde de un techo, apuntando hacia unas casas y un edificio alto al fondo."
-          text: "Forma parte directa de nuestro esfuerzo por conectar a los miembros de la comunidad con acceso gratuito a Internet: aloja nuestro equipo de red en tu propiedad y comparte la conexión con tus vecinos. Conoce más sobre cómo inscribirte en nuestra página Conéctate."
-          button_text: Hazte anfitrión
+          text: "Forma parte directa de nuestro esfuerzo por conectar a los miembros de la comunidad con acceso gratuito a Internet: aloja nuestro equipo de red en tu propiedad y comparte la conexión con tus vecinos. Conoce más sobre cómo inscribirte en nuestra página [Conéctate](/es/getconnected)."
+          button_text: Regístrate
           button_href: "/es/getconnected" 
 
     - template: call-to-action-photo-right

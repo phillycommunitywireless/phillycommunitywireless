@@ -12,7 +12,7 @@ aliases:
 
 ### ¿Qué es Philly Community Wireless?
 
-Philly Community Wireless es una organización comunitaria que desarrolla redes de propiedad comunitaria en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros y miembros de la comunidad de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla controladas por la comunidad.
+Philly Community Wireless es una organización comunitaria que desarrolla redes de controlado por la comunidad en el norte de Filadelfia. Somos un grupo de trabajo de organizadores, tecnólogos, académicos, maestros y miembros de la comunidad de Filadelfia. Buscamos abordar la brecha digital de la ciudad con tecnologías de red de malla controladas por la comunidad.
 
 Las redes de malla permiten compartir una sola conexión a Internet entre un grupo más amplio de usuarios, con muy poco costo o infraestructura necesaria. Con la ayuda de [PhillyWisper](https://phillywisper.net), un proveedor de servicios de Internet inalámbrico que defiende la neutralidad de la red, hemos instalado nuestra red wifi en muchas zonas de Norris Square, Fairhill y Kensington, y seguimos ampliándola.
 
@@ -22,7 +22,7 @@ Para ver una lista resumida de los recursos digitales disponibles, [haz clic aqu
 
 Para obtener más información sobre nuestro socio PhillyWisper, consulta sus [preguntas frecuentes](https://phillywisper.net/faq/).
 
-### ¿Qué áreas del barrio de Norris Square Park tienen wifi actualmente?
+### ¿Qué áreas del barrio de Norris Square tienen wifi actualmente?
 
 La red wifi pública y gratuita debería estar disponible en la mayor parte de Norris Square Park y las calles de los alrededores, en un área de aproximadamente media milla cuadrada. Para obtener novedades sobre próximas instalaciones y ampliaciones del servicio, consulta [nuestro mapa](https://map.phillycommunitywireless.org/) o [suscríbete a nuestro boletín](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631).
 
@@ -54,7 +54,7 @@ Sí. Mientras PCW exista, nunca se te pedirá tu información de pago para acced
 
 ### ¿Qué tan rápida y estable será la conexión?
 
-Nuestro objetivo es ofrecer al menos 25 Mbps de velocidad de descarga en espacios públicos y privados. No podemos prometer una conexión constante en ninguna zona en particular, pero muchas áreas de nuestra red reciben actualmente velocidades de descarga más altas.
+Nuestro objetivo es ofrecer al menos 25 Mbps de velocidad de descarga en espacios públicos, y a menudo entre 50 y 100 Mbps en espacios privados. No podemos prometer una conexión constante en ninguna zona en particular, pero muchas áreas de nuestra red reciben actualmente velocidades de descarga más altas.
 
 ### ¿Qué tan segura es la red? ¿Quién puede acceder a nuestra información?
 
@@ -82,11 +82,11 @@ Si tienes alguna pregunta o quieres ser voluntario de Philly Community Wireless,
 
 ### ¿En qué consiste la instalación de una antena en el techo?
 
-Una instalación normal toma unas horas y requiere tender un cable de electricidad hasta el techo e instalar un soporte de techo sin perforaciones con línea de visión directa a un "sitio alto" de PhillyWisper. Se puede instalar un enrutador dentro de la casa, y a menudo intentamos instalar una antena repetidora en el techo o en un costado del edificio para compartir la señal en la zona. Para obtener más información, consulta nuestra [página de instalaciones](https://docs.phillycommunitywireless.org/es/installations/installations).
+Una instalación normal toma unas horas y, con frecuencia, requiere instalar una antena en el techo  o en la fachada exterior con línea de visión directa a un "sitio alto" de PhillyWisper. El enrutador y las antenas de interior se pueden instalar dentro de la casa, y a menudo tratamos de instalar una antena repetidora en el techo o en un costado del edificio para distribuir la señal por toda la zona. Para obtener más información, consulta nuestra [página de instalaciones](https://docs.phillycommunitywireless.org/es/installations/installations).
 
 ### Si alojo una antena en mi techo, ¿cómo afecta esto a la integridad estructural de mi casa? ¿Habrá que hacer perforaciones adicionales?
 
-Algunas casas solo necesitan una antena de malla interior, enchufada a un tomacorriente. En las casas que requieren una instalación en el techo, la antena se sujeta a una chimenea o a un poste existente, o se asegura entre bloques de cemento, etc. Siempre que es posible, usamos soportes de techo sin perforaciones. Los cables pueden pasar por agujeros que ya existen en tu casa. Para obtener más información, consulta nuestra [página de instalaciones](https://docs.phillycommunitywireless.org/es/installations/installations).
+En algunos hogares solo necesitará una antena de interior, enchufada a un tomacorriente. En los hogares que requieren una instalación en el techo, la antena se sujeta a una chimenea, a un poste existente o se asegurará en un soporte de techo no penetrante. Los cables pueden pasar por agujeros que ya existen en tu casa. Para obtener más información, consulta nuestra [página de instalaciones](https://docs.phillycommunitywireless.org/es/installations/installations).
 
 ### ¿Cuánto costará la electricidad para mantener la radio encendida?
 

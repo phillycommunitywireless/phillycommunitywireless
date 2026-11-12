@@ -26,6 +26,10 @@ segments:
         button_href: "https://buy.stripe.com/5kQ8wIgc1dn1aKu8Ly5c40f"
         class: "cubed-img br3"
         flex_basis: 33%
+
+  - template: newsletter-verbose
+    title: Stay in Touch  
+    subtitle: Sign up to stay up-to-date on Philly Community Wireless and digital resources in Philadelphia.  
 ---
 
 We sell donated Wi-Fi and networking equipment that isn't compatible with our network. These are items that we have received from other community internet initiatives and partners.

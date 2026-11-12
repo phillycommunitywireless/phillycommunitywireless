@@ -24,10 +24,10 @@ segments:
     images:
     - image: "/images/web updates/PW.jpg"
       alt: "Dos empleados de PhillyWisper sentados en un techo mirando una computadora portátil, con una estructura y un dispositivo LiteBeam a su lado."
-      text: "Philly Community Wireless trabaja con [PhillyWisper](https://phillywisper.net), un proveedor local de servicios de Internet inalámbrico, para instalar antenas en los techos que usamos para ofrecer una red Wi-Fi gratuita a los residentes del barrio y a los espacios públicos."
+      text: "Philly Community Wireless trabaja con [PhillyWisper](https://phillywisper.net), un proveedor local de servicios de Internet inalámbrico, para instalar antenas en los techos o paredes exteriores que usamos para ofrecer una red Wi-Fi gratuita a los residentes del barrio y a los espacios públicos."
     - image: "/images/web updates/hart-install.jpg"
       alt: "Tres personas en un techo sujetan un dispositivo de punto de acceso a un poste, con un jardín al fondo a nivel de la calle."
-      text: "El primer paso de nuestro proceso de servicio es evaluar si podemos ofrecer nuestra red en el lugar que solicitaste. Si podemos darle servicio a tu ubicación, coordinaremos una visita de instalación, que puede hacerse en varias etapas a lo largo de varios días."
+      text: "El primer paso de nuestro proceso de servicio es evaluar si podemos ofrecer nuestra red en el lugar que solicitaste. A veces necesitamos hacer esta evaluación en persona. Si podemos darle servicio a tu ubicación, luego coordinaremos una visita de instalación, que puede hacerse en varias etapas a lo largo de varios días."
     - image: "/images/web updates/dan-ap.jpg"
       alt: "Un hombre se asoma por una ventana del segundo piso y extiende un brazo para ajustar un dispositivo junto a una unidad de aire acondicionado."
       text: "Philly Community Wireless da mantenimiento a la red para mejorar o reparar las instalaciones existentes. Si notas algún problema con tu conexión, comunícate con nosotros.
