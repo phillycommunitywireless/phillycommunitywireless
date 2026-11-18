@@ -1,10 +1,12 @@
 ---
 date: 2026-10-02
 layout: fellowship
+header_photo: "/images/nkcdc-drone.jpg"
+header_alt: "Aerial view of rowhouses and the elevated train line in North Philadelphia."
 kicker: "A program of Philly Community Wireless"
 lead: "The Public Internet Fellowship invites local artists, technologists, and residents to use our network as a platform for community media."
 images:
-  - "/images/pif-share.png"
+  - "/images/nkcdc-drone.jpg"
 title: "Public Internet Fellowship"
 description: "The Public Internet Fellowship invites local artists, technologists, and residents to build community media on Philly Community Wireless's free public Wi-Fi network in Norris Square, Fairhill, and Kensington."
 logo_grids:

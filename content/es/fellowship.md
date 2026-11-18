@@ -1,6 +1,8 @@
 ---
 date: 2026-10-02
 layout: fellowship
+header_photo: "/images/nkcdc-drone.jpg"
+header_alt: "Vista aérea de casas en hilera y la línea del tren elevado en el norte de Filadelfia."
 kicker: "Un programa de Philly Community Wireless"
 lead: "La Beca de Internet Público (Public Internet Fellowship) invita a artistas, tecnólogos y residentes locales a usar nuestra red como plataforma para medios comunitarios."
 title: "Beca de Internet Público"
