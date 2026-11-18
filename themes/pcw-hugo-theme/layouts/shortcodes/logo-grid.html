@@ -17,6 +17,9 @@
       {{- with $item.rep }}
       <p class="partner-rep f5">{{ . }}</p>
       {{- end }}
+      {{- with $item.rep_title }}
+      <p class="partner-rep partner-rep-title f5">{{ . }}</p>
+      {{- end }}
     </div>
   </div>
   {{- end }}
