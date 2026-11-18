@@ -1,6 +1,8 @@
 ---
 date: 2026-10-02
 layout: fellowship
+header_photo: "/images/nkcdc-drone.jpg"
+header_alt: "Vista aérea de casas en hilera y la línea del tren elevado en el norte de Filadelfia."
 kicker: "Un programa de Philly Community Wireless"
 lead: "La Beca de Internet Público (Public Internet Fellowship) invita a artistas, tecnólogos y residentes locales a usar nuestra red como plataforma para medios comunitarios."
 title: "Beca de Internet Público"
@@ -8,23 +10,38 @@ description: "La Beca de Internet Público (Public Internet Fellowship) invita a
 logo_grids:
   board:
     - name: "Kensington Corridor Trust"
+      rep: "Jasmin Vélez"
+      rep_title: "Directora de Alianzas del Ecosistema"
       link: "https://kctphilly.org/"
       img: "/images/partners/kct.png"
     - name: "Norris Square Neighborhood Project"
+      rep: "Andria Bibiloni"
+      rep_title: "Directora Ejecutiva"
       link: "https://www.myneighborhoodproject.org"
       img: "/images/partners/nsnp.svg"
     - name: "New Kensington CDC"
+      rep: "Tess Watts"
+      rep_title: "Gerente de Comunicaciones"
       link: "https://nkcdc.org/"
       img: "/images/partners/nkcdc.svg"
     - name: "HACE"
+      rep: "Stasia Monteiro"
+      rep_title: "Dirección del Programa NAC"
       link: "https://www.hacecdc.org/"
       img: "/images/partners/hace.png"
     - name: "César Andreu Iglesias Community Garden"
+      rep: "Mike Moran"
       link: "https://iglesiasgardens.com/"
     - name: "Historic Fair Hill"
+      rep: "Kerry Roeder"
+      rep_title: "Directora Ejecutiva"
     - name: "Taller Puertorriqueño"
+      rep: "Erikka Goslin"
+      rep_title: "Directora Ejecutiva y CEO"
       link: "https://tallerpr.org/"
       img: "/images/partners/taller.png"
+    - name: "Land Stewards Union"
+      rep: "Taussy Valcarcel"
 ---
 
 ## Acerca de la beca

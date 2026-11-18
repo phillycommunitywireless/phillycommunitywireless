@@ -710,3 +710,7 @@ footer {
   font-weight: 600;
   color: var(--dark-blue);
 }
+.pif-body .partner-desc p.partner-rep {
+  margin-top: .2rem;
+  font-weight: 400;
+}

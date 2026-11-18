@@ -1,32 +1,49 @@
 ---
 date: 2026-10-02
 layout: fellowship
+header_photo: "/images/nkcdc-drone.jpg"
+header_alt: "Aerial view of rowhouses and the elevated train line in North Philadelphia."
 kicker: "A program of Philly Community Wireless"
 lead: "The Public Internet Fellowship invites local artists, technologists, and residents to use our network as a platform for community media."
 images:
-  - "/images/pif-share.png"
+  - "/images/nkcdc-drone.jpg"
 title: "Public Internet Fellowship"
 description: "The Public Internet Fellowship invites local artists, technologists, and residents to build community media on Philly Community Wireless's free public Wi-Fi network in Norris Square, Fairhill, and Kensington."
 logo_grids:
   board:
     - name: "Kensington Corridor Trust"
+      rep: "Jasmin Vélez"
+      rep_title: "Director of Ecosystem Partnerships"
       link: "https://kctphilly.org/"
       img: "/images/partners/kct.png"
     - name: "Norris Square Neighborhood Project"
+      rep: "Andria Bibiloni"
+      rep_title: "Executive Director"
       link: "https://www.myneighborhoodproject.org"
       img: "/images/partners/nsnp.svg"
     - name: "New Kensington CDC"
+      rep: "Tess Watts"
+      rep_title: "Communications Manager"
       link: "https://nkcdc.org/"
       img: "/images/partners/nkcdc.svg"
     - name: "HACE"
+      rep: "Stasia Monteiro"
+      rep_title: "NAC Program Director"
       link: "https://www.hacecdc.org/"
       img: "/images/partners/hace.png"
     - name: "César Andreu Iglesias Community Garden"
+      rep: "Mike Moran"
       link: "https://iglesiasgardens.com/"
     - name: "Historic Fair Hill"
+      rep: "Kerry Roeder"
+      rep_title: "Executive Director"
     - name: "Taller Puertorriqueño"
+      rep: "Erikka Goslin"
+      rep_title: "Executive Director and CEO"
       link: "https://tallerpr.org/"
       img: "/images/partners/taller.png"
+    - name: "Land Stewards Union"
+      rep: "Taussy Valcarcel"
 ---
 
 ## About the Fellowship
