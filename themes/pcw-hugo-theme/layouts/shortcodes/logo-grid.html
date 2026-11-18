@@ -14,6 +14,9 @@
       {{- else }}
       <p>{{ $item.name }}</p>
       {{- end }}
+      {{- with $item.rep }}
+      <p class="partner-rep f5">{{ . }}</p>
+      {{- end }}
     </div>
   </div>
   {{- end }}

@@ -12,23 +12,32 @@ description: "The Public Internet Fellowship invites local artists, technologist
 logo_grids:
   board:
     - name: "Kensington Corridor Trust"
+      rep: "Jasmin Vélez"
       link: "https://kctphilly.org/"
       img: "/images/partners/kct.png"
     - name: "Norris Square Neighborhood Project"
+      rep: "Andria Bibiloni"
       link: "https://www.myneighborhoodproject.org"
       img: "/images/partners/nsnp.svg"
     - name: "New Kensington CDC"
+      rep: "Tess Watts"
       link: "https://nkcdc.org/"
       img: "/images/partners/nkcdc.svg"
     - name: "HACE"
+      rep: "Stasia Monteiro"
       link: "https://www.hacecdc.org/"
       img: "/images/partners/hace.png"
     - name: "César Andreu Iglesias Community Garden"
+      rep: "Mike Moran"
       link: "https://iglesiasgardens.com/"
     - name: "Historic Fair Hill"
+      rep: "Kerry Roeder"
     - name: "Taller Puertorriqueño"
+      rep: "Erikka Goslin"
       link: "https://tallerpr.org/"
       img: "/images/partners/taller.png"
+    - name: "Land Stewards Union"
+      rep: "Taussy Valcarcel"
 ---
 
 ## About the Fellowship
