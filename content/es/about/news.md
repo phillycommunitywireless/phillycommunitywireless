@@ -16,8 +16,8 @@ segments:
         href: "https://billypenn.com/2025/07/02/philly-community-wireless-outdoor-wifi-importance/"
         date: "2 de julio de 2025"
 
-      - photo: "/images/Drone_HartLane_Active.JPG"
-        photo_alt_text: "Imagen tomada desde un dron que muestra a 5 personas en el techo de una casa en hilera, 4 de ellas trabajando en una pequeña estructura con un dispositivo de punto de acceso."
+      - photo: "/images/web updates/fairhill-install-2023.jpg"
+        photo_alt_text: "Dos voluntarios armando el soporte de un punto de acceso en el techo de una casa en hilera en Fairhill, en el norte de Filadelfia."
         quote: "You aren't just a passive consumer of this utility, but an active participant in its construction and sustenance."
         attribution: "Alex Wermer-Colan, en *CNET*"
         outlet: "CNET"
@@ -26,7 +26,7 @@ segments:
         date: "1 de octubre de 2023"
 
       - photo: "/images/pcwvolunteers2.jpg"
-        photo_alt_text: "7 personas posando para una foto grupal en un techo, con un dispositivo y árboles altos detrás."
+        photo_alt_text: "7 personas posando para una foto grupal en un techo, con un punto de acceso en un poste y árboles altos detrás."
         quote: "Access is about infrastructure and adoption is community buy-in."
         attribution: "Alex Wermer-Colan, en *Technical.ly*"
         outlet: "Technical.ly Philly"

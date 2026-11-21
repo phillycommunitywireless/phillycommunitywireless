@@ -11,8 +11,8 @@ segments:
 
 
 If you’re interested in getting involved, please fill out our [Volunteer Sign-Up Form](https://tally.so/r/w2ODaj). "
-    photo: "/images/pcwvolunteers2.jpg"
-    photo_alt_text: "7 people posing for a group photo on a roof with a device and tall trees behind them."
+    photo: "/images/web updates/hart-lane-volunteers.jpg"
+    photo_alt_text: "Volunteers in PCW shirts working on a rowhome roof beside an access point on a tripod mount, with the neighborhood behind them."
     button: 
       button_text: "Sign Up to Volunteer"
       button_href: "https://tally.so/r/w2ODaj"
