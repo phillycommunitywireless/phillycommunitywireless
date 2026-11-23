@@ -37,6 +37,7 @@ logo_grids:
     - name: "Historic Fair Hill"
       rep: "Kerry Roeder"
       rep_title: "Executive Director"
+      link: "https://historicfairhill.com/"
     - name: "Taller Puertorriqueño"
       rep: "Erikka Goslin"
       rep_title: "Executive Director and CEO"
@@ -44,6 +45,7 @@ logo_grids:
       img: "/images/partners/taller.png"
     - name: "Land Stewards Union"
       rep: "Taussy Valcarcel"
+      link: "https://iglesiasgardens.com/philadelphia-land-stewards-union/"
 ---
 
 ## About the Fellowship
@@ -76,6 +78,6 @@ We welcome sponsors to reach out with interest. Additional support goes directly
 
 ## Funders
 
-Funded support for the Public Internet Fellowship pilot is provided by People's Media Fund through its Future Fund. Additional in-kind funding from the William Penn Foundation and the Claneil Foundation has made this initiative possible.
+Funded support for the Public Internet Fellowship pilot is provided by [People's Media Fund](https://www.peoplesmediafund.org/) through its Future Fund. Additional in-kind funding from the [William Penn Foundation](https://williampennfoundation.org/) and the [Claneil Foundation](https://claneil.org/) has made this initiative possible.
 
 See all of PCW's funders on our [Funders page](/about/funders/).

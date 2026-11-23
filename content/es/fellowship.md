@@ -35,6 +35,7 @@ logo_grids:
     - name: "Historic Fair Hill"
       rep: "Kerry Roeder"
       rep_title: "Directora Ejecutiva"
+      link: "https://historicfairhill.com/"
     - name: "Taller Puertorriqueño"
       rep: "Erikka Goslin"
       rep_title: "Directora Ejecutiva y CEO"
@@ -42,6 +43,7 @@ logo_grids:
       img: "/images/partners/taller.png"
     - name: "Land Stewards Union"
       rep: "Taussy Valcarcel"
+      link: "https://iglesiasgardens.com/philadelphia-land-stewards-union/"
 ---
 
 ## Acerca de la beca
@@ -72,6 +74,6 @@ Invitamos a los patrocinadores interesados a comunicarse con nosotros. El apoyo 
 
 ## Patrocinadores
 
-El programa piloto de la Beca de Internet Público cuenta con el apoyo financiero de People's Media Fund, a través de su Future Fund. El financiamiento adicional en especie de la William Penn Foundation y de la Claneil Foundation ha hecho posible esta iniciativa.
+El programa piloto de la Beca de Internet Público cuenta con el apoyo financiero de [People's Media Fund](https://www.peoplesmediafund.org/), a través de su Future Fund. El financiamiento adicional en especie de la [William Penn Foundation](https://williampennfoundation.org/) y de la [Claneil Foundation](https://claneil.org/) ha hecho posible esta iniciativa.
 
 Vea todos los patrocinadores de PCW en nuestra [página de Patrocinadores](/es/about/funders/).
