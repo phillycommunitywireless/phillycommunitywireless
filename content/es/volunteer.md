@@ -11,8 +11,8 @@ segments:
 
 
 Si te interesa participar, llena nuestro [formulario de inscripción para voluntarios](https://tally.so/r/w2ODaj). "
-    photo: "/images/pcwvolunteers2.jpg"
-    photo_alt_text: "7 personas posando para una foto grupal en un techo, con un dispositivo y árboles altos detrás."
+    photo: "/images/web updates/hart-lane-volunteers.jpg"
+    photo_alt_text: "Voluntarios con camisetas de PCW trabajando en el techo de una casa en hilera junto a un punto de acceso en un soporte de trípode, con el vecindario detrás."
     button: 
       button_text: "Inscríbete como voluntario"
       button_href: "https://tally.so/r/w2ODaj"
