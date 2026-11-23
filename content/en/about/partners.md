@@ -225,7 +225,7 @@ segments:
         - partner:
             partner_name: "Zion Baptist Church"
             partner_link: "https://zionbaptphilly.org/"
-            img_src: "/images/partners/placeholder.svg"
+            img_src: "/images/partners/zion.png"
             img_alt: "Zion Baptist Church"
         - partner:
             partner_name: "Community Action Relief Project (CARP)"
