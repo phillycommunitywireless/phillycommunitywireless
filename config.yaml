@@ -44,7 +44,7 @@ languages:
           identifier: support
           weight: "2"
         - name: Donate
-          url: "https://phillycommunitywireless.allyrafundraising.com/"
+          url: "https://www.every.org/philly-community-wireless"
           params:
             external: true
           parent: support
@@ -146,7 +146,7 @@ languages:
           weight: "6"
 
         - name: Donate
-          url: "https://phillycommunitywireless.allyrafundraising.com/"
+          url: "https://www.every.org/philly-community-wireless"
           params:
             external: true
             button: true
@@ -196,7 +196,7 @@ languages:
           identifier: Apóyanos
           weight: "2"
         - name: Donaciones
-          url: "https://phillycommunitywireless.allyrafundraising.com/"
+          url: "https://www.every.org/philly-community-wireless"
           params:
             external: true
           parent: Apóyanos
@@ -301,7 +301,7 @@ languages:
           weight: "6"
 
         - name: Donaciones
-          url: "https://phillycommunitywireless.allyrafundraising.com/"
+          url: "https://www.every.org/philly-community-wireless"
           params:
             external: true
             button: true

@@ -16,9 +16,9 @@ segments:
       sections:
         - photo: "/images/web updates/LB_AP_KCT Garden_Alex.jpg"
           photo_alt_text: "Un hombre sonriente junto a un soporte en un techo que sostiene un LiteBeam y un punto de acceso, con las vías del tren elevado, la calle abajo y el horizonte de Center City detrás de él."
-          text: "Haz una donación para apoyar directamente nuestra misión de cerrar la brecha digital en las comunidades de Filadelfia. Para procesar las donaciones, usamos Allyra, una plataforma de recaudación de fondos que usan organizaciones sin fines de lucro y asociaciones profesionales de todo el país. Puedes hacer donaciones únicas o recurrentes."
+          text: "Haz una donación para apoyar directamente nuestra misión de cerrar la brecha digital en las comunidades de Filadelfia. Para procesar las donaciones, usamos Every.org, a través de nuestro patrocinador fiscal, Movement Alliance Project. Puedes hacer donaciones únicas o recurrentes."
           button_text: Dona
-          button_href: "https://phillycommunitywireless.allyrafundraising.com"
+          button_href: "https://www.every.org/philly-community-wireless"
         - photo: "/images/web updates/Group_Power Up.png"
           photo_alt_text: "5 personas sonrientes posando para una foto con camisetas iguales de PCW."
           text: "¡Mira los artículos de PCW! Vendemos camisetas y gorras de PCW. Las ganancias de tu compra apoyarán directamente nuestro trabajo. Además, al representar a Philly Community Wireless, ¡puedes ayudar a correr la voz sobre lo que hacemos! Dinos qué artículos te gustaría ver próximamente."
@@ -39,7 +39,7 @@ segments:
       photo_alt_text: "Un dispositivo de punto de acceso blanco y rectangular que apunta hacia abajo, desde lo alto, hacia varias cuadras de casas en hilera."
       button:
         button_text: "Dona hoy"
-        button_href: "https://phillycommunitywireless.allyrafundraising.com"
+        button_href: "https://www.every.org/philly-community-wireless"
 
     - template: text-lr
       left:

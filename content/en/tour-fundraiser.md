@@ -32,6 +32,6 @@ If you have any questions, please email outreach@phillycommunitywireless.org.
 
 Can't come but want to support community internet in Philly, making free Wi-Fi available to tens of thousands of residents? Make a donation ❤️
 
-{{< button-custom href="https://phillycommunitywireless.allyrafundraising.com/" text="Donate to PCW Here">}}
+{{< button-custom href="https://www.every.org/philly-community-wireless" text="Donate to PCW Here">}}
 
 
